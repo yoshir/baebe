@@ -1,0 +1,61 @@
+{
+  "fileTypes": ["md"],
+  "name": "Screenplay",
+  "patterns": [
+    {
+      "name": "transition.screenplay",
+      "match": "^(FADE IN:|FADE TO BLACK\\.|FADE OUT\\.|CUT TO:|DISSOLVE TO:|SMASH CUT TO:)",
+      "captures": {
+        "0": {
+          "name": "keyword.control.transition.screenplay"
+        }
+      }
+    },
+    {
+      "name": "scene-heading.screenplay",
+      "match": "^(INT\\.|EXT\\.|INT/EXT\\.|INT/EXT)\\s+.*",
+      "captures": {
+        "0": {
+          "name": "entity.name.section.scene-heading.screenplay"
+        }
+      }
+    },
+    {
+      "name": "super.screenplay",
+      "match": "^SUPER:.*",
+      "captures": {
+        "0": {
+          "name": "markup.other.super.screenplay"
+        }
+      }
+    },
+    {
+      "name": "character.screenplay",
+      "begin": "^(?=[A-Z][A-Z\\s']+$)",
+      "end": "$",
+      "patterns": [
+        {
+          "match": "^[A-Z][A-Z\\s']+$",
+          "name": "entity.name.character.screenplay"
+        }
+      ]
+    },
+    {
+      "name": "voice-over.screenplay",
+      "match": "\\(V\\.O\\.\\)",
+      "name": "markup.italic.voice-over.screenplay"
+    },
+    {
+      "name": "parenthetical.screenplay",
+      "match": "^\\([^)]+\\)$",
+      "name": "string.other.parenthetical.screenplay"
+    }
+  ],
+  "scopeName": "source.screenplay"
+}
+
+
+
+
+
+

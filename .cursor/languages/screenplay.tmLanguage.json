@@ -1,0 +1,72 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "Screenplay",
+  "scopeName": "source.screenplay",
+  "patterns": [
+    {
+      "include": "#act-headers"
+    },
+    {
+      "include": "#scene-headers"
+    },
+    {
+      "include": "#transitions"
+    },
+    {
+      "include": "#scene-headings"
+    },
+    {
+      "include": "#character-names"
+    },
+    {
+      "include": "#super"
+    },
+    {
+      "include": "#voice-over"
+    },
+    {
+      "include": "#parenthetical"
+    }
+  ],
+  "repository": {
+    "act-headers": {
+      "match": "^##\\s+(ACT [IVX]+|COLD OPEN|POST-CREDITS).*",
+      "name": "entity.name.tag.act-header.screenplay"
+    },
+    "scene-headers": {
+      "match": "^###\\s+Scene \\d+:.*|^\\*\\*Scene:.*?\\*\\*|^<span.*?>###\\s+Scene \\d+:.*",
+      "name": "entity.name.tag.scene-header.screenplay"
+    },
+    "transitions": {
+      "match": "^(FADE IN:|FADE TO BLACK\\.|FADE OUT\\.|CUT TO:|DISSOLVE TO:|SMASH CUT TO:)",
+      "name": "keyword.control.transition.screenplay"
+    },
+    "scene-headings": {
+      "match": "^(INT\\.|EXT\\.|INT/EXT\\.|INT/EXT)\\s+.*",
+      "name": "entity.name.section.scene-heading.screenplay"
+    },
+    "character-names": {
+      "match": "^([A-Z][A-Z\\s']+)$",
+      "name": "entity.name.character.screenplay",
+      "captures": {
+        "1": {
+          "name": "entity.name.character.screenplay"
+        }
+      }
+    },
+    "super": {
+      "match": "^SUPER:.*",
+      "name": "markup.other.super.screenplay"
+    },
+    "voice-over": {
+      "match": "\\(V\\.O\\.\\)",
+      "name": "markup.italic.voice-over.screenplay"
+    },
+    "parenthetical": {
+      "match": "^\\([^)]+\\)$",
+      "name": "string.other.parenthetical.screenplay"
+    }
+  }
+}
+
+

@@ -1,0 +1,132 @@
+{
+  "files.associations": {
+    "*.md": "screenplay"
+  },
+  "editor.tokenColorCustomizations": {
+    "[*]": {
+      "textMateRules": [
+        {
+          "scope": "keyword.control.transition",
+          "settings": {
+            "foreground": "#00CED1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.name.section",
+          "settings": {
+            "foreground": "#4169E1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.name.character",
+          "settings": {
+            "foreground": "#FFD700",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.other.super",
+          "settings": {
+            "foreground": "#FF8C00",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.italic.voice-over",
+          "settings": {
+            "foreground": "#9370DB",
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "entity.name.tag.act-header",
+          "settings": {
+            "foreground": "#4169E1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.name.tag.scene-header",
+          "settings": {
+            "foreground": "#FFD700",
+            "fontStyle": "bold"
+          }
+        }
+      ]
+    },
+    "[markdown]": {
+      "textMateRules": [
+        {
+          "scope": "markup.heading.markdown",
+          "settings": {
+            "foreground": "#4169E1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.heading.3.markdown",
+          "settings": {
+            "foreground": "#FFD700",
+            "fontStyle": "bold"
+          }
+        }
+      ]
+    },
+    "[screenplay]": {
+      "textMateRules": [
+        {
+          "scope": "entity.name.tag.act-header",
+          "settings": {
+            "foreground": "#4169E1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.name.tag.scene-header",
+          "settings": {
+            "foreground": "#FFD700",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "keyword.control.transition",
+          "settings": {
+            "foreground": "#00CED1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.name.section",
+          "settings": {
+            "foreground": "#4169E1",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.name.character",
+          "settings": {
+            "foreground": "#FFD700",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.other.super",
+          "settings": {
+            "foreground": "#FF8C00",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.italic.voice-over",
+          "settings": {
+            "foreground": "#9370DB",
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    }
+  },
+  "editor.semanticHighlighting.enabled": true
+}

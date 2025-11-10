@@ -1,0 +1,25 @@
+{
+  "contributes": {
+    "languages": [
+      {
+        "id": "screenplay",
+        "aliases": ["Screenplay", "screenplay"],
+        "extensions": [".md"],
+        "configuration": "./screenplay.config.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "screenplay",
+        "scopeName": "source.screenplay",
+        "path": "./screenplay.tmLanguage.json"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
