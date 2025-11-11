@@ -20,6 +20,8 @@ They disappeared her. But not the work.
 
 Baebe watches the loop. Watches her mother's face. Her words.
 
+CLOSE ON: Baebe's robotic irises. Flickering. **Blue → white → brown → blue**. Something moves beneath the surface when she sees Ayumi. The **brown** tries to hold. Flickers. Fails. Back to **blue**.
+
 BAEBE
 What work?
 

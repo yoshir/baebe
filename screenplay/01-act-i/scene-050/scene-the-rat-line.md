@@ -40,6 +40,8 @@ BAEBE
 (quiet, almost to herself)
 He wouldn't erase me... would he?
 
+CLOSE ON: Her robotic irises. Cycling. **Blue → white → brown → blue**. Confusion. Fear. Disbelief. Then locking back to **blue**—tactical, suppressing the emotion.
+
 The line STUTTERS. Static. The pipe glows faintly as copper burns. The smell of ozone. Of burning wire. Of something dying.
 
 HACKER (V.O.)
