@@ -181,18 +181,4 @@ She looks up. Through toxic fog that hangs like a shroud. Orange haze swallowing
 
 Her face—exhausted. Lost. Alone.
 
-SOUND: FOOTSTEPS. Echoing in darkness. Distant but approaching. Multiple. Coming through the toxic haze from somewhere she can't see. The sound distorted by fog and chemical particulate matter.
-
-Baebe tries to stand. Her legs buckle. Won't cooperate.
-
-She COLLAPSES back against concrete. Wet. Cold. Chemical water soaking through her undersuit.
-
-Her hand reaches instinctively toward her hip—muscle memory from countless operations—where a weapon should be. Nothing there. The plasma rifle gone. Lost in the fall or dissolved with the suit. The gesture hangs in empty air.
-
-WIDER SHOT: The toxic fog shifts in currents she can't predict. SHADOWS moving through orange haze. Multiple figures. Getting closer. Taking shape from the chemical mist like nightmares materializing.
-
-CLOSE ON: Baebe's face. Fear. Confusion. Uncertainty in eyes that have never looked lost before.
-
-The SHADOWS approach—deliberate, unhurried, inevitable.
-
 FADE TO BLACK.

@@ -41,15 +41,41 @@ SUPER: The forgiveness is a cage. Don't walk into it.
 
 Baebe reads it. Knows it's true.
 
-CUT TO:
+BAEBE
+We need to—
 
-INT. 01 TOWER - CONTROL ROOM - CONTINUOUS
+The doors SLAM SHUT. All of them. Simultaneously.
 
-Aurek reads the same pulse. He smiles without showing teeth. A predator's smile.
+MAGNETIC LOCKS engage. CLUNK. CLUNK. CLUNK. Heavy. Final.
 
-AUREK
-Compress the vault.
+They're SEALED IN.
 
-His reflection multiplies. The trap is set.
+ANGEL
+(quiet)
+It's already sprung.
 
-FADE TO BLACK.
+Emergency lights FLASH RED. Alarm BLARES.
+
+HACKER (V.O.)
+(crackling, urgent)
+Baebe—you need to get out. NOW. Vault compression protocol activated. You have—
+
+Static. The signal CUTS.
+
+The walls GROAN. Hydraulics engage. The room is SHRINKING.
+
+Ceiling lowering. Walls closing. Slow but inevitable.
+
+TAIVALU
+(looking up)
+How long?
+
+ANGEL
+(checking door mechanism)
+Ten minutes. Maybe less.
+
+Baebe looks around. No exits. All doors sealed. Walls closing.
+
+They're in a trash compactor. And it just turned on.
+
+SMASH CUT TO BLACK.

@@ -35,8 +35,23 @@ Angel moves. Vanishes into the shadows. Gone.
 
 CUT TO:
 
-EXT. CITY - CONTINUOUS
+INT. 01 TOWER - CHERUB COMMAND - CONTINUOUS
 
-Two hunts. Two missions. Converging.
+Tactical display. City map. Two HEAT SIGNATURES tagged and tracked:
 
-FADE TO BLACK.
+TARGET ALPHA (Baebe) - moving through sector 7
+TARGET TAIVALU - stationary, sector 9
+
+CHERUB OPERATOR
+Both targets acquired. Deploying units.
+
+On screen: Dozens of blue dots converging on the two red signatures. Surrounding. No escape.
+
+CHERUB OPERATOR (CONT'D)
+Estimated contact: twelve minutes.
+
+The targeting system LOCKS. Both signatures turn RED.
+
+TERMINATION AUTHORIZED.
+
+SMASH CUT TO BLACK.

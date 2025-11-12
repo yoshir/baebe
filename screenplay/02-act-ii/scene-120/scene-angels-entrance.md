@@ -99,18 +99,38 @@ Angel sees it. The struggle. The fight for baseline.
 ANGEL (CONT'D)
 You're still in there. Under all of it.
 
-She phase-bends—a clean Spectral Drift—and is gone. Vanished like smoke.
+She reaches out—fingers brush Baebe's face. First touch. Sister to sister.
+
+ANGEL (CONT'D)
+(whisper)
+Sister.
+
+Then—
+
+SOUND. Mechanical. Multiple sources. Distant but approaching FAST.
+
+More Cherubs. Dozens. The dead ones triggered backup protocols.
+
+Angel's hand drops. She phase-bends—a clean Spectral Drift—and is gone. Vanished like smoke.
 
 Baebe stands alone in the rain. The Cherubs are dead. Angel is gone.
 
-But the image remains: Angel's face. Angel's normal brown eyes.
+But the word remains: *Sister.*
 
-The eyes Baebe was supposed to have.
+SEARCHLIGHTS cut through rain. Coming from three directions. Converging on her location.
 
-CLOSE ON: Baebe's robotic irises. Cycling. **Blue → white → red → brown**. Trying to find baseline. Trying to hold brown. Failing.
+The backup units arriving. Thirty seconds. Maybe less.
 
-She looks at her reflection in a rain puddle. Her own face staring back. But the eyes—robotic apertures adjusting, shifting, never still.
+Baebe looks at her reflection in rain puddle one last time. Her own face. Angel's face. Same structure. But the eyes—robotic apertures that never hold still.
 
 Not her eyes. Never were.
 
-FADE TO BLACK.
+The searchlights CLOSER. Twenty seconds.
+
+She RUNS. Into the rain. Into darkness. Away from the lights.
+
+Behind her—Cherubs emerge from fog. Scanning. Hunting.
+
+She's got maybe a block head start.
+
+SMASH CUT TO BLACK.

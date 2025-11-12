@@ -180,4 +180,141 @@ Her robotic irises LOCK **BROWN**. Holding. Choosing baseline.
 
 Choosing to feel the grief.
 
+CUT TO:
+
+**INTERCUT:**
+
+EXT. TUNNEL EXIT - CONTINUOUS
+
+Angel BURSTS into open plaza. Dawn light. Empty courtyard.
+
+Not empty—
+
+DRONES swarm from three directions. DOZENS. Maybe HUNDREDS. Filling the sky.
+
+She stops. Center of plaza. Surrounded.
+
+CHERUBS emerge from buildings. Twenty. Thirty. White armor. Weapons raised. Perfect tactical formation.
+
+Angel looks around. Counts them. Does the math.
+
+She's not getting out of this.
+
+Smiles anyway.
+
+ANGEL
+(quiet, to herself)
+For my sisters.
+
+The drones FIRE—
+
+She MOVES.
+
+**INTERCUT WITH TUNNEL:**
+
+Baebe holds Taivalu. His breathing shallow. Dying.
+
+BAEBE
+(to Tai)
+She's buying us time.
+
+**BACK TO PLAZA:**
+
+Angel BLURS. Faster than human. Spectral Drift flickering—there, not there, THERE.
+
+Glass shard THROWN—drone explodes mid-air.
+
+She SLIDES under energy blast. Comes up spinning. Palm strike—Cherub's visor shatters.
+
+But there's too many.
+
+Energy blast CLIPS her shoulder. She spins. Stumbles. Keeps moving.
+
+**INTERCUT WITH TUNNEL:**
+
+Sound filters in. Distant EXPLOSIONS. Energy weapons. The sound of battle.
+
+Baebe's eyes cycle—**blue** (tactical assessment) → **brown** (grief).
+
+She knows what's happening out there.
+
+**BACK TO PLAZA:**
+
+Angel against wall now. Surrounded on three sides. Bleeding. Armor cracked. Breathing hard.
+
+Ten drones hovering. Fifteen Cherubs advancing.
+
+She's out of tricks. Out of time.
+
+CHERUB
+(synthesized)
+Surrender. Termination can be—
+
+Angel LAUGHS. Bitter. Defiant.
+
+ANGEL
+I'm already dead.
+
+She CHARGES—
+
+Last desperate attack. Takes down two Cherubs. Three. A drone.
+
+But they overwhelm her.
+
+Energy blast to the leg. She FALLS.
+
+Blast to the shoulder. She drops weapon.
+
+Blast to the chest. She collapses.
+
+**INTERCUT WITH TUNNEL:**
+
+The sounds STOP.
+
+Sudden silence.
+
+Baebe looks up. Listening. Knowing.
+
+Her irises cycle—**blue → white → brown**. The **brown** HOLDS.
+
+Grief.
+
+**BACK TO PLAZA:**
+
+Angel on the ground. Can't move. Surrounded.
+
+Cherubs and drones converging. Weapons aimed.
+
+She looks up at the sky. Dawn breaking. Beautiful.
+
+ANGEL
+(whisper, smiling)
+Free.
+
+The Cherubs FIRE—
+
+WHITE LIGHT fills the frame.
+
+**CUT BACK TO TUNNEL:**
+
+Baebe FLINCHES. Like she felt it.
+
+Silence.
+
+Her sister is gone.
+
+BAEBE
+(whisper)
+Angel...
+
+Her robotic irises LOCK **BROWN**. Holding. Choosing to feel ALL of it.
+
+The grief. The loss. The love she didn't know she had.
+
+She pulls Taivalu closer. Her brother. The only family she has left.
+
+BAEBE (CONT'D)
+(quiet, to Tai)
+I'm not losing you too.
+
 FADE TO BLACK.

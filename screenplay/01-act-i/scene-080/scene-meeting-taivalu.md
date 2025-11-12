@@ -112,6 +112,59 @@ TAIVALU
 (nods)
 She's not dead. Not yet.
 
-Baebe looks at the shard. Sees her reflection. And something else. Deeper.
+Baebe looks at the shard. Sees her reflection. And something else. Deeper. Data flowing beneath the surface. Ayumi's code. Alive.
 
-FADE TO BLACK.
+Then—
+
+SOUND outside. Distant but distinct.
+
+Mechanical WHIRRING. Multiple sources. Moving in pattern. Systematic search.
+
+Taivalu's eyes flicker (green-gold-amber). Recognition. Fear.
+
+TAIVALU
+(whisper)
+Cherubs.
+
+Baebe's irises SNAP **blue**—tactical mode. She pockets the shard. Looks at Taivalu.
+
+BAEBE
+Can you move?
+
+TAIVALU
+Can you fight?
+
+The whirring CLOSER now. Maybe two blocks. Converging on this location.
+
+BAEBE
+We need to go. NOW.
+
+She helps Taivalu stand. He's weak. Barely standing. Network withdrawal killing him slowly.
+
+The whirring STOPS.
+
+Worse than sound. Much worse.
+
+They're listening. Triangulating.
+
+BAEBE
+(whisper)
+Don't breathe.
+
+Beat. Silence. The kind that presses on eardrums. Waiting.
+
+Then—
+
+EXPLOSION outside. Building SHAKES. Cherubs breaching nearby structure.
+
+TAIVALU
+They found us.
+
+BAEBE
+Move!
+
+They RUN—Baebe supporting Taivalu. Into deeper tunnels. Away from the sound.
+
+Behind them—more explosions. Methodical. Room by room. Closing in.
+
+SMASH CUT TO BLACK.
