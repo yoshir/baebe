@@ -14,9 +14,9 @@ Baebe clung to the magnetic grip she'd welded onto his shoulder. Beside her, Tai
 
 Hours remaining. Maybe less.
 
-Below: the Undercity sprawled like a wound. Ruins and rubble. The world O1 had abandoned when they built their paradise above.
+Below: the Undercity sprawled like a wound. Ruins and rubble. The world i0 had abandoned when they built their paradise above.
 
-Ahead: O1 Tower. Growing larger. Glass skin reflecting the dawn.
+Ahead: i0 Tower. Growing larger. Glass skin reflecting the dawn.
 
 One hundred floors of oppression.
 
@@ -74,13 +74,13 @@ Even dying family.
 
 Far below, invisible to them, Angel watched their approach.
 
-She stood on a building rooftop. O1 communicator in hand. She should report their position. Should coordinate interception. Should be the perfect enforcer she was designed to be.
+She stood on a building rooftop. i0 communicator in hand. She should report their position. Should coordinate interception. Should be the perfect enforcer she was designed to be.
 
 But her hand didn't move.
 
 Ayumi's fragments in her genetics stirred constantly now. Memories. Emotions. Love that wasn't hers but felt like it should be.
 
-She'd helped capture Kess. Following orders. Being what O1 made her.
+She'd helped capture Kess. Following orders. Being what i0 made her.
 
 But watching them fly toward impossible odds...
 
@@ -106,7 +106,7 @@ Something that felt like choice.
 
 ## TOWER DEFENSES
 
-O1 Tower's automated systems detected them.
+i0 Tower's automated systems detected them.
 
 Radar. Thermal. Motion tracking. Everything Baebe had expected.
 
@@ -162,7 +162,7 @@ They'd discussed it. Planned it. Accepted it.
 
 Shadow would assault the Tower directly. Draw every defensive system. Become their nightmare.
 
-Baebe and Taivalu would drop. Use her resonant fade to cloak them. Infiltrate while chaos consumed O1's attention.
+Baebe and Taivalu would drop. Use her resonant fade to cloak them. Infiltrate while chaos consumed i0's attention.
 
 Find Kess. Get to the Cradle. Complete the merge.
 

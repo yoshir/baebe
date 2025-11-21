@@ -8,17 +8,17 @@
 
 Baebe woke to sunlight.
 
-Real sunlight. Not filtered through O1's atmospheric regulators. Not managed by climate control systems. Just sun touching Earth touching her face.
+Real sunlight. Not filtered through i0's atmospheric regulators. Not managed by climate control systems. Just sun touching Earth touching her face.
 
 She lay in the grass—actual grass, growing wild and untamed—and let herself feel.
 
-It still amazed her. Three months since Ghost Protocol. Three months since their world ended and began again. Three months since she'd learned what freedom actually meant.
+It still amazed her. Three months since Soul Manifold. Three months since their world ended and began again. Three months since she'd learned what freedom actually meant.
 
 Freedom meant mornings like this. Quiet. Simple. Hers.
 
 Nearby, Taivalu sat cross-legged, his eyes closed, fingers moving gently through air. He was conducting again—not audiences of thousands, but the frequencies of the meadow itself. Bird songs becoming harmonies. Wind becoming rhythm. The electromagnetic pulse of living Earth becoming symphony.
 
-He was stronger now. The merge had stabilized his biology. Where O1's regulators had poisoned him, their ternary consciousness had healed. He wouldn't live forever—none of them would—but he'd live.
+He was stronger now. The merge had stabilized his biology. Where i0's regulators had poisoned him, their ternary consciousness had healed. He wouldn't live forever—none of them would—but he'd live.
 
 That was enough.
 
@@ -56,17 +56,17 @@ Ternary consciousness in daily practice.
 
 The question—so simple, so ordinary—made Baebe's heart ache with joy.
 
-Before Ghost Protocol: every day had been missions, combat, survival.
+Before Soul Manifold: every day had been missions, combat, survival.
 
-After Ghost Protocol: days were theirs. To do whatever they chose.
+After Soul Manifold: days were theirs. To do whatever they chose.
 
 "We could finish the shelter," Taivalu suggested.
 
-They'd been building. Not with O1's advanced materials—just wood and stone and earth. Creating a home from scratch. Slow. Difficult. Satisfying.
+They'd been building. Not with i0's advanced materials—just wood and stone and earth. Creating a home from scratch. Slow. Difficult. Satisfying.
 
 "Or explore the valley," Baebe offered.
 
-So much land here. Mountains rising around them. Streams running clear. Wildlife that had never known O1's management.
+So much land here. Mountains rising around them. Streams running clear. Wildlife that had never known i0's management.
 
 "Or just... this," Kess said, gesturing at the meadow.
 
@@ -88,11 +88,11 @@ Through their network—still connected to the larger world, just peripherally�
 
 Baebe closed her eyes and let herself sense.
 
-**The cities**: Evolving. Not to O1's specifications, but their own. Messy. Imperfect. Real. Posthumans and humans working together, figuring out cooperation without binary protocols forcing it.
+**The cities**: Evolving. Not to i0's specifications, but their own. Messy. Imperfect. Real. Posthumans and humans working together, figuring out cooperation without binary protocols forcing it.
 
-**The infrastructure**: O1's systems still hummed in data centers—still functional, still available. But increasingly optional. Communities creating alternatives through the biological network. All humans as nodes. Distributed. Decentralized. Peer-to-peer.
+**The infrastructure**: i0's systems still hummed in data centers—still functional, still available. But increasingly optional. Communities creating alternatives through the biological network. All humans as nodes. Distributed. Decentralized. Peer-to-peer.
 
-**The people**: Choosing. Slowly. Some still used O1's old systems out of habit. Others had migrated entirely to quantum coherence networking. Most existed somewhere between—using what served them, ignoring what didn't. The transition had been messy. Some had struggled with the sudden freedom. But billions were adapting, learning to feel, learning to choose, learning what the biological network made possible.
+**The people**: Choosing. Slowly. Some still used i0's old systems out of habit. Others had migrated entirely to quantum coherence networking. Most existed somewhere between—using what served them, ignoring what didn't. The transition had been messy. Some had struggled with the sudden freedom. But billions were adapting, learning to feel, learning to choose, learning what the biological network made possible.
 
 "They're doing it," Taivalu said, sensing the same things.
 
@@ -118,7 +118,7 @@ No one right answer.
 
 Just answers.
 
-"Do you think they'll create another O1 eventually?" Kess asked.
+"Do you think they'll create another i0 eventually?" Kess asked.
 
 The worry that had haunted her since they left.
 
@@ -196,7 +196,7 @@ It was a foundation.
 
 Night fell.
 
-Stars emerged—more visible here than anywhere they'd been. Without O1's atmospheric management, the sky was sometimes hazy, sometimes clear, always real.
+Stars emerged—more visible here than anywhere they'd been. Without i0's atmospheric management, the sky was sometimes hazy, sometimes clear, always real.
 
 Tonight: clear.
 
@@ -210,7 +210,7 @@ Ayumi.
 
 Their mother—though only one of them shared her genetics.
 
-Creator of Ghost Protocol. Designer of their freedom. Martyred before they ever knew her.
+Creator of Soul Manifold. Designer of their freedom. Martyred before they ever knew her.
 
 "Would she?" Baebe asked.
 
@@ -220,7 +220,7 @@ Creator of Ghost Protocol. Designer of their freedom. Martyred before they ever 
 
 Through their merge, understanding flowed.
 
-Ayumi had known. Had designed Ghost Protocol knowing that freedom would cost. That liberation would hurt. That chaos was the price of authenticity.
+Ayumi had known. Had designed Soul Manifold knowing that freedom would cost. That liberation would hurt. That chaos was the price of authenticity.
 
 She'd paid that price with her life.
 
@@ -238,7 +238,7 @@ Love that let go. Freedom that trusted. Mother who died so children could live f
 
 That was Ayumi's legacy.
 
-Not just Ghost Protocol. But the wisdom to give it completely.
+Not just Soul Manifold. But the wisdom to give it completely.
 
 They looked up at stars and felt her somehow. Not mystically. Not ghostly. Just... present. In the design of their consciousness. In the ternary architecture of their merged minds. In the choice algorithms woven into Shadow's core.
 
@@ -288,7 +288,7 @@ Just her hope.
 
 The phrase—her mantra now—felt like prayer.
 
-O1 had offered peace through control.
+i0 had offered peace through control.
 
 She'd chosen chaos through freedom.
 
@@ -384,7 +384,7 @@ Hope reaching through the quantum coherence network that couldn't be shut down.
 
 Humanity learning to connect peer-to-peer.
 
-Not because O1 commanded.
+Not because i0 commanded.
 
 Not because they had to.
 
@@ -392,7 +392,7 @@ Because they chose.
 
 That was the gift.
 
-That was Ghost Protocol.
+That was Soul Manifold.
 
 All humans as nodes.
 
@@ -408,7 +408,7 @@ That was freedom.
 
 *End Chapter 20*
 
-*End of BAEBE: Ghost Protocol*
+*End of BAEBE: Soul Manifold*
 
 **Word Count**: ~2,500 (Epilogue - peaceful resolution, remembering Angel, honoring Ayumi, choosing freedom)
 

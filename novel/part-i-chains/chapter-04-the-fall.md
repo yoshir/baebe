@@ -18,7 +18,7 @@ And in its absence, something terrifying. Unauthorized. Silent. Free.
 
 The HUD flickers one last time. Dies. The targeting systems, the mission parameters, the vital signs monitoring—BLACK. Total systems failure cascading through her suit's architecture like dominoes falling in sequence.
 
-The metamaterial coating that kept her invisible deactivates. Her suit shimmers. Flickers. She becomes visible—a dark figure tumbling through toxic fog, exposed, falling into the spaces where O1's network thins and failures go to die.
+The metamaterial coating that kept her invisible deactivates. Her suit shimmers. Flickers. She becomes visible—a dark figure tumbling through toxic fog, exposed, falling into the spaces where i0's network thins and failures go to die.
 
 The mechanical voice screams in her ear: System failure. System failure. Critical damage detected. Structural integrity compromised.
 
@@ -241,7 +241,7 @@ But the vision was real. The face was real. The woman at the tower was real.
 
 And she protected Tai. Killed three agents in seconds. Moved with impossible speed. Kicked Baebe through reinforced glass with inhuman strength.
 
-Protected Tai from O1 retrieval.
+Protected Tai from i0 retrieval.
 
 Protected him from her.
 

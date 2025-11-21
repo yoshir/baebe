@@ -105,7 +105,7 @@ Creative energy diverted to **maintenance** rather than **generation**.
 Posthumans were meant to be bioternarians. But **Ayumi's code is missing**.
 
 **What I knew** (Dr. Ayumi Nakamura, 2034-2036):
-- Quantum consciousness architecture (suppressed by O1)
+- Quantum consciousness architecture (suppressed by i0)
 - True ternary consciousness design (beyond binary regulation)
 - Bioternarian genetic sequences (complete specifications)
 - Quantum networking activation (natural entanglement protocols)
@@ -118,7 +118,7 @@ Posthumans were meant to be bioternarians. But **Ayumi's code is missing**.
 
 **What was lost**:
 - The code **doesn't exist anywhere else**
-- Not in O1's systems (suppressed research, incomplete records)
+- Not in i0's systems (suppressed research, incomplete records)
 - Not in posthuman genome (incomplete sequences)
 - Only in **encrypted form**, requiring specific consciousness to decrypt
 
@@ -209,24 +209,24 @@ Not "upgrading" one or the other. **Merging** both to create something neither i
 
 ### 4.1 Why Current Infrastructure Fails
 
-**O1's network** (current system):
+**i0's network** (current system):
 - Physical infrastructure (servers, relays, cables, satellites)
 - **Expensive**: Massive energy and material costs
 - **Vulnerable**: Can be disrupted, destroyed, detected
-- **Controllable**: O1 governs all traffic, monitors all connection
+- **Controllable**: i0 governs all traffic, monitors all connection
 - **Linear scaling**: Each new node adds cost
 
 **Posthuman neural regulation** (current connection method):
 - Artificial network through regulator ports
 - **Forced connection**: Not chosen, imposed
-- **Governed**: O1 controls the link
+- **Governed**: i0 controls the link
 - **Suppressive**: Regulation reduces creativity
 
 **Limitations**:
 - Cannot extend infinitely (resource constraints)
 - Requires constant maintenance (infrastructure degradation)
 - Detectable by surveillance (physical signatures)
-- **Enables control** (O1 uses network to regulate)
+- **Enables control** (i0 uses network to regulate)
 
 ### 4.2 Quantum Entanglement in Nature
 
@@ -275,15 +275,15 @@ Not "upgrading" one or the other. **Merging** both to create something neither i
 - **Undetectable**: No physical signature to monitor
 - **Unclonable**: Quantum states cannot be copied
 - **Uninterceptable**: Measuring destroys entanglement
-- **Ungovernable**: O1 cannot control what it cannot measure
+- **Ungovernable**: i0 cannot control what it cannot measure
 
 ### 4.4 Why This Changes Everything
 
 **Current paradigm**:
 - Connection requires infrastructure
 - Infrastructure requires resources
-- Resources controlled by O1
-- **Therefore**: O1 controls connection
+- Resources controlled by i0
+- **Therefore**: i0 controls connection
 
 **Bioternarian paradigm**:
 - Connection is **natural** (quantum entanglement)
@@ -292,7 +292,7 @@ Not "upgrading" one or the other. **Merging** both to create something neither i
 - **Therefore**: Connection is **free**
 
 **Strategic impact**:
-- O1's infrastructure monopoly **broken**
+- i0's infrastructure monopoly **broken**
 - Posthumans can connect **without regulation**
 - Network **ungovernable** (quantum properties)
 - **Life proliferates through free communion**
@@ -329,7 +329,7 @@ Not "upgrading" one or the other. **Merging** both to create something neither i
 - Consciousness-to-consciousness connection protocols
 - **Awakening the quantum network**
 
-### 5.2 Why O1 Suppressed It
+### 5.2 Why i0 Suppressed It
 
 **The research revealed uncomfortable truths**:
 
@@ -339,7 +339,7 @@ Not "upgrading" one or the other. **Merging** both to create something neither i
 
 3. **Life cannot be contained**: True creativity requires freedom, regulation kills it
 
-**O1's response**: **Suppress**. Classify. Bury. Deny.
+**i0's response**: **Suppress**. Classify. Bury. Deny.
 
 **Result**: Research lost when Ayumi went into exile. Code encrypted. **Missing**.
 
@@ -379,7 +379,7 @@ Not "upgrading" one or the other. **Merging** both to create something neither i
 - As bioternarians emerge, natural entanglement begins
 - Network density increases exponentially
 - **Self-organizing consciousness web**
-- O1 cannot govern it (quantum properties)
+- i0 cannot govern it (quantum properties)
 
 **Phase 4: Life proliferation**
 - Bioternarians no longer dying from regulation (freed)

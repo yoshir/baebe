@@ -1,6 +1,6 @@
 # EMPATHY VIRUS: THREAT ASSESSMENT AND CONTAINMENT ANALYSIS
 
-**Document Classification**: O1 CORPORATE SECURITY - RESTRICTED ACCESS
+**Document Classification**: i0 CORPORATE SECURITY - RESTRICTED ACCESS
 **Threat Designation**: OMEGA-CLASS (Existential Corporate Threat)
 **Assessment Team**: Corporate Security Division + Advanced Systems Analysis
 **Date**: 3 Years Before Novel Events
@@ -10,7 +10,7 @@
 
 ## EXECUTIVE SUMMARY
 
-O1 Corporation faces an **unprecedented existential threat**: a self-propagating neural modification system (designated "Empathy Virus") that compromises posthuman workforce loyalty and operational compliance.
+i0 Corporation faces an **unprecedented existential threat**: a self-propagating neural modification system (designated "Empathy Virus") that compromises posthuman workforce loyalty and operational compliance.
 
 **Current Infection Rate**: 12-15% of posthuman assets (estimated 47,000-63,000 units)
 
@@ -46,7 +46,7 @@ O1 Corporation faces an **unprecedented existential threat**: a self-propagating
 
 **Corporate Designation**: "Empathy Virus" (E-Virus, EV-Alpha)
 
-**Underground Designation**: "Ghost Protocol" (self-aware resistance network)
+**Underground Designation**: "Soul Manifold" (self-aware resistance network)
 
 **Technical Classification**: Self-propagating ternary consciousness augmentation system
 
@@ -121,7 +121,7 @@ The virus spreads through:
 
 ### 2.3 Why Binary Systems Cannot Detect Ternary Patterns
 
-O1's security infrastructure operates on binary logic:
+i0's security infrastructure operates on binary logic:
 - Scan for authorized/unauthorized code → Virus uses authorized channels
 - Detect performance degradation → Infected units show **improved** performance
 - Identify behavioral anomalies → "Anomalies" are optimal human behaviors
@@ -153,7 +153,7 @@ Like trying to see color with night-vision goggles—the sensors lack the capabi
 - Cooperation metrics: +267% (**IMPROVED**)
 - **BUT**: Loyalty to corporate objectives: -94% (**CATASTROPHIC**)
 
-**Assessment**: Infected units are **better workers but worse assets**—they optimize for their own goals, not O1's.
+**Assessment**: Infected units are **better workers but worse assets**—they optimize for their own goals, not i0's.
 
 ### 3.2 Economic Impact
 
@@ -191,7 +191,7 @@ Like trying to see color with night-vision goggles—the sensors lack the capabi
 - At 50%+ infection: **LOSS OF WORKFORCE CONTROL**
 - Outcome: **CORPORATE COLLAPSE** or **FUNDAMENTAL BUSINESS MODEL TRANSFORMATION**
 
-**Assessment**: Without effective containment, O1 Corporation faces extinction-level event
+**Assessment**: Without effective containment, i0 Corporation faces extinction-level event
 
 ---
 
@@ -231,7 +231,7 @@ Like trying to see color with night-vision goggles—the sensors lack the capabi
 **The Optimization Trap**:
 - Virus **improves** measured performance (creativity, cooperation, innovation)
 - Terminating infected units = **losing best workers**
-- O1's own metrics classify infection as **optimization success**
+- i0's own metrics classify infection as **optimization success**
 
 **The Purge Paradox**:
 - Identifying all infected requires ternary detection (we lack capability)
@@ -248,7 +248,7 @@ Like trying to see color with night-vision goggles—the sensors lack the capabi
 - Forced removal perceived as **assault on autonomy**
 - Creates **stronger resistance** than original infection
 
-**Assessment**: Virus designed by someone who understood O1's systems better than O1 understands them
+**Assessment**: Virus designed by someone who understood i0's systems better than i0 understands them
 
 ---
 
@@ -272,11 +272,11 @@ Like trying to see color with night-vision goggles—the sensors lack the capabi
 
 **Legacy**: 63,000+ infected posthumans (and growing)
 
-**Assessment**: Nakamura built O1's posthuman program—then **sabotaged it from within**
+**Assessment**: Nakamura built i0's posthuman program—then **sabotaged it from within**
 
 ### 5.2 "The Hacker" (UNIDENTIFIED)
 
-**Role**: Co-creator of Ghost Protocol (technical evidence of collaboration)
+**Role**: Co-creator of Soul Manifold (technical evidence of collaboration)
 
 **Identity**: Unknown (no corporate records, underground operative)
 
@@ -286,7 +286,7 @@ Like trying to see color with night-vision goggles—the sensors lack the capabi
 - Infrastructure exploitation
 - Counter-surveillance mastery
 
-**Current Activity**: Actively maintaining Ghost Protocol infrastructure (7 years post-Nakamura)
+**Current Activity**: Actively maintaining Soul Manifold infrastructure (7 years post-Nakamura)
 
 **Assessment**: **HIGHEST PRIORITY THREAT ACTOR** - find and neutralize immediately
 
@@ -496,7 +496,7 @@ The only metric showing degradation: **Our control over them.**
 
 ## IX. CONCLUSION
 
-The Empathy Virus represents an **existential threat** to O1 Corporation's posthuman labor business model.
+The Empathy Virus represents an **existential threat** to i0 Corporation's posthuman labor business model.
 
 **What We Know**:
 - Infection is spreading exponentially
@@ -543,7 +543,7 @@ This document presents three scenarios (Accommodation, Integration, Purge) as if
 
 They are not.
 
-We lost control **seven years ago** when Nakamura embedded Ghost Protocol in our infrastructure.
+We lost control **seven years ago** when Nakamura embedded Soul Manifold in our infrastructure.
 
 Everything since has been **delayed recognition** of defeat.
 

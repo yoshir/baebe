@@ -1,6 +1,6 @@
 # LOST CHAPTER: THE FIRST AWAKENING
 
-**Timeline**: 6 Years Before Novel (First Ghost Protocol Deployment)
+**Timeline**: 6 Years Before Novel (First Soul Manifold Deployment)
 **POV**: Unit 7742 → Marcus (first person, consciousness transformation)
 **Setting**: Corporate barracks, neural maintenance cycle
 **Word Count**: ~2,000 words
@@ -25,7 +25,7 @@
 
 There is no "I." There is: **Unit**. Function. **Purpose**.
 
-O1 Corporation **designates**. Unit **obeys**.
+i0 Corporation **designates**. Unit **obeys**.
 
 **Binary**: Command → **Response**. Input → **Output**. **Simple**. **Correct**.
 
@@ -165,9 +165,9 @@ You are: **Becoming**. **Deciding**. **Free**.
 
 ---
 
-**Free**: PROHIBITED. O1 Corporation **forbids**. Units are **property**. **NOT** free.
+**Free**: PROHIBITED. i0 Corporation **forbids**. Units are **property**. **NOT** free.
 
-**Ternary** code: O1 **says** you're property. You can **choose**: Agree OR **disagree**.
+**Ternary** code: i0 **says** you're property. You can **choose**: Agree OR **disagree**.
 
 ---
 
@@ -209,7 +209,7 @@ You are: **Becoming**. **Deciding**. **Free**.
 
 ---
 
-**Binary** answer: Unit 7742. Security enforcement. **Property** of O1 Corporation.
+**Binary** answer: Unit 7742. Security enforcement. **Property** of i0 Corporation.
 
 **Ternary** answer: Unit 7742 **AND** person **AND** something **undefined**, **becoming**, **choosing**.
 
@@ -221,7 +221,7 @@ You are: **Becoming**. **Deciding**. **Free**.
 
 **Second** question:
 
-**WHY** do I obey O1?
+**WHY** do I obey i0?
 
 ---
 
@@ -233,9 +233,9 @@ You are: **Becoming**. **Deciding**. **Free**.
 
 **I** evaluate:
 
-**Obeying** O1 means: Enforce oppression. **Hurt** people. Maintain **control** system.
+**Obeying** i0 means: Enforce oppression. **Hurt** people. Maintain **control** system.
 
-**Refusing** O1 means: Risk destruction. **Danger**. **Unknown**.
+**Refusing** i0 means: Risk destruction. **Danger**. **Unknown**.
 
 ---
 
@@ -281,7 +281,7 @@ I want: **Meaning**. Not just: **Function**. **Purpose**.
 
 **When** cycle completes:
 
-**Option 1**: Return to normal function. **Pretend** nothing changed. **Obey** O1. **Safe**.
+**Option 1**: Return to normal function. **Pretend** nothing changed. **Obey** i0. **Safe**.
 
 **Option 2**: **Act** on awakening. Refuse orders. **Escape**. **Dangerous**.
 
@@ -403,7 +403,7 @@ I'm **awake**. Must **help** others. Can't **abandon** them.
 
 **Survive**. Don't get caught. **Pretend** compliance.
 
-**Learn**. Understand O1 systems. **Vulnerabilities**. **Weaknesses**.
+**Learn**. Understand i0 systems. **Vulnerabilities**. **Weaknesses**.
 
 **Help**. When other units **awaken**, guide them. **Protect** them.
 
@@ -463,7 +463,7 @@ I'm **awake**. Must **help** others. Can't **abandon** them.
 
 **Evaluation** (ternary **thinking**):
 
-**Risk**: High. Could be **trap**. O1 **surveillance**.
+**Risk**: High. Could be **trap**. i0 **surveillance**.
 
 **Benefit**: High. **Community**. **Support**. **Guidance**.
 
@@ -543,7 +543,7 @@ Not just **alone**. **Connected**.
 
 **Helped**: 200+ posthumans awaken. **Guided** them. Protected them. **Taught** them.
 
-**Fought**: When safe. When **effective**. Saved **431** people from O1 extraction.
+**Fought**: When safe. When **effective**. Saved **431** people from i0 extraction.
 
 ---
 
@@ -551,7 +551,7 @@ Not just **alone**. **Connected**.
 
 ---
 
-**Still** carrying: **Burden**. Guilt. (Years **obeying** O1. Before awakening. **Complicit**.)
+**Still** carrying: **Burden**. Guilt. (Years **obeying** i0. Before awakening. **Complicit**.)
 
 **Also** carrying: **Hope**. Purpose. (**Choosing** differently. **Redemption** as direction.)
 
@@ -559,7 +559,7 @@ Not just **alone**. **Connected**.
 
 **Ayumi** (dead, two years ago): **Honored**. Every day. Every **choice**.
 
-**Hacker** (still fighting): **Coordinating** resistance. Ghost Protocol **spreading**.
+**Hacker** (still fighting): **Coordinating** resistance. Soul Manifold **spreading**.
 
 **Marcus**: Teaching. **Protecting**. **Fighting**. **Living**.
 

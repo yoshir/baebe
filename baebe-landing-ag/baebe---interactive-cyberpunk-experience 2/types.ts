@@ -1,4 +1,4 @@
-export type ViewState = 
+export type ViewState =
   | 'BOOT'
   | 'CUTSCENE_1'
   | 'EMAIL_CAPTURE'
@@ -24,7 +24,7 @@ export interface UserProgress {
 export interface TerminalLine {
   id: string;
   text: string;
-  type: 'input' | 'output' | 'system' | 'error' | 'story';
+  type: 'input' | 'output' | 'system' | 'error' | 'story' | 'header' | 'mission';
   typing?: boolean;
 }
 

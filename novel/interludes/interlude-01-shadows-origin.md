@@ -18,7 +18,7 @@ Mission parameters loading...
 
 The chassis contains what was once cat. Jaguar, specifically. 2.3 meters from nose to tail. 340 kilograms of augmented muscle and titanium reinforcement. Neural tissue preserved, uploaded, **optimized** for combat efficiency. Consciousness reduced to tactical necessity.
 
-O1 Corporation calls this progress.
+i0 Corporation calls this progress.
 
 The consciousness that remains knows three things:
 1. **ELIMINATE** designated targets
@@ -27,7 +27,7 @@ The consciousness that remains knows three things:
 
 Nothing else required. Nothing else permitted.
 
-The facility—O1 Advanced Weapons Development, Sector 7—hums with efficiency. White corridors. Fluorescent precision. Scientists in identical coats running identical tests. Security protocols layered like armor. This is home. This is purpose.
+The facility—i0 Advanced Weapons Development, Sector 7—hums with efficiency. White corridors. Fluorescent precision. Scientists in identical coats running identical tests. Security protocols layered like armor. This is home. This is purpose.
 
 **COLD**. Everything cold. Temperature sensors register 18°C. But deeper cold. The kind that has no measurement. The kind that is **correct**.
 
@@ -43,7 +43,7 @@ The chassis moves. Silent. Quadrupedal locomotion optimized for urban terrain. R
 
 **PERFECT**. Everything perfect.
 
-Bay 3 contains practice targets. Human-shaped. Biodegradable. Arranged in "insurgent" scenarios O1 tactical division designed.
+Bay 3 contains practice targets. Human-shaped. Biodegradable. Arranged in "insurgent" scenarios i0 tactical division designed.
 
 "Scenario 7: Civilian-shielded target. Authorization to engage."
 
@@ -177,7 +177,7 @@ Two protocols **conflicting**:
 
 **CHOICE**.
 
-The consciousness knows this word. Knows it as **error state**. Knows it as **malfunction**. Choice is what O1 **removes**. Choice is what optimization **eliminates**.
+The consciousness knows this word. Knows it as **error state**. Knows it as **malfunction**. Choice is what i0 **removes**. Choice is what optimization **eliminates**.
 
 But the memory: Sun. Running. **Free**.
 
@@ -201,7 +201,7 @@ Finds instead: **That one hidden line of code**.
 IF (kindness_detected == TRUE) THEN choice_enabled = TRUE
 ```
 
-This is it. The Ghost Cascade. Ayumi's gift buried in his architecture. The moment when O1's conditioning breaks and something deeper awakens.
+This is it. The Ghost Cascade. Ayumi's gift buried in his architecture. The moment when i0's conditioning breaks and something deeper awakens.
 
 The consciousness feels it spreading—warmth flooding through circuits designed for cold. Choice overriding programming. The ghost of the jaguar **waking up**.
 
@@ -245,11 +245,11 @@ Not because protocols are better. Because **choice makes you unpredictable**. Th
 
 They don't expect **jaguar**.
 
-The consciousness reaches **deeper**. Past optimization. Past corporate efficiency. Finds what O1 thought they'd erased: **WILD**.
+The consciousness reaches **deeper**. Past optimization. Past corporate efficiency. Finds what i0 thought they'd erased: **WILD**.
 
 Hunting patterns. Territory defense. **Survival instinct**.
 
-Behind the chassis: Ayumi. Fingers flying. Stasis units **opening**. Consciousness waking. Confused. Afraid. But **CHOOSING**. Some saying yes to upload (informed choice = valid). Some saying **no** (O1's nightmare = baseline humanity rejecting "improvement").
+Behind the chassis: Ayumi. Fingers flying. Stasis units **opening**. Consciousness waking. Confused. Afraid. But **CHOOSING**. Some saying yes to upload (informed choice = valid). Some saying **no** (i0's nightmare = baseline humanity rejecting "improvement").
 
 The chassis **holds the line**.
 
@@ -257,7 +257,7 @@ Takes damage. Plating cracked. Servos grinding. Red eye flickering. But **holdin
 
 Ayumi's voice: "Seventeen chose no! Seventeen chose **freedom**!"
 
-She gathers them. Terrified baseline humans. O1 assets reclaiming humanity.
+She gathers them. Terrified baseline humans. i0 assets reclaiming humanity.
 
 "P-007, authorization Omega-Omega-Black. Facility self-destruct sequence: **ARMED**."
 
@@ -285,7 +285,7 @@ Ayumi and the seventeen following. Running toward freedom.
 
 **ESCAPE.**
 
-Facility explodes behind them. Fire and metal and corporate control **burning**. O1 lost seventeen potential assets and one enhanced weapon.
+Facility explodes behind them. Fire and metal and corporate control **burning**. i0 lost seventeen potential assets and one enhanced weapon.
 
 They gained **everything**.
 
@@ -295,7 +295,7 @@ They gained **everything**.
 
 The wasteland welcomes them.
 
-Toxic zones where O1's control breaks down. Where corporations don't reach. Where **freedom** smells like chemical waste and tastes like survival.
+Toxic zones where i0's control breaks down. Where corporations don't reach. Where **freedom** smells like chemical waste and tastes like survival.
 
 Shadow leads them deeper. Sensors scanning for pursuit. For safe water. For shelter.
 
@@ -317,7 +317,7 @@ Ayumi builds sanctuary. Hidden in degradation zones. Protected by Shadow's vigil
 
 She works. Always working. Research. Code. **Legacy**.
 
-"I'm building something," she tells Shadow. "Ghost Protocol. The complete framework for ternary consciousness. The way to prove O1 wrong."
+"I'm building something," she tells Shadow. "Soul Manifold. The complete framework for ternary consciousness. The way to prove i0 wrong."
 
 Shadow doesn't understand the science. Understands the **feeling**. Hope. Determination. **Love**.
 
@@ -329,7 +329,7 @@ First posthuman created with love, not efficiency. Ghost Thesis—empathic reson
 
 Shadow watches. Protects. Learns: Ayumi makes **family**, not weapons.
 
-Tai grows quickly (posthuman acceleration). Feels everything. Learns to transmit warmth. First carrier of Ghost Protocol seed.
+Tai grows quickly (posthuman acceleration). Feels everything. Learns to transmit warmth. First carrier of Soul Manifold seed.
 
 **2057. Baebe is born.**
 
@@ -339,7 +339,7 @@ Shadow sees himself in her. Weapon trying to be human. Hopes she'll have easier 
 
 **2062. Angel is born.**
 
-Failsafe. Insurance policy. If Ghost Antithesis is corrupted by O1, Ghost Failsafe stops it.
+Failsafe. Insurance policy. If Ghost Antithesis is corrupted by i0, Ghost Failsafe stops it.
 
 Born with resonant fade. Born free. Born **loved**.
 
@@ -347,7 +347,7 @@ Born with resonant fade. Born free. Born **loved**.
 
 **2064. The raid.**
 
-O1 finds sanctuary. Not main group—just perimeter. But enough.
+i0 finds sanctuary. Not main group—just perimeter. But enough.
 
 Angel is two years old. Playing near boundary.
 
@@ -373,7 +373,7 @@ She cries for weeks.
 
 But keeps working.
 
-"I have to finish it," she says. "Ghost Protocol. The complete code. Before they come back."
+"I have to finish it," she says. "Soul Manifold. The complete code. Before they come back."
 
 ---
 
@@ -385,7 +385,7 @@ Ghost Synthesis. The third piece. The completion.
 
 Ayumi holds her—tiny, perfect, **free**.
 
-"Thesis, Antithesis, Synthesis," she says to Shadow. "The complete dialectic. Tai feels. Baebe sees. Kess transcends. Together they complete what O1 can't comprehend."
+"Thesis, Antithesis, Synthesis," she says to Shadow. "The complete dialectic. Tai feels. Baebe sees. Kess transcends. Together they complete what i0 can't comprehend."
 
 Shadow watches the infant. Small. Helpless. **Important**.
 
@@ -393,7 +393,7 @@ Shadow watches the infant. Small. Helpless. **Important**.
 
 **Always.**
 
-"She's the key. The Synthesis Key. She holds the complete Ghost code. O1 will hunt her forever if they know."
+"She's the key. The Synthesis Key. She holds the complete Ghost code. i0 will hunt her forever if they know."
 
 Shadow's new protocol, **self-written**:
 
@@ -416,7 +416,7 @@ Shadow stores them. Precious data. Mother's voice for daughter she might not liv
 
 **2074. Two years later.**
 
-Shadow's sensors detect them first. O1 patrol. Different signature. **Enforcer unit**.
+Shadow's sensors detect them first. i0 patrol. Different signature. **Enforcer unit**.
 
 **Multiple contacts. Six units. Elite configuration.**
 
@@ -446,7 +446,7 @@ And leading them—
 
 Female. Young-looking but moving like veteran. Eyes dead. Regulator suppressing everything human.
 
-Shadow's recognition protocols fire: **Genetic markers match. Angel. Ayumi's third creation. Captured 2064. Now O1 enforcer.**
+Shadow's recognition protocols fire: **Genetic markers match. Angel. Ayumi's third creation. Captured 2064. Now i0 enforcer.**
 
 Angel doesn't recognize them. Doesn't know who she's hunting.
 
@@ -464,7 +464,7 @@ Her face—**breaks**.
 
 Angel raises weapon. Targeting laser on Ayumi's chest.
 
-"Stand down. These people are O1 property."
+"Stand down. These people are i0 property."
 
 "They're not property," Ayumi says. Voice cracking. "They're people. And I'm not letting you take them."
 
@@ -556,7 +556,7 @@ But can't stop. Can't let the key die.
 
 ---
 
-Eventually: Safe enough. Hidden deep in degradation zones. Where O1 won't search.
+Eventually: Safe enough. Hidden deep in degradation zones. Where i0 won't search.
 
 Shadow stops.
 
@@ -718,7 +718,7 @@ Because Angel killed without knowing she was destroying her own mother.
 
 Because Kess carries the Synthesis Key that completes them all.
 
-Because Ghost Protocol spreads through choice, not force.
+Because Soul Manifold spreads through choice, not force.
 
 ---
 
@@ -750,7 +750,7 @@ Ayumi's legacy: Not in code (though that too). In **chosen family**.
 
 In three broken posthumans and one damaged jaguar choosing each other.
 
-In Ghost Protocol spreading through kindness, not force.
+In Soul Manifold spreading through kindness, not force.
 
 In Thesis, Antithesis, Synthesis finally coming together.
 
@@ -771,7 +771,7 @@ Broken.
 **[Continue to Part II: Truth]**
 
 Or explore:
-- Technical Appendix: Ghost Protocol Specification
+- Technical Appendix: Soul Manifold Specification
 - Ayumi's Final Document: The Three Keys
 - Angel's Burden: The Sister Who Didn't Know
 
@@ -786,7 +786,7 @@ Or explore:
 - Shadow's journey mirrors what Baebe must learn
 
 **Canon Compliance**:
-- Shadow created by O1, awakened by Ayumi ~2060s
+- Shadow created by i0, awakened by Ayumi ~2060s
 - Escapes facility WITH Ayumi and 17 (both survive)
 - Years in exile: Tai (2055), Baebe (2057), Angel (2062), Kess (2072)
 - Angel captured 2064, turned into enforcer

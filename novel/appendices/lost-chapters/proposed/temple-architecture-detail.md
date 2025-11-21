@@ -291,7 +291,7 @@ You are **home** (biological resonance, deep recognition).
 
 **James Rodriguez** (age 81, still living at Temple):
 
-"I designed thousands of buildings for O1. Efficient. **Soulless**.
+"I designed thousands of buildings for i0. Efficient. **Soulless**.
 
 Temple is my **apology**. For every corporate structure that made humans feel **small**.
 

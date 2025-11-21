@@ -551,7 +551,7 @@ For those who remember: **We are whole**.
 - **Temple supports** (food, tools, knowledge shared with external communities)
 
 **Who comes?**:
-- Posthumans fleeing corporate zones (Ghost Protocol awakened)
+- Posthumans fleeing corporate zones (Soul Manifold awakened)
 - Baseline humans from degradation zones (seeking healing)
 - **Wounded** (physically, emotionally, spiritually - Temple heals)
 
@@ -573,9 +573,9 @@ For those who remember: **We are whole**.
 - No operations planned
 - **Healing focus** (repair damage, then return)
 
-**Ghost Protocol connection**:
+**Soul Manifold connection**:
 - Temple teaches ternary consciousness (same philosophy as virus)
-- Ayumi learned here (before creating Ghost Protocol)
+- Ayumi learned here (before creating Soul Manifold)
 - **Spiritual home** (of the resistance, though not command center)
 
 ### 6.3 Corporate Attempts at Infiltration
@@ -634,7 +634,7 @@ For those who remember: **We are whole**.
 **Indirect**:
 - Temple's existence proves alternative possible (hope is contagious)
 - Stories spread (oral tradition, underground networks)
-- **Ghost Protocol** (same philosophy, different vector)
+- **Soul Manifold** (same philosophy, different vector)
 
 **Assessment**: "Temple is **seed**. Every person who passes through carries seed. Plants it elsewhere. **Revolution gardens**."
 

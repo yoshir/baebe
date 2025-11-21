@@ -4,7 +4,7 @@
 **Role:** Ghost Synthesis - The Human Key
 **Age:** 9 years old (born 2072, story present ~2080)
 **Origin:** Created by Dr. Ayumi Zenith Nakamoto
-**Status:** Pure baseline human, third Ghost Protocol key, grounding that allows transcendence
+**Status:** Pure baseline human, third Soul Manifold key, grounding that allows transcendence
 
 ---
 
@@ -14,7 +14,7 @@
 
 Kess is what Ayumi fought for. Pure baseline human. Unenhanced. Uncorrupted. **Free**.
 
-Not a weapon like Baebe. Not a healer like Taivalu. Just human. But that humanity—that pure, grounded, baseline consciousness—is what completes Ghost Protocol.
+Not a weapon like Baebe. Not a healer like Taivalu. Just human. But that humanity—that pure, grounded, baseline consciousness—is what completes Soul Manifold.
 
 Thesis + Antithesis need Synthesis. Posthuman transcendence needs human grounding. The keys need the bridge.
 
@@ -27,10 +27,10 @@ Kess is the bridge. The youngest. The most vulnerable. The most essential.
 ### Ayumi's Third Key
 
 **When:** 2072
-**Why:** Complete Ghost Protocol's ternary architecture
+**Why:** Complete Soul Manifold's ternary architecture
 **How:** Pure baseline human genetics, no enhancements, no modifications
 
-**Ghost Protocol Architecture:**
+**Soul Manifold Architecture:**
 - **Thesis (Taivalu, 2069):** Empathic resonance, connection
 - **Antithesis (Baebe, 2070):** Temporal perception, opposition
 - **Synthesis (Kess, 2072):** Pure humanity, transcendence grounding
@@ -51,11 +51,11 @@ Kess doesn't have special powers. **That's her special power.**
 
 **The Secret Child:**
 
-Ayumi kept Kess completely hidden from O1. Taivalu was public. Baebe was captured. But Kess? O1 never knew she existed.
+Ayumi kept Kess completely hidden from i0. Taivalu was public. Baebe was captured. But Kess? i0 never knew she existed.
 
 **Strategy:**
 - Birth hidden (underground, no records)
-- Placed with foster parents (deep cover, no O1 connections)
+- Placed with foster parents (deep cover, no i0 connections)
 - Shadow created as her guardian (2072, from birth)
 - No documentation, no trail, no evidence
 - Ayumi's most protected secret
@@ -74,11 +74,11 @@ They kept their promise. Until they couldn't.
 
 **What Happened:**
 
-O1 found Ayumi. Used Angel to kill her. But they were thorough—they'd traced connections. Found the foster parents.
+i0 found Ayumi. Used Angel to kill her. But they were thorough—they'd traced connections. Found the foster parents.
 
 **2074, Same Night:**
 - **Temple Location:** Angel kills Ayumi
-- **Safe House Location:** O1 operatives raid foster parents
+- **Safe House Location:** i0 operatives raid foster parents
 
 **The Safe House:**
 
@@ -92,7 +92,7 @@ Protocol activated.
 
 ### Foster Parents Killed
 
-O1 operatives broke in. Found Kess (age 2). Found her foster parents.
+i0 operatives broke in. Found Kess (age 2). Found her foster parents.
 
 They killed the foster parents. Efficient. Professional. Eliminating witnesses. Covering tracks.
 
@@ -107,16 +107,16 @@ The operatives died. Shadow stood over Kess—covered in blood that wasn't his�
 ### The Escape to Outlands
 
 Shadow calculated instantly:
-- O1 knows this location
+- i0 knows this location
 - More operatives coming
-- Need to hide where O1 can't follow
+- Need to hide where i0 can't follow
 - **Solution: Anomaly zones**
 
-His bio-compute + analog design meant he could function where O1's network failed. The anomaly zones—unexplained dead zones where electronics died—were perfect hiding places.
+His bio-compute + analog design meant he could function where i0's network failed. The anomaly zones—unexplained dead zones where electronics died—were perfect hiding places.
 
 Shadow wrapped Kess (age 2, terrified, alone) in protective grip and ran.
 
-Into the outlands. Into the places O1 couldn't reach.
+Into the outlands. Into the places i0 couldn't reach.
 
 ---
 
@@ -126,15 +126,15 @@ Into the outlands. Into the places O1 couldn't reach.
 
 **The Anomaly Zones:**
 
-Unexplained areas where O1's network failed completely. Electronics died. Drones crashed. Surveillance blinded.
+Unexplained areas where i0's network failed completely. Electronics died. Drones crashed. Surveillance blinded.
 
-Shadow functioned perfectly. O1 couldn't follow.
+Shadow functioned perfectly. i0 couldn't follow.
 
 **Life in Hiding:**
 
 For six years, Kess lived in the dead zones with Shadow:
 - Scavenging food from abandoned structures
-- Hiding in ruins where O1 patrols couldn't reach
+- Hiding in ruins where i0 patrols couldn't reach
 - Moving between anomaly zones for safety
 - Learning to survive in a hostile world
 - Growing up with a 10-foot saber-toothed tiger mech as her only family
@@ -147,7 +147,7 @@ For six years, Kess lived in the dead zones with Shadow:
 
 Shadow protected her. Fed her. Taught her. But he couldn't give her what she'd lost: **normalcy. Safety. Family.**
 
-For six years, she grew up alone in the ruins. The youngest Ghost Protocol key, hidden in plain sight where O1 couldn't see.
+For six years, she grew up alone in the ruins. The youngest Soul Manifold key, hidden in plain sight where i0 couldn't see.
 
 ### What She Gained
 
@@ -191,7 +191,7 @@ Shadow couldn't answer. All he could say: **"You're family. I protect family. Al
 
 Shadow's systems detected something. Quantum signatures outside the anomaly zones. Patterns matching Ayumi's work.
 
-**Ghost Protocol activating.**
+**Soul Manifold activating.**
 
 His protocols recognized: The keys are converging. Time to move.
 
@@ -249,7 +249,7 @@ And for the first time in six years, Kess believed it.
 When Taivalu cleared Baebe's suppression, Ayumi's genetic message activated. And Kess learned:
 
 - **Dr. Ayumi Zenith Nakamoto:** Her mother (creator)
-- **Ghost Protocol:** The plan to free humanity
+- **Soul Manifold:** The plan to free humanity
 - **Three Keys:** Baebe (Antithesis), Taivalu (Thesis), Kess (Synthesis)
 - **Dying:** All three keys are degrading, need to merge
 - **Purpose:** Her pure baseline consciousness bridges posthuman transcendence to global human liberation
@@ -322,13 +322,13 @@ For the first time, Kess wasn't alone. Wasn't just surviving. She had:
 **Technical Function:**
 
 Kess's pure baseline human consciousness:
-- Carries natural quantum coherence (suppressed in all humans by O1)
+- Carries natural quantum coherence (suppressed in all humans by i0)
 - Grounds posthuman transcendence in human reality
 - Bridges enhanced consciousness to baseline humanity
-- Enables Ghost Protocol broadcast to reach ALL humans
+- Enables Soul Manifold broadcast to reach ALL humans
 - **Makes universal liberation possible**
 
-Without Kess, Ghost Protocol would be posthuman-only. Ternary consciousness without human grounding. Liberation without purpose.
+Without Kess, Soul Manifold would be posthuman-only. Ternary consciousness without human grounding. Liberation without purpose.
 
 **With Kess:** The protocol broadcasts to everyone. All humans become nodes. Freedom for ALL.
 
@@ -360,13 +360,13 @@ Her unmodified biology provides the grounding frequency. The stable third point.
 ### Human Perspective (Innate)
 
 **Unenhanced Clarity:**
-- No O1 conditioning (sees clearly)
+- No i0 conditioning (sees clearly)
 - No posthuman filters (understands baseline needs)
 - Pure human consciousness (what everyone lost)
 - Common sense (uncluttered by programming)
 - Emotional authenticity (no regulators)
 
-### The Synthesis Frequency (Ghost Protocol)
+### The Synthesis Frequency (Soul Manifold)
 
 **Her Unique Contribution:**
 - Baseline consciousness creates grounding frequency
@@ -385,7 +385,7 @@ Her unmodified biology provides the grounding frequency. The stable third point.
 
 **But:**
 
-Her humanity isn't weakness. **It's the power that completes Ghost Protocol.**
+Her humanity isn't weakness. **It's the power that completes Soul Manifold.**
 
 ---
 
@@ -434,13 +434,13 @@ He raised her. She named him. He protected her from everything. She gave him pur
 
 **Never Met:** Ayumi died when Kess was 2
 **Genetic Message:** "I love you. I loved you before you were born. I'll love you after I'm gone."
-**Legacy:** Shadow, foster parents, Ghost Protocol, **freedom**
+**Legacy:** Shadow, foster parents, Soul Manifold, **freedom**
 
 "She made me. Hid me. Died protecting me. Programmed Shadow to save me. Left a plan that needed me. I never knew her. But she knew me. She loved me. I can feel it."
 
 **Kess's Understanding:**
 
-"My mom gave everything so I could live free. She died before I could know her. But she knew me. She made Shadow for me. She hid me from O1. She created a plan where I'm essential. That's love. Even if I never got to feel it in person."
+"My mom gave everything so I could live free. She died before I could know her. But she knew me. She made Shadow for me. She hid me from i0. She created a plan where I'm essential. That's love. Even if I never got to feel it in person."
 
 ---
 
@@ -488,11 +488,11 @@ He raised her. She named him. He protected her from everything. She gave him pur
 
 ### Pure Humanity
 
-Kess represents what O1 tried to destroy: **unenhanced, uncorrupted, free human consciousness.**
+Kess represents what i0 tried to destroy: **unenhanced, uncorrupted, free human consciousness.**
 
 In a world of posthuman enhancements, neural regulators, and controlled emotions, Kess is purely, authentically **human**.
 
-And that humanity—not despite being unenhanced, but BECAUSE of it—is what completes Ghost Protocol.
+And that humanity—not despite being unenhanced, but BECAUSE of it—is what completes Soul Manifold.
 
 ### The Human Key
 
@@ -504,7 +504,7 @@ Kess bridges enhanced consciousness back to baseline humanity. **She's the remin
 
 ### The Youngest
 
-At 9, Kess is the youngest. She represents the future—what comes after O1.
+At 9, Kess is the youngest. She represents the future—what comes after i0.
 
 The posthumans fight for freedom. **Kess shows them what freedom is for: children who get to be children. Humans who get to be human.**
 
@@ -512,7 +512,7 @@ The posthumans fight for freedom. **Kess shows them what freedom is for: childre
 
 Kess lost everything at age 2. Spent six years alone in ruins. Believed she was nobody. Nothing special.
 
-**Then learned:** She's the third Ghost Protocol key. The human bridge. The synthesis that completes transcendence. **Essential.**
+**Then learned:** She's the third Soul Manifold key. The human bridge. The synthesis that completes transcendence. **Essential.**
 
 Not despite being baseline human. **Because** of it.
 

@@ -1,36 +1,36 @@
 # HACKER - CHARACTER BACKSTORY
 
 **Full Designation:** Unknown (Code Name: Hacker)
-**Role:** O1 Operative - Baebe's Handler, Network Infiltrator
+**Role:** i0 Operative - Baebe's Handler, Network Infiltrator
 **Communication:** Neural link voice (Baebe's ear)
-**Physical Presence:** In O1 Tower during final demolition
-**Affiliation:** O1 Corporation (but love for Baebe overrides loyalty)
+**Physical Presence:** In i0 Tower during final demolition
+**Affiliation:** i0 Corporation (but love for Baebe overrides loyalty)
 
 ---
 
 ## ORIGIN
 
-### O1 Operative Background
+### i0 Operative Background
 
-Hacker is a genuine O1 operative—network infiltrator, handler, and tactical coordinator. His specialty:
+Hacker is a genuine i0 operative—network infiltrator, handler, and tactical coordinator. His specialty:
 - Neural link communication systems
-- O1 network operations
+- i0 network operations
 - Asset management (handlers for field operatives)
 - System security and exploitation
 - Tactical mission support
 
 **The Past - Affair with Ayumi:**
 - Had an affair with Ayumi Zenith Nakamoto many years ago (before 2074)
-- This was before Ayumi's death, when she was working at/against O1
+- This was before Ayumi's death, when she was working at/against i0
 - The affair created a deep emotional connection
 - When Baebe was created (2070), Hacker saw her and felt something profound
 
 **The Connection to Baebe:**
 - **Feels like she's HIS daughter** - deep paternal love
 - Doesn't know if she IS biologically his, but emotionally she IS
-- Requested assignment as her handler at O1
+- Requested assignment as her handler at i0
 - Has been her voice in the ear for years
-- Torn between O1 duty and overwhelming protective instinct
+- Torn between i0 duty and overwhelming protective instinct
 
 ---
 
@@ -40,20 +40,20 @@ Hacker is a genuine O1 operative—network infiltrator, handler, and tactical co
 
 Hacker lives in constant internal war:
 
-**O1 Operative Side:**
+**i0 Operative Side:**
 - Follows protocols, gives tactical optimization advice
 - Reports to superiors, maintains cover
-- Says the things O1 operatives say
+- Says the things i0 operatives say
 - Professionally detached, mission-focused
 
 **Father Side:**
 - Can't let her go, watches over her obsessively
-- Protects her in ways O1 doesn't notice
+- Protects her in ways i0 doesn't notice
 - Feels physically ill when she's in danger
 - Would burn everything down to save her
 
 **The Tension:**
-Years of walking this line. Doing his job while secretly sabotaging anything that would truly harm her. O1 operative on the surface, devoted father beneath.
+Years of walking this line. Doing his job while secretly sabotaging anything that would truly harm her. i0 operative on the surface, devoted father beneath.
 
 ---
 
@@ -62,7 +62,7 @@ Years of walking this line. Doing his job while secretly sabotaging anything tha
 ### Act I: The Voice in Her Ear
 
 **Their Dynamic:**
-- Hacker: Her official O1 handler, mission support, tactical guidance
+- Hacker: Her official i0 handler, mission support, tactical guidance
 - Baebe: Field operative, enforcer, his "asset"
 - Communication: Constant neural link contact
 - Professional relationship masking paternal devotion
@@ -70,21 +70,21 @@ Years of walking this line. Doing his job while secretly sabotaging anything tha
 **What Baebe doesn't know:**
 The voice giving her mission parameters loves her like a daughter. Every tactical suggestion is filtered through "keep her alive." Every risk assessment is "is my daughter safe?"
 
-**What O1 doesn't know:**
+**What i0 doesn't know:**
 Their operative is compromised by love for his asset. He's still effective, still professional, but if it came down to it—she wins.
 
 ### Chapter 6: The Unforgivable Moment
 
 **"Get rid of her"**
 
-When Baebe finds Kess and asks what to do, Hacker says the O1 thing:
+When Baebe finds Kess and asks what to do, Hacker says the i0 thing:
 - "Get rid of her. She might be—"
 - Tactical optimization: eliminate potential threat
 - Following protocol even when it breaks his heart
-- O1 operative saying O1 things
+- i0 operative saying i0 things
 
 **The Breaking Point:**
-This moment destroys him. He told his daughter to kill a child. For duty. For cover. For O1.
+This moment destroys him. He told his daughter to kill a child. For duty. For cover. For i0.
 
 And she refused.
 
@@ -95,14 +95,14 @@ That's when he knows: he's going to betray everything for her.
 ### Act II: Ghost Presence
 
 After Baebe is pushed from the tower, Hacker:
-- Tracks her survival through O1 systems
+- Tracks her survival through i0 systems
 - Monitors her movements, can't make direct contact
 - Watches her unite with family
 - Sees her heading toward tower assault
 - Makes his choice: **she matters more than everything**
 
 **Off-Screen Actions:**
-- Infiltrates deeper into O1 Tower infrastructure
+- Infiltrates deeper into i0 Tower infrastructure
 - Plants demolition charges on structural supports
 - Positions explosives for maximum collapse
 - Prepares suicide mission
@@ -114,18 +114,18 @@ After Baebe is pushed from the tower, Hacker:
 
 ### The Demolition
 
-When Baebe, Taivalu, Angel, and Kess infiltrate O1 Tower:
+When Baebe, Taivalu, Angel, and Kess infiltrate i0 Tower:
 
 **The Intervention:**
 Voice over corrupted PA system (breaking up but unmistakable):
 *"Ghost... I'm sorry... get out... NOW."*
 
 **What He Does:**
-- **Physically present in O1 Tower** (not remote)
+- **Physically present in i0 Tower** (not remote)
 - Detonates demolition charges throughout infrastructure
 - Cascading explosions: server farms, power conduits, structural supports
 - Tower imploding systematically
-- O1's infrastructure weaponized against itself
+- i0's infrastructure weaponized against itself
 
 **Why He's There:**
 Because you don't demolish the building remotely when your daughter is inside. You're THERE to make sure the timing saves her. You die with your hand on the trigger so she lives.
@@ -133,7 +133,7 @@ Because you don't demolish the building remotely when your daughter is inside. Y
 ### The Escape
 
 **Shadow grabs Baebe and Kess, flies through breach**
-**O1 Tower collapsing behind them**
+**i0 Tower collapsing behind them**
 **Baebe looks back: Did he get out?**
 
 **No confirmation.**
@@ -146,17 +146,17 @@ Just tower falling. Screens dying. Network silent.
 
 ## REDEMPTION COMPLETE
 
-### From "Get Rid of Her" to Demolishing O1 Headquarters
+### From "Get Rid of Her" to Demolishing i0 Headquarters
 
-**Last Words to Her:** "Get rid of her" (O1 operative following protocol)
+**Last Words to Her:** "Get rid of her" (i0 operative following protocol)
 
-**Final Act:** Saves the child by demolishing O1 headquarters (father choosing daughter over duty)
+**Final Act:** Saves the child by demolishing i0 headquarters (father choosing daughter over duty)
 
 **The Arc:**
-- O1 operative who had affair with Ayumi
+- i0 operative who had affair with Ayumi
 - Feels like Baebe is HIS daughter (paternal love overriding all logic)
 - Years of internal conflict: duty vs devotion
-- "Get rid of her" = worst moment, following O1 protocol
+- "Get rid of her" = worst moment, following i0 protocol
 - Tower demolition = best moment, choosing love over loyalty
 - **Would die for her and does**
 
@@ -168,16 +168,16 @@ Just tower falling. Screens dying. Network silent.
 
 1. **Internal Conflict Personified** - Torn between ideology and love
 2. **Paternal Sacrifice** - Father dying to save daughter
-3. **O1 Operative Who Breaks** - Shows even their people can choose love
+3. **i0 Operative Who Breaks** - Shows even their people can choose love
 4. **The Redemption Arc** - From "get rid of her" to "I'll die for her"
-5. **Demolition Catalyst** - Enables family escape and O1's fall
+5. **Demolition Catalyst** - Enables family escape and i0's fall
 
 ### Thematic Role
 
 1. **Love vs Duty** - What happens when they conflict
 2. **Paternal Devotion** - Father's love transcending ideology
 3. **Redemption Through Sacrifice** - One act redefining everything
-4. **O1's Vulnerability** - Their own operative destroys them
+4. **i0's Vulnerability** - Their own operative destroys them
 5. **The Unforgivable Forgiven** - "Get rid of her" absolved by final choice
 
 ---
@@ -185,7 +185,7 @@ Just tower falling. Screens dying. Network silent.
 ## COMMUNICATION STYLE
 
 ### Voice Characteristics
-- Professional, tactical (O1 handler mode)
+- Professional, tactical (i0 handler mode)
 - Fragmented by signal interference
 - Cold optimization language (covering emotion)
 - Rare moments of warmth bleeding through
@@ -210,10 +210,10 @@ Just tower falling. Screens dying. Network silent.
 
 **Years Ago (Before 2074):**
 - Affair with Ayumi Zenith Nakamoto
-- During her time at/working against O1
+- During her time at/working against i0
 - Deep emotional connection
 - Ended when Ayumi went deeper underground
-- He stayed at O1 (choice that haunts him)
+- He stayed at i0 (choice that haunts him)
 
 **When Baebe Was Created (2070):**
 - Saw Baebe, felt immediate paternal connection
@@ -224,7 +224,7 @@ Just tower falling. Screens dying. Network silent.
 **The Love That Never Died:**
 - Loved Ayumi, lost her (to resistance, then to death in 2074)
 - Loves Baebe like his own daughter
-- That love ultimately overrides O1 loyalty
+- That love ultimately overrides i0 loyalty
 - Dies completing what Ayumi started: protecting their family
 
 ---
@@ -253,13 +253,13 @@ Fragmented, distant, but unmistakable:
 2. **Chapter 6: "Get rid of her"** - The unforgivable moment that breaks him
 3. **Act II Watching** - Tracking her survival, preparing for sacrifice
 4. **Act III: "I'm sorry... get out... NOW"** - Father protecting daughter
-5. **The Demolition** - O1 Tower imploding, Hacker dying to save her
+5. **The Demolition** - i0 Tower imploding, Hacker dying to save her
 6. **The Silence** - No confirmation, just grief and love
 7. **The Ghost Signal** - Maybe survival, maybe hope, maybe Book 2
 
 ---
 
-*"Get rid of her."* — Worst moment, following O1 protocol
+*"Get rid of her."* — Worst moment, following i0 protocol
 
 *"I'm sorry... get out... NOW."* — Best moment, choosing love over everything
 
@@ -268,10 +268,10 @@ Fragmented, distant, but unmistakable:
 ---
 
 **THE TRUTH:**
-- O1 operative who had affair with Ayumi
+- i0 operative who had affair with Ayumi
 - Feels like Baebe is HIS daughter
 - Torn between duty and devotion for years
-- "Get rid of her" = O1 operative following protocol
+- "Get rid of her" = i0 operative following protocol
 - Tower demolition = father choosing daughter
 - **Would die for her and does**
 - Love trumps ideology in the end

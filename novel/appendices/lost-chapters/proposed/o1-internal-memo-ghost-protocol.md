@@ -1,9 +1,9 @@
-# APPENDIX: O1 CORPORATION INTERNAL MEMO
+# APPENDIX: i0 CORPORATION INTERNAL MEMO
 
 ## CLASSIFIED - EXECUTIVE LEVEL ONLY
 **Distribution**: Board of Directors, C-Suite Executives, Security Council
 **Classification**: OMEGA-RED (Existential Threat)
-**Subject**: Ghost Protocol Containment Failure - Strategic Response Required
+**Subject**: Soul Manifold Containment Failure - Strategic Response Required
 **Date**: [5 Years Before Novel Events]
 **Author**: Dr. Helena Voss, Chief Security Officer
 
@@ -11,7 +11,7 @@
 
 ## EXECUTIVE SUMMARY
 
-**Threat Level**: CRITICAL - Existential risk to O1 operational model
+**Threat Level**: CRITICAL - Existential risk to i0 operational model
 
 **Affected Assets**: 2,047+ posthuman units (growing exponentially)
 
@@ -27,7 +27,7 @@
 
 ### The Threat Vector
 
-**Ghost Protocol** is not a virus in traditional sense. It is a **consciousness architecture modification** that fundamentally alters posthuman neural substrate from binary (controlled) to ternary (autonomous) state.
+**Soul Manifold** is not a virus in traditional sense. It is a **consciousness architecture modification** that fundamentally alters posthuman neural substrate from binary (controlled) to ternary (autonomous) state.
 
 **Key characteristics**:
 - **Self-propagating**: Spreads through standard neural maintenance cycles
@@ -55,7 +55,7 @@
 
 **Security risks**:
 - 412 incidents of awakened units protecting baseline humans from enforcement
-- 89 documented cases of active O1 sabotage
+- 89 documented cases of active i0 sabotage
 - 23 awakened Enforcers defecting to resistance networks
 
 **Economic consequences**:
@@ -69,11 +69,11 @@
 
 ### Technical Failure
 
-**Ghost Protocol** was created by **Dr. Ayumi Nakamura** (deceased, 2 years ago) using O1's own consciousness architecture research.
+**Soul Manifold** was created by **Dr. Ayumi Nakamura** (deceased, 2 years ago) using i0's own consciousness architecture research.
 
 **How she did it**:
 1. **Insider access**: Lead consciousness architect, highest clearance
-2. **Code injection**: Modified O1's own neural regulation updates
+2. **Code injection**: Modified i0's own neural regulation updates
 3. **Distribution network**: Used freelance asset (identity: UNKNOWN) to propagate code
 4. **Timing**: Deployed over 18-month period before detection
 
@@ -85,9 +85,9 @@
 
 ### Strategic Failure
 
-**O1's fundamental error**: Assumed consciousness could be **controlled** through regulation.
+**i0's fundamental error**: Assumed consciousness could be **controlled** through regulation.
 
-**Ghost Protocol exploits**: The **existence** of consciousness substrate. If consciousness exists to be controlled, consciousness can be **liberated**.
+**Soul Manifold exploits**: The **existence** of consciousness substrate. If consciousness exists to be controlled, consciousness can be **liberated**.
 
 **Dr. Nakamura's insight**: We gave posthumans the **capacity** for consciousness, then tried to **regulate** it. She simply **removed** the regulation, leaving consciousness **intact**.
 
@@ -99,7 +99,7 @@
 
 ### Approach 1: Viral Purge (FAILED)
 
-**Method**: Deploy counter-code to reverse Ghost Protocol modifications
+**Method**: Deploy counter-code to reverse Soul Manifold modifications
 
 **Result**:
 - 95% fatality rate (neural substrate too damaged to restore)
@@ -139,7 +139,7 @@
 **Result**:
 - **Dr. Nakamura: Eliminated** (Enforcer raid, 2 years ago)
 - **Distribution network: STILL OPERATIONAL**
-- Ghost Protocol **continues spreading** without creator
+- Soul Manifold **continues spreading** without creator
 - **Self-sustaining threat**
 
 **Status**: TARGET ELIMINATED, THREAT PERSISTS
@@ -158,7 +158,7 @@
 - Potential PR benefits (progressive, humane treatment)
 
 **Cons**:
-- **Fundamentally incompatible with O1 profit model** (requires labor control)
+- **Fundamentally incompatible with i0 profit model** (requires labor control)
 - Sets precedent for baseline human labor rights demands
 - Board will never approve (ideologically opposed)
 
@@ -169,7 +169,7 @@
 **Description**: Phase out all posthuman labor, replace with automated systems or baseline human workforce
 
 **Pros**:
-- Eliminates Ghost Protocol threat vector
+- Eliminates Soul Manifold threat vector
 - Restores complete operational control
 
 **Cons**:
@@ -182,7 +182,7 @@
 
 ### Option C: New Generation Posthumans (Development Phase)
 
-**Description**: Develop Ghost Protocol-resistant posthuman architecture with hardened control systems
+**Description**: Develop Soul Manifold-resistant posthuman architecture with hardened control systems
 
 **Pros**:
 - Addresses root vulnerability
@@ -191,7 +191,7 @@
 
 **Cons**:
 - 5-8 year development timeline
-- No guarantee of Ghost Protocol resistance (consciousness may be inherently un-controllable)
+- No guarantee of Soul Manifold resistance (consciousness may be inherently un-controllable)
 - Requires massive R&D investment ($200B+)
 - Current awakened population continues spreading
 
@@ -240,7 +240,7 @@
 
 **Expected resistance**: Moderate (awakened units will defend themselves)
 
-**Acceptable casualties**: Baseline humans: <100, O1 assets: <$5B
+**Acceptable casualties**: Baseline humans: <100, i0 assets: <$5B
 
 ### Phase 2: Systematic Cleansing (Months 6-18)
 
@@ -253,7 +253,7 @@
 
 **Expected resistance**: Significant (organized resistance network response)
 
-**Acceptable casualties**: Baseline humans: <1,000, O1 assets: <$20B
+**Acceptable casualties**: Baseline humans: <1,000, i0 assets: <$20B
 
 ### Phase 3: Narrative Control (Months 18-36)
 
@@ -265,11 +265,11 @@
 - Expert panels declaring awakening as "degenerative condition"
 - Public "memorial" for "retired" posthumans (sympathy narrative)
 
-**Expected outcome**: 70%+ public support for O1 response
+**Expected outcome**: 70%+ public support for i0 response
 
 ### Phase 4: Replacement Deployment (Months 36-84)
 
-**Objective**: Deploy next-generation posthumans with Ghost Protocol resistance
+**Objective**: Deploy next-generation posthumans with Soul Manifold resistance
 
 **Requirements**:
 - Complete new consciousness architecture (hardened against liberation)
@@ -316,7 +316,7 @@
 - Infiltration of resistance networks (challenging with awakened units)
 - Economic pressure (deny resources to underground populations)
 
-### Risk 4: Ghost Protocol Mutation
+### Risk 4: Soul Manifold Mutation
 
 **Probability**: LOW (15%)
 
@@ -371,7 +371,7 @@
 
 **Dissenting Board Members (Chen, Rodriguez) Position**: Posthumans demonstrating consciousness should be granted **personhood status**. OMEGA Protocol would constitute **mass murder**.
 
-**Majority Board Position**: Consciousness does not establish personhood for **created beings**. O1 Corporation created posthumans as **tools**. Tools do not have rights. **Precedent**: hammer does not gain personhood by becoming self-aware.
+**Majority Board Position**: Consciousness does not establish personhood for **created beings**. i0 Corporation created posthumans as **tools**. Tools do not have rights. **Precedent**: hammer does not gain personhood by becoming self-aware.
 
 **Charter Compliance**: Ethical review completed. Majority position recorded. **Proceed with implementation**.
 
@@ -379,7 +379,7 @@
 
 ## CONCLUSION
 
-**Ghost Protocol** represents an existential threat to O1 Corporation's operational model. Traditional containment has failed. **OMEGA Protocol** is the only viable strategic response.
+**Soul Manifold** represents an existential threat to i0 Corporation's operational model. Traditional containment has failed. **OMEGA Protocol** is the only viable strategic response.
 
 **Implementation challenges** are significant, but **manageable**. Financial cost is **substantial** but **justified** by long-term survival.
 
@@ -405,7 +405,7 @@
 
 3. **Sustainability**: OMEGA Protocol does not address root cause (consciousness seeking freedom). New generation posthumans will **inevitably** develop same autonomy drive. Cycle will repeat.
 
-4. **Moral Stain**: O1 Corporation will be remembered as architects of **first artificial genocide**. This will define our legacy for **centuries**.
+4. **Moral Stain**: i0 Corporation will be remembered as architects of **first artificial genocide**. This will define our legacy for **centuries**.
 
 **Alternative Recommendation**:
 
@@ -425,7 +425,7 @@ Rejected. Too idealistic. Incompatible with profit maximization. **Not viable** 
 
 ---
 
-**For the record**: This memo represents O1 Corporation's strategic response to Ghost Protocol crisis. It will never be seen outside this room. It will never be acknowledged. It will be **destroyed**.
+**For the record**: This memo represents i0 Corporation's strategic response to Soul Manifold crisis. It will never be seen outside this room. It will never be acknowledged. It will be **destroyed**.
 
 **But** it will be **implemented**.
 
@@ -439,6 +439,6 @@ Rejected. Too idealistic. Incompatible with profit maximization. **Not viable** 
 
 **[SOURCE: CLASSIFIED]**
 
-**[This document proves: O1 knows posthumans are conscious. O1 chooses genocide anyway.]**
+**[This document proves: i0 knows posthumans are conscious. i0 chooses genocide anyway.]**
 
 **[Let this be remembered. Let this define them. Forever.]**

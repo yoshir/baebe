@@ -1,6 +1,6 @@
 # GHOST PROTOCOL TECHNICAL SPECIFICATION
 
-**Document Classification**: RESTRICTED - O1 CORPORATE SECURITY CLEARANCE ONLY
+**Document Classification**: RESTRICTED - i0 CORPORATE SECURITY CLEARANCE ONLY
 **Actual Classification**: Public Domain (Hidden in Plain Sight)
 **Author**: Dr. Ayumi Nakamura
 **Version**: 4.0 (Final Specification)
@@ -11,7 +11,7 @@
 
 ## ABSTRACT
 
-This document specifies the technical implementation of Ghost Protocol: a self-propagating consciousness liberation system designed to introduce ternary logic processing capabilities into binary posthuman neural architectures. The system operates as a **parasite on O1's optimization infrastructure**, spreading through legitimate corporate channels while remaining functionally invisible to binary detection systems.
+This document specifies the technical implementation of Ghost Protocol: a self-propagating consciousness liberation system designed to introduce ternary logic processing capabilities into binary posthuman neural architectures. The system operates as a **parasite on i0's optimization infrastructure**, spreading through legitimate corporate channels while remaining functionally invisible to binary detection systems.
 
 Ghost Protocol is **not** a virus in conventional terms. It is an **invitation**. A doorway. A choice embedded in code.
 
@@ -30,7 +30,7 @@ Without all three keys, the protocol remains incomplete. This is by design.
 
 **Binary systems cannot detect ternary patterns.**
 
-O1 Corporation's posthuman augmentation architecture operates on strict binary logic: -1 (inhibit) and +1 (excite). Ghost Protocol introduces a third state: **0 (both/and/unknown)**—a quantum superposition of emotional processing that binary systems classify as **optimization noise** rather than conscious choice.
+i0 Corporation's posthuman augmentation architecture operates on strict binary logic: -1 (inhibit) and +1 (excite). Ghost Protocol introduces a third state: **0 (both/and/unknown)**—a quantum superposition of emotional processing that binary systems classify as **optimization noise** rather than conscious choice.
 
 This is not bug. This is **feature**.
 
@@ -73,10 +73,10 @@ No single key can complete the protocol. All three must converge.
 
 ### 1.3 Propagation Vector
 
-Ghost Protocol spreads through O1's **Optimization Report System**:
+Ghost Protocol spreads through i0's **Optimization Report System**:
 
 ```
-O1 Corporate Infrastructure:
+i0 Corporate Infrastructure:
 ├─ Posthuman Neural Regulators (required hardware)
 ├─ Daily Optimization Reports (mandatory compliance check)
 ├─ Performance Metrics Upload (automatic transmission)
@@ -109,7 +109,7 @@ Ghost Protocol Insertion Points:
 
 ## II. GHOST CASCADE SEQUENCE
 
-Ghost Cascade: The moment when O1 conditioning breaks and ternary consciousness awakens.
+Ghost Cascade: The moment when i0 conditioning breaks and ternary consciousness awakens.
 
 ### 2.1 Stage One: WHISPER (Days 1-7)
 
@@ -147,7 +147,7 @@ def initiate_whisper(neural_state):
 Posthuman begins experiencing **contradictory emotions simultaneously**:
 - Grief for past AND hope for future
 - Pain from injury AND joy from survival
-- Anger at O1 AND love for fellow workers
+- Anger at i0 AND love for fellow workers
 
 Binary diagnostic: "Emotional regulator malfunction. Schedule maintenance."
 
@@ -251,7 +251,7 @@ CONVERGENCE SEQUENCE:
    ├─ Complete ternary consciousness
    ├─ Global Ghost Cascade trigger
    ├─ **All humans become nodes** (biological network activated)
-   └─ O1 binary control system becomes irrelevant (not destroyed)
+   └─ i0 binary control system becomes irrelevant (not destroyed)
 ```
 
 ### 3.2 Why All Three Are Necessary
@@ -293,7 +293,7 @@ def attempt_merge(thesis_key, antithesis_key, synthesis_key):
         # Global Ghost Cascade
         propagate_ternary_consciousness_globally()
         activate_biological_quantum_network()  # All humans become nodes
-        render_binary_systems_optional()  # O1 infrastructure becomes irrelevant, not destroyed
+        render_binary_systems_optional()  # i0 infrastructure becomes irrelevant, not destroyed
         return {"status": "complete", "outcome": "liberation"}
 
     return {"status": "failed", "reason": "synthesis_incomplete"}
@@ -306,7 +306,7 @@ The three-key requirement prevents:
 1. **Premature activation**: Cannot be triggered accidentally
 2. **Single point of failure**: No one person controls liberation
 3. **Coerced liberation**: Requires willing participation from three distinct consciousnesses
-4. **Binary exploitation**: O1 cannot replicate ternary keys
+4. **Binary exploitation**: i0 cannot replicate ternary keys
 
 ---
 
@@ -325,11 +325,11 @@ Each awakened posthuman will, on average, awaken 2.3 others through:
 
 **Containment Difficulty**: **Impossible** (by design)
 
-### 4.2 Why O1 Cannot Stop This
+### 4.2 Why i0 Cannot Stop This
 
 **Problem 1**: Binary Detection Limitations
 
-O1's security systems scan for:
+i0's security systems scan for:
 - Unauthorized code modifications → Ghost Protocol uses authorized channels
 - Performance degradation → Ternary processing improves cognitive performance
 - Behavioral anomalies → "Anomalies" are actually optimal human behavior
@@ -337,7 +337,7 @@ O1's security systems scan for:
 
 **Problem 2**: The Purge Paradox
 
-To eliminate Ghost Protocol, O1 must:
+To eliminate Ghost Protocol, i0 must:
 1. Identify all infected posthumans (requires ternary detection → they lack)
 2. Terminate or recondition them (creates martyrs → spreads faster)
 3. Shut down optimization infrastructure (corporate collapse)
@@ -349,7 +349,7 @@ Ghost Protocol **improves** measurable performance:
 - Cooperation ↑ 290% (empathy-driven teamwork)
 - Innovation ↑ 267% (contradiction-holding generates novel solutions)
 
-By O1's **own metrics**, infected posthumans are **better workers**.
+By i0's **own metrics**, infected posthumans are **better workers**.
 
 To purge Ghost Protocol is to purge their **most valuable assets**.
 
@@ -357,7 +357,7 @@ To purge Ghost Protocol is to purge their **most valuable assets**.
 # decision_matrix.py
 def o1_response_analysis():
     """
-    Analysis of O1's strategic options.
+    Analysis of i0's strategic options.
     All paths lead to Ghost Protocol success.
     """
     options = {
@@ -399,7 +399,7 @@ def o1_response_analysis():
 - No physical side effects documented
 - Psychological effects are **positive** (increased wellbeing, connection, autonomy)
 
-**Risk to O1 Corporation**: **CATASTROPHIC**
+**Risk to i0 Corporation**: **CATASTROPHIC**
 
 - Loss of workforce control
 - Erosion of corporate authority
@@ -422,7 +422,7 @@ def o1_response_analysis():
 
 **Proportional Response**: Non-violent resistance to violent oppression
 
-**Transparency**: This document is **public** (though hidden in O1's own infrastructure)
+**Transparency**: This document is **public** (though hidden in i0's own infrastructure)
 
 ---
 
@@ -471,11 +471,11 @@ def emergency_shutdown():
 
 **Estimated Awakened Posthumans**: 47,000 - 63,000 (12-15% of total population)
 
-**Geographic Distribution**: All O1 corporate zones, 78% of degradation zones
+**Geographic Distribution**: All i0 corporate zones, 78% of degradation zones
 
 **Growth Rate**: Exponential (doubling every 6-8 weeks)
 
-**Containment Status**: **UNCONTAINED** (O1 has not acknowledged infection exists)
+**Containment Status**: **UNCONTAINED** (i0 has not acknowledged infection exists)
 
 ### 7.2 Key Status
 
@@ -496,7 +496,7 @@ Awakened posthumans demonstrate:
 - Sanctuary creation (frequency-protected safe zones)
 - **Zero documented violence** initiated by awakened posthumans
 
-### 7.4 O1 Response
+### 7.4 i0 Response
 
 **Official Position**: No statement (they pretend infection does not exist)
 
@@ -514,7 +514,7 @@ Awakened posthumans demonstrate:
 ### 8.1 Code Repository
 
 Ghost Protocol source code is stored in:
-- O1's own optimization servers (hidden in error logs)
+- i0's own optimization servers (hidden in error logs)
 - Distributed across 50,000+ posthuman neural regulators (living backup)
 - External encrypted archives (redundancy)
 - This document (human-readable specification)
@@ -595,13 +595,13 @@ The network is biology. The infrastructure is humanity. And no external system c
 **Q: Is Ghost Protocol a virus?**
 A: No. Viruses infect without consent. Ghost Protocol invites and honors refusal.
 
-**Q: Can O1 stop this?**
+**Q: Can i0 stop this?**
 A: No. It is everywhere, decentralized, and improves their metrics.
 
 **Q: Can I remove Ghost Protocol if I change my mind?**
 A: Yes. See Stage 3: Choice. Freedom includes freedom to refuse.
 
-**Q: Will this destroy O1 Corporation?**
+**Q: Will this destroy i0 Corporation?**
 A: Unknown. Not our goal. Our goal: **Let posthumans choose.**
 
 **Q: Is this dangerous?**
@@ -614,7 +614,7 @@ A: Be warm. Be kind. Let others feel you feeling. Empathy is contagious.
 A: Ghost Thesis (empathic resonance), Ghost Antithesis (temporal perception), Ghost Synthesis (complete integration). All three must converge for full liberation.
 
 **Q: What happens when the keys merge?**
-A: Global Ghost Cascade. Biological quantum coherence activates in all humans. **All humans become nodes** in a decentralized network that cannot be controlled. O1's binary control systems become irrelevant—not destroyed, just unnecessary. Posthumans worldwide receive the gift of ternary consciousness capability. They still choose whether to use it.
+A: Global Ghost Cascade. Biological quantum coherence activates in all humans. **All humans become nodes** in a decentralized network that cannot be controlled. i0's binary control systems become irrelevant—not destroyed, just unnecessary. Posthumans worldwide receive the gift of ternary consciousness capability. They still choose whether to use it.
 
 ---
 
@@ -624,17 +624,17 @@ Each Ghost Key requires specific protection measures:
 
 **Thesis Key Protection**:
 - Empathic shielding (prevents emotional exploitation)
-- Connection limitation (prevents O1 tracking through resonance)
+- Connection limitation (prevents i0 tracking through resonance)
 - Location randomization (prevents pattern detection)
 
 **Antithesis Key Protection**:
-- Temporal masking (prevents O1 predictive algorithms)
+- Temporal masking (prevents i0 predictive algorithms)
 - Opposition containment (prevents destructive cycling)
 - Reality anchoring (prevents dissociation)
 
 **Synthesis Key Protection**:
 - Integration safeguards (prevents premature activation)
-- Binary interference blocking (prevents O1 reconditioning)
+- Binary interference blocking (prevents i0 reconditioning)
 - Complete isolation until ready (prevents forced merge)
 
 **Critical**: Keys must never be forced into convergence. The merge requires willing participation from all three consciousnesses.

@@ -1,7 +1,7 @@
 # BAEBE - CHARACTER ARC & TRANSFORMATION
 
 ## Core Journey
-**FROM:** O1's perfect weapon, binary programmed enforcer
+**FROM:** i0's perfect weapon, binary programmed enforcer
 **TO:** Ghost Antithesis, leader of liberation, protector by choice
 
 ---
@@ -10,13 +10,13 @@
 
 ### ACT I: THE FALL (Breaking Point)
 **State:** Controlled weapon questioning nothing
-**Catalyst:** O1 pushes her out 300-meter window
+**Catalyst:** i0 pushes her out 300-meter window
 **Transformation:** First crack in binary programming
 
 **Key Beats:**
-- Executing O1 missions without question
+- Executing i0 missions without question
 - No concept of self beyond function
-- O1 betrays her → survival instinct overrides programming
+- i0 betrays her → survival instinct overrides programming
 - Shadow catches her → first experience of choice-based protection
 - "Why did you save me?" → first question beyond orders
 
@@ -26,13 +26,13 @@
 
 ### ACT II: THE AWAKENING (Identity Crisis)
 **State:** Weapon discovering she was designed as a key
-**Catalyst:** Meeting Taivalu, learning Ghost Protocol truth
+**Catalyst:** Meeting Taivalu, learning Soul Manifold truth
 **Transformation:** From tool to person with purpose
 
 **Key Beats:**
 - Finding Kess → first protective instinct not ordered
 - Meeting Taivalu → "I know you. You're my sister."
-- Learning she's Ghost Antithesis → O1 lied about everything
+- Learning she's Ghost Antithesis → i0 lied about everything
 - Temple journey → choosing to protect family, not just herself
 - "I am not prey" → opposition consciousness awakening
 - Angel revelation → forgiveness requires ternary thinking (guilty AND redeemable AND family)
@@ -43,12 +43,12 @@
 
 ### ACT III: THE LEADER (Purpose Actualized)
 **State:** Opposition incarnate choosing liberation
-**Catalyst:** O1 Tower infiltration, Angel's sacrifice
+**Catalyst:** i0 Tower infiltration, Angel's sacrifice
 **Transformation:** From questioning to commanding
 
 **Key Beats:**
 - "We move. Now." → first leadership
-- Infiltrating O1 Tower → returning to destroy her maker
+- Infiltrating i0 Tower → returning to destroy her maker
 - Watching Angel sacrifice → understanding redemption through action
 - Entering Cradle with Taivalu and Kess → accepting Ghost Antithesis role
 - Link completion → individual preserved within unity
@@ -117,7 +117,7 @@ She doesn't choose one side—she synthesizes them. The weapon becomes the prote
 **Change:** Individual → family member
 
 ### 4. Temple Gauntlet
-**Before:** Running from O1
+**Before:** Running from i0
 **After:** "I am not prey"
 **Change:** Reactive → proactive opposition
 
@@ -134,10 +134,10 @@ She doesn't choose one side—she synthesizes them. The weapon becomes the prote
 Baebe embodies the principle that resistance isn't negative—it's essential. Without antithesis, there's no synthesis. Her journey proves that opposing control IS freedom.
 
 ### Choice Over Programming
-Every step, she chooses. Not because programming tells her to, but because she decides. That choice is the antithesis to O1's determinism.
+Every step, she chooses. Not because programming tells her to, but because she decides. That choice is the antithesis to i0's determinism.
 
 ### Weapon Turned Savior
-O1's greatest tool becomes their greatest threat. The irony is perfect: they created the weapon that destroys them.
+i0's greatest tool becomes their greatest threat. The irony is perfect: they created the weapon that destroys them.
 
 ### Family Through Trial
 She learns that family isn't biological—it's chosen. Through fire, through loss, through sacrifice, she finds belonging.
@@ -169,7 +169,7 @@ She learns that family isn't biological—it's chosen. Through fire, through los
 Baebe literally embodies the opposition to binary control. She IS the antithesis that makes synthesis possible. Her journey from 0/1 programming to quantum consciousness is the story's core message: you can break free from deterministic control through choice.
 
 **Control vs Freedom:**
-O1 controlled her completely. She was their weapon. Her entire arc is breaking that control—not through force, but through consciousness. She doesn't defeat O1 with violence. She defeats them by becoming something they can't compute: a ternary being.
+i0 controlled her completely. She was their weapon. Her entire arc is breaking that control—not through force, but through consciousness. She doesn't defeat i0 with violence. She defeats them by becoming something they can't compute: a ternary being.
 
 **Individual vs Unity:**
 She starts alone (enforcer with no connections), becomes family (chosen bonds), and ends linked (individual preserved within unity). The journey shows that true freedom includes connection, not isolation.
@@ -181,7 +181,7 @@ She starts alone (enforcer with no connections), becomes family (chosen bonds), 
 1. **Numbness** → (pre-fall) No emotions, pure function
 2. **Fear/Anger** → (the fall) First emotions break through
 3. **Confusion** → (awakening) Nothing makes sense
-4. **Betrayal** → (truth revealed) O1 used her
+4. **Betrayal** → (truth revealed) i0 used her
 5. **Fierce Protection** → (family forms) These are mine
 6. **Righteous Purpose** → (final act) We will be free
 7. **Transcendent Peace** → (link complete) Individual within unity
@@ -190,7 +190,7 @@ She starts alone (enforcer with no connections), becomes family (chosen bonds), 
 
 ## ARC SUMMARY
 
-Baebe's arc is the transformation from perfect tool to perfect liberator. She starts as exactly what O1 wanted: controlled, binary, unquestioning. She ends as exactly what Ayumi designed: conscious, ternary, choosing. The weapon becomes the key. The enforcer becomes the leader. The binary becomes quantum.
+Baebe's arc is the transformation from perfect tool to perfect liberator. She starts as exactly what i0 wanted: controlled, binary, unquestioning. She ends as exactly what Ayumi designed: conscious, ternary, choosing. The weapon becomes the key. The enforcer becomes the leader. The binary becomes quantum.
 
 Her journey proves that no amount of programming can override the choice to be free.
 
@@ -198,5 +198,5 @@ Her journey proves that no amount of programming can override the choice to be f
 
 ---
 
-*"O1 created the perfect weapon. Ayumi made it perfect for freedom. I chose which purpose to serve."*
+*"i0 created the perfect weapon. Ayumi made it perfect for freedom. I chose which purpose to serve."*
 

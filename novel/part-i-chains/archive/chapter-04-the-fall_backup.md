@@ -10,7 +10,7 @@ Falling.
 **VELOCITY: ACCELERATING**
 **IMPACT IN: 00:00:14**
 
-The city rushes up. Fast. Too fast. Glass shards from the penthouse window fall with her—catching the distant glow of O1's network, reflecting the synchronized pulse of the city core, beautiful in the way broken things are beautiful when they catch light.
+The city rushes up. Fast. Too fast. Glass shards from the penthouse window fall with her—catching the distant glow of i0's network, reflecting the synchronized pulse of the city core, beautiful in the way broken things are beautiful when they catch light.
 
 The air tears past like silk ripping. She's a bullet through atmosphere. Tumbling. No control. No stabilization. Just gravity and velocity and the ground getting closer with mathematical certainty.
 
@@ -203,7 +203,7 @@ Footsteps echo in the darkness. Multiple. Coming closer. Voices filtered through
 
 "Visual contact. Target confirmed. Subject is alive."
 
-Not O1 retrieval. The voices are wrong. The gear is wrong.
+Not i0 retrieval. The voices are wrong. The gear is wrong.
 
 **Someone else**.
 

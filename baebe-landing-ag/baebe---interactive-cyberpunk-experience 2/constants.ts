@@ -71,7 +71,7 @@ End of Chapter 2.`,
     isFree: true,
     content: `The Tower looms.
 
-It is not a building; it is a monument to the old gods of Silicon Valley. The O1 spire pierces the smog layer, a needle injecting control directly into the sky.
+It is not a building; it is a monument to the old gods of Silicon Valley. The i0 spire pierces the smog layer, a needle injecting control directly into the sky.
 
 Baebe moves through the shadows. Her stealth camouflage flickers—damage from the fall. She needs a hardline. She needs access.
 
@@ -111,7 +111,7 @@ End of Chapter 4 sample.`,
     type: 'chapter',
     isFree: false,
     requiredSubscription: true,
-    content: `The system is down. The O1 network has fractured.
+    content: `The system is down. The i0 network has fractured.
 
 Across the globe, millions of screens go black, then flicker to life with a single message:
 

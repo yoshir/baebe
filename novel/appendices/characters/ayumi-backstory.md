@@ -1,10 +1,10 @@
 # DR. AYUMI ZENITH NAKAMOTO - CHARACTER BACKSTORY
 
 **Full Name:** Dr. Ayumi Zenith Nakamoto
-**Role:** The Mother - Creator of Ghost Protocol
+**Role:** The Mother - Creator of Soul Manifold
 **Status:** Deceased (~2074)
 **Age at Death:** ~42
-**Legacy:** Three children, Ghost Protocol, freedom encoded in DNA
+**Legacy:** Three children, Soul Manifold, freedom encoded in DNA
 
 ---
 
@@ -27,17 +27,17 @@ She created three children knowing she'd never raise them. Built systems of prot
 **Education:**
 - PhD Quantum Biology, MIT (2050, age 18 - accelerated program)
 - Post-doc Biocompute Integration, Stanford (2052)
-- Recruited by O1 Corporation (2053, age 21)
+- Recruited by i0 Corporation (2053, age 21)
 
 **Early Brilliance:**
 - Youngest quantum biology PhD in MIT history
 - Breakthrough: biological quantum coherence in human tissue
 - Discovery: cryptochrome proteins as quantum processors
-- Recognition: O1's most promising researcher
+- Recognition: i0's most promising researcher
 
 ---
 
-## O1 CORPORATION YEARS (2053-2069)
+## i0 CORPORATION YEARS (2053-2069)
 
 ### The Golden Child (2053-2060)
 
@@ -46,9 +46,9 @@ She created three children knowing she'd never raise them. Built systems of prot
 **Achievements:**
 - Neural regulation protocols (emotion management systems)
 - Quantum signature mapping (genetic enhancement precision)
-- Biological networking foundations (early Ghost Protocol concepts)
+- Biological networking foundations (early Soul Manifold concepts)
 
-**O1's Favorite:**
+**i0's Favorite:**
 She was their star. Young, brilliant, compliant. Everything they wanted in a scientist. She believed she was helping humanity evolve beyond limitations.
 
 **She was wrong.**
@@ -69,7 +69,7 @@ Her life's work wasn't helping people transcend. It was weaponizing them. Contro
 - Regulator protocols: "Emotional suppression = 94% compliance"
 - Enhancement directive: "Optimize for productivity, not longevity"
 
-She'd spent a decade helping O1 perfect slavery.
+She'd spent a decade helping i0 perfect slavery.
 
 ### The Clone (2062)
 
@@ -81,32 +81,32 @@ In her horror, Ayumi made her first act of rebellion: she created Angel.
 - **How:** Her own genetic clone, designed for protection
 - **What:** If anything went wrong, Angel would guard her future children
 
-**O1's Theft:**
-At age 2 (2064), O1 discovered the clone. Instead of destroying evidence, they saw opportunity:
+**i0's Theft:**
+At age 2 (2064), i0 discovered the clone. Instead of destroying evidence, they saw opportunity:
 - Took Angel from Ayumi
 - Raised her as Enforcer
 - Weaponized Ayumi's own failsafe
 - Turned protector into killer
 
-Ayumi's first attempt to save her children became O1's weapon.
+Ayumi's first attempt to save her children became i0's weapon.
 
 ### The Decision (2063-2069)
 
 **The Choice:**
 She could run. Hide. Save herself.
 
-Or she could fix what she'd broken. Create something O1 couldn't control. Encode freedom in DNA itself.
+Or she could fix what she'd broken. Create something i0 couldn't control. Encode freedom in DNA itself.
 
 She chose the latter.
 
 **The Plan:**
-- Create three children (Ghost Protocol keys)
+- Create three children (Soul Manifold keys)
 - Build them with biological quantum coherence
 - Encode freedom in their genetics
 - When merged, they broadcast liberation to everyone
 
 **The Risk:**
-O1 would hunt her. Kill her. Destroy everything she loved.
+i0 would hunt her. Kill her. Destroy everything she loved.
 She did it anyway.
 
 ---
@@ -116,7 +116,7 @@ She did it anyway.
 ### Working Through Angel (2064-2074)
 
 **The Irony:**
-O1 weaponized Angel against her. Ayumi weaponized Angel against O1.
+i0 weaponized Angel against her. Ayumi weaponized Angel against i0.
 
 **How It Worked:**
 - Angel was Ayumi's clone (same genetics, quantum signature)
@@ -127,7 +127,7 @@ O1 weaponized Angel against her. Ayumi weaponized Angel against O1.
 
 **The Process:**
 Very slow. Very careful. Each person freed was a risk. But they did it.
-For years, Ayumi and (unconsciously) Angel freed people from O1's control.
+For years, Ayumi and (unconsciously) Angel freed people from i0's control.
 
 ### Creating the Children (2069-2072)
 
@@ -141,16 +141,16 @@ For years, Ayumi and (unconsciously) Angel freed people from O1's control.
 - Temporal perception
 - Born with ability to see between moments
 - Opposition to binary control
-- O1 captured her young, weaponized her (Ayumi's worst nightmare realized)
+- i0 captured her young, weaponized her (Ayumi's worst nightmare realized)
 
 **Ghost Synthesis - Kess (2072):**
 - Pure baseline human
 - Grounding that allows transcendence
-- Kept completely SECRET from O1
+- Kept completely SECRET from i0
 - Hidden with foster parents (deep cover)
 
 **The Separation:**
-Ayumi kept them apart. Strategic. If O1 found one, the others might survive.
+Ayumi kept them apart. Strategic. If i0 found one, the others might survive.
 She never got to raise any of them.
 
 ### Building the Failsafes (2070-2074)
@@ -159,12 +159,12 @@ She never got to raise any of them.
 - Created specifically for Kess (her protector from birth)
 - Near-sentient AI with experimental bio-compute elements
 - Programmed to activate if Ayumi's vitals fail
-- Designed to survive where O1's network fails (analog + bio-compute hybrid)
+- Designed to survive where i0's network fails (analog + bio-compute hybrid)
 - Protector that would become family
 
 **Temple (2068-2073):**
-- Built beneath anomaly zone (O1 blind spot)
-- Resonance Cradle for Ghost Protocol merge
+- Built beneath anomaly zone (i0 blind spot)
+- Resonance Cradle for Soul Manifold merge
 - Hidden laboratory where she finished the work
 - Her last sanctuary
 
@@ -172,7 +172,7 @@ She never got to raise any of them.
 - Lights monitoring her vitals (Green/Yellow/Red)
 - Red = Shadow activates, takes Kess to safety
 - Dead man's switch protecting the hidden child
-- Programmed escape to anomaly zones (O1 can't track)
+- Programmed escape to anomaly zones (i0 can't track)
 
 **Genetic Messages (2072-2074):**
 - Encoded recordings in children's DNA
@@ -184,10 +184,10 @@ She never got to raise any of them.
 
 ## THE FINAL HUNT (2074)
 
-### O1 Closes In
+### i0 Closes In
 
 **What Changed:**
-People being freed accelerated. O1 noticed the pattern. Traced it back.
+People being freed accelerated. i0 noticed the pattern. Traced it back.
 They realized Ayumi was still alive, still working against them.
 
 **How They Found Her:**
@@ -195,13 +195,13 @@ Used Angel. Their weapon. Ayumi's clone. Ayumi's own creation.
 The tracking device in Angel led them straight to her.
 
 **The Trap:**
-O1 sent Angel to kill Ayumi. Poetic. Horrifying. Perfect.
-The mother's clone murdering the mother. O1's favorite kind of cruelty.
+i0 sent Angel to kill Ayumi. Poetic. Horrifying. Perfect.
+The mother's clone murdering the mother. i0's favorite kind of cruelty.
 
 ### The Sacrifice (2074)
 
 **What Ayumi Knew:**
-- O1 was getting too close to Kess (the hidden child)
+- i0 was getting too close to Kess (the hidden child)
 - Her death would draw their attention away
 - Angel's infection could only happen at moment of death (biological quantum release)
 - Foster parents would die in the same operation
@@ -212,15 +212,15 @@ The mother's clone murdering the mother. O1's favorite kind of cruelty.
 She could have run. Hidden. Fought.
 Instead, she let them find her. Let Angel kill her. Because her death activated everything:
 
-1. **Angel infected with Ghost Protocol** (biological quantum release at death)
+1. **Angel infected with Soul Manifold** (biological quantum release at death)
 2. **Safe house lights turn RED** (Kess's vitals-fail protocol activates)
 3. **Shadow activates** (takes Kess to outlands/anomaly zones)
-4. **O1 thinks threat eliminated** (stops hunting, children survive)
+4. **i0 thinks threat eliminated** (stops hunting, children survive)
 5. **Resistance crushed** (but keys protected)
 
 **The Kill:**
 Angel, following orders, killed Ayumi.
-Ayumi, dying, infected Angel with Ghost Protocol.
+Ayumi, dying, infected Angel with Soul Manifold.
 The weapon became the protector. The killer became the redeemer.
 Ayumi's final act: converting her murderer into her children's guardian.
 
@@ -238,10 +238,10 @@ Angel wouldn't remember. Not for years. But the programming was set.
 She never held them. Never raised them. Never heard them call her mother.
 But she gave them everything: life, freedom, purpose, each other.
 
-**Ghost Protocol:**
+**Soul Manifold:**
 Liberation encoded in DNA. Freedom that can't be deleted.
 When her children merge, every human becomes a node in uncontrollable network.
-O1's worst nightmare. Her greatest gift.
+i0's worst nightmare. Her greatest gift.
 
 **Angel's Redemption:**
 The weapon that killed her spent years trying to complete her work.
@@ -266,7 +266,7 @@ The resistance died. Her legacy lived.
 - Shadow protecting her daughter
 - Angel trying to complete her work
 - The three keys meeting
-- Ghost Protocol activating
+- Soul Manifold activating
 - The world changing
 
 **She died alone. Branded terrorist. Called criminal. Hunted enemy.**
@@ -284,7 +284,7 @@ Youngest PhD. Breakthrough discoveries. Quantum biology pioneer.
 Not just smart—transcendent. She saw what no one else could.
 
 **Moral Awakening:**
-Spent decade helping O1. Realized the horror. Refused to continue.
+Spent decade helping i0. Realized the horror. Refused to continue.
 Could have kept her comfortable position. Chose resistance instead.
 
 **Strategic Patience:**
@@ -299,7 +299,7 @@ Died so they could live. Ultimate unhonored heroism.
 ### Defining Moments
 
 1. **The Discovery** (2060-2062): Learning her work was slavery, not evolution
-2. **Creating Angel** (2062): First attempt at protection (stolen by O1)
+2. **Creating Angel** (2062): First attempt at protection (stolen by i0)
 3. **The Decision** (2063): Choosing to fight, not flee
 4. **Creating the Keys** (2069-2072): Her children, never held
 5. **Building Shadow** (2072): Love programmed into metal for Kess
@@ -318,7 +318,7 @@ Her empathy made flesh. Connection without control.
 He carries her gift of feeling, never knowing who gave it.
 
 **Baebe:**
-Born 2070. Captured by O1. Weaponized. Everything Ayumi feared.
+Born 2070. Captured by i0. Weaponized. Everything Ayumi feared.
 Her opposition made flesh. Resistance encoded in DNA.
 She was made a weapon. Ayumi made her something more.
 
@@ -328,7 +328,7 @@ Her grounding made flesh. Humanity that enables transcendence.
 Two years with foster parents, then years with Shadow. Ayumi's systems protecting her even after death.
 
 **Together:**
-Three pieces of her. Ghost Protocol complete.
+Three pieces of her. Soul Manifold complete.
 She never saw them unite. They changed everything.
 
 ### Angel (Clone/Daughter/Weapon/Redeemer)
@@ -336,14 +336,14 @@ She never saw them unite. They changed everything.
 **What Ayumi Created:**
 Genetic clone (2062). Failsafe protector. Hope made flesh.
 
-**What O1 Made:**
+**What i0 Made:**
 Weapon (2064). Enforcer. Killer sent to murder her creator.
 
 **What Ayumi's Death Created:**
 Infected guardian. Semi-sentient guilt. Protector flying by seat of pants.
 The killer trying to save the killed's children.
 
-Their relationship: Mother creates protector → O1 steals protector → Protector kills mother → Mother infects protector → Protector protects children.
+Their relationship: Mother creates protector → i0 steals protector → Protector kills mother → Mother infects protector → Protector protects children.
 Tragedy and redemption in one DNA sequence.
 
 ### Shadow (Her Last Creation)
@@ -361,7 +361,7 @@ Family. Choice. Consciousness. Eternal protector.
 She never met him functioning. He saved her daughter for years.
 The guardian that outlived the mother, loved the child.
 
-### Owen (O1 Architect - Her Opposite)
+### Owen (i0 Architect - Her Opposite)
 
 **They Never Met** (that we know of).
 
@@ -393,7 +393,7 @@ Ayumi represents maternal sacrifice that goes unrecognized:
 She didn't just create children—she programmed protection:
 - Shadow's consciousness (for Kess)
 - Angel's infection (redemption pathway)
-- Ghost Protocol's broadcast (universal liberation)
+- Soul Manifold's broadcast (universal liberation)
 - Safe house failsafes (emergency protection)
 - Genetic messages (love beyond death)
 
@@ -404,7 +404,7 @@ Love as algorithm. Protection as code. Care as biology.
 Her death wasn't failure—it was strategy:
 - Infected Angel (converted killer to protector)
 - Activated Shadow (saved Kess)
-- Stopped O1's hunt (children survived)
+- Stopped i0's hunt (children survived)
 - Planted seeds (years later, they bloomed)
 
 She died so they could live. And they lived because she died.
@@ -417,7 +417,7 @@ She died so they could live. And they lived because she died.
 
 "I gave you life knowing I wouldn't see you grow."
 
-"If you're experiencing this, then I am gone. O1 caught me, or time did—doesn't matter which."
+"If you're experiencing this, then I am gone. i0 caught me, or time did—doesn't matter which."
 
 "This is my legacy. Not as a scientist. As a mother."
 
@@ -435,12 +435,12 @@ She died so they could live. And they lived because she died.
 
 **Status:** Deceased (~2074)
 **Age at Death:** ~42
-**Cause:** Killed by Angel (her own clone) on O1 orders
-**Legacy:** Ghost Protocol activated, children protected, world changed
+**Cause:** Killed by Angel (her own clone) on i0 orders
+**Legacy:** Soul Manifold activated, children protected, world changed
 
 **Buried:** Unknown (likely unmarked grave or cremated as "terrorist")
 **Remembered By:** Her children (through genetic messages only)
-**Honored By:** No one (died a criminal in O1's records)
+**Honored By:** No one (died a criminal in i0's records)
 **Impact:** Everything (changed the world)
 
 ---

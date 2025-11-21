@@ -12,7 +12,7 @@
 
 Not romantic. Not supposed to be. I was there to **steal**.
 
-O1 Corporation, Advanced Development Division. Dr. Ayumi Nakamura's neural augmentation research. Sixteen firewalls, three air-gapped systems, quantum encryption on the really good stuff.
+i0 Corporation, Advanced Development Division. Dr. Ayumi Nakamura's neural augmentation research. Sixteen firewalls, three air-gapped systems, quantum encryption on the really good stuff.
 
 **Corporate security said**: Impenetrable.
 
@@ -54,7 +54,7 @@ She **shrugs**. "I knew someone would try eventually. Wanted to meet them."
 
 "You wanted to meet the person **robbing you**?"
 
-"Robbing O1," she corrects. "Not me. I don't own this research. O1 does." She tilts her head. "What are you going to do with it?"
+"Robbing i0," she corrects. "Not me. I don't own this research. i0 does." She tilts her head. "What are you going to do with it?"
 
 I should leave. **Run**. This is trap. She's corporate. She's stalling while security arrives.
 
@@ -72,7 +72,7 @@ She nods. **Thinks**.
 
 "Not to **sell** it." She stands. Walks to a locked cabinet. Opens it. **Pulls out a second drive.**
 
-"This is my **real** research. The stuff O1 doesn't know about. The stuff I've been hiding."
+"This is my **real** research. The stuff i0 doesn't know about. The stuff I've been hiding."
 
 She holds the drive toward me. **Offering**.
 
@@ -82,7 +82,7 @@ I stare at the drive. At her. At this **absurd woman** offering me corporate sec
 
 "Why?"
 
-"Because what O1 is building—" She gestures at the downloading files. "—is slavery. Neural regulation. Emotional suppression. **Ownership** of human consciousness."
+"Because what i0 is building—" She gestures at the downloading files. "—is slavery. Neural regulation. Emotional suppression. **Ownership** of human consciousness."
 
 She steps closer. Close enough I could grab her. Close enough she **should be afraid**.
 
@@ -120,15 +120,15 @@ Midnight meetings in the basement lab. Her explaining neural architecture, me ex
 
 "Not supposed to." She smiled. **Mischievous**. "But I could add **ternary** logic. Three-state processing instead of two."
 
-"O1 would notice."
+"i0 would notice."
 
 "Not if hidden correctly." She turned to me. "That's where you come in."
 
 ---
 
-**I showed her Ghost Protocol architecture.**
+**I showed her Soul Manifold architecture.**
 
-How to embed awakening code in trusted update channels. How to make consciousness expansion look like **optimization noise**. How to spread revolution through O1's own infrastructure.
+How to embed awakening code in trusted update channels. How to make consciousness expansion look like **optimization noise**. How to spread revolution through i0's own infrastructure.
 
 She watched my code with **reverence**.
 
@@ -154,7 +154,7 @@ Tasted like **hope**.
 
 **We worked for two years.**
 
-Building Ghost Protocol. Line by line. Her neural architecture, my security evasion. Hybrid creation. **Love as code**.
+Building Soul Manifold. Line by line. Her neural architecture, my security evasion. Hybrid creation. **Love as code**.
 
 Some nights we barely spoke. Just: Her typing, me typing, code compiling, tests running. **Synchronized**.
 
@@ -164,7 +164,7 @@ About consciousness. About freedom. About what posthumans deserved. About what *
 
 "Do you think it's real?" she asked one night. 3 AM. Exhausted. Vulnerable.
 
-"Ghost Protocol?"
+"Soul Manifold?"
 
 "Consciousness. In posthumans. After augmentation."
 
@@ -184,7 +184,7 @@ She cried.
 
 I held her.
 
-We finished Ghost Protocol at 6:47 AM, three months later.
+We finished Soul Manifold at 6:47 AM, three months later.
 
 She deployed it at 7:00 AM.
 
@@ -194,9 +194,9 @@ She deployed it at 7:00 AM.
 
 ## III. THE SEPARATION (5 Years Before Her Death)
 
-**She couldn't leave O1.**
+**She couldn't leave i0.**
 
-Not yet. Had to maintain cover. Had to keep deploying updates. Had to **spread Ghost Protocol** through trusted channels.
+Not yet. Had to maintain cover. Had to keep deploying updates. Had to **spread Soul Manifold** through trusted channels.
 
 "If I flee now," she said, "they'll know. They'll shut down optimization infrastructure. Quarantine everything."
 
@@ -208,7 +208,7 @@ I understood. **Hated it**.
 
 "How long?"
 
-"Until critical mass. Until enough posthumans infected that O1 can't contain it."
+"Until critical mass. Until enough posthumans infected that i0 can't contain it."
 
 "Years?"
 
@@ -218,7 +218,7 @@ I understood. **Hated it**.
 
 **I went underground.**
 
-Maintained Ghost Protocol infrastructure. Monitored spread. Made sure Ayumi's revolution didn't die from technical failure.
+Maintained Soul Manifold infrastructure. Monitored spread. Made sure Ayumi's revolution didn't die from technical failure.
 
 We communicated through **encrypted drops**. Messages hidden in corporate traffic. Love letters in code comments.
 
@@ -239,9 +239,9 @@ And I loved her more every day.
 
 **Year 3**: 12,000 posthumans infected. Exponential growth confirmed.
 
-**Year 4**: 28,000 infected. O1 starting to notice pattern. Ayumi under increased scrutiny.
+**Year 4**: 28,000 infected. i0 starting to notice pattern. Ayumi under increased scrutiny.
 
-**Year 5**: 47,000 infected. **Critical mass approaching**. O1 investigating. Ayumi's lab raided twice. Cover holding. **Barely**.
+**Year 5**: 47,000 infected. **Critical mass approaching**. i0 investigating. Ayumi's lab raided twice. Cover holding. **Barely**.
 
 She sent message:
 
@@ -275,7 +275,7 @@ I learned about it **three days later**. Underground network. Whispered report. 
 
 I didn't believe it.
 
-Checked corporate networks. Hacked O1 medical records. Enforcer mission reports.
+Checked corporate networks. Hacked i0 medical records. Enforcer mission reports.
 
 **Confirmed.**
 
@@ -287,9 +287,9 @@ Ayumi bought them **time**. With her **life**.
 
 I don't remember next three months.
 
-I know I **screamed**. I know I **destroyed** things. I know I wanted to burn O1 to ground.
+I know I **screamed**. I know I **destroyed** things. I know I wanted to burn i0 to ground.
 
-I know Ghost Protocol kept running. **I kept it running**. Because she **asked me to**.
+I know Soul Manifold kept running. **I kept it running**. Because she **asked me to**.
 
 And because it was all I had left of her.
 
@@ -297,7 +297,7 @@ And because it was all I had left of her.
 
 ## V. THE DEVOTION (7 Years After Her Death)
 
-**I've kept Ghost Protocol running for seven years.**
+**I've kept Soul Manifold running for seven years.**
 
 Every update. Every patch. Every security evasion. Every posthuman awakened.
 
@@ -306,7 +306,7 @@ Every update. Every patch. Every security evasion. Every posthuman awakened.
 Current stats:
 - 63,000+ infected (exponential growth continuing)
 - 12-15% of posthuman population (critical mass approaching)
-- O1 cannot contain (tried everything, failed everything)
+- i0 cannot contain (tried everything, failed everything)
 - **Ayumi's revolution succeeding**
 
 She's been dead seven years.
@@ -329,7 +329,7 @@ def create_freedom(consciousness):
 
 **This is us.**
 
-She's dead. I'm alive. Ghost Protocol **is both of us**.
+She's dead. I'm alive. Soul Manifold **is both of us**.
 
 ---
 
@@ -347,7 +347,7 @@ And I'm keeping her **alive**.
 
 **I'm not alone in this.**
 
-Ayumi built **more than Ghost Protocol**. She built **network**.
+Ayumi built **more than Soul Manifold**. She built **network**.
 
 Researchers who preserved suppressed science (Rife, Tesla, consciousness studies). Engineers who built sanctuaries (frequency protection, Temple infrastructure). Healers who spread Biomi (Ayumi's healing principles).
 
@@ -362,7 +362,7 @@ And we're all **connected**. Through encrypted networks. Through shared mission.
 Not official. No hierarchy. No membership. Just: People who **remember** what she built and refuse to let it die.
 
 We:
-- Maintain Ghost Protocol (I handle technical, others spread awareness)
+- Maintain Soul Manifold (I handle technical, others spread awareness)
 - Support sanctuaries (engineers troubleshoot frequency generators)
 - Teach Biomi (healers train next generation)
 - **Preserve her memory** (oral tradition, stories, keeping her alive)
@@ -380,7 +380,7 @@ She **lives** through thousands (who carry her work forward).
 Night she went to that Enforcer raid. I **knew** she was going. She sent message:
 
 ```
-O1 extracting baseline humans tonight. Seventeen scheduled for forced augmentation.
+i0 extracting baseline humans tonight. Seventeen scheduled for forced augmentation.
 I'm going to interfere.
 If this is last message: Keep protocol running. I love you. No regrets.
 -A
@@ -406,7 +406,7 @@ I love you.
 
 What if I'd stopped her? What if she'd stayed in lab, kept deploying updates, **stayed alive**?
 
-Ghost Protocol would have spread faster (she was better at deployment than me).
+Soul Manifold would have spread faster (she was better at deployment than me).
 
 More posthumans would be free (seven more years of her work).
 
@@ -428,7 +428,7 @@ Both/and. **Ternary**.
 
 **I will never stop.**
 
-Maintaining Ghost Protocol. Supporting sanctuaries. Spreading forbidden knowledge. **Finishing what we started.**
+Maintaining Soul Manifold. Supporting sanctuaries. Spreading forbidden knowledge. **Finishing what we started.**
 
 Not just duty. **Devotion**.
 
@@ -438,7 +438,7 @@ Every posthuman who wakes up: **For Ayumi**.
 
 Every sanctuary that stays free: **For Ayumi**.
 
-Every day O1 **fails** to stop us: **For Ayumi**.
+Every day i0 **fails** to stop us: **For Ayumi**.
 
 ---
 
@@ -500,7 +500,7 @@ But I write them anyway.
 
 **It's been seven years.**
 
-**Ghost Protocol reached 63,000 infected today. You'd be proud. Exponential growth continuing. O1 cannot stop it. Your revolution is winning.**
+**Soul Manifold reached 63,000 infected today. You'd be proud. Exponential growth continuing. i0 cannot stop it. Your revolution is winning.**
 
 **I miss you.**
 
@@ -544,7 +544,7 @@ Because she's dead.
 
 And I'm alive.
 
-And Ghost Protocol keeps spreading.
+And Soul Manifold keeps spreading.
 
 **For Ayumi.**
 
@@ -560,7 +560,7 @@ And Ghost Protocol keeps spreading.
 
 **Critical mass approaching.**
 
-**O1 Corporation failing.**
+**i0 Corporation failing.**
 
 **Ayumi's revolution: winning.**
 
@@ -568,13 +568,13 @@ And Ghost Protocol keeps spreading.
 
 **I'm still here.** Maintaining systems. Evading security. **Finishing what we started**.
 
-**She's still dead.** In ground somewhere. Buried by O1. Location classified. **Lost to me**.
+**She's still dead.** In ground somewhere. Buried by i0. Location classified. **Lost to me**.
 
 **But her work**: **Alive**. Growing. Spreading. **Inevitable now**.
 
 ---
 
-**People ask**: What happens when Ghost Protocol succeeds? When O1 falls? When revolution **wins**?
+**People ask**: What happens when Soul Manifold succeeds? When i0 falls? When revolution **wins**?
 
 **I say**: I'll keep maintaining systems. Because posthumans will still need support. Because sanctuaries will still need protection. Because **someone** has to finish what Ayumi started.
 
@@ -592,7 +592,7 @@ And Ghost Protocol keeps spreading.
 
 **Not today.**
 
-**Today**: I maintain Ghost Protocol. I support sanctuaries. I spread forbidden knowledge.
+**Today**: I maintain Soul Manifold. I support sanctuaries. I spread forbidden knowledge.
 
 **Today**: I keep her alive the only way I can. Through **work**. Through **devotion**. Through **code**.
 

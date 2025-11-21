@@ -42,7 +42,7 @@ But her irises are cycling: blue → white → brown → blue. Processing. Rejec
 
 "What? Me?" The professional mask slipping. "No, that's—that's not—"
 
-Her breathing accelerates. Chest tightening. Hyperventilation starting. The conditioning screaming at her to impose calm, to assess the situation tactically, to categorize this as just another mission variable. But the data won't fit. Won't make sense. Her training built on the foundation that she's an asset, that O1 values her, that completing missions means something. And if that's gone—
+Her breathing accelerates. Chest tightening. Hyperventilation starting. The conditioning screaming at her to impose calm, to assess the situation tactically, to categorize this as just another mission variable. But the data won't fit. Won't make sense. Her training built on the foundation that she's an asset, that i0 values her, that completing missions means something. And if that's gone—
 
 "Sanitation... activated. They're... for you. Not retrieval... termination."
 
@@ -52,7 +52,7 @@ Not rescue. Execution.
 
 Something breaks.
 
-Her irises STROBE—flickering so fast it looks like system failure. Like her optical implants glitching under information they weren't designed to process. The careful architecture of her conditioning coming apart because every protocol was built on one assumption: she matters to O1. And if she doesn't—
+Her irises STROBE—flickering so fast it looks like system failure. Like her optical implants glitching under information they weren't designed to process. The careful architecture of her conditioning coming apart because every protocol was built on one assumption: she matters to i0. And if she doesn't—
 
 "No. No no no no no—"
 
@@ -206,7 +206,7 @@ Her hand moves to her ear. Grips the neural link.
 
 She rips the neural link from the back of her neck.
 
-The tiny device sparks in her fingers—last piece of O1's technology still functioning, last connection to the network, last link to her old life. The thing that's whispered directives in her ear since activation. Since consciousness. Since she became whatever she is.
+The tiny device sparks in her fingers—last piece of i0's technology still functioning, last connection to the network, last link to her old life. The thing that's whispered directives in her ear since activation. Since consciousness. Since she became whatever she is.
 
 She looks at it. Light flickering weakly. The last surveillance trying to maintain control.
 
@@ -292,7 +292,7 @@ Baebe gasps—pain and shock—but Shadow adjusts grip immediately. Minimizing p
 
 "Shadow will carry you deeper. Fifth level. You'll be safe there." Kess's voice is reassuring. Sweet but knowing. "The interference zones. Where Cherubs can't track. Where the network doesn't reach."
 
-Baebe hangs from Shadow's jaws. Ten feet off the ground now. Looking down at Kess. At this nine-year-old scavenger who somehow commands a mechanical monster. Who somehow knows exactly where to hide from O1's reach.
+Baebe hangs from Shadow's jaws. Ten feet off the ground now. Looking down at Kess. At this nine-year-old scavenger who somehow commands a mechanical monster. Who somehow knows exactly where to hide from i0's reach.
 
 "Why are you... why are you helping me?"
 
@@ -330,7 +330,7 @@ Human baseline. Unfiltered. Witnessing kindness without tactical overlay freezin
 
 Just... seeing. Human. Real.
 
-Three figures disappear into the fog. Child, machine, and broken weapon. Vanishing into the spaces where O1's reach thins and something like freedom still exists.
+Three figures disappear into the fog. Child, machine, and broken weapon. Vanishing into the spaces where i0's reach thins and something like freedom still exists.
 
 ---
 

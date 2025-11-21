@@ -141,7 +141,7 @@ The other agents glide around her. Three more. Four total. Silent. Deft. Perfect
 ALTITUDE: 500 FT
 APPROACHING TARGET
 
-The building resolves through fog. Not O1's gleaming spires. Something older—a brutalist skyscraper from the 2020s, eighty stories of steel and concrete and broken glass. A monument to pre-superintelligence ambition, now abandoned. And at the top... wrong. The crown tilted, structural failure caught mid-collapse, the upper fifteen floors slumped at an impossible angle.
+The building resolves through fog. Not i0's gleaming spires. Something older—a brutalist skyscraper from the 2020s, eighty stories of steel and concrete and broken glass. A monument to pre-superintelligence ambition, now abandoned. And at the top... wrong. The crown tilted, structural failure caught mid-collapse, the upper fifteen floors slumped at an impossible angle.
 
 They're close. Too close. The building fills her vision—rust-stained facades, shattered windows, the tilted section cantilevered over nothing. A relic that should have been demolished but wasn't, because in the unincorporated zones, nothing gets demolished. Things just stop.
 
@@ -189,7 +189,7 @@ Not mechanical. Not human either. Something between. A frequency that shouldn't 
 
 Tai's sound.
 
-The thing he does. The ability that made him valuable and then made him dangerous and then made him something O1 couldn't control.
+The thing he does. The ability that made him valuable and then made him dangerous and then made him something i0 couldn't control.
 
 Frequency manipulation. Emotional resonance. The capacity to make people feel things the network says they shouldn't feel. Human things that melt conditioning.
 

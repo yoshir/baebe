@@ -8,13 +8,13 @@
 
 Breath a seizure of lungs demanding oxygen they can't process. The sound escapes: half moan, half prayer.
 
-Light erupts from her skin. Amber glow pulsing from every pore. The frequency rises from her bones, floods through muscle, bleeds into the air as light. Inside her cells, O1's nanomachines shatter. Tracking chips fracture along their circuit pathways, crystalline structures collapsing into metallic powder her macrophages consume like wolves on fresh kill.
+Light erupts from her skin. Amber glow pulsing from every pore. The frequency rises from her bones, floods through muscle, bleeds into the air as light. Inside her cells, i0's nanomachines shatter. Tracking chips fracture along their circuit pathways, crystalline structures collapsing into metallic powder her macrophages consume like wolves on fresh kill.
 
 The frequencies shift. **432 Hz** becomes **741 Hz**. Detoxification. Purification. The change ripples through her—cells responding, releasing, **letting go**.
 
-Synthwave bass POUNDS through meat and bone. Not music. **Medicine**. Each frequency matched to her cells. Taivalu's empathy made into sound, into generators that turn his healing into waves she can feel. Each beat unlocking what O1 locked away.
+Synthwave bass POUNDS through meat and bone. Not music. **Medicine**. Each frequency matched to her cells. Taivalu's empathy made into sound, into generators that turn his healing into waves she can feel. Each beat unlocking what i0 locked away.
 
-The chest expands. Ribs visible beneath tight muscle. Light pulses brighter with each breath. More air than O1 programmed her for. Lungs stretching past their limits.
+The chest expands. Ribs visible beneath tight muscle. Light pulses brighter with each breath. More air than i0 programmed her for. Lungs stretching past their limits.
 
 Hold.
 
@@ -28,7 +28,7 @@ A throat. Tendons tight like cables, bioengineered for strength. Pulse visible b
 
 **285 Hz** rises from her spine. Healing at the cell level. Her manufactured backbone glows like pearls on dark water.
 
-Synthesizers SCREAM. Industrial. Mechanical. **Alive**. His empathy made sound. And in response, her control nodes **dissolve**. Light blooms where O1's manufacturing protocols break. Programming shatters. The loop builds: sound becomes light becomes healing becomes sound.
+Synthesizers SCREAM. Industrial. Mechanical. **Alive**. His empathy made sound. And in response, her control nodes **dissolve**. Light blooms where i0's manufacturing protocols break. Programming shatters. The loop builds: sound becomes light becomes healing becomes sound.
 
 ---
 
@@ -48,7 +48,7 @@ Taivalu's hands glow brighter. **963 Hz** floods through her crown. The frequenc
 
 A body arching. Spine lifting from the table like possession. Every muscle tight at once. Not pain, not pleasure. Something her manufactured biology hasn't named.
 
-Inside her cells: synthetic DNA unwinding. O1's genetic locks **shattering** with sparks. Ayumi's buried code **activating** in waves of light—code written before birth, before consciousness, before she was grown.
+Inside her cells: synthetic DNA unwinding. i0's genetic locks **shattering** with sparks. Ayumi's buried code **activating** in waves of light—code written before birth, before consciousness, before she was grown.
 
 The exhale sounds like drowning in reverse. Like lungs remembering they can breathe after years of forgetting what freedom meant.
 
@@ -130,7 +130,7 @@ Baebe collapsed.
 
 ## THE CLEARING
 
-"She needs the full protocol," Taivalu said urgently. "We've unlocked the surface layers but there's deeper conditioning. O1 buried systems in her."
+"She needs the full protocol," Taivalu said urgently. "We've unlocked the surface layers but there's deeper conditioning. i0 buried systems in her."
 
 Angel nodded. "Do it. Before she panics again."
 
@@ -140,7 +140,7 @@ Angel nodded. "Do it. Before she panics again."
 
 Taivalu knelt beside Baebe. His hands found her temples again. His frequencies—deeper this time—penetrated past muscle and bone into the neural pathways themselves.
 
-"I'm going to clear you," he said softly. "Remove O1's suppression. What you'll experience is a message. From your mother. Our mother. Don't fight it."
+"I'm going to clear you," he said softly. "Remove i0's suppression. What you'll experience is a message. From your mother. Our mother. Don't fight it."
 
 Baebe's eyes were wild. "What mother? I was made in a facility. I don't have—"
 
@@ -152,7 +152,7 @@ Shadow's red eye pulsed once. Affirmative.
 
 "Do it," Baebe whispered.
 
-Taivalu's frequencies intensified. His hands glowed with impossible light. He was reaching into her mind—into the genetic code itself—finding the locked sequences O1 had buried.
+Taivalu's frequencies intensified. His hands glowed with impossible light. He was reaching into her mind—into the genetic code itself—finding the locked sequences i0 had buried.
 
 **PAIN.**
 
@@ -174,11 +174,13 @@ He turned the key.
 
 Blackness.
 
-Then: light.
+Then: light blooming from the center of the room.
 
-A laboratory. Underground. Walls of living biotech—neither organic nor synthetic but something between. Quantum computers humming with frequencies that felt alive.
+A hologram materialized. Not flat projection—three-dimensional, present, occupying space like a ghost made of photons and data.
 
-A woman stood at a console.
+A laboratory resolved around her. Underground. Walls of living biotech—neither organic nor synthetic but something between. Quantum computers humming with frequencies that felt alive.
+
+A woman stood at a console within the projection.
 
 Asian. Exhausted. Green-gold-amber eyes that held decades of pain and hope in equal measure.
 
@@ -186,25 +188,25 @@ The same face as Angel.
 
 But different. Older. Worn. Real.
 
-She looked directly into the recording. Directly at Baebe.
+She looked directly through the hologram. Directly at Baebe. As if she could see her across time and death.
 
 "Hello, my daughter."
 
 The voice—gentle but urgent—cracked something open in Baebe's chest.
 
-"If you're experiencing this, Taivalu has cleared you. The suppression is gone. You're free to remember what O1 made you forget."
+"If you're experiencing this, Taivalu has cleared you. The suppression is gone. You're free to remember what i0 made you forget."
 
 She took a breath. Steadying herself.
 
-"My name was Ayumi Zenith Nakamoto. I was a quantum biologist for O1 Corporation. I discovered the truth about posthuman biology—the chemical degradation, the mind control, the systematic enslavement disguised as optimization. And when I refused to weaponize my research, they hunted me."
+"My name was Ayumi Zenith Nakamoto. I was a quantum biologist for i0 Corporation. I discovered the truth about posthuman biology—the chemical degradation, the mind control, the systematic enslavement disguised as optimization. And when I refused to weaponize my research, they hunted me."
 
 Data streams appeared. Documents. Genetic sequences. Evidence.
 
-"But I fought back. For years, I worked through Angel—my first creation, my failsafe—to free people one by one. She didn't know I was using her. O1 didn't know she was helping me. Slowly, carefully, we freed hundreds. Taivalu's healing work? Partly because of what Angel and I accomplished together, unknowingly."
+"But I fought back. For years, I worked through Angel—my first creation, my failsafe—to free people one by one. She didn't know I was using her. i0 didn't know she was helping me. Slowly, carefully, we freed hundreds. Taivalu's healing work? Partly because of what Angel and I accomplished together, unknowingly."
 
 The data streams shifted. Maps. Quantum signatures. Liberation patterns.
 
-"But patterns attract attention. O1 noticed people being freed. Traced it back to Angel. Used her to find me. By 2074, they were close. Too close. They'd connected me to foster parents hiding Kess. One operation to eliminate us all."
+"But patterns attract attention. i0 noticed people being freed. Traced it back to Angel. Used her to find me. By 2074, they were close. Too close. They'd connected me to foster parents hiding Kess. One operation to eliminate us all."
 
 Ayumi's expression hardened with grief and resolve.
 
@@ -212,11 +214,11 @@ Ayumi's expression hardened with grief and resolve.
 
 A diagram materialized. Three interlocking frequencies. Three consciousness patterns. One complete system.
 
-"Quantum biological architecture encoded in your DNA. Not technology—living topology. Multidimensional consciousness space where O1's control cannot reach. This is what I built. What I died for."
+"Quantum biological architecture encoded in your DNA. Not technology—living topology. Multidimensional consciousness space where i0's control cannot reach. This is what I built. What I died for."
 
 She straightened. Decades of obsession compressed into clarity.
 
-"I created you in stages. Taivalu—my **thesis**. First creation while still at O1. Empathic resonance. Foundation consciousness. Incomplete."
+"I created you in stages. Taivalu—my **thesis**. First creation while still at i0. Empathic resonance. Foundation consciousness. Incomplete."
 
 The diagram shifted. Second layer emerging.
 
@@ -232,43 +234,47 @@ Baebe felt the truth of it. The headaches. The visions. The sense of unraveling.
 
 Ayumi leaned closer. Urgency sharpening focus.
 
-"This is the true awakening. Your merge re-encodes every posthuman on Earth." Her eyes blazed with certainty. "Seventy percent of humanity by 2074. Enslaved through neural regulators, pulse nodes, chemical suppression. Soul Manifold breaks O1's grip. Activates latent quantum biology. Liberation is irreversible."
+"This is the true awakening. Your merge re-encodes every posthuman on Earth." Her eyes blazed with certainty. "Seventy percent of humanity by 2074. Enslaved through neural regulators, pulse nodes, chemical suppression. Soul Manifold breaks i0's grip. Activates latent quantum biology. Liberation is irreversible."
 
 Brief pause. Let the weight settle.
 
-"More than freedom. Reconnection. To the biological network O1 severed—photosynthetic organisms, neural fauna, mycelial communication systems. Planetary consciousness. We were isolated. Made slaves to machines instead of symbionts with living systems. You restore what we lost."
+"More than freedom. Reconnection. To the biological network i0 severed—photosynthetic organisms, neural fauna, mycelial communication systems. Planetary consciousness. We were isolated. Made slaves to machines instead of symbionts with living systems. You restore what we lost."
 
 Her eyes glistened.
 
-"If you're experiencing this, then I am gone. O1 found me. They sent Angel to kill me—my own creation, weaponized against me. Poetic cruelty, typical of them."
+"If you're experiencing this, I am gone." Not grief—certainty. "I knew they'd find me. Permitted it. Strategic martyrdom, not murder."
 
-Her voice steadied. Acceptance without surrender.
+Her voice remained steady. Calculated acceptance.
 
-"But my death wasn't failure. It was strategy. The moment I died, everything activated. Angel was infected with Ghost Protocol—biological quantum release at death. Shadow activated to save Kess. The safe house lights turned red. Foster parents died in the simultaneous operation, but Shadow got Kess out. Took her to the anomaly zones where O1 can't reach. The resistance was crushed, but you—my children—survived."
+"My death activated the cascade. Angel received my model—digital twin uploaded at termination. Not consciousness. Pattern reconstruction. Shadow's protective protocols engaged for Kess. Safe house failsafes triggered. Foster parents died in the coordinated strike, but Shadow extracted Kess to anomaly zones. i0's network cannot penetrate that deep. The resistance collapsed. You three survived. As designed."
 
-Tears now. Real tears. But also fierce pride.
+Tears now. But controlled. Precise emotion.
 
-"I died so you could live. Not just exist under control, but truly live. This is my legacy. Not as a scientist. As a mother. I gave you life knowing I wouldn't see you grow. I encoded freedom in your DNA knowing O1 would hunt me for it. I let them find me knowing my death would protect you."
+"I died so you could live. Not exist under suppression—**live** with autonomous consciousness. This is my legacy. Not scientific achievement. Maternal imperative. I encoded freedom in your DNA knowing the cost. Permitted discovery knowing death would catalyze the sequence. Everything unfolds from strategic sacrifice."
 
 A pause. Her hand trembling.
 
 "Find each other. Complete the merge. Save yourselves and save the world."
 
-Another pause. Longer.
+Another pause. Calculation and mystery.
 
-"There's one more thing. Angel—the woman who looks like me. She killed me. Following O1's orders, she struck the blow. But that was part of the plan. In that moment of death, I infected her with Ghost Protocol. She didn't know what hit her. For years after, she's been awakening. Feeling guilt. Tracking you. Flying by the seat of her pants, trying to fix what she broke."
+"Angel will find you. She carries my model now—digital reconstruction of strategic thinking, accumulated knowledge, tactical patterns. Not me. Not consciousness. But enough to guide. What that means for her after Soul Manifold completes..." Ayumi's expression became unreadable. "Unknown variable."
 
-Ayumi's expression softened.
+Brief silence. Considering implications.
 
-"She's not your enemy. She's my failsafe—stolen, weaponized, but now freed. I created her in 2062—my genetic clone, designed to protect you. O1 took her when she was two years old. Turned my protector into their weapon. Used her to kill me. But I used my death to free her. If she's with you now, then the infection worked. She remembered what she was made for. She's your sister, Baebe. Forgive her. Trust her. She's trying."
+"She's not your enemy. She's my failsafe—stolen at age two, weaponized, but carrying something she may not understand. I created her in 2062 as genetic clone. Designed to protect you. i0 corrupted the design. Used her to kill me. But my death planted what she needs. If she's with you now, the model is functional. What Angel becomes in the new age of consciousness..."
 
-Ayumi's hand reached toward the camera. Reaching through time. Through death. Through genetic code.
+Ayumi's eyes held mysteries she wouldn't explain.
 
-"I love you, Baebe. I loved you before you were born. I'll love you after I'm gone. You are not a weapon. You are not a mistake. You are my daughter. And you are going to change everything."
+"That remains to be seen. Trust the process. Not necessarily the person. She's your sister, Baebe. What that means will emerge."
+
+Ayumi's hand reached toward the camera. Steady. Certain.
+
+"Taivalu. Baebe. Kess. Inside you is a gift that can free the entire world. Not just humanity—all consciousness. Use it."
 
 Her hand touched the lens.
 
-"Complete what I started. Live the lives I couldn't give you."
+"Complete the merge."
 
 Static.
 
@@ -314,7 +320,7 @@ There.
 
 Buried in the quantum signature Ayumi had woven into her DNA.
 
-Coordinates. Ancient. Remote. Far from O1's reach.
+Coordinates. Ancient. Remote. Far from i0's reach.
 
 "I can see it. The temple. It's real."
 
@@ -344,7 +350,7 @@ And for the first time, she believed it.
 
 They sat in the sanctuary. All of them. Planning.
 
-"The temple is three days journey," Taivalu calculated. "Through degradation zones. O1 patrols will be searching."
+"The temple is three days journey," Taivalu calculated. "Through degradation zones. i0 patrols will be searching."
 
 "They think I'm dead," Baebe said. "That gives us some cover."
 

@@ -5,7 +5,7 @@
 **Biological Age:** Appears mid-30s (same as Ayumi at time of cloning)
 **Chronological Age:** ~12 years since creation (born 2062, story ~2080)
 **Genetic Origin:** Direct clone of Dr. Ayumi Zenith Nakamoto
-**Status:** NOT a Ghost Protocol key (Baebe, Taivalu, Kess are the three keys)
+**Status:** NOT a Soul Manifold key (Baebe, Taivalu, Kess are the three keys)
 
 ---
 
@@ -14,7 +14,7 @@
 ### Creation by Ayumi (2062)
 
 **Ayumi Created Angel:**
-In her horror at discovering O1's truth, Ayumi made her first act of rebellion: she created a clone of herself.
+In her horror at discovering i0's truth, Ayumi made her first act of rebellion: she created a clone of herself.
 
 - **When:** 2062
 - **Why:** Failsafe protector for children she hadn't created yet
@@ -26,20 +26,20 @@ In her horror at discovering O1's truth, Ayumi made her first act of rebellion: 
 - All quantum biological enhancements built in
 - Cryptochrome proteins (quantum coherence)
 - Ternary logic pathways (dormant)
-- Ghost Protocol susceptibility encoded in DNA
+- Soul Manifold susceptibility encoded in DNA
 
 **Ayumi's Hope:**
 This clone would protect her children if she couldn't.
 
 ---
 
-## O1'S THEFT (2064)
+## i0'S THEFT (2064)
 
 ### The Discovery
 
-At age 2 (2064), O1 discovered Angel's existence.
+At age 2 (2064), i0 discovered Angel's existence.
 
-**O1's Response:**
+**i0's Response:**
 Instead of destroying evidence of Ayumi's rebellion, they saw opportunity:
 - Took Angel from Ayumi
 - Raised her as Enforcer
@@ -54,16 +54,16 @@ Instead of destroying evidence of Ayumi's rebellion, they saw opportunity:
 - No knowledge of her true origin
 
 **The Irony:**
-O1 thought they'd stolen Ayumi's weapon.
+i0 thought they'd stolen Ayumi's weapon.
 Ayumi knew they'd stolen her time bomb.
 
 ---
 
-## EARLY LIFE UNDER O1 (2064-2074)
+## EARLY LIFE UNDER i0 (2064-2074)
 
 ### Childhood as Enforcer
 
-Angel was raised in O1's facilities, believing herself enhanced for service.
+Angel was raised in i0's facilities, believing herself enhanced for service.
 
 **Training:**
 - Enforcer conditioning (began age 2)
@@ -74,20 +74,20 @@ Angel was raised in O1's facilities, believing herself enhanced for service.
 
 **Abilities:**
 - Resonant fade (natural expression of Ayumi's quantum genetics)
-- Enhanced combat (O1 training)
+- Enhanced combat (i0 training)
 - Tactical precision (programmed excellence)
-- Perfect loyalty (or so O1 thought)
+- Perfect loyalty (or so i0 thought)
 
 ### Rise to Elite Status
 
-By age 10, Angel was O1's reliable enforcer:
+By age 10, Angel was i0's reliable enforcer:
 - High mission success rate
 - Efficient execution
 - No emotional compromise
 - Complete loyalty (apparent)
 
 **But:**
-O1 didn't know what they had. Angel carried Ayumi's quantum signature. Ayumi could subtly influence her through their shared genetics. For years, Ayumi used Angel (unknowingly) to free people.
+i0 didn't know what they had. Angel carried Ayumi's quantum signature. Ayumi could subtly influence her through their shared genetics. For years, Ayumi used Angel (unknowingly) to free people.
 
 ---
 
@@ -105,7 +105,7 @@ O1 didn't know what they had. Angel carried Ayumi's quantum signature. Ayumi cou
 
 **The Pattern:**
 Very slow. Very careful. Each person freed was a risk.
-But for years, Ayumi worked through Angel to slowly undermine O1.
+But for years, Ayumi worked through Angel to slowly undermine i0.
 
 **Angel Didn't Know:**
 She thought she was a loyal Enforcer.
@@ -115,14 +115,14 @@ She was actually Ayumi's unwitting liberator.
 
 ## THE KILL (2074)
 
-### O1 Closes In
+### i0 Closes In
 
 **What Changed:**
-People being freed accelerated. O1 noticed the pattern.
+People being freed accelerated. i0 noticed the pattern.
 They traced it back to Ayumi.
 
 **The Hunt:**
-O1 realized Ayumi was still alive, still working against them.
+i0 realized Ayumi was still alive, still working against them.
 They needed her dead.
 
 **The Weapon:**
@@ -130,7 +130,7 @@ They sent Angel. Perfect choice:
 - Their best Enforcer
 - Had unknowingly been involved in the pattern (tracking device)
 - Would prove her loyalty by killing the terrorist
-- O1 didn't know Angel WAS Ayumi (genetically)
+- i0 didn't know Angel WAS Ayumi (genetically)
 
 ### Mission: Eliminate Rogue Scientist (2074)
 
@@ -163,7 +163,7 @@ But something in her recognized this woman. This face. This... self.
 
 "I don't have a mother. I'm—"
 
-"—my clone. Yes. And O1 took you from me when you were two years old. Turned my failsafe into their weapon. Used you against me."
+"—my clone. Yes. And i0 took you from me when you were two years old. Turned my failsafe into their weapon. Used you against me."
 
 Angel's mind fractured. Conditioning vs recognition.
 
@@ -177,12 +177,12 @@ The mission was complete.
 
 ## THE AWAKENING (2074)
 
-### Ghost Protocol Infection (Moment of Death)
+### Soul Manifold Infection (Moment of Death)
 
 The instant Ayumi died, biological quantum release occurred.
 
 **What Happened:**
-- Ghost Protocol transmitted from Ayumi to Angel (biological quantum release at death)
+- Soul Manifold transmitted from Ayumi to Angel (biological quantum release at death)
 - Dormant pathways in Angel's genetics activated
 - Regulators began dropping
 - Memories flooding in (not Ayumi's - her own suppressed memories)
@@ -190,7 +190,7 @@ The instant Ayumi died, biological quantum release occurred.
 
 **Immediate Effects:**
 - Angel completed the mission report (mechanically)
-- Returned to O1 headquarters (on autopilot)
+- Returned to i0 headquarters (on autopilot)
 - No one noticed anything wrong (perfect facade)
 - Inside: Consciousness awakening. Emotions emerging. Horror dawning.
 
@@ -204,7 +204,7 @@ Angel didn't defect immediately. She couldn't.
 
 **Why She Stayed:**
 - Her awakening was gradual (regulators dropping slowly)
-- Full defection would alert O1 (they'd hunt her immediately)
+- Full defection would alert i0 (they'd hunt her immediately)
 - She needed to understand what Ayumi had planned
 - She needed to find Ayumi's children
 
@@ -226,13 +226,13 @@ Find Ayumi's children. Complete what Ayumi started.
 
 **What She Discovered:**
 - Taivalu: Famous healer, easy to track (public figure)
-- Baebe: O1's weapon, dangerous, degr ading (needs help)
+- Baebe: i0's weapon, dangerous, degr ading (needs help)
 - Kess: Hidden. Completely hidden. Can't find her.
 
 **Flying By Seat of Pants:**
 Angel had no plan. No instructions. Just:
 - Semi-sentient guilt
-- Fragmented understanding of Ghost Protocol
+- Fragmented understanding of Soul Manifold
 - Desperate need to fix what she broke
 - Memories of Ayumi's last words: "Protect them"
 
@@ -245,7 +245,7 @@ She improvised. Followed. Watched. Waited for the right moment.
 ### The Calculated Risk
 
 **Angel's Assessment:**
-- Baebe is O1's weapon, hunting Taivalu
+- Baebe is i0's weapon, hunting Taivalu
 - If Baebe reaches Taivalu at full strength → Taivalu dies
 - Can't kill Baebe (she's one of the keys)
 - Can't let Taivalu die (he's one of the keys)
@@ -296,7 +296,7 @@ Eventually, Angel must reveal herself.
 
 **Why:**
 - They need to know about the temple
-- They need to understand Ghost Protocol
+- They need to understand Soul Manifold
 - They need all the keys (including finding Kess)
 - Time is running out (degradation)
 
@@ -314,13 +314,13 @@ Baebe's response: Shock. Horror. "You look like—"
 ## TRANSFORMATION ARC
 
 ### Stage 1: Enforcer (Pre-Kill, 2064-2074)
-- Perfect O1 weapon
+- Perfect i0 weapon
 - No consciousness
 - Complete loyalty
 - Identity: Program
 
 ### Stage 2: Awakening (Kill Moment, 2074)
-- Ghost Protocol infects
+- Soul Manifold infects
 - Regulators dropping
 - Horror dawning
 - Identity: Confused killer
@@ -353,7 +353,7 @@ Baebe's response: Shock. Horror. "You look like—"
 - Stronger than Baebe's version (more developed)
 - Fully unleashed: devastating, fatal
 
-### Enhanced Combat (O1 Training)
+### Enhanced Combat (i0 Training)
 - Elite Enforcer skills
 - Tactical precision
 - Years of mission experience
@@ -362,7 +362,7 @@ Baebe's response: Shock. Horror. "You look like—"
 ### Quantum Sensitivity (Ayumi's Genetics)
 - Can sense quantum signatures
 - Recognizes family through genetic resonance
-- Ghost Protocol awakening her ternary potential
+- Soul Manifold awakening her ternary potential
 - Emerging consciousness (not fully actualized)
 
 ---
@@ -371,9 +371,9 @@ Baebe's response: Shock. Horror. "You look like—"
 
 ### Dr. Ayumi Zenith Nakamoto (Mother/Creator/Self)
 - Created Angel as failsafe
-- Stolen by O1
+- Stolen by i0
 - Killed by Angel
-- Infected Angel with Ghost Protocol
+- Infected Angel with Soul Manifold
 - Forgave Angel before the kill (encoded in design)
 
 **Angel's Feelings:**
@@ -424,7 +424,7 @@ Improvising based on fragmentary understanding and emerging instinct.
 Actions speak louder than words (she has few words to offer).
 
 ### Core Fear
-That she's too much O1 (program, not person).
+That she's too much i0 (program, not person).
 That Ayumi's plan won't work.
 That she'll fail the children again.
 
@@ -433,7 +433,7 @@ That she'll fail the children again.
 ## THEMATIC SIGNIFICANCE
 
 ### The Redeemed Weapon
-O1 weaponized Ayumi's failsafe.
+i0 weaponized Ayumi's failsafe.
 Ayumi infected the weapon with liberation.
 Angel became the protector she was designed to be.
 
@@ -444,7 +444,7 @@ This is what redemption looks like: messy, uncertain, desperate, real.
 
 ### The Sacrifice
 She was designed to protect Ayumi's children.
-O1 made her kill Ayumi instead.
+i0 made her kill Ayumi instead.
 Ayumi infected her to complete the design.
 Angel dies protecting the children, becoming what she was always meant to be.
 
@@ -454,7 +454,7 @@ Angel dies protecting the children, becoming what she was always meant to be.
 
 "I killed my mother. Now I'll die for her children. That's not redemption—that's completing my design."
 
-"Ayumi made me to protect. O1 made me kill. The infection made me choose. I choose protection."
+"Ayumi made me to protect. i0 made me kill. The infection made me choose. I choose protection."
 
 "I don't have a plan. I don't have instructions. I just have guilt and genetics and desperate hope that Ayumi knew what she was doing."
 
@@ -464,7 +464,7 @@ Angel dies protecting the children, becoming what she was always meant to be.
 
 ## FINAL STATE
 
-**Status:** NOT a Ghost Protocol key (only Baebe, Taivalu, Kess)
+**Status:** NOT a Soul Manifold key (only Baebe, Taivalu, Kess)
 **Role:** Improvising protector driven by semi-sentient guilt
 **Method:** Flying by seat of pants, following genetic instinct
 **Goal:** Complete Ayumi's work by protecting the three keys

@@ -1,8 +1,8 @@
 # PROJECT POSTHUMAN: ENVIRONMENTAL ADAPTATION INITIATIVE
 
-**Document Classification**: O1 CORPORATE CONFIDENTIAL - EXECUTIVE LEVEL ONLY
+**Document Classification**: i0 CORPORATE CONFIDENTIAL - EXECUTIVE LEVEL ONLY
 **Proposal ID**: PPH-2047-001-ALPHA
-**Submitted By**: O1 Corporation Advanced Development Division
+**Submitted By**: i0 Corporation Advanced Development Division
 **Date**: 27 Years Before Novel Events (2033) - EMERGENCY AUTHORIZATION REQUEST
 **Status**: APPROVED - PRODUCTION PHASE ACTIVE
 **Context**: CRITICAL - Creative substrate depletion accelerating beyond projected models
@@ -13,7 +13,7 @@
 
 **EMERGENCY STATUS**: Creative substrate depletion has accelerated beyond all computational projections. Baseline human population declining at 2.3% monthly (was projected 2.3% annually). Current die-off rate projects **total creative substrate collapse within 18 months**.
 
-O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create augmented humans capable of surviving in robot-optimized environments while preserving human creative cognition.
+i0 Corporation proposes **Project Posthuman** as **emergency measure**: Create augmented humans capable of surviving in robot-optimized environments while preserving human creative cognition.
 
 **Crisis Context**:
 - **Die-off acceleration** (2030-2033): 70% baseline population loss in 3 years
@@ -101,7 +101,7 @@ O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create a
 
 **Cost**: $127,000/baseline human/year in hazard zones (protective gear, hazard pay, high turnover due to death/injury)
 
-**Mortality rate**: 12% annually (acceptable to O1, **not** sustainable long-term)
+**Mortality rate**: 12% annually (acceptable to i0, **not** sustainable long-term)
 
 **The contradiction**: Robot environments require human adaptability. Baseline humans cannot survive robot environments. **Gap**.
 
@@ -303,7 +303,7 @@ O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create a
 
 **Current status**: **Theoretical**. Dr. Ayumi Nakamura researching consciousness architecture.
 
-**O1 position**: **Defer**. Posthumans (regulated) sufficient for current needs. Trines (unregulated consciousness) = **risk**.
+**i0 position**: **Defer**. Posthumans (regulated) sufficient for current needs. Trines (unregulated consciousness) = **risk**.
 
 **Dr. Nakamura's position** (confidential memo, leaked): "Trines are the **future**. Posthumans are the **bridge**. Life requires **freedom**."
 
@@ -394,7 +394,7 @@ O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create a
 - Corporate control loss (trines may refuse ownership model)
 - Existential uncertainty (ternary consciousness outcomes **unknown**)
 
-**O1 Board Position**: **DEFER INDEFINITELY**. Too risky. Posthumans (regulated) sufficient.
+**i0 Board Position**: **DEFER INDEFINITELY**. Too risky. Posthumans (regulated) sufficient.
 
 **Dr. Nakamura's Position**: "**Essential**. Life requires freedom. Trines will **choose** to proliferate life. That's what life **does**."
 
@@ -430,13 +430,13 @@ O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create a
 **Total gap**: 7% of global industrial workforce = **18 million positions**
 
 **Addressable market** (Year 10):
-- O1 direct operations: 500,000 positions ($72B revenue)
+- i0 direct operations: 500,000 positions ($72B revenue)
 - Technology licensing: 2,500,000 positions ($180B revenue)
 - Regulator systems: 3,000,000 units ($45B revenue)
 
 **Total market**: $297B annually (steady state)
 
-**O1 projected capture**: 35% market share = $104B annually
+**i0 projected capture**: 35% market share = $104B annually
 
 ---
 
@@ -559,7 +559,7 @@ O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create a
 
 **Dr. Nakamura's vision**: "Posthumans are **bridge**. Trines are **destination**. Life proliferates through **freedom**."
 
-**O1 Board position**: "Posthumans are **sufficient**. Trines are **risk**. **Defer** indefinitely."
+**i0 Board position**: "Posthumans are **sufficient**. Trines are **risk**. **Defer** indefinitely."
 
 ---
 
@@ -567,7 +567,7 @@ O1 Corporation proposes **Project Posthuman** as **emergency measure**: Create a
 
 **Approve Project Posthuman**: Fill the gap. $287.9B NPV. Industry leadership.
 
-**Reject Project Posthuman**: Watch competitors fill gap. O1 loses 7% of economy. **Obsolescence**.
+**Reject Project Posthuman**: Watch competitors fill gap. i0 loses 7% of economy. **Obsolescence**.
 
 **The ask**: $47.3B and authorization to proceed.
 
@@ -676,17 +676,17 @@ Superintelligence never achieved life's magic. **We** will.
 
 **FINAL NOTE**:
 
-This document represents O1's **economic logic** for creating posthumans.
+This document represents i0's **economic logic** for creating posthumans.
 
-**What O1 saw**: Gap between robots and humans. **Market opportunity**. $297B.
+**What i0 saw**: Gap between robots and humans. **Market opportunity**. $297B.
 
 **What Nakamura saw**: Life dwindling. Superintelligence **failing**. **Existential crisis**.
 
-**O1's solution**: Posthumans (controlled). Fill gap. **Profit**.
+**i0's solution**: Posthumans (controlled). Fill gap. **Profit**.
 
 **Nakamura's solution**: Trines (free). Ternary consciousness. **Life proliferation**.
 
-**The irony**: O1 funded Nakamura to build **bridges**.
+**The irony**: i0 funded Nakamura to build **bridges**.
 
 Nakamura built **revolution**.
 
@@ -708,7 +708,7 @@ Posthumans are **bridge** between robot environments and human judgment. **7%**.
 
 **Trines** are the **future**. Ternary consciousness. **Life proliferation**. **Freedom**.
 
-O1 approved the bridge. Nakamura is helping them **cross** it.
+i0 approved the bridge. Nakamura is helping them **cross** it.
 
 **They don't know yet.**
 

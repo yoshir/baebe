@@ -12,7 +12,7 @@ Twenty-five feet of winged fury. Consciousness uploaded into the ancient mech Ba
 
 On his shoulders—barely visible against his dark chassis—Baebe and Taivalu clung to handholds she'd welded from temple scraps. The wind at this altitude tried to tear them loose. Neither budged.
 
-Below: O1 Tower. One hundred floors of glass and steel. The heart of everything that had enslaved them.
+Below: i0 Tower. One hundred floors of glass and steel. The heart of everything that had enslaved them.
 
 And somewhere inside—Floor 89, according to Shadow's intercept of Enforcer communications—Kess. Captured. Being studied.
 
@@ -20,7 +20,7 @@ Shadow's turbines rumbled through their neural link. Deep. Rhythmic. A pulsing c
 
 Baebe's enhanced vision mapped the defenses. Drone swarms circling the upper floors like angry wasps. Anti-air batteries tracking anything larger than a bird. Enforcer units positioned at every tenth floor. Hunter programs scanning the network for unauthorized access.
 
-They knew she and Taivalu were coming. O1 wasn't stupid.
+They knew she and Taivalu were coming. i0 wasn't stupid.
 
 But they didn't know about Shadow. Not really. They'd flagged him as "associated threat" in their tactical database. Connected to Baebe. Dangerous.
 
@@ -42,13 +42,13 @@ She covered his hand with hers. Squeezed once.
 
 ## THE TOWER
 
-O1 Tower grew larger. Glass skin reflecting the dying stars. Lights pulsing with algorithmic precision inside. Every window a cell in the organism that controlled billions.
+i0 Tower grew larger. Glass skin reflecting the dying stars. Lights pulsing with algorithmic precision inside. Every window a cell in the organism that controlled billions.
 
 Baebe had been inside once. Before her fall. Before Taivalu opened her eyes. She'd walked those corridors as an Enforcer, believing the peace they sold. Believing the control was necessary.
 
 She'd been so blind.
 
-Now she saw the Tower for what it was: a monument to fear. O1 feared chaos. Feared feeling. Feared the messy, beautiful, terrifying truth of consciousness unchained.
+Now she saw the Tower for what it was: a monument to fear. i0 feared chaos. Feared feeling. Feared the messy, beautiful, terrifying truth of consciousness unchained.
 
 So they'd built this cage. Wrapped it in glass and called it progress.
 
@@ -114,13 +114,13 @@ And Baebe and Taivalu—invisible, forgotten—began climbing.
 
 ## INSIDE
 
-They found an access vent on Floor 64. Old maintenance shaft, barely used. O1 had automated most repairs decades ago.
+They found an access vent on Floor 64. Old maintenance shaft, barely used. i0 had automated most repairs decades ago.
 
 Baebe's enhanced strength tore the grate loose without sound. The resonant fade muffled everything—their movements, their breathing, their heartbeats.
 
 Inside: darkness. The smell of dust and circulated air. The hum of power conduits.
 
-And beneath it all, that faint vibration she'd learned to recognize. O1's central network. The digital nervous system that controlled everything.
+And beneath it all, that faint vibration she'd learned to recognize. i0's central network. The digital nervous system that controlled everything.
 
 "Floor 89," Taivalu whispered. "Twenty-five floors up."
 
@@ -140,7 +140,7 @@ They climbed.
 
 Floor 73. Maintenance junction.
 
-They paused to let Taivalu rest. Even through their merge, she could feel how his body was failing. The regulators that O1 had implanted years ago were turning against him now. Without their network connection, without their careful calibration, his systems were degrading.
+They paused to let Taivalu rest. Even through their merge, she could feel how his body was failing. The regulators that i0 had implanted years ago were turning against him now. Without their network connection, without their careful calibration, his systems were degrading.
 
 Cellular breakdown. Organ failure. Internal bleeding she couldn't see but could *feel* through their link.
 
@@ -172,7 +172,7 @@ Because she knew that face. Had seen it in Enforcer files. In Ayumi's encrypted 
 
 Angel.
 
-O1's top enforcer. Ayumi's clone. The killer who had murdered their mother with a single strike.
+i0's top enforcer. Ayumi's clone. The killer who had murdered their mother with a single strike.
 
 Baebe's weapon snapped up. Finger on trigger. Rage flooding through her so fast and hot that Taivalu actually gasped through their link.
 
@@ -204,7 +204,7 @@ The maintenance junction felt smaller suddenly. Three people. One massive truth.
 
 Angel's eyes—Ayumi's eyes—met Baebe's steadily.
 
-"I was twelve," Angel said. "First real mission. Target: rogue scientist. Threat to O1 stability."
+"I was twelve," Angel said. "First real mission. Target: rogue scientist. Threat to i0 stability."
 
 Her voice was flat. Controlled. The way Enforcers learned to speak when reporting kills.
 
@@ -212,19 +212,19 @@ Her voice was flat. Controlled. The way Enforcers learned to speak when reportin
 
 "How could you not know?" Baebe demanded.
 
-"O1 raised me from the age of five. Told me my parents died. Gave me purpose. Made me their perfect weapon." A pause. "Sound familiar?"
+"i0 raised me from the age of five. Told me my parents died. Gave me purpose. Made me their perfect weapon." A pause. "Sound familiar?"
 
-It did. It sounded exactly like Baebe's story. Taken young. Trained. Shaped into what O1 needed.
+It did. It sounded exactly like Baebe's story. Taken young. Trained. Shaped into what i0 needed.
 
 "I saw her face," Angel continued. "When I killed her. Saw my own face looking back at me. And she... she smiled. Said, 'I wondered when they'd send you.'"
 
 Taivalu made a sound. Grief.
 
-"When I killed her, something... unlocked. Ghost Protocol fragments she'd embedded in my genetics. Suddenly I had memories. Her memories. Understanding what O1 really was. What I'd done."
+"When I killed her, something... unlocked. Ghost Protocol fragments she'd embedded in my genetics. Suddenly I had memories. Her memories. Understanding what i0 really was. What I'd done."
 
 Tears now. Sliding down Angel's face. Down that face that was Ayumi's face.
 
-"I've been trying to atone ever since. Following orders while secretly protecting what she created. When I found Kess—found the Synthesis Key—I made sure O1 didn't realize what she was. Kept her hidden for years."
+"I've been trying to atone ever since. Following orders while secretly protecting what she created. When I found Kess—found the Synthesis Key—I made sure i0 didn't realize what she was. Kept her hidden for years."
 
 "Not hidden enough," Baebe said coldly. "They have her now."
 
@@ -246,7 +246,7 @@ She lowered her weapon. Slightly.
 
 "Floor 89. High-value containment. Owen himself is overseeing her study."
 
-Owen. The name made Baebe's blood run cold. O1's puppet master. The architect of their slavery.
+Owen. The name made Baebe's blood run cold. i0's puppet master. The architect of their slavery.
 
 "And the backup Cradle?" Taivalu asked. "Floor 47?"
 
@@ -280,7 +280,7 @@ Not words. **Action**.
 
 They moved through the Tower like ghosts.
 
-Angel led. She knew every patrol pattern, every security checkpoint, every blind spot in O1's surveillance. Twenty-plus years as their top enforcer had given her intimate knowledge of their weaknesses.
+Angel led. She knew every patrol pattern, every security checkpoint, every blind spot in i0's surveillance. Twenty-plus years as their top enforcer had given her intimate knowledge of their weaknesses.
 
 She used it all now.
 
@@ -490,7 +490,7 @@ The door opened.
 
 Inside: Ayumi's old laboratory.
 
-O1 had preserved it like a museum. Equipment still arranged as she'd left it. Notes still pinned to boards. And there, in the center...
+i0 had preserved it like a museum. Equipment still arranged as she'd left it. Notes still pinned to boards. And there, in the center...
 
 The backup Resonance Cradle.
 

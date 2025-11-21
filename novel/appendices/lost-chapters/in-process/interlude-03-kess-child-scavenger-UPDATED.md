@@ -44,7 +44,7 @@ Mama and Papa (that's what I called them, Shadow says) were protecting me. There
 
 But they didn't run. They **stayed**. Tried to protect me.
 
-Bad people came. O1 operatives. They hurt Mama and Papa.
+Bad people came. i0 operatives. They hurt Mama and Papa.
 
 Shadow says I screamed.
 
@@ -52,9 +52,9 @@ Shadow says he **moved**.
 
 Ten feet of black metal and fury. Saber-toothed tiger mech. Red eyes blazing. **Primary directive engaged**: Protect Kess.
 
-He tore through O1 operatives. Made escape. Grabbed me (carefully, so carefully, I was so **small**).
+He tore through i0 operatives. Made escape. Grabbed me (carefully, so carefully, I was so **small**).
 
-Ran to the outlands. To anomaly zones where O1's network fails.
+Ran to the outlands. To anomaly zones where i0's network fails.
 
 Where we'd be safe.
 
@@ -76,7 +76,7 @@ Every day. Every night. **Choosing to stay.**
 
 ## ANOMALY ZONES (Ages 2-5)
 
-Shadow takes me deep into dead zones. Places where electronics fail. Where O1's surveillance goes blind.
+Shadow takes me deep into dead zones. Places where electronics fail. Where i0's surveillance goes blind.
 
 His systems work because Ayumi (creator, Shadow says) built him different. Bio-compute. Analog controls. Shielded architecture.
 
@@ -112,7 +112,7 @@ Mech and child choosing to be alone **together**.
 
 **Rule 4**: Small is advantage.
 
-I'm five when I start scavenging seriously. Finding things in rubble. Things O1 threw away. Things that still work.
+I'm five when I start scavenging seriously. Finding things in rubble. Things i0 threw away. Things that still work.
 
 I'm good at scavenging because I'm small. I fit through cracks. Under collapsed walls. Inside broken machinery.
 
@@ -232,7 +232,7 @@ He shows me:
 
 **About fear**: When Enforcers come close and I freeze, terrified, he growls—steady, grounding. Positions himself between me and danger. The fear is good. Keeps me alert. But Shadow's the master of it, not me. I learn to breathe through fear like he does.
 
-**About being different**: He's a ten-foot saber-toothed mech. I'm a tiny eight-year-old. We're both wrong for O1's world. But when scavengers laugh at us, Shadow makes this sound—proud, defiant rumble. Different is good. We choose to be different. Together.
+**About being different**: He's a ten-foot saber-toothed mech. I'm a tiny eight-year-old. We're both wrong for i0's world. But when scavengers laugh at us, Shadow makes this sound—proud, defiant rumble. Different is good. We choose to be different. Together.
 
 **About chosen family**: Sometimes at night, Shadow's turbines make this soft, cycling sound. Almost like purring. He guards me while I sleep. I know what it means. Mama and Papa chose me. Shadow chose me. Ayumi made Shadow for me. All choice. All love. I feel it in every protective growl.
 
@@ -294,7 +294,7 @@ When posthuman wakes up, he sees me.
 
 Really **sees** me.
 
-Not like scavengers (who see potential labor). Not like O1 (who see negligible value).
+Not like scavengers (who see potential labor). Not like i0 (who see negligible value).
 
 He sees **Kess**.
 
@@ -356,7 +356,7 @@ He **feels** things.
 
 Not just his own things. Everyone's things.
 
-He says he's empath. Says O1 augmented him to feel other people's emotions. Said it was improvement. Made him better worker.
+He says he's empath. Says i0 augmented him to feel other people's emotions. Said it was improvement. Made him better worker.
 
 I think it sounds terrible. Feeling everyone's **everything**.
 
@@ -442,13 +442,13 @@ I'm **seen**.
 
 Taivalu heals. Gets stronger. Talks about going back.
 
-"There are others," he says. "People who need to know they can be free. That they can hold contradictions. That O1's binary control isn't the only way."
+"There are others," he says. "People who need to know they can be free. That they can hold contradictions. That i0's binary control isn't the only way."
 
 I should say no. City means danger. Means Enforcers. Means **everything Shadow ran from**.
 
 But I look at Shadow. At Taivalu. At family we are.
 
-I think about staying safe in canyon. About being invisible. About being **nothing** to O1.
+I think about staying safe in canyon. About being invisible. About being **nothing** to i0.
 
 Then I think about being seen. About being family. About being **Kess**.
 
@@ -502,7 +502,7 @@ Where we'll complete what Ayumi started.
 
 And that's when we find Baebe.
 
-Right after Shadow caught her falling from O1 Tower.
+Right after Shadow caught her falling from i0 Tower.
 
 Right when family was supposed to unite.
 

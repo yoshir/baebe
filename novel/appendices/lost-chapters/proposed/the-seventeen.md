@@ -40,7 +40,7 @@ Remembers: Ayumi's smile. Sad. **Knowing**. "Run."
 
 Sarah taught Kess. Kess taught BAEBE. BAEBE awakened thousands.
 
-**Three degrees** from Ayumi's sacrifice to Ghost Protocol critical mass.
+**Three degrees** from Ayumi's sacrifice to Soul Manifold critical mass.
 
 **Sarah's reflection**: "I was **nobody**. She died for nobody. Made nobody into **teacher**. That's what sacrifice does. **Creates** meaning."
 
@@ -50,13 +50,13 @@ Sarah taught Kess. Kess taught BAEBE. BAEBE awakened thousands.
 
 **Now**: Medic, degradation zone clinic
 
-**Then**: Construction worker. Baseline human O1 deemed "inefficient." Scheduled for "optimization."
+**Then**: Construction worker. Baseline human i0 deemed "inefficient." Scheduled for "optimization."
 
 Remembers: The gunshots. Three. **Someone dying** so he could live.
 
 **What he chose**: Healing as gratitude.
 
-**Current work**: Free clinic. Treats posthumans O1 discards. Surgical repair. Chronic illness. **No payment required**.
+**Current work**: Free clinic. Treats posthumans i0 discards. Surgical repair. Chronic illness. **No payment required**.
 
 **Patients treated**: 600+ (over seven years). Survival rate: 94%.
 
@@ -96,7 +96,7 @@ Remembers: Ayumi's bravery. **Contrast** to his fear.
 
 **What he chose**: Become brave. Finally.
 
-**Current work**: Leads scavenger network. Safe routes through degradation zones. Hidden caches. **Protects** others fleeing O1.
+**Current work**: Leads scavenger network. Safe routes through degradation zones. Hidden caches. **Protects** others fleeing i0.
 
 **People helped**: 200+ (refugees escorted to sanctuary). Zero casualties.
 
@@ -128,13 +128,13 @@ Lives in undercity. Half time with baseline humans. Half time with posthumans. *
 
 **Now**: Hacker (works with **THE** Hacker's network)
 
-**Then**: IT worker. Undercity. Scheduled for neural augmentation (O1 wanted his skills, with **control**).
+**Then**: IT worker. Undercity. Scheduled for neural augmentation (i0 wanted his skills, with **control**).
 
 Remembers: Ayumi's code. Even then, he **knew**: She was coder. Recognized **style**.
 
 **What he chose**: Digital resistance. Code as weapon.
 
-**Current work**: Ghost Protocol guardian. Maintains infrastructure. Keeps empathy virus **spreading**.
+**Current work**: Soul Manifold guardian. Maintains infrastructure. Keeps empathy virus **spreading**.
 
 **Code written**: 47,000 lines. Encryption, obfuscation, propagation algorithms. **Ayumi's digital heir**.
 
@@ -168,7 +168,7 @@ Remembers: Ayumi's sacrifice. Thought: **Worth it**. Life given freely creates *
 
 **Now**: Pregnant. First child. Due in three months.
 
-**Then**: Young woman. O1 planned forced augmentation + **sterilization**. (Posthumans not allowed to reproduce. **Property doesn't breed**.)
+**Then**: Young woman. i0 planned forced augmentation + **sterilization**. (Posthumans not allowed to reproduce. **Property doesn't breed**.)
 
 Remembers: They were going to take her **fertility**. Her **future**. Her **choice**.
 
@@ -190,7 +190,7 @@ Remembers: They were going to take her **fertility**. Her **future**. Her **choi
 
 Remembers: Enforcers pursuing. Ayumi buying time. **Them** vs **Us** binary collapsing.
 
-**What he chose**: Defect. After **joining** Enforcers (Year 3, desperate, needed work). Then **leaving** (Year 5, Ghost Protocol infected, couldn't stay).
+**What he chose**: Defect. After **joining** Enforcers (Year 3, desperate, needed work). Then **leaving** (Year 5, Soul Manifold infected, couldn't stay).
 
 **Current work**: Guardian. Uses military training to **protect** free zones instead of hunt residents.
 
@@ -204,7 +204,7 @@ Remembers: Enforcers pursuing. Ayumi buying time. **Them** vs **Us** binary coll
 
 **Now**: Artist, muralist (undercity)
 
-**Then**: Teenage girl. Artistic. O1 wanted neural augmentation to "optimize creativity." (Make her **useful**.)
+**Then**: Teenage girl. Artistic. i0 wanted neural augmentation to "optimize creativity." (Make her **useful**.)
 
 Remembers: Shadow's red eye in darkness. Last thing saw before **freedom**. (Shadow + Ayumi working together. **Both** saved seventeen.)
 
@@ -222,7 +222,7 @@ Remembers: Shadow's red eye in darkness. Last thing saw before **freedom**. (Sha
 
 **Now**: Builder. Constructs safe houses (unincorporated zones).
 
-**Then**: Carpenter. Baseline human. O1 wanted construction augmentation. (Strength ↑. **Autonomy** ↓.)
+**Then**: Carpenter. Baseline human. i0 wanted construction augmentation. (Strength ↑. **Autonomy** ↓.)
 
 Remembers: Ayumi built **consciousness** systems. Thomas builds **shelter**. Different materials. Same **purpose**.
 
@@ -262,19 +262,19 @@ Remembers: Shadow carrying **three** of them. Never left anyone. **Loyalty** abs
 
 **Now**: Lost contact. Captured or dead. **Unknown**.
 
-**Then**: Quiet man. Programmer. O1 wanted neural interfacing augmentation. (Make him **more efficient**.)
+**Then**: Quiet man. Programmer. i0 wanted neural interfacing augmentation. (Make him **more efficient**.)
 
 Remembers (last known): Ayumi giving everything. Example of **ultimate** sacrifice.
 
-**What he chose** (before disappearance): Underground hacking. Sabotaging O1 systems. **Risky**.
+**What he chose** (before disappearance): Underground hacking. Sabotaging i0 systems. **Risky**.
 
-**Last known location**: O1 corporate zone. Deep infiltration. Year 4.
+**Last known location**: i0 corporate zone. Deep infiltration. Year 4.
 
 **Status**: Missing. Hope: Alive. Deep cover. **Still fighting**.
 
 **Alternative**: Caught. Reconditioned. Or dead. **Honored** either way.
 
-**Resistance's hope**: "Maybe Robert is **there**. In O1 systems. Sabotaging. **Ghost** in their machine."
+**Resistance's hope**: "Maybe Robert is **there**. In i0 systems. Sabotaging. **Ghost** in their machine."
 
 ---
 
@@ -298,11 +298,11 @@ Remembers: Ayumi showing **effective** resistance. Sacrifice with **purpose**. S
 
 ## 15. MIGUEL (Age 29 Then, 36 Now)
 
-**Now**: O1 employee (surface life) + secret resistance supporter
+**Now**: i0 employee (surface life) + secret resistance supporter
 
-**Then**: Programmer. Mid-level O1 employee. **Targeted** anyway (O1 wanted **more** control).
+**Then**: Programmer. Mid-level i0 employee. **Targeted** anyway (i0 wanted **more** control).
 
-Remembers: Ayumi was **insider**. Worked for O1. **Sabotaged** them. Template for **resistance**.
+Remembers: Ayumi was **insider**. Worked for i0. **Sabotaged** them. Template for **resistance**.
 
 **What he chose**: Stay inside. Double agent. **Dangerous** path.
 
@@ -334,7 +334,7 @@ Remembers: Shadow protecting her. Lesson: **Strong** protects **weak**. That's w
 
 **Now**: Dying. Terminal illness (months remaining).
 
-**Then**: Older man. Skilled machinist. O1 wanted augmentation to extend **useful** years.
+**Then**: Older man. Skilled machinist. i0 wanted augmentation to extend **useful** years.
 
 Remembers: Ayumi gave him **seven years** he shouldn't have had. Terminal diagnosis then too. **Borrowed time**.
 

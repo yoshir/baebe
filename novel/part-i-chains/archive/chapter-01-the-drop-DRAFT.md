@@ -11,7 +11,7 @@ The soft mechanical inhale of a pressurized bay. Not mechanical like grinding ge
 Baebe stands in the launch tube, sealed in composite alloy and waiting. The darkness is absolute. Total. The kind of darkness that exists in space, in the void between stars, where light goes to die. She's been standing here for six minutes. Waiting. Preparing. Letting her body sync with the mission parameters that scroll across her visual cortex in phosphorescent green:
 
 **TARGET: T-ALPHA**
-**LOCATION: O1 TOWER - SECTOR PRIME**
+**LOCATION: i0 TOWER - SECTOR PRIME**
 **ALTITUDE: 87,000 FT**
 **MISSION: RETRIEVE ASSET ALIVE**
 
@@ -252,7 +252,7 @@ The other agents fall around her. Six invisible platforms converging. Six ghosts
 
 The tower.
 
-The O1 Tower.
+The i0 Tower.
 
 An 800-story glass monolith that sings with low-frequency light—a beacon in the darkness, a god's monument to control, the heart of the distributed quantum network that keeps eight billion people connected and compliant. Thirty-two petabytes of human experience processed every second. Every pulse node. Every neural contact. Every emotion logged, filtered, optimized. The tower is the synapse. The city is the brain.
 

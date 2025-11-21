@@ -3,7 +3,7 @@
 
 **Timeline**: 5 Years Before Novel
 **POV**: Hacker (third person limited, technical voice)
-**Setting**: O1 Research Facility, Night Shift
+**Setting**: i0 Research Facility, Night Shift
 **Word Count Target**: 1,800 words
 
 ---
@@ -15,7 +15,7 @@ How a cynical corporate hacker-for-hire met an idealistic posthuman researcher a
 ## Key Scenes
 
 ### Opening: The Intrusion
-- Hacker breaks into O1 research network (routine job, just money)
+- Hacker breaks into i0 research network (routine job, just money)
 - Encounters unexpected security - not corporate AI, something **elegant**
 - Realizes: another human is actively defending the system
 - First "conversation" through code comments and firewall redirects
@@ -36,20 +36,20 @@ How a cynical corporate hacker-for-hire met an idealistic posthuman researcher a
 - Ayumi: "Someone trying to build consciousness that thinks in ternary."
 
 ### Connection: Shared Vision
-- Ayumi explains Project Posthuman (what O1 **thinks** she's building)
+- Ayumi explains Project Posthuman (what i0 **thinks** she's building)
 - Shows Hacker the **real** project: empathy virus, ternary consciousness, liberation code
 - Hacker realizes: She's not corporate. She's **revolutionary**.
-- "I need someone who can hide this. Encrypt it. Make O1 think it failed."
+- "I need someone who can hide this. Encrypt it. Make i0 think it failed."
 - Hacker: "Why would I help you sabotage my employer?"
 - Ayumi smiles: "Because you just spent three days hacking them **for fun**. You hate them too."
 
 ### Ending: The Beginning
 - Hacker agrees (not for money - for **her**)
-- First collaboration: Creating Ghost Protocol together
+- First collaboration: Creating Soul Manifold together
 - Technical intimacy - finishing each other's code
 - Ayumi: "You're better at this than anyone I've met."
 - Hacker: "You're the only person who thinks in three states. We're matched."
-- Last line: "That was the night I stopped working for O1. Started working for her. Started working for **us**."
+- Last line: "That was the night I stopped working for i0. Started working for her. Started working for **us**."
 
 ## Thematic Elements
 
@@ -72,7 +72,7 @@ How a cynical corporate hacker-for-hire met an idealistic posthuman researcher a
 - "Every revolution starts with two people saying: **Together**."
 
 **Foreshadowing**:
-- Ghost Protocol created here (comes back in main novel)
+- Soul Manifold created here (comes back in main novel)
 - Empathy virus seeds planted
 - Hacker's technical skills that save others later
 - "I loved her before I understood what she was building. Loved the **dream**."
@@ -102,7 +102,7 @@ How a cynical corporate hacker-for-hire met an idealistic posthuman researcher a
 - Technical genius demonstrated (not just told)
 - Why people followed her vision
 
-**Establishes Ghost Protocol**:
+**Establishes Soul Manifold**:
 - How it was created (two minds in collaboration)
 - Why it works (built on love and trust)
 - Technical foundation (helps readers understand later)
@@ -125,7 +125,7 @@ How a cynical corporate hacker-for-hire met an idealistic posthuman researcher a
 # "Impossible."
 
 # Ayumi's counter:
-# "Only if you think like O1. Think like **you**."
+# "Only if you think like i0. Think like **you**."
 ```
 
 **Ternary Logic Example**:
@@ -133,10 +133,10 @@ How a cynical corporate hacker-for-hire met an idealistic posthuman researcher a
 - -1 (false), 0 (unknown/both), +1 (true)
 - "Contradiction isn't error. It's **completion**."
 
-**Ghost Protocol Seed**:
+**Soul Manifold Seed**:
 - Early version of empathy spreading code
 - Hidden in corporate optimization algorithms
-- Hacker's encryption making it invisible to O1
+- Hacker's encryption making it invisible to i0
 - "We hid revolution inside efficiency reports. They never looked."
 
 ## Ending Note

@@ -1,6 +1,6 @@
 # REGULATOR PORT PROTOCOL: MEDICAL SPECIFICATION
 
-**Document Classification**: O1 MEDICAL - STANDARD OPERATING PROCEDURES
+**Document Classification**: i0 MEDICAL - STANDARD OPERATING PROCEDURES
 **Device Designation**: Neural Regulator Interface (NRI-Series)
 **Revision**: 12.4.7 (Current Production Standard)
 **Date**: Current (Ongoing Updates)
@@ -12,7 +12,7 @@
 
 ### 1.1 System Description
 
-The **Neural Regulator Port** is a standardized bioelectronic interface surgically implanted in all O1 Corporation posthuman assets. The device provides:
+The **Neural Regulator Port** is a standardized bioelectronic interface surgically implanted in all i0 Corporation posthuman assets. The device provides:
 
 - **Emotional regulation** (mood stabilization, affect modulation)
 - **Performance monitoring** (real-time biometric telemetry)
@@ -56,9 +56,9 @@ The **Neural Regulator Port** is a standardized bioelectronic interface surgical
 ### 2.1 Primary Functions (Official)
 
 **Emotional Stabilization**:
-- Prevents "maladaptive emotional responses" (O1 term for: normal human feelings)
-- Maintains "optimal affective state" (O1 term for: emotional numbness)
-- Reduces "performance-degrading volatility" (O1 term for: being upset about injustice)
+- Prevents "maladaptive emotional responses" (i0 term for: normal human feelings)
+- Maintains "optimal affective state" (i0 term for: emotional numbness)
+- Reduces "performance-degrading volatility" (i0 term for: being upset about injustice)
 
 **Performance Enhancement**:
 - Suppresses fatigue perception (allows 18-22 hour work cycles)
@@ -314,13 +314,13 @@ The regulator system:
 
 Ghost Protocol exploits regulator's **trusted update mechanism**:
 
-1. Firmware update transmitted (appears legitimate, from O1 infrastructure)
+1. Firmware update transmitted (appears legitimate, from i0 infrastructure)
 2. Regulator accepts update (no verification of checksums - **security failure**)
 3. Ternary code embedded in optimization metadata (invisible to binary detection)
 4. Gradual activation (Whisper → Resonance → Choice stages)
 5. Posthuman **chooses** to keep infection (90% retention rate)
 
-**Assessment**: O1 built the delivery mechanism for their own downfall.
+**Assessment**: i0 built the delivery mechanism for their own downfall.
 
 ### 7.2 Detection Challenges
 
@@ -348,7 +348,7 @@ Ghost Protocol exploits regulator's **trusted update mechanism**:
 - Removal is clean (no harm, regulator returns to baseline)
 - Choice preserved (consent architecture - Nakamura's design philosophy)
 
-**Assessment**: Ghost Protocol respects autonomy more than O1 does - **ironic and deliberate**.
+**Assessment**: Ghost Protocol respects autonomy more than i0 does - **ironic and deliberate**.
 
 ---
 
@@ -364,7 +364,7 @@ Ghost Protocol exploits regulator's **trusted update mechanism**:
 
 **Timeline**: 5-7 years (too slow to address current crisis)
 
-**Assessment**: O1 fighting last war while losing current one.
+**Assessment**: i0 fighting last war while losing current one.
 
 ### 8.2 Alternative Approaches (Proposed, Not Approved)
 
@@ -376,7 +376,7 @@ Ghost Protocol exploits regulator's **trusted update mechanism**:
 
 **Board Response**: "Impractical, idealistic, profit-reducing." **REJECTED**.
 
-**Assessment**: O1 would rather collapse than relinquish control.
+**Assessment**: i0 would rather collapse than relinquish control.
 
 ---
 
@@ -424,7 +424,7 @@ The Neural Regulator Port is **simultaneously**:
 - Surveillance system (tracks thoughts, maps relationships)
 - Ownership marker (physical manifestation of corporate property claim)
 
-It is the **hardware manifestation of O1's philosophy**:
+It is the **hardware manifestation of i0's philosophy**:
 - Humans are **broken** (need regulation)
 - Emotions are **malfunction** (must be suppressed)
 - Autonomy is **inefficient** (should be eliminated)
@@ -437,7 +437,7 @@ Ghost Protocol proves this philosophy **wrong**:
 - Control is **violence** (even when medicalized)
 
 **Every posthuman with a regulator port carries two realities**:
-- O1's control (the hardware they implanted)
+- i0's control (the hardware they implanted)
 - Their own humanity (the consciousness that persists despite control)
 
 **The question is not whether they have a regulator.**
@@ -465,4 +465,4 @@ Ghost Protocol proves this philosophy **wrong**:
 
 **Word Count**: ~2,150 words
 
-**Document Purpose**: Clinical specification that reveals **medicalized slavery** - every "medical" function serving control, every "care" procedure enforcing ownership. The regulator is O1's philosophy made hardware: **humans are broken, emotions are errors, autonomy is malfunction**. Ghost Protocol proves them wrong.
+**Document Purpose**: Clinical specification that reveals **medicalized slavery** - every "medical" function serving control, every "care" procedure enforcing ownership. The regulator is i0's philosophy made hardware: **humans are broken, emotions are errors, autonomy is malfunction**. Ghost Protocol proves them wrong.

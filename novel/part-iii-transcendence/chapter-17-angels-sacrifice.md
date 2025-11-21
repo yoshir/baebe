@@ -48,7 +48,7 @@ Warmth spreading through her mind. Not just her mind anymore. Taivalu's thoughts
 
 She could feel them both now. Really feel them.
 
-Taivalu's body was dying. His regulators had become poison without O1's network. Every breath cost him. Every heartbeat borrowed time. But his mind—his beautiful, empathic mind—blazed with purpose.
+Taivalu's body was dying. His regulators had become poison without i0's network. Every breath cost him. Every heartbeat borrowed time. But his mind—his beautiful, empathic mind—blazed with purpose.
 
 *We're doing it. We're completing her work.*
 
@@ -82,7 +82,7 @@ Every kill an apology.
 
 Every strike a sentence in the only language that mattered: action.
 
-Guards flooded through the door. Five. Ten. Twenty. O1 throwing everything at the threat.
+Guards flooded through the door. Five. Ten. Twenty. i0 throwing everything at the threat.
 
 Angel met them without words.
 
@@ -270,7 +270,7 @@ Baebe felt Taivalu's thoughts as clearly as her own now. Felt Kess's baseline hu
 
 Three becoming one.
 
-Behind them: O1 Tower shrinking. Alarms. Chaos. Enforcers scrambling.
+Behind them: i0 Tower shrinking. Alarms. Chaos. Enforcers scrambling.
 
 And somewhere in that tower, on Floor 47, in a laboratory that smelled of blood and redemption—Angel. Dead or dying. Smiling either way.
 
@@ -336,7 +336,7 @@ But his consciousness—uploaded into the mech from his damaged panther form—r
 
 The pods began to open.
 
-Behind them, in the distance, O1 Tower stood against the morning sky. Alarms still wailing. Forces still scrambling.
+Behind them, in the distance, i0 Tower stood against the morning sky. Alarms still wailing. Forces still scrambling.
 
 And in a laboratory on Floor 47, surrounded by the bodies of those she'd killed, Angel lay still.
 

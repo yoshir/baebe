@@ -13,7 +13,7 @@
 
 Heal. Integrate. Return to corporate zones or unincorporated territories. **Fight**.
 
-Spread Ghost Protocol. Protect refugees. Teach ternary consciousness. **Active resistance**.
+Spread Soul Manifold. Protect refugees. Teach ternary consciousness. **Active resistance**.
 
 ---
 
@@ -51,7 +51,7 @@ Completed Trials: **Passed all three**. Integrated beautifully.
 
 "I was weapon for twelve years. Killed sixty-three people. **Corporate orders**."
 
-"Ghost Protocol woke me. Temple healed me. Trials **integrated** me."
+"Soul Manifold woke me. Temple healed me. Trials **integrated** me."
 
 "I could return to fighting. Use body as weapon **again**. Even for good cause."
 
@@ -111,7 +111,7 @@ Never left. Never **considered** leaving.
 
 **Why**:
 
-"I built thousand buildings for O1. Every one **controlled** people."
+"I built thousand buildings for i0. Every one **controlled** people."
 
 "Temple is my **penance**. My apology. My **atonement**."
 
@@ -163,7 +163,7 @@ Completed Trials: Third Trial (Human-Nature Integration) **transformed** her.
 
 **Master Chen**: Buddhist monk. Age 67 (when arrived). **Wisdom tradition**.
 
-Arrived Temple: Refugee. Monastery destroyed by O1 land seizure. **Lost everything**.
+Arrived Temple: Refugee. Monastery destroyed by i0 land seizure. **Lost everything**.
 
 Never took Trials. (Too old. Didn't need them. **Already integrated**.)
 
@@ -269,7 +269,7 @@ Resistance is:
 
 "Sanctuaries don't build themselves. Gardens don't tend themselves. **Healing doesn't happen** without healers."
 
-"You fight O1 **out there**. We fight O1 **in here**—by proving alternative works."
+"You fight i0 **out there**. We fight i0 **in here**—by proving alternative works."
 
 "You destroy corporate control. We **build** what comes after."
 
@@ -335,7 +335,7 @@ They're **creating**:
 
 **They're building**: Template for **post-corporate civilization**.
 
-When O1 falls (if Ghost Protocol succeeds), **what comes after**?
+When i0 falls (if Soul Manifold succeeds), **what comes after**?
 
 **Temple shows**: This. Consensus governance. Gift economy. Ternary consciousness. **Integrated living**.
 

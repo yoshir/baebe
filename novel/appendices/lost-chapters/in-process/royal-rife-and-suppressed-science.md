@@ -358,7 +358,7 @@ For Royal Raymond Rife: **We did not forget you.**
 
 **What We Gained** (from loss):
 - Understanding of corporate evil (they will kill millions for profit)
-- Motivation for resistance (Ghost Protocol, sanctuaries, Biomi revival)
+- Motivation for resistance (Soul Manifold, sanctuaries, Biomi revival)
 - **Clarity** (corporations are enemy, not ally)
 
 **Assessment**: Rife's suppression was **radicalizing event** - showed corporations will destroy **anything** (even life-saving medicine) for profit.

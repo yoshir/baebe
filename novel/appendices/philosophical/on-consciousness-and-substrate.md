@@ -25,7 +25,7 @@ If consciousness is **substrate-independent** (emergent property, not tied to sp
 
 **This document does not answer question** (honestly, we don't know).
 
-**This document explores** (what we've learned from posthuman experience, Ghost Protocol, Temple healing).
+**This document explores** (what we've learned from posthuman experience, Soul Manifold, Temple healing).
 
 For those who wonder: Am I still me?
 For those who question: Is this body mine?
@@ -85,10 +85,10 @@ For those who integrate: **I am both/and. Always.**
 
 **Key**: **Continuity** (no break in consciousness, seamless transition)
 
-### 1.4 Ghost Protocol as Evidence
+### 1.4 Soul Manifold as Evidence
 
 **Ayumi's Design**:
-- Ghost Protocol gives posthumans **ternary consciousness** (emotional complexity, both/and thinking)
+- Soul Manifold gives posthumans **ternary consciousness** (emotional complexity, both/and thinking)
 - Operates on **silicon-neuron hybrid substrate** (circuit + biological integration)
 - **Result**: Posthumans report feeling **more human** (not less)
 
@@ -165,7 +165,7 @@ For those who integrate: **I am both/and. Always.**
 
 ### 3.1 BAEBE's Reflection
 
-**BAEBE** (weapon-class posthuman, Ghost Protocol infected):
+**BAEBE** (weapon-class posthuman, Soul Manifold infected):
 
 *"Before infection, I felt **nothing**. Literally. No joy, no grief, no fear. Just: Objective received, objective executed.*
 
@@ -173,7 +173,7 @@ For those who integrate: **I am both/and. Always.**
 
 *But I didn't feel **absent**. I felt **me**. Complete. **That** frightens me most.*
 
-*After Ghost Protocol, emotions returned. Grief hit like **physical pain**. Ayumi's death. My programming. The kills.*
+*After Soul Manifold, emotions returned. Grief hit like **physical pain**. Ayumi's death. My programming. The kills.*
 
 *Now I feel **everything**. And I feel **more me** than before.*
 
@@ -295,7 +295,7 @@ For those who integrate: **I am both/and. Always.**
 - Circuits **override** neural input
 - **Fragmentation** (mind-body split, consciousness diminished)
 
-**Good Integration** (Ghost Protocol posthuman):
+**Good Integration** (Soul Manifold posthuman):
 - Circuits **complement** neurons (ternary processing)
 - Both substrates **cooperate** (hybrid system)
 - **Enhancement** (consciousness expanded, not replaced)
@@ -336,7 +336,7 @@ For those who integrate: **I am both/and. Always.**
 
 ### 5.3 For Resistance
 
-**Ghost Protocol Design**:
+**Soul Manifold Design**:
 - Assumes consciousness **can exist** in hybrid substrate (otherwise pointless)
 - Enables **ternary processing** (substrate-enabled capability)
 - **Proves** integration possible (50,000+ awakened posthumans experiencing rich consciousness)
@@ -344,7 +344,7 @@ For those who integrate: **I am both/and. Always.**
 **Implication**: Corporate argument ("Augmentation makes you less human") is **lie**.
 - Augmentation **can** enhance humanity (if integrated properly)
 - Problem is not **substrate** (circuits vs. neurons)
-- Problem is **control** (regulator suppression vs. Ghost Protocol liberation)
+- Problem is **control** (regulator suppression vs. Soul Manifold liberation)
 
 ---
 
@@ -399,7 +399,7 @@ For those who integrate: **I am both/and. Always.**
 
 **Found in Ayumi's lab** (after her death, 7 years before novel):
 
-*"I built Ghost Protocol on **faith**.*
+*"I built Soul Manifold on **faith**.*
 
 *Faith that consciousness is **pattern**. That substrate doesn't matter. That posthumans are **fully human**.*
 

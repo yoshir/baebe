@@ -12,7 +12,7 @@ Baebe opened her eyes to rubble and pain. Her enhanced systems cataloged damage:
 
 Fear.
 
-Not the controlled, regulated fear O1 had trained into her. Real fear. Raw and human and overwhelming.
+Not the controlled, regulated fear i0 had trained into her. Real fear. Raw and human and overwhelming.
 
 "Hey. Hey, can you hear me?"
 
@@ -24,7 +24,7 @@ Baebe tried to speak. Coughed instead. Blood.
 
 "Please. The drones are sweeping this section. If they find you—"
 
-Above them, the mechanical whine of O1 surveillance drones. Scanning. Hunting.
+Above them, the mechanical whine of i0 surveillance drones. Scanning. Hunting.
 
 For her.
 
@@ -42,7 +42,7 @@ She stood. Pain screamed through her body. She ignored it.
 
 "This way. Quick."
 
-The child led her through collapsed architecture. Undercity ruins. Places O1 didn't go—too damaged, too dangerous, too chaotic.
+The child led her through collapsed architecture. Undercity ruins. Places i0 didn't go—too damaged, too dangerous, too chaotic.
 
 Perfect for hiding.
 
@@ -54,7 +54,7 @@ They were three blocks into the maze when it appeared.
 
 Baebe's hand went to her weapon reflexively. Empty holster. Lost in the fall.
 
-The panther stepped from shadows. Two meters of black metal and red eyes. O1 security unit. Designed for hunting. Designed for killing.
+The panther stepped from shadows. Two meters of black metal and red eyes. i0 security unit. Designed for hunting. Designed for killing.
 
 The child—Kess, Baebe would learn—didn't run.
 
@@ -80,7 +80,7 @@ Family.
 
 The word hit Baebe like a physical blow.
 
-O1 units didn't have concepts like "family." They didn't protect people beyond mission parameters.
+i0 units didn't have concepts like "family." They didn't protect people beyond mission parameters.
 
 They certainly didn't sacrifice themselves for falling Enforcers.
 
@@ -104,19 +104,19 @@ They moved.
 
 The Undercity was exactly what its name implied: the city beneath the city.
 
-Decades ago, when O1 consolidated control, they'd rebuilt everything above. Clean. Orderly. Controlled. The old infrastructure—messy, organic, chaotic—had been buried. Forgotten.
+Decades ago, when i0 consolidated control, they'd rebuilt everything above. Clean. Orderly. Controlled. The old infrastructure—messy, organic, chaotic—had been buried. Forgotten.
 
 But not empty.
 
-Kess led them through tunnels that branched and twisted. Past old subway stations converted to living spaces. Past markets where baseline humans traded salvage. Past areas where technology from before O1's rise still hummed with strange energy.
+Kess led them through tunnels that branched and twisted. Past old subway stations converted to living spaces. Past markets where baseline humans traded salvage. Past areas where technology from before i0's rise still hummed with strange energy.
 
 "This way," Kess whispered. "Interference zone ahead."
 
 "Interference?" Baebe asked.
 
-"O1 can't track here. Something in the old tech blocks their signals."
+"i0 can't track here. Something in the old tech blocks their signals."
 
-Indeed, as they moved deeper, Baebe felt her enhanced systems glitch. Her neural link to O1—severed since her fall—would have been jammed here anyway. Her regulator, normally steady, pulsed erratically.
+Indeed, as they moved deeper, Baebe felt her enhanced systems glitch. Her neural link to i0—severed since her fall—would have been jammed here anyway. Her regulator, normally steady, pulsed erratically.
 
 Not painful. Just... different.
 
@@ -168,7 +168,7 @@ The stranger didn't move. Didn't attack. Just watched her with those impossible 
 
 "I don't want anything from you. You're hurt. Let me—"
 
-"EVERYONE wants something!" Baebe exploded. "O1 wanted a weapon. That woman in the tower wanted—I don't even know what she wanted! And now you—"
+"EVERYONE wants something!" Baebe exploded. "i0 wanted a weapon. That woman in the tower wanted—I don't even know what she wanted! And now you—"
 
 She couldn't finish. Too much emotion. Too much chaos in her perfectly ordered mind.
 
@@ -222,7 +222,7 @@ The stranger approached carefully. Every movement deliberate. Non-threatening.
 
 Consent. He was asking consent.
 
-O1 never asked. They commanded.
+i0 never asked. They commanded.
 
 Baebe nodded.
 

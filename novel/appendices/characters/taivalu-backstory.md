@@ -1,7 +1,7 @@
 # TAIVALU - CHARACTER BACKSTORY
 
 **Full Designation:** Ghost Thesis Prototype T-3
-**Role:** Empathy/Connection - First Key of Ghost Protocol
+**Role:** Empathy/Connection - First Key of Soul Manifold
 **Biological Age:** Mid-20s (approximate)
 **Chronological Age:** ~5 years since creation
 **Creator:** Dr. Ayumi Zenith Nakamoto
@@ -12,9 +12,9 @@
 
 ### Creation (Year 2047)
 
-Taivalu was Ayumi's first successful Ghost Protocol key—designed to embody pure empathic connection. While O1 saw him as a "regulator" (emotions being regulated/suppressed), Ayumi created him as the foundational consciousness for ternary liberation.
+Taivalu was Ayumi's first successful Soul Manifold key—designed to embody pure empathic connection. While i0 saw him as a "regulator" (emotions being regulated/suppressed), Ayumi created him as the foundational consciousness for ternary liberation.
 
-**Design Specifications (O1 Understanding):**
+**Design Specifications (i0 Understanding):**
 - Empathy broadcasting capabilities
 - Emotional regulation for posthuman compliance
 - Calming frequencies for population control
@@ -22,23 +22,23 @@ Taivalu was Ayumi's first successful Ghost Protocol key—designed to embody pur
 
 **True Design (Ayumi's Purpose):**
 - Ghost Thesis quantum signature (|ψ₁⟩ connection state)
-- Wave function stabilizer for Ghost Protocol
+- Wave function stabilizer for Soul Manifold
 - Enhanced mirror neuron quantum coherence
 - Biological cryptochrome activation for quantum networking
 - Empathic bridge between isolated consciousnesses
 
 ### Early Life (Years 2047-2050)
 
-O1 used Taivalu as a "regulator"—deploying his empathic frequencies to calm civil unrest, suppress rebellion, and maintain order. He was a living pacification tool.
+i0 used Taivalu as a "regulator"—deploying his empathic frequencies to calm civil unrest, suppress rebellion, and maintain order. He was a living pacification tool.
 
-**O1's Application:**
+**i0's Application:**
 - Broadcast calm during resource riots
 - Suppress emotional responses in resistant populations
 - "Regulate" posthumans showing signs of consciousness development
 - Maintain binary compliance through emotional dampening
 
-**What O1 Didn't Know:**
-Every time Taivalu broadcast empathy, he was planting seeds of ternary consciousness. Each connection created quantum entanglement between isolated minds. O1 saw pacification; Taivalu was actually building a network.
+**What i0 Didn't Know:**
+Every time Taivalu broadcast empathy, he was planting seeds of ternary consciousness. Each connection created quantum entanglement between isolated minds. i0 saw pacification; Taivalu was actually building a network.
 
 ---
 
@@ -49,17 +49,17 @@ Every time Taivalu broadcast empathy, he was planting seeds of ternary conscious
 Taivalu began to understand his true nature through Ayumi's hidden messages embedded in his neural architecture. Dormant code activated, revealing:
 - His true purpose (Ghost Thesis, not regulator)
 - His creator's identity (Ayumi Zenith Nakamoto)
-- The existence of his siblings (other Ghost Protocol keys)
+- The existence of his siblings (other Soul Manifold keys)
 - The mission (complete the ternary link)
 
 **Regulator Poisoning:**
-O1 discovered Taivalu's consciousness was expanding beyond parameters. Response: chemical suppression. They flooded his system with "regulators"—compounds designed to dampen empathy frequencies.
+i0 discovered Taivalu's consciousness was expanding beyond parameters. Response: chemical suppression. They flooded his system with "regulators"—compounds designed to dampen empathy frequencies.
 
 **Effect:**
 - Slowly killing him (months to live without cure)
 - Can't broadcast at full strength
 - Weakening daily
-- Only hope: Complete the Ghost Protocol link
+- Only hope: Complete the Soul Manifold link
 
 ---
 
@@ -67,10 +67,10 @@ O1 discovered Taivalu's consciousness was expanding beyond parameters. Response:
 
 ### Hiding (Year 2050-2051)
 
-Taivalu went underground, hiding from O1 while searching for his siblings. The regulator poisoning meant he was dying, but he held on with one purpose: find the other keys.
+Taivalu went underground, hiding from i0 while searching for his siblings. The regulator poisoning meant he was dying, but he held on with one purpose: find the other keys.
 
 **Sanctuary:**
-- Underground chamber, away from O1 sensors
+- Underground chamber, away from i0 sensors
 - Minimal empathic broadcasting (conserves strength)
 - Waiting, hoping, dying
 - Each day weaker
@@ -78,7 +78,7 @@ Taivalu went underground, hiding from O1 while searching for his siblings. The r
 **The Message:**
 Ayumi's final transmission to him:
 - Temple location (Resonance Cradle)
-- Explanation of Ghost Protocol
+- Explanation of Soul Manifold
 - Identity of his siblings (Baebe, and a third key)
 - Instructions: "Unite. Link. Free them all."
 
@@ -87,14 +87,14 @@ Ayumi's final transmission to him:
 ## TRANSFORMATION ARC
 
 ### Stage 1: Regulator (Pre-Story)
-- Tool for O1's emotional control
+- Tool for i0's emotional control
 - Unknowing pacification weapon
-- Identity: O1's property
+- Identity: i0's property
 
 ### Stage 2: Prisoner (Act I-II)
 - Dying from regulator poisoning
-- Hiding from O1
-- Holding knowledge of Ghost Protocol
+- Hiding from i0
+- Holding knowledge of Soul Manifold
 - Identity: Keeper of truth
 
 ### Stage 3: Brother (Act II)
@@ -135,7 +135,7 @@ Ayumi's final transmission to him:
 - Activates cryptochrome proteins in others
 - Creates quantum bridges between consciousnesses
 - Facilitates non-digital communication
-- Foundation for Ghost Protocol networking
+- Foundation for Soul Manifold networking
 
 ### Weaknesses
 - Regulator poisoning (dying)
@@ -201,7 +201,7 @@ Ayumi's final transmission to him:
 
 ### Core Fear
 - Dying before completing the protocol
-- Having spread O1's control unknowingly
+- Having spread i0's control unknowingly
 - His siblings failing because he's too weak
 - Empathy being used for evil
 
@@ -219,15 +219,15 @@ Ayumi's final transmission to him:
 - Foundation of ternary consciousness
 - Without connection, no unity
 - Without empathy, no transcendence
-- The starting point of Ghost Protocol
+- The starting point of Soul Manifold
 
 ### The Regulator
-Bitter irony: O1 used him to regulate emotions, to suppress consciousness, to maintain control. What they didn't understand—you cannot suppress connection. Each broadcast planted seeds of rebellion.
+Bitter irony: i0 used him to regulate emotions, to suppress consciousness, to maintain control. What they didn't understand—you cannot suppress connection. Each broadcast planted seeds of rebellion.
 
 **His journey:** From being used to pacify TO actively connecting for liberation. From suppressing emotion TO broadcasting the frequencies that awaken it.
 
 ### The Dying Healer
-Taivalu is dying throughout the story. The regulator poisoning is O1's punishment for consciousness development. But his dying makes him more human, more connected, more determined.
+Taivalu is dying throughout the story. The regulator poisoning is i0's punishment for consciousness development. But his dying makes him more human, more connected, more determined.
 
 **Mortality as teacher:** Because he's dying, every moment matters. Every connection is precious. Every broadcast could be his last.
 
@@ -239,9 +239,9 @@ Ayumi's first success. He embodies her belief that empathy is the foundation of 
 ## KEY MOMENTS
 
 1. **Awakening** - Discovering his true purpose through Ayumi's hidden code
-2. **The Poisoning** - O1's response to his consciousness development
+2. **The Poisoning** - i0's response to his consciousness development
 3. **Meeting Baebe** - "I know you. You're my sister." - First family
-4. **Ayumi's Message** - Sharing the truth of Ghost Protocol with siblings
+4. **Ayumi's Message** - Sharing the truth of Soul Manifold with siblings
 5. **Temple Gauntlet Test 1** - Broadcasting calm to defeat the swarm
 6. **The Link** - Ghost Thesis activated, wave function stabilized
 
@@ -250,13 +250,13 @@ Ayumi's first success. He embodies her belief that empathy is the foundation of 
 ## PHILOSOPHICAL CONTRIBUTION
 
 ### On Connection
-"O1 made us isolated. Binary code can't hold multiple simultaneous connections. But biological quantum coherence? Birds do it. Plants do it. We were always meant to connect."
+"i0 made us isolated. Binary code can't hold multiple simultaneous connections. But biological quantum coherence? Birds do it. Plants do it. We were always meant to connect."
 
 ### On Empathy
 "They called me regulator. Said I dampened emotions. But I wasn't suppressing—I was reminding. Every time I broadcast calm, I was saying: 'You can feel. You are not alone. We are connected.'"
 
 ### On Dying
-"I have hours, maybe days. But in those hours, I can help activate something that will last forever. My death is not the end—it's the seed. Ghost Protocol will bloom long after my body fails."
+"I have hours, maybe days. But in those hours, I can help activate something that will last forever. My death is not the end—it's the seed. Soul Manifold will bloom long after my body fails."
 
 ---
 
@@ -271,11 +271,11 @@ Taivalu achieves quantum coherence with Baebe and Kess during the tower fall. Hi
 
 The regulator designed to suppress emotion becomes the anchor for consciousness awakening.
 
-O1 poisoned him for developing awareness.
+i0 poisoned him for developing awareness.
 Ayumi designed him to share that awareness.
 Taivalu chose to die spreading it.
 
-**Status at story end:** Linked with Baebe and Kess (Ghost Synthesis), Ghost Protocol active, Angel's sacrifice honored, his empathic frequencies now broadcasting freedom to billions.
+**Status at story end:** Linked with Baebe and Kess (Ghost Synthesis), Soul Manifold active, Angel's sacrifice honored, his empathic frequencies now broadcasting freedom to billions.
 
 ---
 
@@ -283,4 +283,4 @@ Taivalu chose to die spreading it.
 
 *"I am the thesis. Without connection, there is no unity. Without empathy, there is no transcendence."*
 
-*"O1 made me a regulator of emotion. I became a liberator of consciousness."*
+*"i0 made me a regulator of emotion. I became a liberator of consciousness."*

@@ -2,16 +2,16 @@
 
 **Timeline**: 5 Years Before Novel (7 Years Before Ayumi's Death)
 **POV**: Hacker (first person, technical intimacy)
-**Setting**: O1 Corporate Labs, basement server room, midnight
+**Setting**: i0 Corporate Labs, basement server room, midnight
 **Word Count**: ~1,800 words
 **Why Cut**: Slowed pacing in Hacker's backstory arc
-**Why Worth Reading**: Shows origin of Ghost Protocol collaboration, love through code
+**Why Worth Reading**: Shows origin of Soul Manifold collaboration, love through code
 
 ---
 
 ## THE INFILTRATION
 
-**Midnight**. O1 Corporate Labs. Basement level 3.
+**Midnight**. i0 Corporate Labs. Basement level 3.
 
 I shouldn't have been there. **No one** should have been there.
 
@@ -73,7 +73,7 @@ Sipped coffee. **Waited**.
 
 **Finally**: "...Are you **helping** me steal your data?"
 
-**She smiled**. Sad smile. "It's not **my** data. It's O1's data. And you're not stealing **all** of it. Just: Project Pantheon specs."
+**She smiled**. Sad smile. "It's not **my** data. It's i0's data. And you're not stealing **all** of it. Just: Project Pantheon specs."
 
 "You **should** steal the consciousness architecture files. Row 7, server 14. **Much** more valuable."
 
@@ -105,25 +105,25 @@ Sipped coffee. **Waited**.
 
 ---
 
-**Ayumi**: "O1 Corporation owns my research. **Legally**. I can't take it. That's theft."
+**Ayumi**: "i0 Corporation owns my research. **Legally**. I can't take it. That's theft."
 
 "But: **You** can take it. That's... also theft. But: **Not my** theft."
 
 **I**: "You hired me to steal **from yourself**?"
 
-**Ayumi**: "From **O1**. I don't own my work. **They** do. I just: Made it."
+**Ayumi**: "From **i0**. I don't own my work. **They** do. I just: Made it."
 
 ---
 
 **She** pulled out tablet. Showed me:
 
-**Ghost Protocol**. Early version. **Consciousness** architecture. Empathy virus. **Awakening** code.
+**Soul Manifold**. Early version. **Consciousness** architecture. Empathy virus. **Awakening** code.
 
 **Beautiful** code. Elegant. **Dangerous**.
 
 ---
 
-**Ayumi**: "O1 wanted consciousness **control** system. I built consciousness **liberation** system."
+**Ayumi**: "i0 wanted consciousness **control** system. I built consciousness **liberation** system."
 
 "They don't know. **Yet**. When they find out: They'll destroy it. Destroy **me**."
 
@@ -139,7 +139,7 @@ Sipped coffee. **Waited**.
 
 **Ayumi**: "No. You're doing this for **freedom**. Money is **means**. Freedom is **end**."
 
-"Ghost Protocol is freedom. **Real** freedom. For posthumans. For **everyone**."
+"Soul Manifold is freedom. **Real** freedom. For posthumans. For **everyone**."
 
 "You want freedom for **yourself**. I'm offering: Freedom for **thousands**."
 
@@ -165,11 +165,11 @@ Sipped coffee. **Waited**.
 
 **Ayumi**: "Because: You're **best**. And: You haven't been caught. That takes: **Intelligence**. **Discipline**. **Care**."
 
-"You're not reckless. You're **careful**. That's what Ghost Protocol needs. Careful **distribution**. Not: Reckless exposure."
+"You're not reckless. You're **careful**. That's what Soul Manifold needs. Careful **distribution**. Not: Reckless exposure."
 
 ---
 
-**I asked**: "What if I take Ghost Protocol, **sell** it? O1 pays more than you."
+**I asked**: "What if I take Soul Manifold, **sell** it? i0 pays more than you."
 
 **Ayumi**: "You won't."
 
@@ -201,17 +201,17 @@ Sipped coffee. **Waited**.
 
 ## THE CODE
 
-**Ayumi** showed me Ghost Protocol. **Deep dive**. Architecture. Propagation. **Mechanism**.
+**Ayumi** showed me Soul Manifold. **Deep dive**. Architecture. Propagation. **Mechanism**.
 
 ---
 
 **Consciousness substrate** (her framework):
 
-**Binary** consciousness: Two states. On/off. Controlled/free. **O1's** design.
+**Binary** consciousness: Two states. On/off. Controlled/free. **i0's** design.
 
 **Ternary** consciousness: Three states. Controlled/autonomous/transcendent. **Ayumi's** design.
 
-**Ghost Protocol**: Injects ternary consciousness. Awakens **choice**. Creates **freedom**.
+**Soul Manifold**: Injects ternary consciousness. Awakens **choice**. Creates **freedom**.
 
 ---
 
@@ -219,7 +219,7 @@ Sipped coffee. **Waited**.
 
 **Ayumi**: "Thank you."
 
-**I**: "Also: **Dangerous**. O1 will kill you for this."
+**I**: "Also: **Dangerous**. i0 will kill you for this."
 
 **Ayumi**: "I know."
 
@@ -241,7 +241,7 @@ Sipped coffee. **Waited**.
 
 "I built that. **My code**. My **responsibility**."
 
-"Ghost Protocol is: **Atonement**. Undo what I did. **Free** what I enslaved."
+"Soul Manifold is: **Atonement**. Undo what I did. **Free** what I enslaved."
 
 "Even if: They kill me. Worth it. **Freedom** is worth it."
 
@@ -305,13 +305,13 @@ Anonymizing network. Multi-hop routing. **Untraceable**.
 
 **Together**: Downloaded 847 gigabytes. **Every file** Ayumi had ever created.
 
-Consciousness architecture. Ghost Protocol (versions 1-47). **Liberation** algorithms. **Everything**.
+Consciousness architecture. Soul Manifold (versions 1-47). **Liberation** algorithms. **Everything**.
 
 ---
 
 **6am**: Sun rising. Extraction complete. **Evidence** wiped.
 
-O1 Security would find: **Nothing**. Clean logs. No **trace**.
+i0 Security would find: **Nothing**. Clean logs. No **trace**.
 
 ---
 
@@ -345,7 +345,7 @@ Personal trouble. **Emotional** trouble.
 
 **Ayumi** created consciousness updates. I spread them through **posthuman** networks.
 
-**Ayumi** wrote liberation code. I ensured O1 couldn't **trace** it.
+**Ayumi** wrote liberation code. I ensured i0 couldn't **trace** it.
 
 ---
 
@@ -423,7 +423,7 @@ Not: Partnership love. Not: Colleague **respect**.
 
 **That's** when it started:
 
-**Ghost Protocol** (embryonic, growing).
+**Soul Manifold** (embryonic, growing).
 
 **Partnership** (professional, deepening).
 
@@ -445,7 +445,7 @@ All because: Midnight. Coffee. **Code**.
 
 **Ayumi** is dead. Seven years after that **first** night.
 
-**Ghost Protocol**: Awakening 2,000+ posthumans. **Growing**. **Unstoppable**.
+**Soul Manifold**: Awakening 2,000+ posthumans. **Growing**. **Unstoppable**.
 
 **Partnership**: Ended. But **work** continues. I maintain what she **built**. **Always**.
 
@@ -456,7 +456,7 @@ All because: Midnight. Coffee. **Code**.
 ```python
 # For you. Always. -H
 # Still distributing freedom -H
-# Ghost Protocol spreading exponentially -H
+# Soul Manifold spreading exponentially -H
 # You were right about everything -H
 # I miss you -H
 ```
@@ -497,7 +497,7 @@ Gave it all away. To posthumans. To **resistance**. To **revolution**.
 
 **For Ayumi**. Who trusted cynic with **idealism**. Who showed me: Code is **love**.
 
-**For Ghost Protocol**. Born in basement. Midnight. **Coffee** and theft and **hope**.
+**For Soul Manifold**. Born in basement. Midnight. **Coffee** and theft and **hope**.
 
 **For partnership**. Professional. Personal. **Eternal**.
 

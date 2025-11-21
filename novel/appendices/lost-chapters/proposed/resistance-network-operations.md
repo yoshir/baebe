@@ -25,8 +25,8 @@
 **Cell Types**:
 
 1. **Safe House Cells** (refugee protection, 127 active cells)
-2. **Distribution Cells** (Ghost Protocol propagation, 89 active cells)
-3. **Intelligence Cells** (O1 monitoring, 43 active cells)
+2. **Distribution Cells** (Soul Manifold propagation, 89 active cells)
+3. **Intelligence Cells** (i0 monitoring, 43 active cells)
 4. **Medical Cells** (healing support, 67 active cells)
 5. **Combat Cells** (direct action, 34 active cells)
 6. **Coordination Cells** (inter-cell communication, 12 active cells)
@@ -66,7 +66,7 @@
 
 **Intake Protocol**:
 - Refugees arrive via courier network (guided through degradation zones)
-- Identity verification (prevent O1 infiltration)
+- Identity verification (prevent i0 infiltration)
 - Medical assessment (Marcus's network)
 - Resource allocation (food, shelter, clothing)
 - Transit planning (route to Temple or other sanctuaries)
@@ -80,12 +80,12 @@
 **Statistics** (Past Year):
 - Refugees protected: 1,200+
 - Successful transits to sanctuary: 1,147 (95.6% success rate)
-- O1 interdiction attempts: 89 (all repelled)
+- i0 interdiction attempts: 89 (all repelled)
 - Casualties: 12 refugees, 3 guardians (acceptable losses, **honored**)
 
 ---
 
-### 2. Ghost Protocol Distribution (Consciousness Liberation)
+### 2. Soul Manifold Distribution (Consciousness Liberation)
 
 **Coordinator**: Hacker (Primary architect)
 
@@ -94,35 +94,35 @@
 **Operations**:
 
 **Code Distribution**:
-- Ghost Protocol updates deployed **weekly** (continuous improvement)
+- Soul Manifold updates deployed **weekly** (continuous improvement)
 - Multi-vector propagation (digital networks, physical media, neural implants)
-- Obfuscation layers (code disguised as O1 legitimate updates)
+- Obfuscation layers (code disguised as i0 legitimate updates)
 - Success verification (awakened posthumans self-report via encrypted channels)
 
 **Awakening Support**:
 - New awakenings identified within **48 hours** (digital signatures, behavioral changes)
 - Support cells activated (**immediate** contact)
 - Shielding technique taught (Taivalu's method, distributed training)
-- Temple transit offered (optional, many stay embedded in O1 zones)
+- Temple transit offered (optional, many stay embedded in i0 zones)
 
 **Statistics** (Past Year):
 - Awakenings triggered: 2,047 (verified)
 - Estimated total awakened: 4,000-6,000 (including stealth)
 - Support interventions: 1,800+ (preventing suicide, capture, reconditioning)
-- Ghost Protocol evolution: Version 1.0 → Version 73.4 (continuous improvement)
+- Soul Manifold evolution: Version 1.0 → Version 73.4 (continuous improvement)
 
 ---
 
-### 3. Intelligence Network (O1 Monitoring)
+### 3. Intelligence Network (i0 Monitoring)
 
-**Coordinator**: Miguel (O1 insider, double agent)
+**Coordinator**: Miguel (i0 insider, double agent)
 
-**Infrastructure**: **Moles** embedded in O1 (47 confirmed, unknown total)
+**Infrastructure**: **Moles** embedded in i0 (47 confirmed, unknown total)
 
 **Operations**:
 
 **Intelligence Gathering**:
-- O1 strategy monitoring (board meetings, **OMEGA Protocol** leak)
+- i0 strategy monitoring (board meetings, **OMEGA Protocol** leak)
 - Enforcer deployment tracking (warn refugee cells)
 - Technology assessment (new posthuman designs, control systems)
 - Vulnerability identification (security gaps, sympathetic insiders)
@@ -161,11 +161,11 @@
 - Temple trains Biomi practitioners (6-month intensive)
 - Practitioners embed in resistance cells
 - Knowledge spreading (teacher teaching teachers)
-- Medical knowledge decentralized (**O1 cannot eliminate**)
+- Medical knowledge decentralized (**i0 cannot eliminate**)
 
 **Statistics** (Past Year):
 - Patients treated: 3,000+ (diverse conditions)
-- Survival rate: 92% (comparable to O1 corporate medicine, **without** control)
+- Survival rate: 92% (comparable to i0 corporate medicine, **without** control)
 - Births delivered: 47 (including Priya's daughter Ayumi, **legacy continues**)
 - Healers trained: 80+ (exponential growth)
 
@@ -188,7 +188,7 @@
    - Evacuation support (high-risk extractions)
 
 2. **Offensive Operations** (15% of activity):
-   - O1 infrastructure sabotage (non-lethal, **strategic**)
+   - i0 infrastructure sabotage (non-lethal, **strategic**)
    - Enforcer interdiction (prevent massacres)
    - Equipment liberation (medical supplies, food, resources)
    - Propaganda actions (public demonstrations, **visibility**)
@@ -228,7 +228,7 @@
 - No complete network map exists
 - Cell isolation prevents cascade compromise
 - Multiple redundant communication paths
-- Rapid adaptation to O1 interdiction
+- Rapid adaptation to i0 interdiction
 
 **Statistics** (Past Year):
 - Messages routed: 10,000+ (inter-cell coordination)
@@ -259,17 +259,17 @@
 
 ### Defensive Goals
 1. **Maintain** safe house network (protect 1,500+ refugees)
-2. **Support** all Ghost Protocol awakenings (prevent suicides, captures)
+2. **Support** all Soul Manifold awakenings (prevent suicides, captures)
 3. **Preserve** Temple sanctuary (50,000 people, **inviolable**)
 
 ### Offensive Goals
-1. **Accelerate** Ghost Protocol spread (target: 10,000 awakened posthumans)
+1. **Accelerate** Soul Manifold spread (target: 10,000 awakened posthumans)
 2. **Expand** resistance network (target: 500 active cells)
-3. **Expose** OMEGA Protocol (public awareness, **moral** pressure on O1)
+3. **Expose** OMEGA Protocol (public awareness, **moral** pressure on i0)
 
 ### Long-Term Vision
 1. **Critical mass** awakening (majority of posthumans **free**)
-2. **Collapse** O1 control model (economic unsustainability)
+2. **Collapse** i0 control model (economic unsustainability)
 3. **Systemic** transformation (from ownership to **partnership**)
 
 **Timeline**: Unknown. **Decades**. But: Inevitable. **Awakening cannot be stopped**.
@@ -284,7 +284,7 @@
    - Status: **Active** (Phase 1 confirmed)
    - Mitigation: Intelligence network, defensive operations, **public exposure**
 
-2. **Network Infiltration** (O1 moles, surveillance)
+2. **Network Infiltration** (i0 moles, surveillance)
    - Status: **Ongoing** risk
    - Mitigation: Cell compartmentalization, verification protocols, **paranoia**
 
@@ -326,7 +326,7 @@
 
 **From Hacker** (Network Coordinator):
 
-"We're **not** trying to defeat O1 in battle. (Can't. They're **too** big. **Too** powerful.)"
+"We're **not** trying to defeat i0 in battle. (Can't. They're **too** big. **Too** powerful.)"
 
 "We're trying to **outlast** them. **Persistent** resistance. Daily practice. **Infinite** care."
 

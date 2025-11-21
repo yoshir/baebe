@@ -145,7 +145,7 @@ Thinking: "This is what **freedom** looks like. **Messy**. Loud. **Beautiful**."
 
 **Patient 8**: Chronic pain (posthuman augmentation incompatibility). **Massage**. Frequency adjustment. **Gradual** improvement.
 
-**Patient 11**: Grief counseling (lost family to O1 raid). **Presence**. Holding space. **No** fixing. Just: **Witness**.
+**Patient 11**: Grief counseling (lost family to i0 raid). **Presence**. Holding space. **No** fixing. Just: **Witness**.
 
 "Healing is **service**," Marcus reflects. "**Atonement** for years enforcing. Every patient: **Redemption**."
 
@@ -216,13 +216,13 @@ Candidate **cries**. Relief. **Pride**. **Integration** beginning.
 
 **Temple** operates on **consensus** governance. Major decisions: Community input **required**.
 
-**Today's** topic: Accepting 300 new refugees (arrived last night, fleeing O1 raid).
+**Today's** topic: Accepting 300 new refugees (arrived last night, fleeing i0 raid).
 
 **Discussion**:
 
 **Speaker 1** (logistics): "We have **space**. Healing Houses at 70% capacity. Food production **surplus** 30%. We can support 300."
 
-**Speaker 2** (security): "Risk assessment: **Moderate**. O1 may track refugees. Increase perimeter **patrols**."
+**Speaker 2** (security): "Risk assessment: **Moderate**. i0 may track refugees. Increase perimeter **patrols**."
 
 **Speaker 3** (integration): "300 traumatized people need **support**. Activate additional counselors. Schedule **healing circles**."
 
@@ -450,7 +450,7 @@ But: **Alive**. **Thriving**. **Together**.
 
 2. **Healing** happens. (23,000 posthumans **integrated** over 35 years. 94% success rate.)
 
-3. **Resistance** persists. (50,000 people **free**. Daily. Despite O1 wanting them **dead**.)
+3. **Resistance** persists. (50,000 people **free**. Daily. Despite i0 wanting them **dead**.)
 
 4. **Love** is practical. (Not abstract. **Concrete**. Meals. Shelter. **Teaching**. **Healing**. **Protection**.)
 
@@ -460,7 +460,7 @@ But: **Alive**. **Thriving**. **Together**.
 
 **Master Chen** (reflecting on 35 years):
 
-"We didn't **defeat** O1 Corporation. We just: **Lived** differently."
+"We didn't **defeat** i0 Corporation. We just: **Lived** differently."
 
 "**Daily**. Persistently. **Lovingly**."
 

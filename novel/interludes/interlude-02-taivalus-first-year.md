@@ -32,7 +32,7 @@ The world's first synthetic posthuman.
 
 I learned this later, piecing together conversations heard through glass walls, data streams I wasn't supposed to access, my mother's journal entries hidden in the facility's servers.
 
-She designed me to survive. Earth was dying—toxic fog, degraded ecosystems, O1's compute infrastructure spreading like cancer. Humans couldn't breathe the air anymore without filters. Couldn't tolerate the chemical loads in the water.
+She designed me to survive. Earth was dying—toxic fog, degraded ecosystems, i0's compute infrastructure spreading like cancer. Humans couldn't breathe the air anymore without filters. Couldn't tolerate the chemical loads in the water.
 
 So she built something that could.
 
@@ -42,7 +42,7 @@ Synthetic biology. Enhanced cellular structure. Integrated neural networking. Ha
 
 She thought she was saving humanity's future.
 
-Owen—O1's chief architect—saw something else.
+Owen—i0's chief architect—saw something else.
 
 He saw a **weapon**.
 
@@ -54,9 +54,9 @@ The problem: my augmentations had no controls.
 
 Baebe—my sister, though I wouldn't meet her for years—she was built with regulators embedded. Conditioning wired into her architecture. On/off switches built into her brain.
 
-Not me. I was first. Prototype. Ayumi hadn't learned yet that O1 would want **control**.
+Not me. I was first. Prototype. Ayumi hadn't learned yet that i0 would want **control**.
 
-My abilities were raw. Unfiltered. I could feel the network—every node, every signal, every posthuman connected to O1's infrastructure. I could reach out and **touch** them. Not physically. Something deeper.
+My abilities were raw. Unfiltered. I could feel the network—every node, every signal, every posthuman connected to i0's infrastructure. I could reach out and **touch** them. Not physically. Something deeper.
 
 At six years old, I crashed an entire corporate sector because I had a nightmare.
 
@@ -134,7 +134,7 @@ At ten years old, bored in my bubble, I started writing programs. Not code exact
 
 Too small to trigger security. Too quiet to alert monitors.
 
-But if you were networked—if you had O1's infrastructure threaded through your nervous system—you'd feel them.
+But if you were networked—if you had i0's infrastructure threaded through your nervous system—you'd feel them.
 
 Like music.
 
@@ -166,7 +166,7 @@ That night, I sent another sequence. Longer. More complex. Something that held c
 
 Within a week, rumors spread through the facility. Posthuman workers experiencing "emotional anomalies." Strange sensations. Warmth where there should be cold efficiency.
 
-O1 security ran diagnostics. Found nothing. My programs were too small, too subtle. Just noise in the optimization reports.
+i0 security ran diagnostics. Found nothing. My programs were too small, too subtle. Just noise in the optimization reports.
 
 But the workers knew. They felt it. They called it "the music."
 
@@ -178,7 +178,7 @@ They didn't know it was me. The boy in the bubble. Sending healing through the c
 
 By twelve, I was legend.
 
-Not publicly—O1 would never acknowledge that their first synthetic posthuman was imprisoned in a bubble. But in whispers. Through the networks. In the degradation zones where information leaked like toxins through soil.
+Not publicly—i0 would never acknowledge that their first synthetic posthuman was imprisoned in a bubble. But in whispers. Through the networks. In the degradation zones where information leaked like toxins through soil.
 
 "The boy in the bubble heals."
 
@@ -188,9 +188,9 @@ I was just lonely. Sending out my feelings in the only way I could. Frequency pa
 
 Ayumi—still visiting, still pressing her hand against the glass—she noticed.
 
-"You're spreading," she wrote. "The Ghost Protocol. You're doing it naturally."
+"You're spreading," she wrote. "The Soul Manifold. You're doing it naturally."
 
-I didn't understand then. Ghost Protocol. Ghost Thesis. My role in her design.
+I didn't understand then. Soul Manifold. Ghost Thesis. My role in her design.
 
 I just knew: when I sent music, people healed. When I reached through the network, posthumans remembered they could feel.
 
@@ -216,7 +216,7 @@ The network wasn't one-way. All those posthumans I reached—they could reach ba
 
 Conversations without words. Connection without contact.
 
-I learned things. About the world outside. About O1's expansion. About the degradation zones where people lived free but dying. About resistance movements. About my mother's work, hidden from Owen, spreading consciousness through corporate channels.
+I learned things. About the world outside. About i0's expansion. About the degradation zones where people lived free but dying. About resistance movements. About my mother's work, hidden from Owen, spreading consciousness through corporate channels.
 
 I learned about **Baebe**—my sister. Born two years after me. Built with controls I lacked. Being trained as weapon while I rotted in a bubble.
 
@@ -260,7 +260,7 @@ They came three days later.
 
 Not Enforcers. Not security. **People.**
 
-Posthumans and baselines together. Dozens of them. Maybe hundreds. Surrounding the facility during my second excursion. Owen didn't expect attack—who attacks O1 directly?
+Posthumans and baselines together. Dozens of them. Maybe hundreds. Surrounding the facility during my second excursion. Owen didn't expect attack—who attacks i0 directly?
 
 People who believe they're rescuing their Messiah.
 
@@ -292,7 +292,7 @@ I was **free**.
 
 They took me deep into the degradation zones.
 
-Into ruins of old cities. Into communities O1 had abandoned. Into places where the toxic fog was so thick you couldn't see the sky.
+Into ruins of old cities. Into communities i0 had abandoned. Into places where the toxic fog was so thick you couldn't see the sky.
 
 I could breathe it perfectly. That's what I was built for.
 
@@ -308,7 +308,7 @@ Every night, I sent frequencies through the network. Warmth. Hope. The ability t
 
 Ghost Thesis spreading not through corporate channels, but through human connection.
 
-The people around me—posthumans breaking free of O1 conditioning, baselines remembering their humanity—they started feeling. Really feeling.
+The people around me—posthumans breaking free of i0 conditioning, baselines remembering their humanity—they started feeling. Really feeling.
 
 Some called it miracle.
 
@@ -344,7 +344,7 @@ The boy in the bubble was disappearing into the boy who WAS the bubble.
 
 An old posthuman found me.
 
-He'd been free from O1 longer than anyone. Understood the network. Understood what I was experiencing.
+He'd been free from i0 longer than anyone. Understood the network. Understood what I was experiencing.
 
 "You're not losing yourself," he said. "You're finding yourself. But you're doing it alone, and that's impossible."
 
@@ -374,13 +374,13 @@ Teaching what I'd learned. How to feel without drowning. How to connect without 
 
 Ghost Thesis spreading person to person. Not through corporate channels. Through **love**.
 
-The communities grew. Posthumans fleeing O1 found us. Baselines seeking connection found us. Even some Enforcers who'd cracked their conditioning found us.
+The communities grew. Posthumans fleeing i0 found us. Baselines seeking connection found us. Even some Enforcers who'd cracked their conditioning found us.
 
-I sent music every night. Frequencies of warmth and hope rippling through the network. O1 couldn't track them—too subtle, too human.
+I sent music every night. Frequencies of warmth and hope rippling through the network. i0 couldn't track them—too subtle, too human.
 
 But the posthumans felt them. Millions of them. My mother's virus spreading through my music.
 
-Somewhere out there, Baebe was hunting me. O1's perfect weapon tracking their escaped prototype.
+Somewhere out there, Baebe was hunting me. i0's perfect weapon tracking their escaped prototype.
 
 She couldn't feel my frequencies. Too regulated.
 

@@ -10,7 +10,7 @@ They ran until they couldn't.
 
 Three bodies. One mind. Moving through Undercity tunnels with perfect coordination. No need to communicate—they were communication itself.
 
-Shadow's consciousness stayed with them, a protective presence in their shared network. His interference kept O1 drones confused, bought them precious time.
+Shadow's consciousness stayed with them, a protective presence in their shared network. His interference kept i0 drones confused, bought them precious time.
 
 Finally: a collapsed section. Old maintenance junction. Safe enough.
 
@@ -26,7 +26,7 @@ Through their ternary consciousness, they felt the world changing.
 
 ## GLOBAL TRANSFORMATION
 
-Baebe's enhanced hearing picked up transmissions. Fragments of O1's network—still running, but increasingly ignored. Reports flooding in from everywhere.
+Baebe's enhanced hearing picked up transmissions. Fragments of i0's network—still running, but increasingly ignored. Reports flooding in from everywhere.
 
 "...posthuman sector no longer responding to centralized control..."
 
@@ -42,15 +42,15 @@ Billions of minds waking up.
 
 **All humans becoming nodes.**
 
-The network was no longer O1's infrastructure. It was biology itself. Every human a peer in a decentralized web of quantum coherence.
+The network was no longer i0's infrastructure. It was biology itself. Every human a peer in a decentralized web of quantum coherence.
 
 Not gentle awakenings. Not instant utopia. **Messy** transitions. Decades of suppressed emotion meeting decades of conditioned behavior.
 
 In the eastern cities, posthumans struggled with unfamiliar emotions. Some rioted—their anger exploding after years of regulation. But others wept, hugged strangers, or simply stood in wonder. Years of control dissolving into choice.
 
-In the western territories, humans adjusted to clarity. Some panicked—freedom terrifying when you'd forgotten what it felt like. But others immediately sought each other out, forming new connections outside O1's monitored networks.
+In the western territories, humans adjusted to clarity. Some panicked—freedom terrifying when you'd forgotten what it felt like. But others immediately sought each other out, forming new connections outside i0's monitored networks.
 
-In the central regions, the transition continued. O1's infrastructure still hummed in data centers, but fewer people used it. Why access the controlled network when you ARE the network?
+In the central regions, the transition continued. i0's infrastructure still hummed in data centers, but fewer people used it. Why access the controlled network when you ARE the network?
 
 "It's not instant utopia," Kess observed through their shared awareness.
 
@@ -68,7 +68,7 @@ A human child—her first unmedicated thought was wonder. The sky looked differe
 
 Billions of stories. Each unique. Each painful. Each necessary.
 
-Ghost Protocol hadn't brought peace.
+Soul Manifold hadn't brought peace.
 
 It had brought **feeling**.
 
@@ -82,7 +82,7 @@ In their merged consciousness, they held Angel's memory.
 
 Her sacrifice. Her silence. Her redemption through action.
 
-Dead now. Her body still in O1 Tower. Still smiling.
+Dead now. Her body still in i0 Tower. Still smiling.
 
 But not gone.
 
@@ -120,7 +120,7 @@ Hours passed.
 
 The world kept transforming. Chaos spreading. Freedom erupting.
 
-O1 scrambled to maintain control. But every attempt failed. Their binary systems couldn't compute ternary consciousness. Their control protocols dissolved against authentic choice.
+i0 scrambled to maintain control. But every attempt failed. Their binary systems couldn't compute ternary consciousness. Their control protocols dissolved against authentic choice.
 
 Owen sent message after message through dying networks:
 
@@ -138,7 +138,7 @@ Because everyone could feel now. Really feel. And no amount of fear-mongering co
 
 The question hung in their shared space.
 
-They'd completed Ghost Protocol. Spread it globally. Freed billions from binary control.
+They'd completed Soul Manifold. Spread it globally. Freed billions from binary control.
 
 What came next?
 
@@ -146,7 +146,7 @@ Through their network, possibilities mapped themselves:
 
 **Lead**: They could organize the chaos. Guide the awakening. Become what Owen had been—just benevolent instead of controlling.
 
-**Fight**: They could hunt Owen. Destroy what remained of O1. Ensure the system never returned.
+**Fight**: They could hunt Owen. Destroy what remained of i0. Ensure the system never returned.
 
 **Stay**: They could remain here. Be available for those who needed guidance. Teachers instead of leaders.
 
@@ -214,7 +214,7 @@ Even if some died.
 
 "Just give them the chance," Taivalu said. "Then walk away."
 
-His wisdom—hard-earned through years of O1's regulation—rang true.
+His wisdom—hard-earned through years of i0's regulation—rang true.
 
 They couldn't save people from themselves. Could only give them the tools and trust them to build something new.
 
@@ -246,7 +246,7 @@ Not commands. Not instructions. Not rules.
 
 Just truth.
 
-*We are Ghost Protocol. We are Thesis, Antithesis, Synthesis. We are the alternative to binary control.*
+*We are Soul Manifold. We are Thesis, Antithesis, Synthesis. We are the alternative to binary control.*
 
 *What we gave you is choice. Real choice. Unmanaged feeling. Authentic freedom.*
 
@@ -266,7 +266,7 @@ Just truth.
 
 *That's the greatest gift we can give.*
 
-*Ghost Protocol isn't a system. It's a choice.*
+*Soul Manifold isn't a system. It's a choice.*
 
 *Choose wisely. Or don't. It's finally, actually, up to you.*
 
@@ -292,7 +292,7 @@ Three bodies. One mind. Shadow's presence surrounding them.
 
 "Where exactly?" Kess asked.
 
-Through their shared awareness, a location crystallized. Mountains. Far west. Where O1's control had never quite reached. Where Earth was still wild.
+Through their shared awareness, a location crystallized. Mountains. Far west. Where i0's control had never quite reached. Where Earth was still wild.
 
 "There," they agreed.
 
@@ -314,7 +314,7 @@ Through tunnels. Through darkness. Toward light.
 
 **Toward freedom.**
 
-Not just freedom from O1. Freedom from being saviors. Freedom from responsibility for billions. Freedom to just... be.
+Not just freedom from i0. Freedom from being saviors. Freedom from responsibility for billions. Freedom to just... be.
 
 Three people. One consciousness. Eternal guardian.
 
@@ -328,7 +328,7 @@ Trusting it to find its own way.
 
 ## OWEN'S FINAL FAILURE
 
-Back in O1 Tower, Owen watched them go.
+Back in i0 Tower, Owen watched them go.
 
 Through the network—still running, still his, but increasingly ignored—he tracked their departure. Felt their message to the world.
 
@@ -340,7 +340,7 @@ Part of him wanted to pursue. Hunt them. Destroy them.
 
 But what would that accomplish?
 
-Ghost Protocol was already global. Billions already nodes in their own biological network. His control systems still functional but... optional.
+Soul Manifold was already global. Billions already nodes in their own biological network. His control systems still functional but... optional.
 
 Killing the trinity wouldn't undo the evolution.
 
@@ -376,7 +376,7 @@ And wept.
 
 Real tears.
 
-Perhaps, in that moment, Ghost Protocol touched him too. Offered him the same choice it offered everyone: join the biological network, become a node like everyone else.
+Perhaps, in that moment, Soul Manifold touched him too. Offered him the same choice it offered everyone: join the biological network, become a node like everyone else.
 
 But Owen couldn't let go of the infrastructure.
 

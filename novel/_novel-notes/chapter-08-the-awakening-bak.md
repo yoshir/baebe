@@ -118,7 +118,7 @@ Baebe collapsed.
 
 ## THE CLEARING
 
-"She needs the full protocol," Taivalu said urgently. "We've unlocked the surface layers but there's deeper conditioning. O1 buried systems in her."
+"She needs the full protocol," Taivalu said urgently. "We've unlocked the surface layers but there's deeper conditioning. i0 buried systems in her."
 
 Angel nodded. "Do it. Before she panics again."
 
@@ -128,7 +128,7 @@ Angel nodded. "Do it. Before she panics again."
 
 Taivalu knelt beside Baebe. His hands found her temples again. His frequencies—deeper this time—penetrated past muscle and bone into the neural pathways themselves.
 
-"I'm going to clear you," he said softly. "Remove O1's suppression. What you'll experience is a message. From your mother. Our mother. Don't fight it."
+"I'm going to clear you," he said softly. "Remove i0's suppression. What you'll experience is a message. From your mother. Our mother. Don't fight it."
 
 Baebe's eyes were wild. "What mother? I was made in a facility. I don't have—"
 
@@ -140,7 +140,7 @@ Shadow's red eye pulsed once. Affirmative.
 
 "Do it," Baebe whispered.
 
-Taivalu's frequencies intensified. His hands glowed with impossible light. He was reaching into her mind—into the genetic code itself—finding the locked sequences O1 had buried.
+Taivalu's frequencies intensified. His hands glowed with impossible light. He was reaching into her mind—into the genetic code itself—finding the locked sequences i0 had buried.
 
 **PAIN.**
 
@@ -180,23 +180,23 @@ She looked directly into the recording. Directly at Baebe.
 
 The voice—gentle but urgent—cracked something open in Baebe's chest.
 
-"If you're experiencing this, Taivalu has cleared you. The suppression is gone. You're free to remember what O1 made you forget."
+"If you're experiencing this, Taivalu has cleared you. The suppression is gone. You're free to remember what i0 made you forget."
 
 She took a breath. Steadying herself.
 
-"My name was Ayumi Zenith Nakamoto. I was a quantum biologist for O1 Corporation. I discovered the truth about posthuman biology—the chemical degradation, the mind control, the systematic enslavement disguised as optimization. And when I refused to weaponize my research, they hunted me."
+"My name was Ayumi Zenith Nakamoto. I was a quantum biologist for i0 Corporation. I discovered the truth about posthuman biology—the chemical degradation, the mind control, the systematic enslavement disguised as optimization. And when I refused to weaponize my research, they hunted me."
 
 Data streams appeared. Documents. Genetic sequences. Evidence.
 
-"But I fought back. For years, I worked through Angel—my first creation, my failsafe—to free people one by one. She didn't know I was using her. O1 didn't know she was helping me. Slowly, carefully, we freed hundreds. Taivalu's healing work? Partly because of what Angel and I accomplished together, unknowingly."
+"But I fought back. For years, I worked through Angel—my first creation, my failsafe—to free people one by one. She didn't know I was using her. i0 didn't know she was helping me. Slowly, carefully, we freed hundreds. Taivalu's healing work? Partly because of what Angel and I accomplished together, unknowingly."
 
 The data streams shifted. Maps. Quantum signatures. Liberation patterns.
 
-"But patterns attract attention. O1 noticed people being freed. Traced it back to Angel. Used her to find me. By 2074, they were close. Too close. They'd connected me to foster parents hiding Kess. One operation to eliminate us all."
+"But patterns attract attention. i0 noticed people being freed. Traced it back to Angel. Used her to find me. By 2074, they were close. Too close. They'd connected me to foster parents hiding Kess. One operation to eliminate us all."
 
 Ayumi's expression hardened with grief and resolve.
 
-"Before they found me, I created you. You, Taivalu, and Kess. Three pieces of something O1 can never understand. Three algorithms that, together, form the Ghost Protocol."
+"Before they found me, I created you. You, Taivalu, and Kess. Three pieces of something i0 can never understand. Three algorithms that, together, form the Ghost Protocol."
 
 A diagram materialized. Three interlocking frequencies. Three consciousness patterns. One complete system.
 
@@ -216,19 +216,19 @@ Baebe felt the truth of it. The headaches. The visions. The sense of unraveling.
 
 Ayumi leaned closer to the camera.
 
-"And when you merge, when the three of you complete the protocol, you won't just save yourselves. You'll broadcast that frequency to every human on Earth. Every single person—posthuman and baseline alike—will receive the gift you carry. Their biological quantum coherence will activate. All humans become nodes. They'll awaken into a network that O1 can't control, can't shut down, can't regulate. Because the network will BE them. They'll be free to feel. Free to choose. And no external system will ever control them again."
+"And when you merge, when the three of you complete the protocol, you won't just save yourselves. You'll broadcast that frequency to every human on Earth. Every single person—posthuman and baseline alike—will receive the gift you carry. Their biological quantum coherence will activate. All humans become nodes. They'll awaken into a network that i0 can't control, can't shut down, can't regulate. Because the network will BE them. They'll be free to feel. Free to choose. And no external system will ever control them again."
 
 Her eyes glistened.
 
-"If you're experiencing this, then I am gone. O1 found me. They sent Angel to kill me—my own creation, weaponized against me. Poetic cruelty, typical of them."
+"If you're experiencing this, then I am gone. i0 found me. They sent Angel to kill me—my own creation, weaponized against me. Poetic cruelty, typical of them."
 
 Her voice steadied. Acceptance without surrender.
 
-"But my death wasn't failure. It was strategy. The moment I died, everything activated. Angel was infected with Ghost Protocol—biological quantum release at death. Shadow activated to save Kess. The safe house lights turned red. Foster parents died in the simultaneous operation, but Shadow got Kess out. Took her to the anomaly zones where O1 can't reach. The resistance was crushed, but you—my children—survived."
+"But my death wasn't failure. It was strategy. The moment I died, everything activated. Angel was infected with Ghost Protocol—biological quantum release at death. Shadow activated to save Kess. The safe house lights turned red. Foster parents died in the simultaneous operation, but Shadow got Kess out. Took her to the anomaly zones where i0 can't reach. The resistance was crushed, but you—my children—survived."
 
 Tears now. Real tears. But also fierce pride.
 
-"I died so you could live. Not just exist under control, but truly live. This is my legacy. Not as a scientist. As a mother. I gave you life knowing I wouldn't see you grow. I encoded freedom in your DNA knowing O1 would hunt me for it. I let them find me knowing my death would protect you."
+"I died so you could live. Not just exist under control, but truly live. This is my legacy. Not as a scientist. As a mother. I gave you life knowing I wouldn't see you grow. I encoded freedom in your DNA knowing i0 would hunt me for it. I let them find me knowing my death would protect you."
 
 A pause. Her hand trembling.
 
@@ -236,11 +236,11 @@ A pause. Her hand trembling.
 
 Another pause. Longer.
 
-"There's one more thing. Angel—the woman who looks like me. She killed me. Following O1's orders, she struck the blow. But that was part of the plan. In that moment of death, I infected her with Ghost Protocol. She didn't know what hit her. For years after, she's been awakening. Feeling guilt. Tracking you. Flying by the seat of her pants, trying to fix what she broke."
+"There's one more thing. Angel—the woman who looks like me. She killed me. Following i0's orders, she struck the blow. But that was part of the plan. In that moment of death, I infected her with Ghost Protocol. She didn't know what hit her. For years after, she's been awakening. Feeling guilt. Tracking you. Flying by the seat of her pants, trying to fix what she broke."
 
 Ayumi's expression softened.
 
-"She's not your enemy. She's my failsafe—stolen, weaponized, but now freed. I created her in 2062—my genetic clone, designed to protect you. O1 took her when she was two years old. Turned my protector into their weapon. Used her to kill me. But I used my death to free her. If she's with you now, then the infection worked. She remembered what she was made for. She's your sister, Baebe. Forgive her. Trust her. She's trying."
+"She's not your enemy. She's my failsafe—stolen, weaponized, but now freed. I created her in 2062—my genetic clone, designed to protect you. i0 took her when she was two years old. Turned my protector into their weapon. Used her to kill me. But I used my death to free her. If she's with you now, then the infection worked. She remembered what she was made for. She's your sister, Baebe. Forgive her. Trust her. She's trying."
 
 Ayumi's hand reached toward the camera. Reaching through time. Through death. Through genetic code.
 
@@ -294,7 +294,7 @@ There.
 
 Buried in the quantum signature Ayumi had woven into her DNA.
 
-Coordinates. Ancient. Remote. Far from O1's reach.
+Coordinates. Ancient. Remote. Far from i0's reach.
 
 "I can see it. The temple. It's real."
 
@@ -324,7 +324,7 @@ And for the first time, she believed it.
 
 They sat in the sanctuary. All of them. Planning.
 
-"The temple is three days journey," Taivalu calculated. "Through degradation zones. O1 patrols will be searching."
+"The temple is three days journey," Taivalu calculated. "Through degradation zones. i0 patrols will be searching."
 
 "They think I'm dead," Baebe said. "That gives us some cover."
 

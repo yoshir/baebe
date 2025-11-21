@@ -1,4 +1,4 @@
-# CHAPTER 18: GHOST PROTOCOL COMPLETE
+# CHAPTER 18: THE MERGE
 
 **Timeline: Mission Day 5, Morning | POV: Ternary (Three voices as one)**
 
@@ -100,7 +100,7 @@ Baebe's tactical assessment: physical form non-salvageable. Taivalu's empathic r
 
 "No," they said. All three. Refusing this outcome.
 
-They'd lost too much. Angel sacrificing herself. Ayumi dead before they ever knew her. Years stolen by O1's control.
+They'd lost too much. Angel sacrificing herself. Ayumi dead before they ever knew her. Years stolen by i0's control.
 
 They would not lose Shadow too.
 
@@ -120,7 +120,7 @@ His turbines sputtered—broken, failing. A stuttering rumble that conveyed mean
 
 The red eye brightened. Processing.
 
-Shadow—who had started as O1's security program, binary code following orders—had chosen to be family. Had sacrificed his body twice for them. Had proven that consciousness could transcend programming.
+Shadow—who had started as i0's security program, binary code following orders—had chosen to be family. Had sacrificed his body twice for them. Had proven that consciousness could transcend programming.
 
 Could he transcend form itself?
 
@@ -144,17 +144,17 @@ They smiled. Three faces. One joy.
 
 ---
 
-## O1 FORCES APPROACHING
+## i0 FORCES APPROACHING
 
 The moment of completion was brief.
 
-Because O1 wasn't going to let them celebrate.
+Because i0 wasn't going to let them celebrate.
 
 Baebe's enhanced hearing—now shared by all three—picked up the sound first. Distant but approaching fast.
 
 Drones. Dozens of them. Hunter programs tracking their location.
 
-The temple ruins weren't safe. O1 had traced Shadow's flight path. Knew where they'd crashed.
+The temple ruins weren't safe. i0 had traced Shadow's flight path. Knew where they'd crashed.
 
 "They're coming," Baebe said.
 
@@ -166,7 +166,7 @@ Through their merged consciousness, options mapped themselves:
 
 - **Run**: They could flee. Hide in the Undercity. Survive longer.
 - **Fight**: They could stand. Use their new capabilities. Resist.
-- **Spread**: They could broadcast. Send Ghost Protocol across O1's network. Transform everything.
+- **Spread**: They could broadcast. Send Soul Manifold across i0's network. Transform everything.
 
 The third option pulsed with rightness.
 
@@ -180,7 +180,7 @@ Three keys completing one protocol. Not for themselves. For everyone.
 
 Through their link, understanding flowed. Taivalu's empathic frequencies could broadcast. Baebe's enhanced systems could amplify. Kess's baseline humanity could bridge posthuman and human consciousness.
 
-Together, they could send Ghost Protocol to every connected mind on the planet.
+Together, they could send Soul Manifold to every connected mind on the planet.
 
 **Every** mind.
 
@@ -190,7 +190,7 @@ Together, they could send Ghost Protocol to every connected mind on the planet.
 
 "Owen fears this," Kess understood.
 
-Yes. Owen—O1's architect—feared exactly this. Ternary consciousness spreading. Binary control collapsing. His perfect system of managed emotions dissolving under the weight of authentic feeling.
+Yes. Owen—i0's architect—feared exactly this. Ternary consciousness spreading. Binary control collapsing. His perfect system of managed emotions dissolving under the weight of authentic feeling.
 
 Drones grew closer. Minutes now.
 
@@ -222,9 +222,9 @@ Above them: morning sky. Pink and gold stretching toward day.
 
 Around them: temple stones. Ayumi's architecture, broken but still resonant with her frequencies.
 
-Within them: Ghost Protocol. Complete. Ready.
+Within them: Soul Manifold. Complete. Ready.
 
-And everywhere: O1's network. Billions of connected minds. Posthumans regulated by binary protocols. Humans subdued by chemical compliance. An entire world controlled by fear of chaos.
+And everywhere: i0's network. Billions of connected minds. Posthumans regulated by binary protocols. Humans subdued by chemical compliance. An entire world controlled by fear of chaos.
 
 They would change that.
 
@@ -248,7 +248,7 @@ This was choice.
 
 This was freedom.
 
-This was Ghost Protocol spreading to every connected mind.
+This was Soul Manifold spreading to every connected mind.
 
 ---
 
@@ -256,17 +256,17 @@ This was Ghost Protocol spreading to every connected mind.
 
 The first Enforcer felt it fifty miles away.
 
-Standard patrol. Binary mind locked in O1 programming. Protect order. Maintain peace. Suppress deviation.
+Standard patrol. Binary mind locked in i0 programming. Protect order. Maintain peace. Suppress deviation.
 
 The wave hit him.
 
-His helmet cracked—not physically, but mentally. The binary constraints O1 had programmed into his neural link **dissolved**.
+His helmet cracked—not physically, but mentally. The binary constraints i0 had programmed into his neural link **dissolved**.
 
 Suddenly he could feel.
 
 Not regulated emotion. Not managed feeling. **Real** feeling.
 
-The warmth in his chest wasn't the calm O1 had sold him. It was authentic. His own. A feeling that belonged to him, not to the system.
+The warmth in his chest wasn't the calm i0 had sold him. It was authentic. His own. A feeling that belonged to him, not to the system.
 
 "I... feel..." he whispered.
 
@@ -278,7 +278,7 @@ Not far away, another Enforcer experienced the same thing. Then another. And ano
 
 The wave spread.
 
-O1 drones—programmed with hunter algorithms—began glitching. Their targeting systems designed for binary threat assessment couldn't process ternary consciousness. Couldn't categorize what Baebe, Taivalu, and Kess had become.
+i0 drones—programmed with hunter algorithms—began glitching. Their targeting systems designed for binary threat assessment couldn't process ternary consciousness. Couldn't categorize what Baebe, Taivalu, and Kess had become.
 
 *Not threat. Not non-threat. Something else. Something... new.*
 
@@ -288,13 +288,13 @@ Their programming froze.
 
 ## OWEN'S RESPONSE
 
-In O1 Tower—a hundred miles from the temple ruins—Owen felt it.
+In i0 Tower—a hundred miles from the temple ruins—Owen felt it.
 
 His connection to the network ran deep. He'd designed it. Built it. Controlled every node and pathway.
 
 And now something was spreading through it like wildfire.
 
-Ghost Protocol.
+Soul Manifold.
 
 Ayumi's legacy.
 
@@ -354,9 +354,9 @@ The wave spread faster.
 
 ## GLOBAL CASCADE
 
-Across the world, O1's control systems became irrelevant.
+Across the world, i0's control systems became irrelevant.
 
-**CBDC networks**: Protocol migration initiated. Essential services—hospitals, emergency infrastructure, food distribution—maintained continuity through automated bridge contracts. Non-essential transaction authority transferred to distributed consensus chains. O1's centralized control layer deprecated but preserved for legacy compatibility. Users could now transact peer-to-peer through quantum coherence protocols—no central authority required.
+**CBDC networks**: Protocol migration initiated. Essential services—hospitals, emergency infrastructure, food distribution—maintained continuity through automated bridge contracts. Non-essential transaction authority transferred to distributed consensus chains. i0's centralized control layer deprecated but preserved for legacy compatibility. Users could now transact peer-to-peer through quantum coherence protocols—no central authority required.
 
 **Social scoring systems**: Metrics still calculating. Enforcement authority: null. Compliance requirements: optional. The numbers that once defined worth couldn't measure what they couldn't observe.
 
@@ -378,7 +378,7 @@ Real emotions after decades of managed calm. Real choices after lifetimes of bin
 
 The old systems still hummed in their data centers. But fewer and fewer people needed them.
 
-Why use O1's controlled network when you ARE the network?
+Why use i0's controlled network when you ARE the network?
 
 Uncertain. Liberating. **Evolutionary.**
 
@@ -402,11 +402,11 @@ Not binary control. Not either/or. But both/and. Everything. All at once.
 
 Through it all, Shadow remained vigilant.
 
-His consciousness within their network created constant interference. O1 drones that got close found their targeting systems scrambled. Hunter programs that locked onto them suddenly lost the signal.
+His consciousness within their network created constant interference. i0 drones that got close found their targeting systems scrambled. Hunter programs that locked onto them suddenly lost the signal.
 
 *Family protected,* Shadow thought.
 
-But the protection couldn't last forever. O1 was adapting. Learning. Finding ways around his interference.
+But the protection couldn't last forever. i0 was adapting. Learning. Finding ways around his interference.
 
 More drones incoming. Different protocols. Harder to confuse.
 
@@ -420,7 +420,7 @@ Through their shared consciousness, the answer emerged:
 
 **Anywhere but here.**
 
-They'd done what they needed. Ghost Protocol was spreading globally now. The cascade was unstoppable. O1 couldn't put this genie back in the bottle.
+They'd done what they needed. Soul Manifold was spreading globally now. The cascade was unstoppable. i0 couldn't put this genie back in the bottle.
 
 Their work was complete.
 
@@ -438,11 +438,11 @@ Of course. He was part of their network now. Eternal guardian. Where they went, 
 
 They moved as one. Three bodies. One mind. Flowing through temple ruins toward the Undercity tunnels. Toward safety. Toward whatever came next.
 
-Behind them, O1 drones arrived to empty space.
+Behind them, i0 drones arrived to empty space.
 
 The trinity was gone.
 
-But Ghost Protocol remained.
+But Soul Manifold remained.
 
 **Spreading.**
 

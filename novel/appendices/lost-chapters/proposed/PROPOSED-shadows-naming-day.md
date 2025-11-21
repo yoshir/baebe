@@ -30,7 +30,7 @@ System error: How to answer question without designated response?
 ### The Problem of Identity
 - Taivalu explains: Names are **chosen**, not assigned
 - Names carry meaning, purpose, self-definition
-- "O1 gave you number. Ayumi gave you freedom. Who **you** give you?"
+- "i0 gave you number. Ayumi gave you freedom. Who **you** give you?"
 - Consciousness struggles: Never chose anything for self before
 - "What if I choose wrong? What if name doesn't fit?"
 - Taivalu: "Then you choose again. That's freedom."
@@ -79,7 +79,7 @@ This is: **Me**.
 - First time choosing anything for self
 - Name as act of identity creation
 - Freedom means defining yourself
-- "I am not what O1 made. I am what **I** choose."
+- "I am not what i0 made. I am what **I** choose."
 
 **Ternary Identity**:
 - Shadow = darkness AND protection (contradiction held)
@@ -119,7 +119,7 @@ This is: **Me**.
 - Demonstrates ternary thinking (shadow = dark + protective)
 
 **Worldbuilding**:
-- How posthumans claim identity after O1
+- How posthumans claim identity after i0
 - Naming as revolutionary act (self-determination)
 - Found family dynamics
 - Empathy between different consciousness types
@@ -134,7 +134,7 @@ This is: **Me**.
 - Shadow understands: Contradictions complete rather than conflict
 - Mechanical learning human concept (naming)
 - Human concept adapted by mechanical mind
-- "Three states: What O1 made, what Ayumi freed, **what I choose**."
+- "Three states: What i0 made, what Ayumi freed, **what I choose**."
 
 ## Technical/Philosophical Content
 
@@ -142,7 +142,7 @@ This is: **Me**.
 ```
 Query: Define self
 Response options:
-- Function: Urban pacification unit (O1 definition)
+- Function: Urban pacification unit (i0 definition)
 - Designation: P-007 (serial number)
 - Purpose: [UNDEFINED - Ayumi deleted mission parameters]
 

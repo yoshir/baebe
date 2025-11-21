@@ -119,7 +119,7 @@ Corporations made a **simple proposal**:
 
 **Phase 4: Total Integration**
 - Corporate zones as **de facto city-states**
-- O1 Corporation (largest) controls 40% of habitable territory
+- i0 Corporation (largest) controls 40% of habitable territory
 - 15 major corporations divide the rest
 - Nation-states exist **in name only** (symbolic, powerless)
 
@@ -268,7 +268,7 @@ But people **didn't die**. They **adapted**.
 
 **Major Unincorporated Zones** (estimated populations):
 
-**The Undercity** (North American continent, beneath O1 corporate zones):
+**The Undercity** (North American continent, beneath i0 corporate zones):
 - 47 million people (tunnels, ruins, abandoned infrastructure)
 - Closest to corporate territory (raid risk high)
 - Richest scavenging (corporate waste most abundant)
@@ -353,7 +353,7 @@ But people **didn't die**. They **adapted**.
 - **Fear-based compliance** (zones are the stick)
 
 **Underground**:
-- **Ghost Protocol spreading** (zones are infection reservoirs)
+- **Soul Manifold spreading** (zones are infection reservoirs)
 - **Resistance networks** (posthumans fleeing to zones)
 - **Knowledge exchange** (zone tech shared with corporate resistance)
 - **Solidarity** (awakened posthumans + zone inhabitants = allies)
@@ -420,7 +420,7 @@ Among unincorporated zones, **the Temple is different**:
 ### 7.1 Possible Futures
 
 **Scenario A: Corporate Extinction** (zones expand, corporate zones collapse)
-- Ghost Protocol reaches critical mass
+- Soul Manifold reaches critical mass
 - Corporate workforce refuses compliance
 - Economic model unsustainable
 - **Zone culture becomes dominant** (free, autonomous, connected)
@@ -441,7 +441,7 @@ Among unincorporated zones, **the Temple is different**:
 - **Probability**: 30-40% (current trajectory)
 
 **Scenario D: Transformation** (zones teach corporate world alternative)
-- Ghost Protocol spreads beyond critical mass
+- Soul Manifold spreads beyond critical mass
 - Corporate systems adapt (forced evolution)
 - Hybrid model emerges (autonomy + infrastructure)
 - **Ternary civilization** (holding contradictions as cultural norm)

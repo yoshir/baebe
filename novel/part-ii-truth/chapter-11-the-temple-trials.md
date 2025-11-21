@@ -146,7 +146,7 @@ Copy-Taivalu: emotionally manipulative.
 
 Copy-Kess: frightened child who blamed them.
 
-Copy-Shadow: pure O1 code, no choice.
+Copy-Shadow: pure i0 code, no choice.
 
 They attacked.
 

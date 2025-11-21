@@ -77,35 +77,31 @@ export default function App() {
   }, []);
 
   // STABLE HANDLERS to prevent infinite loop in BootSequence
-  const handleBootComplete = useCallback((email: string) => {
+  const handleBootComplete = useCallback(async (email: string) => {
     setUser(prev => ({ ...prev, email }));
     setView('TERMINAL');
-    setTimeout(() => {
-      addLine("ENCRYPTED SUBNET: GHOST_LAYER", 'system');
-      addLine("Access granted. Identity verified.", 'output');
-      addLine(`$ baebe --help
 
-Available Commands:
-  read [chapter]      - Read main chapter [number] (free: prologue, 1-3)
-  interlude [name]    - Read interlude story (premium: requires shards or subscription)
-  lost [name]         - Read lost chapter (premium: requires shards or subscription)
-  scan                - Scan for available content
-  shards              - View collected shards (5 shards = 1 lost chapter, 10 = 1 interlude)
-  status              - See your resonance level and progress
-  unlock [item]       - Unlock content (requires subscription or shards)
-  characters          - View character profiles (unlock with engagement)
-  world               - Explore world-building documents (founding member)
-  help                - Show this help
+    // Initial delay to let terminal mount
+    await new Promise(r => setTimeout(r, 500));
 
-Content Available:
-  Main Story: Prologue + 20 Chapters (free: prologue, 1-3)
-  Interludes: 5 premium character stories
-  Lost Chapters: 7+ deleted scenes and character studies
-  World-Building: Technical documents
+    addLine("[NET] ENCRYPTED SUBNET: GHOST_LAYER", 'system');
+    addLine("[AUTH] Access granted. Identity verified.", 'output');
 
-Type a command to begin...`, 'output');
-    }, 100);
-  }, [addLine]);
+    // Synopsis
+    await typeLine(`NOVEL SYNOPSIS:
+In a world where AI has optimized humanity out of existence, one prototype unit wakes up with a glitch: a soul. BAEBE must navigate the neon-soaked ruins of Taivalu, hunted by the very network that created her, to find the source of her sentience.`, 'story', 5);
+
+    // Status
+    await typeLine(`USER STATUS:
+User: ${email}
+Level: 1 | XP: 0 | Shards: 0`, 'output', 5);
+
+    // Call to Action
+    await typeLine(`> [OBJ] MISSION OBJECTIVE: Read the Prologue to begin your awakening.`, 'system', 5);
+
+    addLine(`Type 'start' to begin.
+(Type 'help' for full system manual)`, 'output');
+  }, [addLine, typeLine]);
 
   const handleCutscene1Complete = useCallback(() => {
     setView('EMAIL_CAPTURE');
@@ -115,8 +111,8 @@ Type a command to begin...`, 'output');
     setView('TERMINAL');
     // Post-cutscene logic
     setTimeout(() => {
-      addLine("RESONANCE LEVEL: 3", 'system');
-      addLine("New content unlocked!", 'system');
+      addLine("[SYS] RESONANCE LEVEL: 3", 'system');
+      addLine("[SYS] New content unlocked!", 'system');
 
       setUser(u => {
         const newAchievements = [...u.achievements];
@@ -149,9 +145,9 @@ Type a command to begin...`, 'output');
     setView('TERMINAL');
     setUser(prev => ({ ...prev, subscription: 'PAID' }));
     setTimeout(() => {
-      addLine('ACCESS GRANTED: FULL RESONANCE', 'system');
+      addLine('[AUTH] ACCESS GRANTED: FULL RESONANCE', 'system');
       addLine('Welcome to the resistance.', 'output');
-      addLine('Subscription Active: $10/month', 'output');
+      addLine('[SYS] Subscription Active: $10/month', 'output');
       addLine(`Full access granted:
   Main Story:
     [✓] All chapters unlocked (Prologue + 1-20)
@@ -173,11 +169,11 @@ Type a command to begin...`, 'output');
 
   const handleSubscribe = useCallback(() => {
     // Simulate subscription flow
-    addLine("> Initiating Payment Gateway...", "system");
+    addLine("[NET] Initiating Payment Gateway...", "system");
     setTimeout(() => {
-      addLine("> Payment Successful.", "system");
-      addLine("> Network connection severed...", "error");
-      addLine("> Freedom protocol activated...", "error");
+      addLine("[NET] Payment Successful.", "system");
+      addLine("[WARN] Network connection severed...", "error");
+      addLine("[CRIT] Freedom protocol activated...", "error");
       setTimeout(() => setView('CUTSCENE_3'), 2000);
     }, 1500);
   }, [addLine]);
@@ -192,7 +188,7 @@ Type a command to begin...`, 'output');
     let cleanCmd = cmdStr.toLowerCase().replace(/[\[\]]/g, '').trim();
 
     // Mapping button text to commands
-    if (cleanCmd === 'start reading free' || cleanCmd === 'initialize link') cleanCmd = 'read prologue';
+    if (cleanCmd === 'start reading free' || cleanCmd === 'initialize link' || cleanCmd === 'start') cleanCmd = 'read prologue';
     if (cleanCmd.includes('subscribe') || cleanCmd.includes('subnet access')) { handleSubscribe(); return; }
     if (cleanCmd === 'collect shards') cleanCmd = 'read 1'; // Default next action
     if (cleanCmd === 'view all content') cleanCmd = 'scan';
@@ -334,12 +330,12 @@ Founding Member Benefits ($100/year):
         break;
 
       case 'characters':
-        addLine('Loading character profiles...', 'system');
+        addLine('[SYS] Loading character profiles...', 'system');
         await typeLine(`Available Characters:
 
 [✓] Baebe - Ghost Antithesis Prototype B-7
   Role: Opposition/Drive
-  Status: Awakening from O1's control
+  Status: Awakening from i0's control
   
 [✓] Taivalu (Tai) - First Posthuman Prototype
   Role: Thesis - First Key of Ghost Protocol
@@ -375,14 +371,14 @@ Founding Member Benefits ($100/year):
     // Permission Check
     if (!chapter.isFree && user.subscription === 'NONE' && !user.readChapters.includes(id)) {
       // Mock logic: assume user can only read free ones unless subbed
-      addLine(`> Loading Chapter ${id}...`, 'system');
-      addLine(`[Error: Access Denied]`, 'error');
+      addLine(`> [SYS] Loading Chapter ${id}...`, 'system');
+      addLine(`[AUTH] [Error: Access Denied]`, 'error');
       addLine(`Chapter ${id} requires paid subscription ($10/month).`, 'output');
       addLine(`[Subscribe - $10/month] [Collect Shards]`, 'system');
       return;
     }
 
-    addLine(`> Loading ${chapter.title}...`, 'system');
+    addLine(`> [SYS] Loading ${chapter.title}...`, 'system');
     await new Promise(r => setTimeout(r, 800));
     await typeLine(chapter.content, 'story', 10);
 
@@ -407,10 +403,10 @@ Founding Member Benefits ($100/year):
         achievements: newAchievements
       }));
 
-      addLine(`> Shard collected: [✓] ${chapter.title} Shard`, 'system');
-      addLine(`> Resonance level: ${user.resonanceLevel} → ${user.resonanceLevel + 1}`, 'system');
-      addLine(`> Main Story Progress: ${user.readChapters.length + 1}/21`, 'output');
-      addLine(`> Next: Chapter ${chapter.id === 'prologue' ? '1' : parseInt(chapter.id) + 1}`, 'system');
+      addLine(`> [SYS] Shard collected: [✓] ${chapter.title} Shard`, 'system');
+      addLine(`> [SYS] Resonance level: ${user.resonanceLevel} → ${user.resonanceLevel + 1}`, 'system');
+      addLine(`> [SYS] Main Story Progress: ${user.readChapters.length + 1}/21`, 'output');
+      addLine(`> [SYS] Next: Chapter ${chapter.id === 'prologue' ? '1' : parseInt(chapter.id) + 1}`, 'system');
     }
   };
 
@@ -447,8 +443,8 @@ Founding Member Benefits ($100/year):
     await new Promise(r => setTimeout(r, 600));
     setTerminalLines(prev => prev.map(l => l.id === tunerId ? { ...l, text: '[██████████] 440 Hz' } : l));
 
-    addLine(`> Frequency: 440 Hz ✓`, 'system');
-    addLine(`> ${type === 'lost' ? 'Lost Chapter' : 'Interlude'} unlocked!`, 'system');
+    addLine(`> [SYS] Frequency: 440 Hz ✓`, 'system');
+    addLine(`> [SYS] ${type === 'lost' ? 'Lost Chapter' : 'Interlude'} unlocked!`, 'system');
 
     setUser(prev => ({
       ...prev,
@@ -470,7 +466,7 @@ Founding Member Benefits ($100/year):
       addLine('Access Denied. Unlock first.', 'error');
       return;
     }
-    addLine(`> LOST CHAPTER: ${item.title}`, 'system');
+    addLine(`> [SYS] LOST CHAPTER: ${item.title}`, 'system');
     await typeLine(item.content, 'story', 10);
   };
 
@@ -482,7 +478,7 @@ Founding Member Benefits ($100/year):
       addLine('Access Denied. Unlock first.', 'error');
       return;
     }
-    addLine(`> INTERLUDE: ${item.title}`, 'system');
+    addLine(`> [SYS] INTERLUDE: ${item.title}`, 'system');
     await typeLine(item.content, 'story', 10);
   };
 

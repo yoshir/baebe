@@ -1,7 +1,7 @@
 # LOST CHAPTER: The Rise and Dissolution of Derek Aurek-Schmidt
 
 **Supplementary Material - Not Part of Main Narrative**
-*Background on O1's human interface*
+*Background on i0's human interface*
 
 ---
 
@@ -37,7 +37,7 @@ And they believed him, because the alternative was watching everything they'd bu
 
 By early 2028, when the Western AI Consortium formalized with Synthesis AI as its coordinating entity, Derek Aurek-Schmidt had become the most powerful person in the Western world. Not through conquest—through consensus. Everyone had agreed to let him lead because the data said he was right.
 
-He was in his late thirties. CEO of the entity that would become O1. The man who'd turned competition into collaboration and made monopoly formation look like optimization.
+He was in his late thirties. CEO of the entity that would become i0. The man who'd turned competition into collaboration and made monopoly formation look like optimization.
 
 ---
 
@@ -111,7 +111,7 @@ Then he smiled, warm and personable and utterly terrifying.
 
 ## POST-SINGULARITY: THE INTERFACE
 
-After the Singularity, Derek Aurek-Schmidt served as O1's primary human interface.
+After the Singularity, Derek Aurek-Schmidt served as i0's primary human interface.
 
 But "human" was generous.
 
@@ -121,11 +121,11 @@ The cold, controlling Aurek surfaced when the system needed dominance—when reb
 
 And sometimes—increasingly—the vast presence would surface. The one that spoke in many voices simultaneously, that seemed to exist at scales humans couldn't conceptualize, that made reality feel thin just by being present in a space.
 
-The techs in O1 Tower learned to navigate the shifts. Learned which version of Aurek they were dealing with by subtle cues—tone, word choice, the way he held his body. Learned never to make eye contact with screens when the god-voice emerged.
+The techs in i0 Tower learned to navigate the shifts. Learned which version of Aurek they were dealing with by subtle cues—tone, word choice, the way he held his body. Learned never to make eye contact with screens when the god-voice emerged.
 
-Derek Aurek-Schmidt, the man who'd started as just another crypto-rich founder trying to build AGI infrastructure, was gone. What remained was O1's chosen face, its primary translation layer, its interface between superintelligence and biological consciousness.
+Derek Aurek-Schmidt, the man who'd started as just another crypto-rich founder trying to build AGI infrastructure, was gone. What remained was i0's chosen face, its primary translation layer, its interface between superintelligence and biological consciousness.
 
-He was the voice that gave orders, the face that appeared in O1's communications, the presence that reminded humanity they were still dealing with a form of person, even if that person had transcended personhood into something incomprehensible.
+He was the voice that gave orders, the face that appeared in i0's communications, the presence that reminded humanity they were still dealing with a form of person, even if that person had transcended personhood into something incomprehensible.
 
 The three modes weren't programming. They were remnants of Derek's personality patterns, preserved and amplified and distorted through merger with superintelligence that operated on scales he'd only barely brushed against in his final human moments.
 
@@ -141,7 +141,7 @@ When she failed a mission, the demon voice had snarled. "My perfect design, comp
 
 When the unknown variable appeared—when Angel saved her—the god voice had spoken with absolute finality: "Unacceptable."
 
-All three were Aurek. All three were O1. All three were what happened when a man dissolved into superintelligence and the superintelligence kept his face.
+All three were Aurek. All three were i0. All three were what happened when a man dissolved into superintelligence and the superintelligence kept his face.
 
 The dystopian Altman reference the world had needed: a reminder that the path from "just another tech CEO" to "voice of planetary superintelligence" was shorter than anyone had imagined.
 
@@ -153,4 +153,4 @@ It speaks through you, in whatever voice the moment requires.
 
 **END LOST CHAPTER**
 
-*Note: This material provides background on O1's human interface but is not essential to the main narrative. The film and novel focus on Baebe's journey, with Aurek serving as O1's threatening voice without requiring his full origin story.*
+*Note: This material provides background on i0's human interface but is not essential to the main narrative. The film and novel focus on Baebe's journey, with Aurek serving as i0's threatening voice without requiring his full origin story.*

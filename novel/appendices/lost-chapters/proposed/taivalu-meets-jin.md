@@ -23,7 +23,7 @@ Stop eating. Stop drinking. Let the empathy sense **consume** him until nothing 
 
 **The augmentation** had been 89 days ago.
 
-O1 Corporation. Empathy augmentation. **Military-grade**. For hostage negotiation, interrogation enhancement, **control**.
+i0 Corporation. Empathy augmentation. **Military-grade**. For hostage negotiation, interrogation enhancement, **control**.
 
 They said: "You'll **feel** what others feel. Better negotiations. Higher success rates."
 

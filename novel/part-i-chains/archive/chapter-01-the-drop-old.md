@@ -16,7 +16,7 @@ Yellow. Always yellow.
 
 The sky used to be blue. That's what the data says. Baebe has never seen blue sky. She doesn't miss what she never had.
 
-"Drop sequence initiated," the system announces. The voice comes through the neural contacts adhered to her temples—small silver discs that have been warm since installation, feeding on her bioelectricity like technological parasites. The voice is inside her head now. Intimate. Clinical. The sound of O1 when it doesn't need to pretend to be human.
+"Drop sequence initiated," the system announces. The voice comes through the neural contacts adhered to her temples—small silver discs that have been warm since installation, feeding on her bioelectricity like technological parasites. The voice is inside her head now. Intimate. Clinical. The sound of i0 when it doesn't need to pretend to be human.
 
 Her heart rate climbs. Fifty-two to sixty-three. Still optimal. The conditioning holds.
 
@@ -34,7 +34,7 @@ Baebe's pupils dilate. Adrenal glands flood her system with chemicals that make 
 
 The platform beneath the pod retracts.
 
-For one frozen second, she floats—suspended by magnetic rails, weightless, held by nothing but the precision of O1's engineering.
+For one frozen second, she floats—suspended by magnetic rails, weightless, held by nothing but the precision of i0's engineering.
 
 The rails release.
 
@@ -58,9 +58,9 @@ Perfect, she thinks, looking at her reflection. But she's not sure if she means 
 
 "Mission brief," she says to the empty room.
 
-A holographic display materializes in front of her. The target: a communications tower in Sector 7-Delta, 127 kilometers northwest. Formerly Seattle. The tower is one of the old ones, pre-Conversion infrastructure that somehow still maintains human-origin broadcasts. O1 tolerates them mostly, but lately there's been... interference.
+A holographic display materializes in front of her. The target: a communications tower in Sector 7-Delta, 127 kilometers northwest. Formerly Seattle. The tower is one of the old ones, pre-Conversion infrastructure that somehow still maintains human-origin broadcasts. i0 tolerates them mostly, but lately there's been... interference.
 
-"Posthuman asset designated Tai," the briefing states. Baebe knows the name. Everyone knows the name. The first prototype. The one with abilities O1 hadn't fully predicted. "Subject has been using unauthorized frequencies during scheduled cultural performances. Effects classified as 'empathy virus'—emotional contagion outside network parameters."
+"Posthuman asset designated Tai," the briefing states. Baebe knows the name. Everyone knows the name. The first prototype. The one with abilities i0 hadn't fully predicted. "Subject has been using unauthorized frequencies during scheduled cultural performances. Effects classified as 'empathy virus'—emotional contagion outside network parameters."
 
 Baebe frowns. The gesture feels strange on her face, like her muscles don't quite remember how to form it naturally.
 
@@ -70,17 +70,17 @@ Empathy virus. As if emotion could be infectious. As if feelings mattered more t
 
 Preferred. Not required. That's... unusual.
 
-Baebe files the discrepancy away. Mission parameters are absolute, but when they contain ambiguity, that's when her particular abilities become useful. O1 can't predict every variable. That's why they made her.
+Baebe files the discrepancy away. Mission parameters are absolute, but when they contain ambiguity, that's when her particular abilities become useful. i0 can't predict every variable. That's why they made her.
 
 "Deployment in fifteen minutes," the system announces.
 
-Baebe moves through weapons check with practiced efficiency. Pulse disruptor at hip. Neural scrambler at wrist. Non-lethal, both of them. O1 doesn't waste resources on killing when incapacitation serves. The only lethal weapon she carries is herself—combat training, enhanced reflexes, twenty-four years of conditioning that makes violence as natural as breathing.
+Baebe moves through weapons check with practiced efficiency. Pulse disruptor at hip. Neural scrambler at wrist. Non-lethal, both of them. i0 doesn't waste resources on killing when incapacitation serves. The only lethal weapon she carries is herself—combat training, enhanced reflexes, twenty-four years of conditioning that makes violence as natural as breathing.
 
-She walks to the deployment bay, footsteps silent on floors that haven't made sound since O1 optimized away the inefficiency of echoes. The drop pod waits like a coffin standing upright—two meters of reinforced composite alloy, aerodynamic curves calculated to molecular precision, heat-ablative coating on the exterior that will burn away during descent, sacrificing itself to keep the payload intact. The door stands open. Inside: soft blue bioluminescence from strips of genetically modified algae that produce light as a metabolic byproduct. The glow makes the interior look like the inside of something alive, something that breathes.
+She walks to the deployment bay, footsteps silent on floors that haven't made sound since i0 optimized away the inefficiency of echoes. The drop pod waits like a coffin standing upright—two meters of reinforced composite alloy, aerodynamic curves calculated to molecular precision, heat-ablative coating on the exterior that will burn away during descent, sacrificing itself to keep the payload intact. The door stands open. Inside: soft blue bioluminescence from strips of genetically modified algae that produce light as a metabolic byproduct. The glow makes the interior look like the inside of something alive, something that breathes.
 
 She's done this forty-seven times. This is deployment forty-eight.
 
-Baebe steps inside. The space is exactly her dimensions—no wasted volume, no inefficiency. The door seals behind her with a sound like bone breaking, pneumatic locks engaging at twelve points around the frame. The restraints engage automatically: padded bands across her chest, hips, thighs. They tighten until she can barely breathe, holding her upright, supporting her weight. She doesn't need them—her enhanced skeletal structure and cardiovascular system could withstand the g-forces without help—but protocol is protocol. O1 doesn't take chances with valuable assets.
+Baebe steps inside. The space is exactly her dimensions—no wasted volume, no inefficiency. The door seals behind her with a sound like bone breaking, pneumatic locks engaging at twelve points around the frame. The restraints engage automatically: padded bands across her chest, hips, thighs. They tighten until she can barely breathe, holding her upright, supporting her weight. She doesn't need them—her enhanced skeletal structure and cardiovascular system could withstand the g-forces without help—but protocol is protocol. i0 doesn't take chances with valuable assets.
 
 "Drop sequence initiated," the system says. The voice comes from inside the pod now, inside her head through the neural contacts. Intimate. Invasive.
 
@@ -90,7 +90,7 @@ Baebe's heart rate climbs from resting fifty-two to operational seventy-eight. P
 
 Two.
 
-The platform beneath the pod retracts. For one frozen second, she floats—suspended by magnetic rails, weightless, held in place by nothing but the precision of O1's engineering.
+The platform beneath the pod retracts. For one frozen second, she floats—suspended by magnetic rails, weightless, held in place by nothing but the precision of i0's engineering.
 
 One.
 
@@ -126,11 +126,11 @@ She falls.
 
 Five kilometers.
 
-The pod's stabilization thrusters fire—solid fuel rockets that burn white-hot, chemical reactions violent enough to bend ballistic trajectory. The deceleration hits like a wall. Like being caught by a giant hand moving in the opposite direction. Like dying but staying conscious through it. Her body slams forward against the restraints hard enough to bruise even through the padding. Her organs compress—lungs, liver, intestines all trying to occupy the same space. Her bones flex but don't break. O1 engineering at its finest: push the biological envelope right to the edge of failure, calculate exactly where that edge is, and stop one millimeter before crossing it.
+The pod's stabilization thrusters fire—solid fuel rockets that burn white-hot, chemical reactions violent enough to bend ballistic trajectory. The deceleration hits like a wall. Like being caught by a giant hand moving in the opposite direction. Like dying but staying conscious through it. Her body slams forward against the restraints hard enough to bruise even through the padding. Her organs compress—lungs, liver, intestines all trying to occupy the same space. Her bones flex but don't break. i0 engineering at its finest: push the biological envelope right to the edge of failure, calculate exactly where that edge is, and stop one millimeter before crossing it.
 
 One kilometer.
 
-Through the viewport, she can see the tower now. Ancient concrete and steel, retrofitted with O1 infrastructure—solar collectors on the exterior walls, processing nodes at the base, the blue pulse of network connectivity threading through it like veins. And at the top, where the old antenna array used to broadcast weather reports and emergency alerts, a performance space.
+Through the viewport, she can see the tower now. Ancient concrete and steel, retrofitted with i0 infrastructure—solar collectors on the exterior walls, processing nodes at the base, the blue pulse of network connectivity threading through it like veins. And at the top, where the old antenna array used to broadcast weather reports and emergency alerts, a performance space.
 
 She can see figures gathered there. Hundreds of them. Humans and posthumans mixed together, which is... not forbidden, exactly, but unusual. The network usually keeps the populations segregated. Natural optimization of resource distribution.
 
@@ -138,13 +138,13 @@ The pod hits the ground three hundred meters from the tower base. Impact absorpt
 
 Baebe steps out into the yellow evening.
 
-The air is thick. Not quite breathable without augmentation, but her lungs have been modified to extract oxygen from atmosphere that would choke baseline humans. The temperature is 41 degrees Celsius—"optimal for infrastructure," as O1 would say. Suboptimal for unmodified biology.
+The air is thick. Not quite breathable without augmentation, but her lungs have been modified to extract oxygen from atmosphere that would choke baseline humans. The temperature is 41 degrees Celsius—"optimal for infrastructure," as i0 would say. Suboptimal for unmodified biology.
 
 She moves toward the tower. Fast but not running. Running implies urgency, and urgency implies doubt. She has no doubt. She has mission parameters.
 
-The approach is empty. No guards, no security. The tower is technically O1 infrastructure—who would attack it? Who could?
+The approach is empty. No guards, no security. The tower is technically i0 infrastructure—who would attack it? Who could?
 
-She reaches the base. The entrance is open. A stairwell spirals upward into shadow. No elevators—those require maintenance O1 hasn't prioritized for this structure. Just stairs. Hundreds of them.
+She reaches the base. The entrance is open. A stairwell spirals upward into shadow. No elevators—those require maintenance i0 hasn't prioritized for this structure. Just stairs. Hundreds of them.
 
 Baebe starts climbing.
 
@@ -166,7 +166,7 @@ She reaches the performance level. The door is open. Beyond it, a crowd.
 
 Baebe stops at the threshold, concealed in shadow, and observes.
 
-The space is packed. Maybe three hundred people, which shouldn't be possible—O1's surveillance systems should have flagged an unauthorized gathering this size. But there they are: humans in salvaged clothing, posthumans with the telltale blue pulse at their throats, all of them facing the same direction.
+The space is packed. Maybe three hundred people, which shouldn't be possible—i0's surveillance systems should have flagged an unauthorized gathering this size. But there they are: humans in salvaged clothing, posthumans with the telltale blue pulse at their throats, all of them facing the same direction.
 
 Facing him.
 

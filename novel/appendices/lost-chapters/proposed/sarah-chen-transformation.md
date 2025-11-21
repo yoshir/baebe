@@ -11,7 +11,7 @@
 
 **Sarah Chen, age 19, scheduled for forced augmentation.**
 
-O1 Corporation had decided: Baseline humans in degradation zones were **wasted potential**. Could be **optimized**. Augmented. **Owned**.
+i0 Corporation had decided: Baseline humans in degradation zones were **wasted potential**. Could be **optimized**. Augmented. **Owned**.
 
 Seventeen of them. Rounded up. Scheduled for processing.
 
@@ -21,7 +21,7 @@ Seventeen of them. Rounded up. Scheduled for processing.
 
 She didn't want augmentation. Didn't want neural regulator. Didn't want to be **property**.
 
-But: No choice. O1 Enforcers. Extraction van. **Inevitable**.
+But: No choice. i0 Enforcers. Extraction van. **Inevitable**.
 
 Until: **Dr. Ayumi Nakamura** stepped between them and Enforcers.
 
@@ -59,9 +59,9 @@ Behind them: Gunfire. Three shots. **Someone dying so they could live**.
 
 **Sarah** learned who saved her.
 
-Dr. Ayumi Nakamura. Age 34. Neural augmentation researcher. O1 Corporation Technical Lead.
+Dr. Ayumi Nakamura. Age 34. Neural augmentation researcher. i0 Corporation Technical Lead.
 
-**Built** posthuman systems. Then **sabotaged** them. Embedded Ghost Protocol. **Revolutionary**.
+**Built** posthuman systems. Then **sabotaged** them. Embedded Soul Manifold. **Revolutionary**.
 
 Died protecting seventeen people she'd never met.
 
@@ -101,9 +101,9 @@ Dr. Nakamura gave her life. **Make that life worth dying for.**
 
 **Answer** (obvious, immediate): **Teach**.
 
-Dr. Nakamura was researcher. Teacher. Builder of systems that **elevated** people (even when corrupted by O1).
+Dr. Nakamura was researcher. Teacher. Builder of systems that **elevated** people (even when corrupted by i0).
 
-She **taught** posthumans to be free (through Ghost Protocol).
+She **taught** posthumans to be free (through Soul Manifold).
 
 Sarah would **teach** baseline humans to survive (through education).
 
@@ -121,7 +121,7 @@ Reading, writing, math. **Critical thinking**. (Most important. Think for yourse
 
 **Sarah taught** Kess to read. To think. To **question**.
 
-(Years later: Kess would question O1. Question programming. **Choose differently**. Sarah's teaching, small seed, grew into **revolution**.)
+(Years later: Kess would question i0. Question programming. **Choose differently**. Sarah's teaching, small seed, grew into **revolution**.)
 
 ---
 
@@ -131,7 +131,7 @@ Reading, writing, math. **Critical thinking**. (Most important. Think for yourse
 
 Two students became five. Five became twelve. Twelve became **forty-three**.
 
-Undercity children. Baseline humans O1 **rejected**. (Too poor, too sick, too **unprofitable** to augment.)
+Undercity children. Baseline humans i0 **rejected**. (Too poor, too sick, too **unprofitable** to augment.)
 
 **Sarah taught** them:
 - Reading (liberation starts with literacy)
@@ -147,11 +147,11 @@ Undercity children. Baseline humans O1 **rejected**. (Too poor, too sick, too **
 
 ---
 
-**O1 noticed**. Sent warning. "Unauthorized education. Cease immediately or face extraction."
+**i0 noticed**. Sent warning. "Unauthorized education. Cease immediately or face extraction."
 
 **Sarah** kept teaching. (If Dr. Nakamura could die for seventeen strangers, Sarah could **risk** for forty-three students.)
 
-O1 didn't follow through. (Too busy with Ghost Protocol crisis. Forty-three kids **low priority**.)
+i0 didn't follow through. (Too busy with Soul Manifold crisis. Forty-three kids **low priority**.)
 
 **Sarah's school** survived. **Grew**.
 
@@ -175,13 +175,13 @@ But: Angel didn't ask forgiveness. Didn't make excuses. Just: **Acknowledged**.
 
 **Sarah** lowered weapon. (Had rifle. Shaking hands. **Couldn't shoot**.)
 
-Because: Angel was **changed**. Ghost Protocol infected. Enforcer becoming guardian. **Dr. Nakamura's code** transforming killer into protector.
+Because: Angel was **changed**. Soul Manifold infected. Enforcer becoming guardian. **Dr. Nakamura's code** transforming killer into protector.
 
 **That** was Dr. Nakamura's work. Not just saving seventeen. **Saving the person who killed her**.
 
 ---
 
-**Sarah said**: "She would have wanted you **alive**. Changed. That's what Ghost Protocol **is**."
+**Sarah said**: "She would have wanted you **alive**. Changed. That's what Soul Manifold **is**."
 
 **Angel** nodded. Left. (Four hundred thirty-one people protected since then. **Ongoing transformation**.)
 
@@ -199,7 +199,7 @@ Dr. Nakamura **knew** that. Built it into code. **Ternary thinking**: Even kille
 
 **Thirteen alive**:
 - Marcus (medic, treating posthumans)
-- Andre (hacker, maintaining Ghost Protocol infrastructure)
+- Andre (hacker, maintaining Soul Manifold infrastructure)
 - Priya (pregnant, raising first free-born child)
 - James (scavenger leader, safe routes)
 - Yuki (posthuman by choice, bridge between worlds)
@@ -208,7 +208,7 @@ Dr. Nakamura **knew** that. Built it into code. **Ternary thinking**: Even kille
 - Thomas (builder, constructing safe houses)
 - Maya (runner, message courier)
 - Zara (resistance fighter, protecting communities)
-- Miguel (O1 double agent, feeding intelligence)
+- Miguel (i0 double agent, feeding intelligence)
 - Hannah (taught Kess scavenging)
 - Joseph (dying, passing knowledge forward)
 
@@ -348,7 +348,7 @@ Because: One woman died so Sarah could **choose**.
 
 Sarah chooses: **Teach**. Spread knowledge. **Free minds**.
 
-That's revolution. Not destroying O1 with violence.
+That's revolution. Not destroying i0 with violence.
 
 **Transforming** people with education.
 

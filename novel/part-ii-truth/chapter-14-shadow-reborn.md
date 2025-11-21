@@ -14,7 +14,7 @@ The mech waited in darkness.
 
 Twenty-five feet tall. Winged. War machine design but organic components. Bio-mechanical hybrid.
 
-"She knew," Baebe breathed. "She knew O1 would attack."
+"She knew," Baebe breathed. "She knew i0 would attack."
 
 Shadow's damaged form beside her. A low, rumbling growl—understanding. Recognition.
 
@@ -104,11 +104,11 @@ It was. Death transformed into protection. Sacrifice into strength.
 
 With Shadow's new form came new possibilities.
 
-He could reach O1 Tower. Could breach their defenses. Could provide distraction while Baebe and Taivalu infiltrated.
+He could reach i0 Tower. Could breach their defenses. Could provide distraction while Baebe and Taivalu infiltrated.
 
 "They'll have Kess in high security," Baebe analyzed. "Floor 89 most likely. Medical wing for valuable assets."
 
-"Backup Cradle on Floor 47," Taivalu added weakly. "Ayumi said O1 had one. Her old lab. They wouldn't have destroyed it—too valuable."
+"Backup Cradle on Floor 47," Taivalu added weakly. "Ayumi said i0 had one. Her old lab. They wouldn't have destroyed it—too valuable."
 
 A plan formed.
 
@@ -170,7 +170,7 @@ Shadow's massive winged form rising into morning sky.
 
 Baebe and Taivalu climbing onto his shoulders. Magnetic grips she'd welded from temple scraps.
 
-Far in distance: O1 Tower. Glass and steel. The heart of everything evil.
+Far in distance: i0 Tower. Glass and steel. The heart of everything evil.
 
 Kess was there. Waiting. Hoping.
 
@@ -184,7 +184,7 @@ Wings spread wide.
 
 They launched.
 
-Toward O1 Tower.
+Toward i0 Tower.
 
 Toward impossible odds.
 

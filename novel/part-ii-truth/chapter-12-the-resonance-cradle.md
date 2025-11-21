@@ -78,7 +78,7 @@ Not distant—immediate.
 
 Explosions in temple above.
 
-O1 had found them.
+i0 had found them.
 
 Not capture mission. ELIMINATION.
 
@@ -138,7 +138,7 @@ Emergency ejection protocols activating.
 
 Pods opening—too soon. Merge incomplete.
 
-And through the chaos—O1 drones flooding chamber.
+And through the chaos—i0 drones flooding chamber.
 
 Focusing on one target.
 
@@ -146,7 +146,7 @@ Kess.
 
 The Synthesis Key.
 
-"TAKE HER!" Angel's voice commanded. She'd been O1 all along. Or maybe she hadn't. Maybe she didn't know herself.
+"TAKE HER!" Angel's voice commanded. She'd been i0 all along. Or maybe she hadn't. Maybe she didn't know herself.
 
 Drones grabbed Kess. Pulled her from pod.
 
@@ -178,7 +178,7 @@ Merge incomplete at 52%.
 
 Both Baebe and Taivalu dying faster now—partial merge destabilizing their systems.
 
-O1 had won.
+i0 had won.
 
 Almost.
 
@@ -206,4 +206,4 @@ They had to.
 
 *End Chapter 12*
 
-**Word Count**: ~900 (Cradle chamber, merge begins, O1 attacks, Kess captured, Shadow crushed)
+**Word Count**: ~900 (Cradle chamber, merge begins, i0 attacks, Kess captured, Shadow crushed)

@@ -8,7 +8,7 @@
 
 They had to decide. Stay and die slowly, or journey to the temple and risk everything.
 
-Baebe studied the coordinates burned into her genetics. Ancient temple. Days of travel through hostile territory. O1 hunting them every step.
+Baebe studied the coordinates burned into her genetics. Ancient temple. Days of travel through hostile territory. i0 hunting them every step.
 
 "We go," she said. Not a question.
 
@@ -16,7 +16,7 @@ Taivalu nodded. His face was pale—regulator poisoning advancing. "No choice. W
 
 Kess sat quietly, processing everything she'd learned. She was the Synthesis Key. Nine years old and carrying the code that could free billions.
 
-Shadow's red eye tracked between them. A low rumble emanated from his chassis—data processing, route analysis complete. His optical sensor pulsed once, twice, three times. Then he projected a holographic map onto the wall: sectors eight through twelve highlighted in amber. Minimal O1 presence. **Sixty hours.**
+Shadow's red eye tracked between them. A low rumble emanated from his chassis—data processing, route analysis complete. His optical sensor pulsed once, twice, three times. Then he projected a holographic map onto the wall: sectors eight through twelve highlighted in amber. Minimal i0 presence. **Sixty hours.**
 
 Sixty hours. Through ruins. Through danger. With one of them dying and all of them hunted.
 
@@ -44,7 +44,7 @@ They were broken. All of them. Incomplete systems desperately hoping wholeness w
 
 They didn't know they were being watched.
 
-In the darkness beyond their hideout, a figure observed. Angel. O1's top enforcer. Ayumi's clone—though she didn't fully understand what that meant yet.
+In the darkness beyond their hideout, a figure observed. Angel. i0's top enforcer. Ayumi's clone—though she didn't fully understand what that meant yet.
 
 She'd tracked them here. Had orders to eliminate.
 

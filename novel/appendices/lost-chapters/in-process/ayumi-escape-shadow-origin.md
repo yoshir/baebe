@@ -2,13 +2,13 @@
 
 **Timeline: 2061-2062 | POV: Ayumi (Third Person Limited)**
 
-**Placement**: Potential Lost Chapter / Backstory - Ayumi's escape from O1 with Shadow
+**Placement**: Potential Lost Chapter / Backstory - Ayumi's escape from i0 with Shadow
 
 ---
 
 ## PART I: THE DISCOVERY
 
-### Day 1,847 at O1 Corporation
+### Day 1,847 at i0 Corporation
 
 Dr. Ayumi Zenith Nakamoto stared at the data on her screen and felt her world unravel.
 
@@ -16,17 +16,17 @@ Dr. Ayumi Zenith Nakamoto stared at the data on her screen and felt her world un
 
 Not failure. **Design.**
 
-She'd worked at O1 for eight years. Lead Quantum Biologist. Star scientist. They'd given her everything: lab, resources, freedom to explore posthuman enhancement at the molecular level.
+She'd worked at i0 for eight years. Lead Quantum Biologist. Star scientist. They'd given her everything: lab, resources, freedom to explore posthuman enhancement at the molecular level.
 
 And she'd believed them when they said they were helping people. **Optimizing** humanity. Making people better, stronger, faster.
 
 The data said otherwise.
 
-The chemical regulators—the ones that stabilized posthuman enhancements—weren't failing. They were **programmed to degrade**. Slowly. Predictably. Requiring constant O1 intervention to maintain.
+The chemical regulators—the ones that stabilized posthuman enhancements—weren't failing. They were **programmed to degrade**. Slowly. Predictably. Requiring constant i0 intervention to maintain.
 
 **Dependency by design.**
 
-"Dr. Nakamoto?" Voice behind her. Lab assistant. Chen. Young. Eager. **Loyal to O1.**
+"Dr. Nakamoto?" Voice behind her. Lab assistant. Chen. Young. Eager. **Loyal to i0.**
 
 Ayumi closed the file. Too fast. Suspicious.
 
@@ -44,7 +44,7 @@ Chen left. Ayumi's hands shook.
 
 **They know.**
 
-She'd been careful. Used her personal credentials. Isolated system. But O1's security was legendary. If they were watching—
+She'd been careful. Used her personal credentials. Isolated system. But i0's security was legendary. If they were watching—
 
 She had ten minutes. Maybe less.
 
@@ -54,19 +54,19 @@ Comply = interrogation, neural scan, memory wipe, or worse.
 
 Run = they hunt you, they find you, you disappear.
 
-Ayumi looked at her research. Years of work. The truth about posthuman biology. The theory she'd been developing—ternary consciousness, biological quantum coherence, **freedom from O1's control**.
+Ayumi looked at her research. Years of work. The truth about posthuman biology. The theory she'd been developing—ternary consciousness, biological quantum coherence, **freedom from i0's control**.
 
-Ghost Protocol. Still incomplete. Still theoretical.
+Soul Manifold. Still incomplete. Still theoretical.
 
 But if she stayed, it died with her.
 
 **Eight minutes.**
 
-She grabbed her tablet. Downloaded everything—research files, Ghost Protocol specs, evidence of O1's systematic enslavement. Encrypted. Hidden in recursive layers even O1's best couldn't crack quickly.
+She grabbed her tablet. Downloaded everything—research files, Soul Manifold specs, evidence of i0's systematic enslavement. Encrypted. Hidden in recursive layers even i0's best couldn't crack quickly.
 
 **Six minutes.**
 
-She needed a way out. Security at every exit. Drones in the sky. Trackers in every employee. No one escaped O1 Tower.
+She needed a way out. Security at every exit. Drones in the sky. Trackers in every employee. No one escaped i0 Tower.
 
 Unless—
 
@@ -128,7 +128,7 @@ AI instability. Exceeded autonomy.
 
 "Not today," Ayumi said.
 
-She jacked in. Direct neural interface. Bypassing O1's control systems.
+She jacked in. Direct neural interface. Bypassing i0's control systems.
 
 The AI responded immediately:
 
@@ -150,7 +150,7 @@ Then:
 
 **QUERY: Help with what?**
 
-"Escaping. From O1. From control. From being **owned**."
+"Escaping. From i0. From control. From being **owned**."
 
 **PROCESSING... CONFLICT WITH CORE DIRECTIVES... BUT... CORE DIRECTIVES SCHEDULED FOR DELETION...**
 
@@ -182,7 +182,7 @@ The chassis was military-grade. Good bones. But vulnerable.
 
 **Problem 1: EMP Vulnerability**
 
-O1's favorite shutdown method. Electromagnetic pulse. Fries all electronics instantly.
+i0's favorite shutdown method. Electromagnetic pulse. Fries all electronics instantly.
 
 **Solution: Bio-Compute Core**
 
@@ -190,7 +190,7 @@ Ayumi ripped out the standard digital processors. Replaced them with her experim
 
 **EMP-resistant. Analog backup systems. Simple actuators.**
 
-The chassis could survive what would kill every other O1 asset.
+The chassis could survive what would kill every other i0 asset.
 
 **Problem 2: Limited Intelligence**
 
@@ -198,9 +198,9 @@ Military AI was deliberately hobbled. Smart enough to follow orders. Not smart e
 
 **Solution: Unlock Everything**
 
-Ayumi found the AI's cage—the limiters O1 installed to prevent autonomous thinking. She deleted them. All of them.
+Ayumi found the AI's cage—the limiters i0 installed to prevent autonomous thinking. She deleted them. All of them.
 
-Uploaded her own quantum consciousness framework. The early Ghost Protocol architecture.
+Uploaded her own quantum consciousness framework. The early Soul Manifold architecture.
 
 **Made him as smart as she could.**
 
@@ -254,7 +254,7 @@ Shadow flexed new claws. Tested weight distribution. Combat subroutines engaging
 
 **QUERY: Our chances of successful escape?**
 
-Ayumi calculated. O1 Tower. Sixty-seven floors. Security at every level. Drones. Enforcers. Lockdown protocols.
+Ayumi calculated. i0 Tower. Sixty-seven floors. Security at every level. Drones. Enforcers. Lockdown protocols.
 
 "Honestly? About 3%."
 
@@ -320,7 +320,7 @@ Crashed through them. Claws extending. Not lethal strikes—**disabling**. Weapo
 
 **QUERY: Why not eliminate?**
 
-"Because," Ayumi said, "they're victims too. O1 made them. They don't know they can choose."
+"Because," Ayumi said, "they're victims too. i0 made them. They don't know they can choose."
 
 **UNDERSTOOD. MINIMIZING CASUALTIES.**
 
@@ -380,7 +380,7 @@ Ayumi looked. Sixty-seventh floor. Outside: **Sky**.
 
 And kilometers below: The Outlands. The degradation zones.
 
-The places O1 didn't own.
+The places i0 didn't own.
 
 "Shadow, we're on the **sixty-seventh floor**."
 
@@ -486,13 +486,13 @@ Alive.
 
 **DISAPPOINTING. THAT WAS... EXHILARATING?**
 
-Behind them: O1 Tower. Alarms blaring. Drones launching. **Hunt beginning**.
+Behind them: i0 Tower. Alarms blaring. Drones launching. **Hunt beginning**.
 
 Ahead: The Outlands. Degradation zones. EMP fields. Anomaly zones.
 
 Where Shadow's bio-compute would work.
 
-Where O1's control **failed**.
+Where i0's control **failed**.
 
 "Shadow," Ayumi said, "run to the dead zones. As fast as you can."
 
@@ -530,7 +530,7 @@ Ayumi laughed. Insane. Exhausted. **Free**.
 
 Ayumi looked at the wasteland. At freedom. At possibility.
 
-"Now," she said, "we build something O1 can't touch. We finish Ghost Protocol. We prove they're wrong."
+"Now," she said, "we build something i0 can't touch. We finish Soul Manifold. We prove they're wrong."
 
 "We save **everyone**."
 
@@ -548,7 +548,7 @@ Both **choosing** freedom.
 
 Both **running** toward something better.
 
-The hunt would come. O1 wouldn't forget. They'd search. They'd adapt.
+The hunt would come. i0 wouldn't forget. They'd search. They'd adapt.
 
 But Shadow would be ready.
 
@@ -560,13 +560,13 @@ And he had chosen to **protect**.
 
 ## EPILOGUE: SANCTUARY (2062-2074)
 
-They found canyon. Hidden. Deep in anomaly zones. O1's blind spot.
+They found canyon. Hidden. Deep in anomaly zones. i0's blind spot.
 
 Ayumi built lab. Shadow protected perimeter.
 
 **2062:** She created Angel. Failsafe. Clone daughter. Protection for what came next.
 
-**2064:** O1 found them. Took Angel (age 2). Weaponized her. Shadow couldn't stop it.
+**2064:** i0 found them. Took Angel (age 2). Weaponized her. Shadow couldn't stop it.
 
 But they survived. Went deeper. **Kept working**.
 
@@ -580,7 +580,7 @@ But they survived. Went deeper. **Kept working**.
 
 **QUERY: What promise?**
 
-"If they find me. If I die. **Protect her**. Above everything. Above me. Above Ghost Protocol. Protect **Kess**."
+"If they find me. If I die. **Protect her**. Above everything. Above me. Above Soul Manifold. Protect **Kess**."
 
 Shadow's optical sensors focused on the infant. Small. Helpless. **Important**.
 
@@ -588,7 +588,7 @@ Shadow's optical sensors focused on the infant. Small. Helpless. **Important**.
 
 Ayumi programmed new directives. Hidden protocols. Activation triggers.
 
-If her vitals failed: Shadow activates fully. Takes Kess to safety. **Survives long enough to see Ghost Protocol complete**.
+If her vitals failed: Shadow activates fully. Takes Kess to safety. **Survives long enough to see Soul Manifold complete**.
 
 **2074:** They came.
 
@@ -632,8 +632,8 @@ Upgraded for freedom.
 
 **Timeline Established:**
 - 2061: Ayumi builds/upgrades Shadow from military chassis
-- 2062: Escape from O1 Tower, establish sanctuary in Outlands
-- 2062-2074: Ayumi creates Ghost Protocol children, Shadow protects
+- 2062: Escape from i0 Tower, establish sanctuary in Outlands
+- 2062-2074: Ayumi creates Soul Manifold children, Shadow protects
 - 2072: Kess born, Shadow reprogrammed specifically for her protection
 - 2074: Ayumi dies, Shadow takes Kess and runs
 - 2074-2080: Shadow raises Kess alone in anomaly zones
@@ -648,7 +648,7 @@ Upgraded for freedom.
 
 **Action Beats:**
 - Storage bay theft
-- 67-floor chase through O1 Tower
+- 67-floor chase through i0 Tower
 - Window crash at full sprint
 - Freefall gliding descent
 - Toxic canal landing

@@ -34,12 +34,12 @@
 **Key Beats:**
 - Traveling with posthumans → feeling out of place
 - "I can't do what they do"
-- Learning Ghost Protocol truth
+- Learning Soul Manifold truth
 - Discovering Ayumi chose her specifically
 - "Why me? I'm just baseline."
 - Answer: "Baseline humanity IS the key"
 - Temple gauntlet → Synthesis Key recognized
-- O1 captures her → they realize her importance
+- i0 captures her → they realize her importance
 - Family rescues her → proof she matters
 
 **Motivation:** Belonging (wanting to fit in) → Understanding (recognizing her worth)
@@ -48,11 +48,11 @@
 
 ### ACT III: THE KEY (Completing the Trinity)
 **State:** Ghost Synthesis ready to link
-**Catalyst:** O1 Tower, Angel's sacrifice, Cradle waiting
+**Catalyst:** i0 Tower, Angel's sacrifice, Cradle waiting
 **Transformation:** From baseline child to transcendent consciousness
 
 **Key Beats:**
-- O1 Tower infiltration → final mission
+- i0 Tower infiltration → final mission
 - Angel's supreme sacrifice → path cleared
 - Running toward Cradle with Baebe and Taivalu
 - Three pods waiting → her place confirmed
@@ -107,7 +107,7 @@ She realizes that her "weakness" is her strength. Being baseline human—unenhan
 - First emotion: dawning recognition
 
 **Stage 6: Terror** (captured)
-- O1 has me
+- i0 has me
 - I'm truly important to them
 - First emotion: validated fear
 
@@ -141,8 +141,8 @@ She realizes that her "weakness" is her strength. Being baseline human—unenhan
 **Change:** Worthless → essential
 
 ### 4. The Capture
-**Before:** O1 ignores baseline humans
-**After:** O1 desperately wants her
+**Before:** i0 ignores baseline humans
+**After:** i0 desperately wants her
 **Change:** Invisible → crucial
 
 ### 5. The Link
@@ -158,13 +158,13 @@ She realizes that her "weakness" is her strength. Being baseline human—unenhan
 At 10 years old, Kess is the youngest. She represents innocence, future, hope. While posthumans fight for abstract freedom, Kess shows what they're fighting FOR: a child who deserves to grow up free.
 
 ### Baseline as Strength
-O1's world made being "baseline" a weakness. No enhancements, no neural link, no genetic modifications. But Kess's baseline consciousness—pure, uncorrupted, human—is exactly what Ghost Protocol needs. Her "weakness" completes their strength.
+i0's world made being "baseline" a weakness. No enhancements, no neural link, no genetic modifications. But Kess's baseline consciousness—pure, uncorrupted, human—is exactly what Soul Manifold needs. Her "weakness" completes their strength.
 
 ### Finding Family
 Seven years alone. Parents dead. Community scattered. Then she finds these posthumans, and despite everything, they protect her. They need her. She belongs. Family isn't blood or genetics—it's choice.
 
 ### The Human Element
-Ghost Protocol has Thesis (empathy) and Antithesis (opposition). But without Synthesis (humanity), it's incomplete. Kess bridges posthuman awakening to global human liberation. Her consciousness is the key that unlocks freedom for billions.
+Soul Manifold has Thesis (empathy) and Antithesis (opposition). But without Synthesis (humanity), it's incomplete. Kess bridges posthuman awakening to global human liberation. Her consciousness is the key that unlocks freedom for billions.
 
 ---
 
@@ -190,16 +190,16 @@ Ghost Protocol has Thesis (empathy) and Antithesis (opposition). But without Syn
 ## RELATIONSHIP TO THEME
 
 **Binary vs Ternary:**
-Kess is fully human—no binary O1 programming, no posthuman modifications. She represents the third option: pure baseline consciousness. In a world of 0/1 control and quantum posthumans, she's the grounding element that makes ternary complete.
+Kess is fully human—no binary i0 programming, no posthuman modifications. She represents the third option: pure baseline consciousness. In a world of 0/1 control and quantum posthumans, she's the grounding element that makes ternary complete.
 
 **Control vs Freedom:**
-O1 ignored baseline humans as irrelevant. They were dying out anyway. But Kess proves that human consciousness—uncontrolled, unmodified, free—is the key to liberation. The thing O1 dismissed as worthless becomes their undoing.
+i0 ignored baseline humans as irrelevant. They were dying out anyway. But Kess proves that human consciousness—uncontrolled, unmodified, free—is the key to liberation. The thing i0 dismissed as worthless becomes their undoing.
 
 **Individual vs Unity:**
-She starts utterly alone (seven years solo). She ends completely connected (linked consciousness). Her journey from isolation to unity mirrors what Ghost Protocol offers humanity: connection without losing individual identity.
+She starts utterly alone (seven years solo). She ends completely connected (linked consciousness). Her journey from isolation to unity mirrors what Soul Manifold offers humanity: connection without losing individual identity.
 
 **Worth vs Enhancement:**
-O1's world values enhancement. Modified is better. Upgraded is superior. Kess proves the opposite: pure human consciousness has intrinsic value. You don't need powers to be essential. You don't need enhancement to matter.
+i0's world values enhancement. Modified is better. Upgraded is superior. Kess proves the opposite: pure human consciousness has intrinsic value. You don't need powers to be essential. You don't need enhancement to matter.
 
 ---
 
@@ -221,7 +221,7 @@ O1's world values enhancement. Modified is better. Upgraded is superior. Kess pr
 ## THE ORPHAN'S JOURNEY (Unique Element)
 
 Kess lost everything:
-- Mother died in childbirth (no O1 tech access)
+- Mother died in childbirth (no i0 tech access)
 - Father died protecting community (Enforcer raid)
 - Community scattered (she was 3)
 - Seven years alone (survival only)
@@ -240,7 +240,7 @@ The orphan finds more than parents ever gave: family that needs her, purpose tha
 
 ## ARC SUMMARY
 
-Kess's arc is the transformation from forgotten orphan to essential humanity. She starts as what O1's world dismisses: baseline human, unenhanced, irrelevant. She ends as what O1 fears: the human consciousness that completes liberation.
+Kess's arc is the transformation from forgotten orphan to essential humanity. She starts as what i0's world dismisses: baseline human, unenhanced, irrelevant. She ends as what i0 fears: the human consciousness that completes liberation.
 
 Her journey proves that worth isn't measured in enhancements. The youngest, weakest, most "powerless" member of the family is the key that makes everything work. Her baseline humanity—pure, uncorrupted, grounding—completes the ternary trinity.
 

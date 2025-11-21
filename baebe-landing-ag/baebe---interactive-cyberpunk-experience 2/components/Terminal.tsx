@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { UserProgress, TerminalLine } from '../types';
-import { audioEffects } from '../utils/audioEffects';
 
 interface TerminalProps {
   user: UserProgress;
@@ -24,18 +23,9 @@ export const Terminal: React.FC<TerminalProps> = ({ user, onCommand, lines, isTy
     e.preventDefault();
     if (!input.trim() || isTyping) return;
 
-    audioEffects.playClick();
     const cmd = input;
     setInput('');
     await onCommand(cmd);
-  };
-
-  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setInput(e.target.value);
-    // Occasional typing sound (not every keystroke to keep it subtle)
-    if (Math.random() > 0.7) {
-      audioEffects.playTypingSound();
-    }
   };
 
   const handleTextClick = (text: string) => {
@@ -84,26 +74,41 @@ export const Terminal: React.FC<TerminalProps> = ({ user, onCommand, lines, isTy
         ref={scrollRef}
         className="flex-1 overflow-y-auto mb-2 space-y-1 pb-4 pr-2 scrollbar-thin"
       >
-        {lines.map((line) => (
-          <div key={line.id} className={`${line.type === 'error' ? 'text-white font-bold bg-red-900/20' : line.type === 'input' ? 'text-gray-400 opacity-80 mt-2' : line.type === 'story' ? 'text-gray-300 leading-loose py-2 max-w-3xl' : 'text-white'}`}>
-            {line.type === 'input' && <span className="mr-2">$</span>}
-            <span className="whitespace-pre-wrap break-words">
-              {line.type === 'input' || line.type === 'story' ? line.text : renderText(line.text)}
-            </span>
-          </div>
-        ))}
+        {lines.map((line) => {
+          const getLineStyle = (type: string) => {
+            switch (type) {
+              case 'error': return 'text-rose-500 font-bold bg-rose-900/10 border-l-2 border-rose-500 pl-2';
+              case 'input': return 'text-slate-500 mt-2';
+              case 'story': return 'text-slate-100 leading-loose py-2 max-w-3xl border-l-2 border-slate-700 pl-4 my-2';
+              case 'system': return 'text-cyan-500 font-bold mt-1';
+              case 'warning': return 'text-amber-500';
+              default: return 'text-emerald-400';
+            }
+          };
+
+          return (
+            <div key={line.id} className={`${getLineStyle(line.type)} break-words`}>
+              {line.type === 'input' && <span className="mr-2 text-slate-600">zenith@i0:~$</span>}
+              <span className="whitespace-pre-wrap">
+                {line.type === 'input' || line.type === 'story' ? line.text : renderText(line.text)}
+              </span>
+            </div>
+          );
+        })}
         {isTyping && <div className="animate-pulse text-white">...</div>}
       </div>
 
       {/* Input Area */}
       <div className="border-t border-gray-800 pt-2 bg-black z-10">
         <form onSubmit={handleSubmit} className="flex items-center">
-          <span className="text-white mr-2 font-bold">{user.resonanceLevel >= 3 ? 'res-' + user.resonanceLevel + '$' : '$'}</span>
+          <div className="flex items-center">
+            <span className="text-green-400 mr-2">zenith@i0:~$</span>
+          </div>
           <input
             ref={inputRef}
             type="text"
             value={input}
-            onChange={handleInputChange}
+            onChange={(e) => setInput(e.target.value)}
             className="flex-1 bg-transparent border-none outline-none text-white caret-white"
             autoFocus
             disabled={isTyping}
