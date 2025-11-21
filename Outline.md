@@ -115,7 +115,7 @@ A feed spins up:
 TAIVALU — BIO-TERROR. EMPATHY VIRUS ALERT LEVEL 5.
 Public copy: "Safety update: Enjoy the calm."
 
-In the far glass, a woman's silhouette flickers for a second—Ayumi Zenith Li—then is gone.
+In the far glass, a woman's silhouette flickers for a second—Ayumi Zenith Nakamoto—then is gone.
 
 <span style="color: #FFD700">### Scene 4: Memory Flash / Mother</span>
 
@@ -387,7 +387,7 @@ City hum: denoised, soft. Resistance zones: grain, breaths, hands on metal. Taiv
 
 **Baebe:** weapon → orphan of two gods → author of her own bandwidth. She refuses Aurek's binary (reconnect/exit) and Ayumi's martyrdom. She stays, imperfect and free.
 
-**Ayumi Zenith Li:** erased mother / creator. She dies crushed by her own machine, but her last act is not control—it's permission.
+**Ayumi Zenith Nakamoto:** erased mother / creator. She dies crushed by her own machine, but her last act is not control—it's permission.
 
 **Aurek:** benevolent dictator of feeling. His "god-model" fails when emotion becomes peer-to-peer. He survives as a loop no one listens to.
 

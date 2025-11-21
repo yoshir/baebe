@@ -1,0 +1,221 @@
+/* Book Preview Styles - Print-Ready Formatting */
+
+:root {
+    --book-font-family: Georgia, "Times New Roman", serif;
+    --book-font-size: 11pt;
+    --book-line-height: 1.6;
+    --book-text-color: #1a1a1a;
+    --book-bg-color: #fefefe;
+    --book-page-width: 5.5in;
+    --book-page-height: 8.5in;
+    --book-margin: 0.75in;
+    --book-gutter: 0.5in;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--book-font-family);
+    background: #e0e0e0;
+    padding: 20px;
+    color: var(--book-text-color);
+}
+
+.controls {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    z-index: 1000;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.controls button,
+.controls select {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.controls button:hover {
+    background: #f0f0f0;
+}
+
+.book-container {
+    max-width: var(--book-page-width);
+    margin: 0 auto;
+    background: var(--book-bg-color);
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.book-page {
+    min-height: var(--book-page-height);
+    padding: var(--book-margin);
+    background: var(--book-bg-color);
+    page-break-after: always;
+}
+
+.book-content {
+    font-family: var(--book-font-family);
+    font-size: var(--book-font-size);
+    line-height: var(--book-line-height);
+    color: var(--book-text-color);
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+}
+
+/* Typography */
+.book-content h1 {
+    font-size: 24pt;
+    font-weight: bold;
+    margin-top: 24pt;
+    margin-bottom: 12pt;
+    page-break-after: avoid;
+    text-align: center;
+}
+
+.book-content h2 {
+    font-size: 18pt;
+    font-weight: bold;
+    margin-top: 18pt;
+    margin-bottom: 9pt;
+    page-break-after: avoid;
+}
+
+.book-content h3 {
+    font-size: 14pt;
+    font-weight: bold;
+    margin-top: 14pt;
+    margin-bottom: 7pt;
+    page-break-after: avoid;
+}
+
+.book-content p {
+    margin-bottom: 12pt;
+    text-indent: 0.25in;
+    orphans: 3;
+    widows: 3;
+}
+
+.book-content p:first-child,
+.book-content h1 + p,
+.book-content h2 + p,
+.book-content h3 + p {
+    text-indent: 0;
+}
+
+.book-content strong {
+    font-weight: bold;
+}
+
+.book-content em {
+    font-style: italic;
+}
+
+.book-content hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 24pt 0;
+    page-break-inside: avoid;
+}
+
+/* Lists */
+.book-content ul,
+.book-content ol {
+    margin: 12pt 0;
+    padding-left: 0.5in;
+    page-break-inside: avoid;
+}
+
+.book-content li {
+    margin-bottom: 6pt;
+}
+
+/* Blockquotes */
+.book-content blockquote {
+    margin: 12pt 0;
+    padding-left: 0.5in;
+    border-left: 3px solid #ccc;
+    font-style: italic;
+    page-break-inside: avoid;
+}
+
+/* Code blocks */
+.book-content code {
+    font-family: "Courier New", monospace;
+    font-size: 10pt;
+    background: #f5f5f5;
+    padding: 2px 4px;
+}
+
+.book-content pre {
+    font-family: "Courier New", monospace;
+    font-size: 9pt;
+    background: #f5f5f5;
+    padding: 12pt;
+    margin: 12pt 0;
+    overflow-x: auto;
+    page-break-inside: avoid;
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background: white;
+        padding: 0;
+    }
+
+    .controls {
+        display: none;
+    }
+
+    .book-container {
+        max-width: 100%;
+        box-shadow: none;
+    }
+
+    .book-page {
+        page-break-after: always;
+        margin: 0;
+        padding: var(--book-margin);
+    }
+
+    .book-content {
+        orphans: 3;
+        widows: 3;
+    }
+
+    .book-content h1,
+    .book-content h2,
+    .book-content h3 {
+        page-break-after: avoid;
+    }
+
+    .book-content p {
+        page-break-inside: avoid;
+    }
+}
+
+/* Loading state */
+.loading {
+    text-align: center;
+    color: #999;
+    font-style: italic;
+    padding: 40pt 0;
+}
+

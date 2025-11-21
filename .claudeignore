@@ -1,0 +1,12 @@
+# Claude Code Ignore File
+# Exclude all archive folders from Claude's context
+
+# Archive folders
+**/archive/
+**/archive-plot/
+archive/
+archive-plot/
+
+# Additional patterns (add as needed)
+# **/*.bak
+# **/temp/

@@ -1,0 +1,61 @@
+{
+  "name": "pcface",
+  "version": "0.3.0",
+  "description": "PC Face - Bitmap arrays for all 256 glyphs of CP437",
+  "files": [
+    "src/*.html",
+    "src/*.js",
+    "out/**/*.js"
+  ],
+  "keywords": [
+    "dos",
+    "cp437",
+    "font",
+    "glyph",
+    "typeface",
+    "browser"
+  ],
+  "homepage": "https://github.com/susam/pcface",
+  "bugs": "https://github.com/susam/pcface/issues",
+  "license": "MIT",
+  "author": "Susam Pal (https://susam.net/)",
+  "repository": "github:susam/pcface",
+  "devDependencies": {
+    "standard": "latest",
+    "mocha": "latest",
+    "eslint-plugin-html": "latest",
+    "jsdoc": "latest"
+  },
+  "scripts": {
+    "test": "mocha src/test/",
+    "lint": "standard --plugin html src/*.html src/*.js",
+    "doc": "jsdoc -c src/jsdoc.json"
+  },
+  "standard": {
+    "global": [
+      "pcface",
+      "PC_FACE_MODERNDOS_8X16_FONT_LIST",
+      "PC_FACE_MODERNDOS_8X16_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_BIOS_8X8_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_BIOS_8X8_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_CGA_8X8_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_CGA_8X8_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_MDA_9X14_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_MDA_9X14_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_EGA_8X14_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_EGA_8X14_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_VGA_9X16_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_VGA_9X16_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_VGA_9X14_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_VGA_9X14_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_VGA_8X16_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_VGA_8X16_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_PGC_8X16_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_PGC_8X16_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_MODEL30_8X16_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_MODEL30_8X16_FONT_MAP",
+      "PC_FACE_OLDSCHOOL_VERITE_8X16_FONT_LIST",
+      "PC_FACE_OLDSCHOOL_VERITE_8X16_FONT_MAP"
+    ]
+  }
+}

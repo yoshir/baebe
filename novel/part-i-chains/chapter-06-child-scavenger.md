@@ -1,10 +1,10 @@
 # Chapter 6: Child Scavenger
 
-**[SCREENPLAY REFERENCE: Scene 040 - Child Scavenger | Adapted for novel]**
+[SCREENPLAY REFERENCE: Scene 040 - Child Scavenger | Adapted for novel]
 
 ---
 
-**HOURS LATER**
+HOURS LATER
 
 Baebe lies on the maintenance ledge. Chemical water pooled around her. Broken. Alone.
 
@@ -18,53 +18,55 @@ Alone.
 
 Truly alone for the first time in her operational life.
 
-**CRACKLE**.
+CRACKLE.
 
-Her neural link—**sparks** to life. Static. Breaking signal.
+Her neural link—sparks to life. Static. Breaking signal.
 
-"Hacker?" Her voice comes out weak. Disbelieving. Hope flooding through unauthorized emotional channels.
+"Hacker?" The word comes out tactical first. Identify contact. Verify signal integrity. Assess threat level. But underneath the protocol, something else rises—relief. Hope. Feelings she's been trained to categorize and suppress, but can't stop now that the pulse node's dark and the conditioning frequencies aren't there to freeze them.
 
 "Easy, ghost... you're still... it's me."
-
-Relief **floods** her face. Connection. Someone still there. Not abandoned. Not erased completely.
 
 "Listen... this line... won't hold long. I'm subrouting through old fiber. Dead rat-line. They'll... if I stay... too long."
 
 The signal breaks up. Fragments. But his voice is real. The only familiar thing in this forgotten space beneath the city.
 
-"I need extraction," she whispers urgently. "Tower went dark. They—"
+"I need extraction." Professional. Mission-focused. Standard protocol for compromised operative in hostile territory. But her voice comes out urgent, almost desperate. The training trying to keep it tactical but failing. "Tower went dark. They—"
 
-"—your canceled." His voice cuts through the static. Heavy. Final. "You're off-ledger. Aurek **burned** your tag."
+"—your canceled." His voice cuts through the static. Heavy. Final. "You're off-ledger. Aurek burned your tag."
 
 The words hit like physical blows.
 
-Her irises cycle: **blue → white → brown → blue**. Processing. Rejecting. Trying to make sense of data that doesn't make sense.
+"Status clarification." She's trying to make it tactical. Trying to turn his words into mission parameters she can process. "Off-ledger means temporary hold or—"
 
-"What? Me?  No, that's—that's not—"
+But her irises are cycling: blue → white → brown → blue. Processing. Rejecting. Her enhanced vision trying to organize data that won't organize. Operatives don't get erased. They complete missions. They return for debriefing. They—
 
-Her breathing accelerates. Hyperventilating. Chest tightening. The conditioning trying to impose calm but failing. System error. Does not compute. Operatives don't get **erased**.
+"What? Me?" The professional mask slipping. "No, that's—that's not—"
 
-"Sanitation... activated. They're... for you. Not retrieval... **termination**."
+Her breathing accelerates. Chest tightening. Hyperventilation starting. The conditioning screaming at her to impose calm, to assess the situation tactically, to categorize this as just another mission variable. But the data won't fit. Won't make sense. Her training built on the foundation that she's an asset, that O1 values her, that completing missions means something. And if that's gone—
 
-The truth sinks in. Not rescue. Execution.
+"Sanitation... activated. They're... for you. Not retrieval... termination."
 
-Something **breaks**.
+Threat assessment: active. Survival probability: calculate. Extraction routes: identify. The conditioning trying desperately to turn this into numbers, into tactics, into something she can execute. But—
 
-Her irises **STROBE**—**blue-white-red-brown-blue-white-red-brown**—flickering so fast it looks like system failure. Like her optical implants are glitching. Like the careful architecture of her modified consciousness is coming apart at the seams.
+Not rescue. Execution.
+
+Something breaks.
+
+Her irises STROBE—flickering so fast it looks like system failure. Like her optical implants glitching under information they weren't designed to process. The careful architecture of her conditioning coming apart because every protocol was built on one assumption: she matters to O1. And if she doesn't—
 
 "No. No no no no no—"
 
-She's **shaking**. Hands trembling. This isn't tactical analysis. This isn't combat assessment. This is **panic**. Pure. Unfiltered. The kind of response the conditioning was supposed to prevent.
+Not tactical. Not professional. Just denial. Just terror. Her hands shake. Body trembling. The framework she's relied on for twenty years fracturing, and without it she doesn't know how to think. How to be. The conditioning was supposed to prevent this—freeze the panic, organize the chaos, turn fear into mission focus. But it's failing. Failing. And underneath—
 
 The static intensifies. His voice cutting in and out like a failing signal.
 
 "When... find you... don't trust... You can't—"
 
-She **gasps** for air. Like drowning on dry land. Her whole body shaking. Chest heaving. Broken ribs screaming with each breath but she can't stop. Can't control it. Can't—
+She gasps for air. Like drowning on dry land. Whole body shaking. Chest heaving. Broken ribs screaming with each breath but she can't control it. Can't impose the calm. Can't make her training work. The operational thinking that's been her only way of organizing reality since she was twelve—dissolving. And what's left is just—
 
 "I can't do this anymore—I can't—"
 
-The words tear out of her. Desperate. Almost **sobbing**.
+The words tear out before the conditioning can stop them. Raw. Human. The ice that's held her frozen for years melting all at once, and she doesn't know how to function without it. Doesn't know how to be a person instead of an operative. The terror not of death but of this—feeling everything with no framework to contain it.
 
 Beat. Silence on the other end. Even through the static—shock.
 
@@ -72,35 +74,37 @@ Beat. Silence on the other end. Even through the static—shock.
 
 More static. His voice cutting in and out but the concern bleeding through. Disturbed. Confused. Like he's hearing something that shouldn't exist.
 
-"I know... hard... hear but... you sound... **emotional**? You sound... wrecked. I've never... you like—"
+"I know... hard... hear but... you sound... emotional? You sound... wrecked. I've never... you like—"
 
-The line **cuts out** completely.
+The line cuts out completely.
 
-**STATIC. THEN SILENCE.**
+STATIC. THEN SILENCE.
 
 Baebe stares at nothing. Chest heaving. Tears streaming down her face mixing with chemical water and blood.
 
-Tears.
+Tears—salt, human—tracking through chemical water and conditioning.
 
 Actual tears.
 
-She's never cried before. Not once in her entire operational life. The conditioning prevented it. Unnecessary. Inefficient. Emotional responses optimized into tactical assessment and mission parameters.
+She's never cried before. Not once in her entire operational life. The conditioning prevented it—kept her frozen. Unnecessary. Inefficient. Emotional responses optimized into tactical assessment and mission parameters.
 
 But now—
 
-She **cries**.
+She cries.
+
+Grief melting through control. The ice breaking. And it hurts—not physical pain but something deeper. The conditioning screaming suppression protocols but failing. The tears won't stop. Won't freeze back. Won't obey.
 
 Broken. Alone. Off the ledger. Terminated. Erased from the system like she never existed.
 
-The tears won't stop.
+The tears keep flowing.
 
-She lies there. Broken. Alone again.
+She lies there. Broken. Alone again. But thawing.
 
 The silence where Hacker's voice was feels like another kind of death.
 
 ---
 
-**TIME PASSES**
+TIME PASSES
 
 Her breathing slows. The tears stop. Exhaustion taking over where panic burned out.
 
@@ -108,31 +112,37 @@ The chemical water has stopped pooling. Just puddles now. Reflecting toxic fog i
 
 Then—
 
-A **shadow** falls across her face.
+A shadow falls across her face.
 
-She tries to move—pain **explodes** through broken ribs. Gasps. Freezes. Can't. Trapped by her own damage.
+She tries to move—pain explodes through broken ribs. Gasps. Freezes. Can't. Trapped by her own damage.
 
 "Are you broken?"
 
 A child's voice. Matter-of-fact. Curious but not concerned.
 
-Baebe's irises cycle erratically—**blue** flickering to **white** flickering to **red**. Targeting mode trying to engage. Threat assessment trying to activate. But her systems are compromised. Can't stabilize. Can't lock on.
+Baebe's irises cycle erratically—blue flickering to white flickering to red. Targeting mode trying to engage. Threat assessment trying to activate. But her systems are compromised. Can't stabilize. Can't lock on.
 
 She tilts her head. Looks up.
 
-A **child** stands over her.
+A child stands over her.
 
 Maybe nine years old. Undercity scavenger—patched clothing layered against toxic air, salvaged goggles pushed up on forehead, canvas sack slung across narrow shoulders. Dirt-smudged face. Sharp eyes that have seen too much too early.
 
-The child **crouches**. Gets eye-level with Baebe. No fear. Just curiosity. Like finding broken things is normal down here.
+The child crouches. Gets eye-level with Baebe. No fear. Just curiosity. Like finding broken things is normal down here.
 
 "Are you broken?" the child repeats. Patient.
 
-Beat. Baebe stares at the child. Her irises cycle: **blue → white → brown → blue**.
+Beat. Baebe stares at the child. Her irises cycle: blue → white → brown → blue.
+
+In the space between heartbeats, her training reaches for the standard response. Asset status: operational. Injuries within acceptable parameters. Mission capability intact. The words forming automatically—muscle memory from a thousand debriefings where weakness meant termination.
+
+But the tears are still wet on her face. The neural link is gone. And she's so tired of the lies the conditioning built around her.
+
+The child is still waiting. Patient. Brown eyes reflecting nothing but honest curiosity.
 
 "Yes," she says. Quiet. Honest.
 
-The child **nods**. Like this makes sense. Like broken things are normal in the spaces beneath the city where failures accumulate.
+The child nods. Like this makes sense. Like broken things are normal in the spaces beneath the city where failures accumulate.
 
 "I'm Kess."
 
@@ -150,13 +160,13 @@ Baebe looks at her hand. Gash across the palm from the fall—deep, still seepin
 
 Kess takes Baebe's hand without asking. Wipes the wound with salvaged antiseptic.
 
-Baebe's irises **flare** **red**—pain response—then stutter back to **blue**.
+Baebe's irises flare red—pain response—then stutter back to blue.
 
 Kess doesn't flinch. Just keeps working. Sweet. Efficient. Like she's done this before. Like bandaging broken things is part of survival down here.
 
 "Cherubs came through here three hours ago," Kess says while bandaging. Matter-of-fact. "Hunting something. You, probably."
 
-Baebe's irises **snap** to **blue**. Alert.
+Baebe's irises snap to blue. Alert.
 
 "They're still—"
 
@@ -164,15 +174,15 @@ Baebe's irises **snap** to **blue**. Alert.
 
 She offers Baebe the water bottle.
 
-Baebe takes it. Drinks. The water tastes like plastic and chemicals but it's **wet** and her body needs it desperately. Dehydration adding to the catalog of damage.
+Baebe takes it. Drinks. The water tastes like plastic and chemicals but it's wet and her body needs it desperately. Dehydration adding to the catalog of damage.
 
 Then—
 
-**CRACKLE**.
+CRACKLE.
 
-The neural link **sparks** back to life. Hacker's voice—broken, urgent.
+The neural link sparks back to life. Hacker's voice—broken, urgent.
 
-"—ost? Ghost, you... there? Wait... **who's that**?"
+"—ost? Ghost, you... there? Wait... who's that?"
 
 Baebe freezes. Doesn't answer.
 
@@ -182,39 +192,41 @@ Kess looks at Baebe. Curious about the voice only Baebe can hear. Smart enough t
 
 "Get rid of her. She might be—"
 
-"Get rid of her? She's a **little kid**."
+"Get rid of her? She's a little kid."
 
-Her voice **breaks** on the words. Horror. Disbelief. The conditioning screaming tactical assessment—unknown contact, potential threat, eliminate liability. But something else pushing back. Something new. Something **human**.
+Her voice breaks on the words. Horror. Disbelief. The conditioning screaming tactical assessment—unknown contact, potential threat, eliminate liability. But something else pushing back. Something new. Something human.
 
 "—slowing... down. Liability. You need... move. Survival... priority. Get rid—"
 
-"**NO.**"
+"NO."
 
 Her hand moves to her ear. Grips the neural link.
 
 "Wait—Ghost—don't—"
 
-She **rips** the neural link from the back of her neck.
+She rips the neural link from the back of her neck.
 
-The tiny device **sparks** in her fingers—last piece of O1 technology still functioning, last connection to the network, last link to her old life. The thing that's been in her ear since activation. Since consciousness. Since she became whatever she is.
+The tiny device sparks in her fingers—last piece of O1's technology still functioning, last connection to the network, last link to her old life. The thing that's whispered directives in her ear since activation. Since consciousness. Since she became whatever she is.
 
-She looks at it. Blue light flickering weakly.
+She looks at it. Light flickering weakly. The last surveillance trying to maintain control.
 
-Then **throws** it into the chemical water.
+Then throws it into the chemical water.
 
-It **hits** the oily surface. Sparks. Sinks.
+It hits the oily surface. Sparks—light dying. Sinks.
 
 Gone.
 
-Small trickle of blood where the neural link tore free. Her ear stinging. But the pain is **nothing** compared to the silence.
+Surveillance sinking into darkness.
+
+Small trickle of blood where the neural link tore free. Her ear stinging. But the pain is nothing compared to the terrifying silence.
 
 She's completely off-grid now. No pulse node. No network. No voice in her ear telling her what to think, what to do, who to kill.
 
-Just **silence**.
+Just silence. Human. Alone. Free.
 
 Kess watches this. Says nothing. Understanding something. Recognizing the moment even if she can't explain it.
 
-Baebe's irises still flicker. **Blue-white-brown-blue**. But slower now. Less frantic. Like something is stabilizing without the network's constant pressure.
+Baebe's irises still flicker. But slower now. Less frantic. Like something is stabilizing without the network's constant pressure.
 
 "You should go deeper," Kess says, standing, shouldering her sack. "I can show you the way."
 
@@ -230,31 +242,31 @@ Beat. The words land harder than expected.
 
 Kess looks toward the massive shape in the fog.
 
-"But I think you need **ours**."
+"But I think you need ours."
 
 "Ours?"
 
-The massive shape **moves**.
+The massive shape moves.
 
 ---
 
-**SLOW REVEAL:**
+SLOW REVEAL:
 
 A gigantic robotic saber-toothed tiger emerges from toxic fog.
 
-**Ten feet tall when sitting.**
+Ten feet tall when sitting.
 
 The thing walks on all fours—mechanical limbs moving with unsettling organic fluidity. Too smooth. Too precise. The kind of motion that shouldn't exist in something that size.
 
-Cartoon-looking like a toy but horror-tinged. Animatronic quality of a functional robot but not quite life. 
+Cartoon-looking like a toy but horror-tinged. Animatronic quality of a functional robot but not quite life.
 
-The head—massive. Saber teeth curving down from the upper jaw. Each tooth as long as Baebe's forearm. Jaw that could crush steel. Eyes that glow faintly **amber**—not the harsh tactical lighting of combat systems, but something warmer. Almost biological.
+The head—massive. Saber teeth curving down from the upper jaw. Each tooth as long as Baebe's forearm. Jaw that could crush steel. Eyes that glow faintly amber—not the harsh tactical lighting of combat systems, but something different. Almost biological.
 
-Patches of what looks like synthetic fur. **Breathing**—ribs expanding and contracting. Living machine or mechanical beast. The boundary unclear.
+Patches of what looks like synthetic fur. Breathing—ribs expanding and contracting. Living machine or mechanical beast. The boundary unclear.
 
-The effect is **unsettling**. Beautiful and terrifying. Wonder and horror in equal measure.
+The effect is unsettling. Beautiful and terrifying. Wonder and horror in equal measure.
 
-Baebe's irises cycle **RED-RED-RED**. Full threat mode. Adrenaline flooding damaged systems. Fight-or-flight responses trying to activate in a body that can't do either.
+Baebe's irises flicker red. Full threat mode. Adrenaline flooding damaged systems. Fight-or-flight responses trying to activate in a body that can't do either.
 
 "What the—"
 
@@ -266,17 +278,17 @@ Gets close. Massive head near Baebe's broken body.
 
 Baebe tries to move back. Can't. Trapped against concrete. Broken ribs making each breath agony.
 
-Shadow's amber eyes study her. Assessing. Not threat assessment—something else. Something almost like **concern**.
+Shadow's amber eyes study her. Assessing. Not threat assessment—something else. Something almost like concern.
 
 Then—
 
-**Gentle**.
+Gentle.
 
 Shadow's massive jaws open. Close around Baebe's tactical undersuit—not biting, just gripping fabric carefully. Precise. Controlled.
 
-**Lifts** her.
+Lifts her.
 
-Baebe **gasps**—pain and shock—but Shadow adjusts grip immediately. Minimizing pressure on broken ribs. Carrying her like a cat carries a kitten. Gentle. Protective.
+Baebe gasps—pain and shock—but Shadow adjusts grip immediately. Minimizing pressure on broken ribs. Carrying her like a cat carries a kitten. Gentle. Protective.
 
 "Shadow will carry you deeper. Fifth level. You'll be safe there." Kess's voice is reassuring. Sweet but knowing. "The interference zones. Where Cherubs can't track. Where the network doesn't reach."
 
@@ -294,7 +306,7 @@ Pause.
 
 Kess smiles. Knowing. Too knowing for nine years old.
 
-"Whatever voice was telling you to get rid of me." She taps her own ear. "I heard you. You said **no**."
+"Whatever voice was telling you to get rid of me." She taps her own ear. "I heard you. You said no."
 
 Beat. Baebe stares at this child who somehow knows things she shouldn't. Who recognized the moment. Who understood what it meant.
 
@@ -306,30 +318,30 @@ Kess walks alongside. Small figure next to massive mechanical guardian. The smal
 
 They move through corroded infrastructure. Past broken concrete and rusty rebar and the accumulated failure of the city above. Deeper into the interference zones.
 
-Kess leading. Shadow carrying. Baebe suspended in massive jaws—vulnerable, broken, but somehow... **safe**.
+Kess leading. Shadow carrying. Baebe suspended in massive jaws—vulnerable, broken, but somehow... safe.
 
-Baebe's face shows confusion giving way to something else. Relief? Gratitude? **Wonder**?
+Baebe's face shows confusion giving way to something else. Relief? Gratitude? Wonder?
 
-Her irises cycle one last time—**blue → white → brown**—and the **brown holds**.
+Her irises flicker one last time—then settle.
 
 For the first time since the tower.
 
-Human baseline. Unfiltered. Witnessing kindness without tactical overlay. Seeing without combat systems analyzing threat levels and mission parameters.
+Human baseline. Unfiltered. Witnessing kindness without tactical overlay freezing it into threat data. Seeing without combat systems analyzing threat levels and mission parameters.
 
-Just... **seeing**.
+Just... seeing. Human. Real.
 
 Three figures disappear into the fog. Child, machine, and broken weapon. Vanishing into the spaces where O1's reach thins and something like freedom still exists.
 
 ---
 
-**FADE TO BLACK.**
+FADE TO BLACK.
 
 ---
 
-**[End Chapter 6]**
+[End Chapter 6]
 
 ---
 
-*[End Part I: Chains]*
+[End Part I: Chains]
 
-*[To be continued in Part II: Breaks]*
+[To be continued in Part II: Breaks]

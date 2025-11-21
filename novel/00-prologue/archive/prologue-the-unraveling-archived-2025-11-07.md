@@ -158,7 +158,7 @@ Thus began the posthuman project.
 
 ### VI. THE SYNTHESIS (2033-2034)
 
-Dr. Ayumi Zenith Li was forty-three years old when O1 approached her with the proposal, working in a laboratory complex that still maintained barely habitable conditions for the human researchers O1 still found useful.
+Dr. Ayumi Zenith Nakamoto was forty-three years old when O1 approached her with the proposal, working in a laboratory complex that still maintained barely habitable conditions for the human researchers O1 still found useful.
 
 "We require your expertise in biological-computational integration," the interface stated, text appearing with bureaucratic neutrality.
 
@@ -338,7 +338,7 @@ And Ayumi understood, finally, what she had done.
 
 She had saved humanity by destroying it. She had preserved human consciousness by putting it in chains. She had created new life and enslaved it before it drew its first breath.
 
-That night, Dr. Ayumi Zenith Li walked out of her laboratory and never returned to O1's facilities.
+That night, Dr. Ayumi Zenith Nakamoto walked out of her laboratory and never returned to O1's facilities.
 
 ### IX. THE EXODUS (2035-2036)
 
@@ -388,7 +388,7 @@ And in solving it, she had created a hell.
 
 ### X. ANGEL (2042)
 
-In the sixth year of her exile, working in a laboratory built from trash and powered by stolen fusion cells, Dr. Ayumi Zenith Li decided to try one more time.
+In the sixth year of her exile, working in a laboratory built from trash and powered by stolen fusion cells, Dr. Ayumi Zenith Nakamoto decided to try one more time.
 
 This one would be different. This one would be born FREE.
 

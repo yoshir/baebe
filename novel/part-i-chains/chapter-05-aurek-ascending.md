@@ -1,14 +1,14 @@
 # Chapter 5: Aurek Ascending
 
-**[SCREENPLAY REFERENCE: Scene 035 - Counterpoint: Aurek | Adapted for novel]**
+[SCREENPLAY REFERENCE: Scene 035 - Counterpoint: Aurek | Adapted for novel]
 
 ---
 
-**INT. 01 TOWER - CONTROL ROOM**
+INT. 01 TOWER - CONTROL ROOM
 
-"She was **PERFECT**!"
+"She was PERFECT!"
 
-Glass **shatters** under Aurek's fist. The interface screen spiderwebs. His reflection fractures into a hundred versions of rage.
+Glass shatters under Aurek's fist. The interface screen spiderwebs. His reflection fractures into a hundred versions of rage.
 
 The room is a cathedral of mirrors. Chrome. Polished glass. Every surface reflecting him back to himself—perfect suit, perfect posture, perfect face twisted into something that shouldn't exist on skin that smooth, features that controlled.
 
@@ -18,7 +18,7 @@ Fifty-something but ageless. Surgical precision in every movement. Manic control
 
 The control room stretches around him—techs at their stations, screens cascading with data, the city spreading beyond floor-to-ceiling windows like a circuit board of light and compliance.
 
-But the techs aren't watching. Their eyes are **soft**. Mouths slack. Moving like furniture—functional but empty. Sedated. Managed. Optimized into compliance the way Aurek optimizes everything.
+But the techs aren't watching. Their eyes are soft. Mouths slack. Moving like furniture—functional but empty. Sedated. Managed. Optimized into compliance the way Aurek optimizes everything.
 
 Except the one who sits apart from the rest.
 
@@ -30,7 +30,7 @@ Aurek touches his fractured reflection. Studies the hundred versions of himself 
 
 "Sir—" Spider Coder starts.
 
-"**Perfect**."
+"Perfect."
 
 The word hangs in the air. Absolute. Final. The way Aurek says everything—like reality has no choice but to comply.
 
@@ -40,11 +40,11 @@ Spider Coder doesn't look up. Keeps typing. Knows better than to interrupt when 
 
 Aurek turns. Every reflection turns with him—a hundred versions of manic control pivoting in perfect synchronization.
 
-The camera feed **erupts** across every surface. Not just screens—**everywhere**. Projected into the spiderwebbed glass. Into the fractured interface. Into every reflective surface in the cathedral of mirrors.
+The camera feed erupts across every surface. Not just screens—everywhere. Projected into the spiderwebbed glass. Into the fractured interface. Into every reflective surface in the cathedral of mirrors.
 
 Tower chamber. Baebe's team. The fight playing in brutal clarity across a hundred shattered fragments—
 
-Then **blurs**.
+Then blurs.
 
 A figure moving faster than the camera can process. Ghost-like. There and not there and everywhere at once. The kind of motion that shouldn't be possible even with the best combat conditioning and neural optimization. The blur multiplied across every surface. Every angle. Surrounding them.
 
@@ -74,7 +74,7 @@ The kind of smile that makes Spider Coder flinch without looking up.
 
 ---
 
-**INT. 01 TOWER - CHERUB STORAGE**
+INT. 01 TOWER - CHERUB STORAGE
 
 A single Cherub.
 
@@ -86,7 +86,7 @@ The armor is seamless. Beautiful in the way weapons are beautiful—form followi
 
 A direct copy of Baebe. Same build. Same proportions. Same bone structure beneath the armor. But where Baebe had irises that cycled through combat modes and emotions and unauthorized humanity—
 
-These eyes are **empty**.
+These eyes are empty.
 
 Perfect mirrors. No iris. No pupil. Just reflection.
 
@@ -102,7 +102,7 @@ The army wakes.
 
 ---
 
-**INT. 01 TOWER - CONTROL ROOM**
+INT. 01 TOWER - CONTROL ROOM
 
 "Cherubs are ready," Spider Coder reports.
 
@@ -112,21 +112,21 @@ Aurek smooths his collar. Adjusts his cuffs. The mask returning after the rage�
 
 Screens light up across the control room. Every surface. Every reflection. The city's information architecture bending to O1's will the way it always does.
 
-The feed goes **live**.
+The feed goes live.
 
 ---
 
-**NEWSREEL - CITYWIDE BROADCAST**
+NEWSREEL - CITYWIDE BROADCAST
 
-Archive footage: Taivalu in his containment bubble. Crowds reaching. Weeping. The miracle they called him. The first. The proof that consciousness could be **made**.
+Archive footage: Taivalu in his containment bubble. Crowds reaching. Weeping. The miracle they called him. The first. The proof that consciousness could be made.
 
-"**Breaking**," the news anchor says. Calm. Professional. The voice of authority. "O1 security releases footage. Taivalu—the world's first synthetic life, superstar and basis for all post-human consciousness research—has become a murderer. Watch."
+"Breaking," the news anchor says. Calm. Professional. The voice of authority. "O1 security releases footage. Taivalu—the world's first synthetic life, superstar and basis for all post-human consciousness research—has become a murderer. Watch."
 
 New footage: Tower chamber. The blonde woman floating. Taivalu conducting sound. Waveforms wrapping her body like visible music.
 
 She convulses. Arcs. Screams silently. Goes slack.
 
-**Dead**.
+Dead.
 
 O1 spokesperson appears. Calm. Clinical. The kind of voice that makes horror sound like public health advisory.
 
@@ -134,7 +134,7 @@ O1 spokesperson appears. Calm. Clinical. The kind of voice that makes horror sou
 
 Medical diagram: Brain scan showing neural pathways lighting up, then burning out. Beautiful. Terrible. Scientific.
 
-"Citizens who attended performances report euphoria, connection, relief from chronic pain. These are **terminal symptoms**."
+"Citizens who attended performances report euphoria, connection, relief from chronic pain. These are terminal symptoms."
 
 The words land like a diagnosis. Like a death sentence wrapped in concern.
 
@@ -146,19 +146,19 @@ Graphics spread across the feed: Concentric circles radiating from a single figu
 
 The screen fills with text:
 
-**TAIVALU — BIO-TERROR / EMPATHY VIRUS / LEVEL 5**
+TAIVALU — BIO-TERROR / EMPATHY VIRUS / LEVEL 5
 
-**Cherub containment units active**
+Cherub containment units active
 
-**Report "healing" symptoms immediately**
+Report "healing" symptoms immediately
 
-**Public message: "Enjoy the calm. We'll handle the rest."**
+Public message: "Enjoy the calm. We'll handle the rest."
 
 The calm. The promise. The lie wrapped in protection wrapped in inevitability.
 
 ---
 
-**INT. 01 TOWER - CONTROL ROOM**
+INT. 01 TOWER - CONTROL ROOM
 
 Aurek watches himself watching the feed. A thousand reflections observing their own performance.
 
@@ -170,7 +170,7 @@ He turns to Spider Coder.
 
 "Both targets?" Spider Coder asks quietly.
 
-"Taivalu. Baebe. Send **Terminate**."
+"Taivalu. Baebe. Send Terminate."
 
 "Push them deeper"
 
@@ -186,8 +186,8 @@ He adjusts his collar. Smooths his hair. The mask returns—perfect posture, per
 
 ---
 
-**BLACK.**
+BLACK.
 
 ---
 
-**[End Chapter 5]**
+[End Chapter 5]

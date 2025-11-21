@@ -1,0 +1,10 @@
+node_modules/
+venv/
+user-venv/
+dist/
+src/pcface.egg-info/
+__pycache__/
+doc/
+_site/
+package-lock.json
+pcface*.tgz

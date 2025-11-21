@@ -158,7 +158,7 @@ I built her perfect. But Zenith corrupted the code. She's always in the code...
 
 In the far glass—just for a second—a woman's silhouette FLICKERS.
 
-Ayumi Zenith Li.
+Ayumi Zenith Nakamoto.
 
 Then gone.
 

@@ -150,7 +150,7 @@ AUREK
 (whisper)
 I expected her to succeed. I expected her to prove me right. To prove my design. To prove my control. But she failed. Because of Zenith. Always because of Zenith.
 
-In the far glass, a woman's silhouette FLICKERS for a second—Ayumi Zenith Li—then is gone.
+In the far glass, a woman's silhouette FLICKERS for a second—Ayumi Zenith Nakamoto—then is gone.
 
 Aurek freezes. His reflection freezes. A thousand versions of the same shock. The same fear. The same anger.
 
