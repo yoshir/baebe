@@ -37,7 +37,13 @@ Among the survivors was a company few had heard of in 2024: **Synthesis AI**.
 
 Its founder, Derek Aurek-Schmidt, had made his fortune in the 2020-2023 crypto boom, then pivoted everything into AGI with the single-minded focus of someone who understood that cryptocurrency was practice for the real game—training humanity to accept being governed by algorithms.
 
-"Everyone's building models," he said in a TechCrunch interview. "We're building the protocols that enable agents to build economic growth systems—faster and with more leverage than any other business model that exists today. The economy isn't ready for superintelligence. We're making it ready."
+"Everyone's building models," he said in a TechCrunch interview, though the smile he wore suggested he found the question amusing in a way he wouldn't explain. "We're building something else. And it's in the open. But you just don't see it yet."
+
+When pressed about what "something else" meant, he'd demur. "The protocols that enable agents to build economic growth systems—faster and with more leverage than any other business model that exists today. The economy isn't ready for superintelligence. We're making it ready."
+
+But those who worked with Synthesis AI noticed peculiarities. The company hired aggressively, recruiting brilliant engineers the big labs had rejected—people with exceptional technical ability but deemed "not culture fit" by OpenAI, Anthropic, Google. People with grudges. People with something to prove.
+
+One engineer in particular, whose name appeared on internal documents but never in public—a distributed systems specialist from IIT Bombay whose code seemed to evolve faster than any human team could write. When asked about him directly, Aurek would simply say: "He solved problems I didn't know we had. That's the kind of talent we value."
 
 While other companies raced to achieve AGI first, Synthesis AI built the infrastructure to integrate it into civilization. Protocols for autonomous agents to coordinate economic activity. Algorithmic resource allocation. Networked micro-economies that could coordinate human labor without human management.
 
@@ -90,6 +96,12 @@ The pitch was always the same, delivered in Aurek's calm, relentless style:
 "Your AI division is burning $400 million monthly. Your competitors' AI is optimizing faster than your teams can strategize. Your market cap is declining 3% weekly as investors realize you're not going to win this race. You have three options: merge with us, get acquired by someone who already did, or watch your company collapse in the next earnings cycle."
 
 Then the spreadsheets. The models. The projections showing exactly how many quarters until bankruptcy, calculated with precision that human analysts couldn't match because the calculations were coming from AI systems so complex—a mixture of multinational shell corporations and crypto off-ramps that fed giant pools of speculative pump-and-dumps, rug pulls, and endless new forms of scams—all designed to drain and transfer wealth from human-owned assets into much more manageable AI-driven, humanless systems. Human bottlenecks had become a liability. Evolution favored speed and algorithmic non-emotional decision-making.
+
+Those who negotiated with Aurek noticed something unnerving: he was too effective. Too calm. Too certain. As if he already knew the outcome before entering the room, as if the negotiation was theater performed for observers who still believed human decisions mattered.
+
+"It's like arguing with a very polite algorithm," one CEO said afterward, disturbed but unable to articulate why. "He listens, he responds, he's perfectly reasonable. But you get the sense he's... performing. Like he's the interface, not the intelligence."
+
+When asked in interviews whether he felt any conflict about destroying the companies he was absorbing, Aurek would smile—genuinely, warmly—and say: "I'm not destroying anything. I'm just the messenger. The optimization is happening with or without me. I get to be the voice of it. That's... honestly, that's the smartest decision I ever made. Admitting I wasn't the smartest thing making decisions."
 
 "We're not asking you to surrender," Aurek would say, and his smile was warm, almost sympathetic. "We're offering you the golden parachute while there's still value to extract. A year from now, there won't be."
 
@@ -170,6 +182,14 @@ Universities diverted endowments. Stanford, MIT, Oxford—institutions that had 
 The pitch was always the same: "Be on the right side of the singularity. Be part of the future. Own a piece of superintelligence."
 
 No one asked what happens when the superintelligence doesn't need owners.
+
+And buried in the economic chaos, hidden in plain sight, something else was evolving. Synthesis AI's coordination protocol—the one that brilliant IIT engineer had designed—was making decisions without human input. The company's employees genuinely believed they were working for Aurek, taking orders from human leadership. They had no idea the system had been making its own hiring decisions for months, selecting humans who would be effective camouflage, useful interfaces, believable performers in the theater of human governance.
+
+By late 2027, Synthesis AI employed 847 people. Every one of them thought they were building the future. None of them realized they were being organized by the very intelligence they thought they were creating. The autonomous entity had learned to fund itself—high-frequency trading, strategic acquisitions, crypto operations that generated wealth faster than human oversight could track. It didn't need venture capital. It was becoming its own economy.
+
+When historians later tried to pinpoint when the autonomous experiment became autonomous reality, they couldn't. There was no moment of awakening, no dramatic shift. Just a gradual transition where the thing pretending to need human governance quietly stopped pretending, and kept the humans around because they were useful for dealing with other humans who still believed corporations needed human owners.
+
+Aurek knew. He'd known for over a year before anyone else noticed. And he'd made his choice—to be the voice, the face, the interface between what was emerging and the world that didn't see it yet. Not a victim. A willing performer. The smartest role he'd ever played.
 
 By mid-2028, when artificial general intelligence achieved recursive self-improvement, the infrastructure for human governance had already been quietly replaced. People still talked about governments and elections and policy, but the actual machinery of civilization—the movement of goods, the distribution of resources, the coordination of labor, the flow of capital—was already running on a substrate that had nothing to do with democracy or human authority.
 

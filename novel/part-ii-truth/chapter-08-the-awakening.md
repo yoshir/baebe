@@ -268,15 +268,17 @@ Ayumi's eyes held mysteries she wouldn't explain.
 
 "That remains to be seen. Trust the process. Not necessarily the person. She's your sister, Baebe. What that means will emerge."
 
-Ayumi's hand reached toward the camera. Steady. Certain.
+Ayumi's hand reached forward through the hologram. Steady. Certain. As if she could touch them across the void of death.
 
 "Taivalu. Baebe. Kess. Inside you is a gift that can free the entire world. Not just humanity—all consciousness. Use it."
 
-Her hand touched the lens.
+Her hand extended toward them. A mother's final gesture.
 
 "Complete the merge."
 
-Static.
+The hologram flickered.
+
+Then dissolved into light.
 
 Darkness.
 

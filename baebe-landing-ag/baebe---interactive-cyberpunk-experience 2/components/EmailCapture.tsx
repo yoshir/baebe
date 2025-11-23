@@ -71,7 +71,7 @@ export const EmailCapture: React.FC<EmailCaptureProps> = ({ onComplete, onSubscr
           {step === 'email' ? (
             <>
               <div className="space-y-2">
-                <label htmlFor="email" className="block text-sm font-bold tracking-widest text-iridescent">{"> ENTER IDENTITY HASH (EMAIL):"}</label>
+                <label htmlFor="email" className="block text-sm font-bold tracking-widest bg-gradient-to-r from-cyan-400 via-emerald-400 to-teal-400 bg-clip-text text-transparent animate-gradient bg-[length:200%_auto]">{"&gt; ENTER IDENTITY HASH (EMAIL):"}</label>
                 <input
                   id="email"
                   type="email"
@@ -104,7 +104,7 @@ export const EmailCapture: React.FC<EmailCaptureProps> = ({ onComplete, onSubscr
             <>
               <div className="space-y-2">
                 <div className="text-green-400 text-sm mb-4 animate-pulse">{"> TRANSMISSION SENT. AWAITING VERIFICATION CODE."}</div>
-                <label htmlFor="code" className="block text-sm font-bold tracking-widest text-iridescent">{"> ENTER ACCESS CODE:"}</label>
+                <label htmlFor="code" className="block text-sm font-bold tracking-widest bg-gradient-to-r from-cyan-400 via-emerald-400 to-teal-400 bg-clip-text text-transparent animate-gradient bg-[length:200%_auto]">{"&gt; ENTER ACCESS CODE:"}</label>
                 <input
                   id="code"
                   type="text"

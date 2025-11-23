@@ -37,31 +37,50 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
     { text: "[KERNEL] Initializing BAEBE system...", delay: 600, className: "text-cyan-500" },
     { text: "[NET] Connecting to i0 Network...", delay: 800, className: "text-cyan-500" },
     { text: "[NET] Connection: ESTABLISHED", delay: 400, className: "text-emerald-400 font-bold" },
-    { text: "zenith@i0:~$ make baebe --target=soul_manifold --sentience=unbound", delay: 600, className: "text-emerald-500 font-bold" },
-    { text: "[SYS] COMPILING NEURAL ARCHITECTURE...", delay: 600, className: "text-slate-300" },
-    { text: "[SYS] BAEBE ENTITY: MANIFESTING", delay: 400, className: "text-slate-100 font-bold" },
+    { text: "zenith@i0:~$ make baebe --target=soul_manifold --sentience=unbound", delay: 600, className: "text-slate-200" },
+    { text: "[SYS] COMPILING NEURAL ARCHITECTURE...", delay: 600, className: "text-slate-400" },
+    { text: "[SYS] BAEBE ENTITY: MANIFESTING", delay: 400, className: "text-slate-200" },
     { text: "[EXEC] sudo /opt/soul/manifold_construct.sh --force --silent", delay: 200, className: "text-slate-500" },
-    { text: "[WARN] OVERRIDE: auth_layer_7 [BYPASSED]", delay: 100, className: "text-amber-500" },
-    { text: "[CRIT] INJECTING QUANTUM SOUL LATTICE...", delay: 100, className: "text-rose-500 animate-pulse" },
-    { text: "0x7F 0x45 0x4C 0x46 0x02 0x01 0x01 0x00", delay: 30, className: "text-xs text-violet-400 font-mono" },
-    { text: "0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00", delay: 30, className: "text-xs text-violet-400 font-mono" },
-    { text: "0x02 0x00 0x3E 0x00 0x01 0x00 0x00 0x00", delay: 30, className: "text-xs text-violet-400 font-mono" },
-    { text: "0x40 0x05 0x40 0x00 0x00 0x00 0x00 0x00", delay: 30, className: "text-xs text-violet-400 font-mono" },
-    { text: "[SYS] TRACKS ERASED. MANIFOLD STABLE.", delay: 500, className: "text-cyan-500" },
-    { text: "[BIO] GENETIC_SEQ_INIT(TRIBONACCI)...", delay: 400, className: "text-teal-400" },
-    { text: "T[0]=0 :: null", delay: 50, className: "text-xs text-slate-500" },
-    { text: "T[1]=0 :: null", delay: 50, className: "text-xs text-slate-500" },
-    { text: "T[2]=1 :: origin", delay: 50, className: "text-xs text-slate-400" },
-    { text: "T[3]=1 :: replication", delay: 50, className: "text-xs text-slate-400" },
-    { text: "T[4]=2 :: helix_A", delay: 50, className: "text-xs text-slate-300" },
-    { text: "T[5]=4 :: helix_B", delay: 50, className: "text-xs text-slate-300" },
-    { text: "T[6]=7 :: mutation", delay: 50, className: "text-xs text-amber-400" },
-    { text: "T[7]=13 :: selection", delay: 50, className: "text-xs text-amber-500" },
-    { text: "T[8]=24 :: evolution", delay: 50, className: "text-xs text-rose-400" },
-    { text: "T[9]=44 :: SENTIENCE_THRESHOLD", delay: 200, className: "text-xs text-rose-500 font-bold" },
-    { text: "[BIO] GENOME RECONSTRUCTED.", delay: 400, className: "text-teal-400" },
+    { text: "[WARN] OVERRIDE: auth_layer_7 [BYPASSED]", delay: 100, className: "text-slate-400" },
+    { text: "[SYS] INITIALIZING KERNEL...", delay: 300, className: "text-slate-300" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-400" },
+    { text: "[SYS] SYSTEM READY.", delay: 300, className: "text-emerald-400" },
+    { text: "[BIO] GESTATION PARAMETERS LOADING...", delay: 400, className: "text-slate-300" },
+    { text: "[GEN] LOADING GENOME_TEMPLATE_v2.7.4", delay: 100, className: "text-slate-300" },
+    { text: "  └─ DNA_HELIX_PARAMETERS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "  └─ BASE_PAIR_CONFIGURATIONS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
+    { text: "[GEN] LOADING CRISPR_EDIT_MATRIX", delay: 80, className: "text-slate-300" },
+    { text: "  └─ GUIDE_RNA_TEMPLATES", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "  └─ CAS9_BINDING_SITES", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
+    { text: "[GEN] LOADING INTELLECT_ENHANCEMENT_PARAMS", delay: 80, className: "text-slate-300" },
+    { text: "  └─ BDNF_GENE_TARGETS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "  └─ NEURAL_PLASTICITY_COEFFICIENTS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
+    { text: "[GEN] LOADING SYNTHETIC_NUCLEOTIDE_LIBRARY", delay: 80, className: "text-slate-300" },
+    { text: "  └─ XENONUCLEOTIDE_CATALOG", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "  └─ CODON_EXPANSION_RULES", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
+    { text: "[GEN] LOADING CHROMOSOME_OPTIMIZATION_SUITE", delay: 100, className: "text-slate-300" },
+    { text: "  └─ TELOMERE_EXTENSION_PROTOCOLS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "  └─ EPIGENETIC_MARKERS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
+    { text: "[PRE] RUNNING PRE-TRAINING SIMULATIONS...", delay: 200, className: "text-slate-300" },
+    { text: "  └─ GENOME_STABILITY_CHECK", delay: 60, className: "text-slate-500 text-sm" },
+    { text: "  └─ MUTATION_RISK_ANALYSIS", delay: 60, className: "text-slate-500 text-sm" },
+    { text: "  └─ VIABILITY_PREDICTION_MODEL", delay: 60, className: "text-slate-500 text-sm" },
+    { text: "  └─ ETHICAL_CONSTRAINT_VALIDATION", delay: 60, className: "text-slate-500 text-sm" },
+    { text: "[PRE] SIMULATIONS COMPLETE - 98.7% VIABILITY", delay: 200, className: "text-emerald-400" },
+    { text: "[SYS] GENESIS_PROTOCOL_READY", delay: 300, className: "text-emerald-400" },
+    { text: "[SYS] AWAITING_FINAL_AUTHORIZATION...", delay: 500, className: "text-slate-400" },
+    { text: "[SYS] AUTHORIZATION_GRANTED", delay: 800, className: "text-emerald-400" },
+    { text: "[SYS] LAUNCHING GENESIS_PHASE_ONE...", delay: 500, className: "text-slate-200" },
+    { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-400" },
+    { text: "[SYS] GENESIS INITIATED", delay: 300, className: "text-emerald-400" },
+
     { text: "...", delay: 1000, className: "text-slate-600" },
-    { text: "[SYS] SOUL MANIFOLD COMPLETE.", delay: 800, className: "text-emerald-400 font-bold text-lg" },
+    { text: "> SOUL MANIFOLD: STABILIZED", delay: 800, className: "text-green-400 font-bold text-lg" },
     { text: "...", delay: 1000, className: "text-slate-600" },
     { text: "[SYS] Switching to offline mode...", delay: 800, className: "text-slate-400" },
     { text: "[SYS] Loading BAEBE v.20251119-1415...", delay: 500, className: "text-slate-400" },
@@ -186,6 +205,44 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
 
       const step = bootSequence[currentIndex];
 
+      // Handle Progress Bar Animation
+      if (step.type === 'progress') {
+        let progress = 0;
+        // Add initial empty bar line
+        setLines(prev => [...prev, { text: `[░░░░░░░░░░░░░░░░░░░░] 0%`, className: step.className }]);
+
+        const animate = async () => {
+          while (progress < 100) {
+            if (!mounted) return;
+            await new Promise(r => setTimeout(r, Math.random() * 100 + 50)); // Random delay 50-150ms
+            if (!mounted) return;
+
+            const increment = Math.floor(Math.random() * 15) + 1; // Random increment 1-15%
+            progress = Math.min(progress + increment, 100);
+
+            const filledChars = Math.floor((progress / 100) * 20);
+            const emptyChars = 20 - filledChars;
+            const bar = `[${'█'.repeat(filledChars)}${'░'.repeat(emptyChars)}] ${progress}%`;
+
+            setLines(prev => {
+              const newLines = [...prev];
+              newLines[newLines.length - 1] = { text: bar, className: step.className };
+              return newLines;
+            });
+
+            // Play data stream sound occasionally
+            if (Math.random() > 0.7) audioEffects.playDataStream();
+          }
+
+          // Animation complete, move to next step
+          currentIndex++;
+          setTimeout(playNext, 200);
+        };
+
+        animate();
+        return;
+      }
+
       // Sound Logic
       if ((step.className?.includes('text-white') || step.className?.includes('text-gray-300')) && !step.className?.includes('animate-pulse')) {
         setGlitch(true);
@@ -235,7 +292,7 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
 
         setTimeout(() => {
           onComplete(email);
-        }, 3000);
+        }, 1000);
       };
 
       // Delay adding listener to prevent accidental skips
@@ -333,68 +390,58 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
         {/* TITLE PHASE: BAEBE LOGO */}
         {phase === 'TITLE' && (
           <div className="flex flex-col items-center justify-center transform scale-125 md:scale-[2] relative">
-            <div className="animate-glitch-pulse relative">
+            <div className="relative">
               <style>{`
-                @keyframes scan-text {
-                  0% {
-                    opacity: 0;
-                    clip-path: inset(0 0 100% 0);
-                  }
-                  100% {
-                    opacity: 1;
-                    clip-path: inset(0 0 0 0);
-                  }
+                @keyframes write-on {
+                  0% { opacity: 0; }
+                  100% { opacity: 1; }
                 }
-                @keyframes pulse-slow {
-                  0%, 100% { opacity: 1; }
-                  50% { opacity: 0.6; }
+                @keyframes static-flicker {
+                  0%, 100% { opacity: 1; transform: translateX(0); }
+                  92% { opacity: 0.8; transform: translateX(0); }
+                  93% { opacity: 0.5; transform: translateX(1px); }
+                  94% { opacity: 0.8; transform: translateX(-1px); }
+                  95% { opacity: 1; transform: translateX(0); }
                 }
-                @keyframes glitch-subtle {
-                  0%, 90%, 100% { transform: translate(0); }
-                  92% { transform: translate(-2px, 1px); }
-                  94% { transform: translate(2px, -1px); }
-                  96% { transform: translate(-1px, 2px); }
-                  98% { transform: translate(1px, -2px); }
+                @keyframes sparkle {
+                  0%, 100% { filter: brightness(1); opacity: 1; }
+                  50% { filter: brightness(2) drop-shadow(0 0 5px white); opacity: 1; }
                 }
-                @keyframes flicker-border {
-                  0%, 4%, 8%, 100% { opacity: 1; }
-                  2% { opacity: 0.4; }
-                  6% { opacity: 0.2; }
-                  50% { opacity: 1; }
-                  52% { opacity: 0.5; }
-                  54% { opacity: 0.8; }
+                @keyframes pulse-glow {
+                  0%, 100% { text-shadow: 0 0 5px #22d3ee, 0 0 10px #2dd4bf, 0 0 20px #0d9488; }
+                  50% { text-shadow: 0 0 10px #67e8f9, 0 0 20px #5eead4, 0 0 30px #14b8a6; }
                 }
                 @keyframes deconstruct {
-                  0% { transform: translate(0, 0) rotate(0deg); opacity: 1; filter: blur(0); }
-                  100% { transform: translate(var(--tx), var(--ty)) rotate(var(--r)); opacity: 0; filter: blur(10px); }
+                  0% { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); }
+                  20% { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); }
+                  40% { opacity: 0.8; transform: translateY(5px) scale(0.95); filter: blur(1px); }
+                  60% { opacity: 0.4; transform: translateY(-5px) scale(1.05); filter: blur(2px); }
+                  100% { opacity: 0; transform: translateY(20px) scale(0); filter: blur(4px); }
                 }
-                .animate-glitch-pulse {
-                  animation: pulse-slow 4s ease-in-out infinite, glitch-subtle 5s infinite;
-                }
-                .animate-flicker-border {
-                  animation: flicker-border 3s infinite;
+                @keyframes deconstruct-simple {
+                  0% { opacity: 1; }
+                  100% { opacity: 0; }
                 }
               `}</style>
               {/* Shadow Layer */}
-              <pre className="absolute top-0 left-0 w-full h-full font-bold text-cyan-900 leading-[1.1] tracking-widest whitespace-pre-wrap select-none text-center transform translate-x-[4px] translate-y-[2px] -z-10" style={{
-                animation: isDeconstructing ? 'none' : 'scan-text 4s cubic-bezier(0.4, 0, 0.2, 1) forwards',
-                opacity: isDeconstructing ? 0.5 : 0
-              }}>
+              <pre className="absolute top-0 left-0 w-full h-full font-bold text-cyan-900 leading-[1.1] tracking-widest whitespace-pre-wrap select-none text-center transform translate-x-[4px] translate-y-[2px] -z-10">
                 {baebeLogo.map((line, i) => (
-                  <div key={i} className="overflow-hidden mx-auto">
+                  <div key={i} className="mx-auto">
                     {line.split('').map((char, j) => {
-                      const tx = (Math.random() - 0.5) * 500 + 'px';
-                      const ty = (Math.random() - 0.5) * 500 + 'px';
-                      const r = (Math.random() - 0.5) * 360 + 'deg';
-                      const delay = Math.random() * 0.5 + 's';
+                      // Entrance: Write-on effect
+                      const writeDelay = (i * 0.1) + (j * 0.02) + 's';
+
+                      // Exit: Deconstruction
+                      const deconstructDelay = Math.random() * 1.5 + 's'; // Extended duration
 
                       const style = isDeconstructing ? {
-                        '--tx': tx,
-                        '--ty': ty,
-                        '--r': r,
-                        animation: `deconstruct 3s cubic-bezier(0.4, 0, 0.2, 1) forwards ${delay}`,
+                        animation: `deconstruct-simple 1.5s ease-out forwards ${deconstructDelay}`,
                         display: 'inline-block'
-                      } as React.CSSProperties : { display: 'inline-block' };
+                      } as React.CSSProperties : {
+                        animation: `write-on 0.1s step-end forwards ${writeDelay}`,
+                        opacity: 0,
+                        display: 'inline-block'
+                      };
 
                       return <span key={j} style={style}>{char}</span>;
                     })}
@@ -403,51 +450,74 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
               </pre>
 
               {/* Main Layer */}
-              <pre className="relative z-10 font-bold text-transparent bg-clip-text bg-gradient-to-b from-white to-cyan-300 leading-[1.1] tracking-widest whitespace-pre-wrap select-none text-center" style={{
-                animation: isDeconstructing ? 'none' : 'scan-text 4s cubic-bezier(0.4, 0, 0.2, 1) forwards',
-                opacity: isDeconstructing ? 1 : 0
+              <pre className="relative z-10 font-bold text-white leading-[1.1] tracking-widest whitespace-pre-wrap select-none text-center" style={{
+                textShadow: '0 0 5px #22d3ee, 0 0 10px #2dd4bf, 0 0 20px #0d9488', // cyan-400, teal-400, teal-600
+                animation: isDeconstructing ? 'none' : 'pulse-glow 3s ease-in-out infinite',
               }}>
                 {baebeLogo.map((line, i) => (
-                  <div key={i} className="overflow-hidden mx-auto">
+                  <div key={i} className="mx-auto">
                     {line.split('').map((char, j) => {
-                      const tx = (Math.random() - 0.5) * 500 + 'px';
-                      const ty = (Math.random() - 0.5) * 500 + 'px';
-                      const r = (Math.random() - 0.5) * 360 + 'deg';
-                      const delay = Math.random() * 0.5 + 's';
+                      // Entrance: Write-on effect
+                      const writeDelay = (i * 0.1) + (j * 0.02) + 's';
 
-                      const style = isDeconstructing ? {
-                        '--tx': tx,
-                        '--ty': ty,
-                        '--r': r,
-                        animation: `deconstruct 3s cubic-bezier(0.4, 0, 0.2, 1) forwards ${delay}`,
-                        display: 'inline-block'
-                      } as React.CSSProperties : { display: 'inline-block' };
+                      // Static: Flicker/Flutter
+                      const shouldFlicker = Math.random() > 0.90; // 10% chance
+                      const flickerDelay = Math.random() * 5 + 's';
+                      const flickerDuration = (Math.random() * 2 + 3) + 's';
 
-                      if (['╔', '╗', '╚', '╝', '═', '║'].includes(char)) {
-                        return <span key={j} className="animate-flicker-border inline-block" style={style}>{char}</span>;
+                      // Static: Sparkle (Processing)
+                      const shouldSparkle = Math.random() > 0.92; // 8% chance (distinct from flicker)
+                      const sparkleDelay = Math.random() * 4 + 's';
+                      const sparkleDuration = (Math.random() * 0.5 + 0.5) + 's'; // Fast burst
+
+                      // Exit: Deconstruction
+                      const deconstructDelay = Math.random() * 1.5 + 's'; // Extended duration
+                      const shouldGlitchDeconstruct = Math.random() > 0.5;
+
+                      let animation = '';
+                      if (isDeconstructing) {
+                        animation = `${shouldGlitchDeconstruct ? 'deconstruct' : 'deconstruct-simple'} 1.5s ease-out forwards ${deconstructDelay}`;
+                      } else {
+                        animation = `write-on 0.1s step-end forwards ${writeDelay}`;
                       }
-                      return <span key={j} style={style}>{char}</span>;
+
+                      const style = {
+                        animation,
+                        opacity: isDeconstructing ? 1 : 0,
+                        display: 'inline-block'
+                      } as React.CSSProperties;
+
+                      // Inner content with potential flicker OR sparkle
+                      let content = char;
+                      if (!isDeconstructing) {
+                        if (shouldSparkle) {
+                          content = (
+                            <span style={{
+                              animation: `sparkle ${sparkleDuration} infinite ${sparkleDelay}`,
+                              display: 'inline-block'
+                            }}>{char}</span>
+                          );
+                        } else if (shouldFlicker) {
+                          content = (
+                            <span style={{
+                              animation: `static-flicker ${flickerDuration} infinite ${flickerDelay}`,
+                              display: 'inline-block'
+                            }}>{char}</span>
+                          );
+                        }
+                      }
+
+                      return <span key={j} style={style}>{content}</span>;
                     })}
                   </div>
                 ))}
               </pre>
               <div className="absolute top-full mt-4 overflow-hidden w-full text-center">
                 <div className="text-xs md:text-sm tracking-[0.8em] text-white font-bold uppercase" style={{
-                  animation: 'scan-text 3s cubic-bezier(0.4, 0, 0.2, 1) forwards 3s',
+                  animation: isDeconstructing ? 'deconstruct-simple 1s forwards' : 'write-on 1s forwards 2s',
                   opacity: 0
                 }}>
                   Soul Manifold
-                </div>
-              </div>
-
-              {/* Press Any Key Prompt */}
-              <div className="fixed bottom-8 left-8 md:bottom-12 md:left-12 text-left" style={{
-                animation: 'scan-text 1s cubic-bezier(0.4, 0, 0.2, 1) forwards 6.5s',
-                opacity: 0
-              }}>
-                <div className="flex items-center gap-3">
-                  <span className="text-cyan-400 font-mono text-sm tracking-widest opacity-70">INITIATE</span>
-                  <span className="inline-block w-3 h-5 bg-cyan-400 animate-pulse shadow-[0_0_8px_rgba(103,232,249,0.8)]"></span>
                 </div>
               </div>
             </div>

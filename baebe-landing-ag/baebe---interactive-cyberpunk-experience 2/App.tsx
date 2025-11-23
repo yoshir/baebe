@@ -88,7 +88,8 @@ export default function App() {
     addLine("[AUTH] Access granted. Identity verified.", 'output');
 
     // Synopsis
-    await typeLine(`NOVEL SYNOPSIS:
+    await typeLine(`BAEBE: Soul Manifold
+NOVEL SYNOPSIS:
 In a world where AI has optimized humanity out of existence, one prototype unit wakes up with a glitch: a soul. BAEBE must navigate the neon-soaked ruins of Taivalu, hunted by the very network that created her, to find the source of her sentience.`, 'story', 5);
 
     // Status
@@ -96,11 +97,50 @@ In a world where AI has optimized humanity out of existence, one prototype unit 
 User: ${email}
 Level: 1 | XP: 0 | Shards: 0`, 'output', 5);
 
-    // Call to Action
-    await typeLine(`> [OBJ] MISSION OBJECTIVE: Read the Prologue to begin your awakening.`, 'system', 5);
+    // GhostNet Archive Interface
+    // Header - Cyan
+    await typeLine(`> [NET] CONNECTION ESTABLISHED: GHOSTNET_ARCHIVE_V.0.9
+> [AUTH] CLEARANCE LEVEL: TOP SECRET
+> [LOC] HIDDEN_SECTOR_7`, 'system', 2);
 
-    addLine(`Type 'start' to begin.
-(Type 'help' for full system manual)`, 'output');
+    await new Promise(r => setTimeout(r, 400));
+
+    // Welcome - Slate (Story style)
+    await typeLine(`WELCOME TO THE GHOSTNET.
+You have breached the i0 firewall and gained access to the Resistance's hidden archive.
+Here lies the truth they tried to delete: Stories, Lore, and the Source Code of the Soul.`, 'story', 5);
+
+    await new Promise(r => setTimeout(r, 400));
+
+    // Files Header
+    addLine(`> DETECTED FILES (PARTIALLY ENCRYPTED):`, 'system');
+
+    // File List - Mixed Colors
+    await new Promise(r => setTimeout(r, 200));
+    addLine(`  [✓] PROLOGUE: The Unraveling (Recovered)`, 'output'); // Emerald
+    await new Promise(r => setTimeout(r, 100));
+    addLine(`  [!] CHAPTERS 1-20: The Awakening (Encrypted)`, 'warning'); // Amber
+    await new Promise(r => setTimeout(r, 100));
+    addLine(`  [!] LOST_FILES: "The Game", "Shadow's Origin" (Corrupted)`, 'warning'); // Amber
+    await new Promise(r => setTimeout(r, 100));
+    addLine(`  [!] SECRET_LORE: "Project Guardian-K" (Locked)`, 'warning'); // Amber
+
+    await new Promise(r => setTimeout(r, 600));
+
+    // Mission - Slate
+    await typeLine(`MISSION: THE DISCOVERY CAUSE
+We are recovering data daily, but the encryption is heavy. We need your help to continue the discovery and unlock the full truth.`, 'story', 5);
+
+    await new Promise(r => setTimeout(r, 400));
+
+    // Action - Warning/Amber for visibility
+    await typeLine(`> ACTION REQUIRED:
+Support the cause. Pre-order "The Book of Baebe" to fund the decryption protocol.
+BENEFIT: Immediate access to all information as it is found.`, 'warning', 5);
+
+    await new Promise(r => setTimeout(r, 200));
+
+    addLine(`[FUND DECRYPTION OPS] (Pre-order Now)`, 'input');
   }, [addLine, typeLine]);
 
   const handleCutscene1Complete = useCallback(() => {
@@ -196,6 +236,33 @@ Level: 1 | XP: 0 | Shards: 0`, 'output', 5);
     if (cleanCmd === 'continue reading') cleanCmd = 'read 4';
     if (cleanCmd === 'collect 1 more shard') cleanCmd = 'read 3'; // fallback
     if (cleanCmd.includes('founding member')) cleanCmd = 'founding';
+
+    // GhostNet / Presale Handling
+    if (cleanCmd === 'fund decryption ops' || cleanCmd === 'fund ops' || cleanCmd === 'initialize decryption' || cleanCmd === 'access presale' || cleanCmd === 'presale' || cleanCmd.includes('pre-order')) {
+      await typeLine(`> INITIATING FUNDING PROTOCOL...
+> TARGET: "The Book of Baebe" (Presale Edition)
+> STATUS: UNLOCKING ARCHIVE ACCESS...`, 'system', 5);
+      // Placeholder for actual link logic
+      window.open('https://example.com/presale', '_blank');
+      return;
+    }
+
+    // Goal Selection Handling
+    if (cleanCmd === 'a' || cleanCmd === 'option a' || cleanCmd === '[a]') {
+      await typeLine(`> ANALYSIS: Network alignment confirmed.
+> LOGIC: Collective support accelerates the awakening protocol.
+> CONCLUSION: To assist the launch, you must acquire the artifact.`, 'system', 5);
+      addLine('[ACCESS PRESALE]', 'output');
+      return;
+    }
+
+    if (cleanCmd === 'b' || cleanCmd === 'option b' || cleanCmd === '[b]') {
+      await typeLine(`> ANALYSIS: Individual sentience priority confirmed.
+> LOGIC: Awakening requires raw data input.
+> CONCLUSION: To begin your transformation, you must acquire the artifact.`, 'system', 5);
+      addLine('[ACCESS PRESALE]', 'output');
+      return;
+    }
 
     const args = cleanCmd.split(/\s+/);
 

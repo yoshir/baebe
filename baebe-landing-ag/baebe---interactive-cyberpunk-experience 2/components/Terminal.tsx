@@ -78,7 +78,7 @@ export const Terminal: React.FC<TerminalProps> = ({ user, onCommand, lines, isTy
           const getLineStyle = (type: string) => {
             switch (type) {
               case 'error': return 'text-rose-500 font-bold bg-rose-900/10 border-l-2 border-rose-500 pl-2';
-              case 'input': return 'text-slate-500 mt-2';
+              case 'input': return 'text-slate-200 mt-2';
               case 'story': return 'text-slate-100 leading-loose py-2 max-w-3xl border-l-2 border-slate-700 pl-4 my-2';
               case 'system': return 'text-cyan-500 font-bold mt-1';
               case 'warning': return 'text-amber-500';
@@ -88,7 +88,7 @@ export const Terminal: React.FC<TerminalProps> = ({ user, onCommand, lines, isTy
 
           return (
             <div key={line.id} className={`${getLineStyle(line.type)} break-words`}>
-              {line.type === 'input' && <span className="mr-2 text-slate-600">zenith@i0:~$</span>}
+              {line.type === 'input' && <span className="mr-2 bg-gradient-to-r from-cyan-400 via-emerald-400 to-teal-400 bg-clip-text text-transparent animate-gradient bg-[length:200%_auto] font-bold">zenith@i0:~$</span>}
               <span className="whitespace-pre-wrap">
                 {line.type === 'input' || line.type === 'story' ? line.text : renderText(line.text)}
               </span>
@@ -102,7 +102,7 @@ export const Terminal: React.FC<TerminalProps> = ({ user, onCommand, lines, isTy
       <div className="border-t border-gray-800 pt-2 bg-black z-10">
         <form onSubmit={handleSubmit} className="flex items-center">
           <div className="flex items-center">
-            <span className="text-green-400 mr-2">zenith@i0:~$</span>
+            <span className="mr-2 bg-gradient-to-r from-cyan-400 via-emerald-400 to-teal-400 bg-clip-text text-transparent animate-gradient bg-[length:200%_auto] font-bold">zenith@i0:~$</span>
           </div>
           <input
             ref={inputRef}
