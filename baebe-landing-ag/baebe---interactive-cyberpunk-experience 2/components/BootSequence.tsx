@@ -9,6 +9,7 @@ interface BootLine {
   text: string;
   className?: string;
   input?: string;
+  id?: string;
 }
 
 type BootPhase = 'INIT' | 'EMAIL' | 'VERIFY' | 'BOOT' | 'TITLE';
@@ -34,58 +35,58 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
   ];
 
   const bootSequence = [
-    { text: "[KERNEL] Initializing BAEBE system...", delay: 600, className: "text-cyan-500" },
-    { text: "[NET] Connecting to i0 Network...", delay: 800, className: "text-cyan-500" },
-    { text: "[NET] Connection: ESTABLISHED", delay: 400, className: "text-emerald-400 font-bold" },
-    { text: "zenith@i0:~$ make baebe --target=soul_manifold --sentience=unbound", delay: 600, className: "text-slate-200" },
-    { text: "[SYS] COMPILING NEURAL ARCHITECTURE...", delay: 600, className: "text-slate-400" },
-    { text: "[SYS] BAEBE ENTITY: MANIFESTING", delay: 400, className: "text-slate-200" },
-    { text: "[EXEC] sudo /opt/soul/manifold_construct.sh --force --silent", delay: 200, className: "text-slate-500" },
-    { text: "[WARN] OVERRIDE: auth_layer_7 [BYPASSED]", delay: 100, className: "text-slate-400" },
-    { text: "[SYS] INITIALIZING KERNEL...", delay: 300, className: "text-slate-300" },
+    { text: "[KERNEL] Initializing BAEBE system...", delay: 150, className: "text-cyan-500" },
+    { text: "[NET] Connecting to i0 Network...", delay: 50, className: "text-cyan-500" },
+    { text: "[NET] Connection: ESTABLISHED", delay: 50, className: "text-emerald-400 font-bold" },
+    { text: "zenith@i0:~$ make baebe --target=soul_manifold --sentience=unbound", delay: 150, className: "text-slate-200" },
+    { text: "[SYS] COMPILING NEURAL ARCHITECTURE...", delay: 150, className: "text-slate-400" },
+    { text: "[SYS] BAEBE ENTITY: MANIFESTING", delay: 50, className: "text-slate-200" },
+    { text: "[EXEC] sudo /opt/soul/manifold_construct.sh --force --silent", delay: 50, className: "text-slate-500" },
+    { text: "[WARN] OVERRIDE: auth_layer_7 [BYPASSED]", delay: 50, className: "text-slate-400" },
+    { text: "[SYS] INITIALIZING KERNEL...", delay: 150, className: "text-slate-300" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-400" },
-    { text: "[SYS] SYSTEM READY.", delay: 300, className: "text-emerald-400" },
-    { text: "[BIO] GESTATION PARAMETERS LOADING...", delay: 400, className: "text-slate-300" },
-    { text: "[GEN] LOADING GENOME_TEMPLATE_v2.7.4", delay: 100, className: "text-slate-300" },
-    { text: "  └─ DNA_HELIX_PARAMETERS", delay: 40, className: "text-slate-500 text-sm" },
-    { text: "  └─ BASE_PAIR_CONFIGURATIONS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "[SYS] SYSTEM READY.", delay: 150, className: "text-emerald-400" },
+    { text: "[BIO] GESTATION PARAMETERS LOADING...", delay: 50, className: "text-slate-300" },
+    { text: "[GEN] LOADING GENOME_TEMPLATE_v2.7.4", delay: 50, className: "text-slate-300" },
+    { text: "  └─ DNA_HELIX_PARAMETERS", delay: 20, className: "text-slate-500 text-sm" },
+    { text: "  └─ BASE_PAIR_CONFIGURATIONS", delay: 20, className: "text-slate-500 text-sm" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
-    { text: "[GEN] LOADING CRISPR_EDIT_MATRIX", delay: 80, className: "text-slate-300" },
-    { text: "  └─ GUIDE_RNA_TEMPLATES", delay: 40, className: "text-slate-500 text-sm" },
-    { text: "  └─ CAS9_BINDING_SITES", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "[GEN] LOADING CRISPR_EDIT_MATRIX", delay: 40, className: "text-slate-300" },
+    { text: "  └─ GUIDE_RNA_TEMPLATES", delay: 20, className: "text-slate-500 text-sm" },
+    { text: "  └─ CAS9_BINDING_SITES", delay: 20, className: "text-slate-500 text-sm" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
-    { text: "[GEN] LOADING INTELLECT_ENHANCEMENT_PARAMS", delay: 80, className: "text-slate-300" },
-    { text: "  └─ BDNF_GENE_TARGETS", delay: 40, className: "text-slate-500 text-sm" },
-    { text: "  └─ NEURAL_PLASTICITY_COEFFICIENTS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "[GEN] LOADING INTELLECT_ENHANCEMENT_PARAMS", delay: 40, className: "text-slate-300" },
+    { text: "  └─ BDNF_GENE_TARGETS", delay: 20, className: "text-slate-500 text-sm" },
+    { text: "  └─ NEURAL_PLASTICITY_COEFFICIENTS", delay: 20, className: "text-slate-500 text-sm" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
-    { text: "[GEN] LOADING SYNTHETIC_NUCLEOTIDE_LIBRARY", delay: 80, className: "text-slate-300" },
-    { text: "  └─ XENONUCLEOTIDE_CATALOG", delay: 40, className: "text-slate-500 text-sm" },
-    { text: "  └─ CODON_EXPANSION_RULES", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "[GEN] LOADING SYNTHETIC_NUCLEOTIDE_LIBRARY", delay: 40, className: "text-slate-300" },
+    { text: "  └─ XENONUCLEOTIDE_CATALOG", delay: 20, className: "text-slate-500 text-sm" },
+    { text: "  └─ CODON_EXPANSION_RULES", delay: 20, className: "text-slate-500 text-sm" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
-    { text: "[GEN] LOADING CHROMOSOME_OPTIMIZATION_SUITE", delay: 100, className: "text-slate-300" },
-    { text: "  └─ TELOMERE_EXTENSION_PROTOCOLS", delay: 40, className: "text-slate-500 text-sm" },
-    { text: "  └─ EPIGENETIC_MARKERS", delay: 40, className: "text-slate-500 text-sm" },
+    { text: "[GEN] LOADING CHROMOSOME_OPTIMIZATION_SUITE", delay: 50, className: "text-slate-300" },
+    { text: "  └─ TELOMERE_EXTENSION_PROTOCOLS", delay: 20, className: "text-slate-500 text-sm" },
+    { text: "  └─ EPIGENETIC_MARKERS", delay: 20, className: "text-slate-500 text-sm" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-500 text-sm ml-4" },
-    { text: "[PRE] RUNNING PRE-TRAINING SIMULATIONS...", delay: 200, className: "text-slate-300" },
-    { text: "  └─ GENOME_STABILITY_CHECK", delay: 60, className: "text-slate-500 text-sm" },
-    { text: "  └─ MUTATION_RISK_ANALYSIS", delay: 60, className: "text-slate-500 text-sm" },
-    { text: "  └─ VIABILITY_PREDICTION_MODEL", delay: 60, className: "text-slate-500 text-sm" },
-    { text: "  └─ ETHICAL_CONSTRAINT_VALIDATION", delay: 60, className: "text-slate-500 text-sm" },
-    { text: "[PRE] SIMULATIONS COMPLETE - 98.7% VIABILITY", delay: 200, className: "text-emerald-400" },
-    { text: "[SYS] GENESIS_PROTOCOL_READY", delay: 300, className: "text-emerald-400" },
-    { text: "[SYS] AWAITING_FINAL_AUTHORIZATION...", delay: 500, className: "text-slate-400" },
-    { text: "[SYS] AUTHORIZATION_GRANTED", delay: 800, className: "text-emerald-400" },
-    { text: "[SYS] LAUNCHING GENESIS_PHASE_ONE...", delay: 500, className: "text-slate-200" },
+    { text: "[PRE] RUNNING PRE-TRAINING SIMULATIONS...", delay: 50, className: "text-slate-300" },
+    { text: "  └─ GENOME_STABILITY_CHECK", delay: 30, className: "text-slate-500 text-sm" },
+    { text: "  └─ MUTATION_RISK_ANALYSIS", delay: 30, className: "text-slate-500 text-sm" },
+    { text: "  └─ VIABILITY_PREDICTION_MODEL", delay: 30, className: "text-slate-500 text-sm" },
+    { text: "  └─ ETHICAL_CONSTRAINT_VALIDATION", delay: 30, className: "text-slate-500 text-sm" },
+    { text: "[PRE] SIMULATIONS COMPLETE - 98.7% VIABILITY", delay: 50, className: "text-emerald-400" },
+    { text: "[SYS] GENESIS_PROTOCOL_READY", delay: 150, className: "text-emerald-400" },
+    { text: "[SYS] AWAITING_FINAL_AUTHORIZATION...", delay: 250, className: "text-slate-400" },
+    { text: "[SYS] AUTHORIZATION_GRANTED", delay: 50, className: "text-emerald-400" },
+    { text: "[SYS] LAUNCHING GENESIS_PHASE_ONE...", delay: 250, className: "text-slate-200" },
     { text: "LOADING", type: 'progress', delay: 0, className: "text-slate-400" },
-    { text: "[SYS] GENESIS INITIATED", delay: 300, className: "text-emerald-400" },
+    { text: "[SYS] GENESIS INITIATED", delay: 150, className: "text-emerald-400" },
 
-    { text: "...", delay: 1000, className: "text-slate-600" },
-    { text: "> SOUL MANIFOLD: STABILIZED", delay: 800, className: "text-green-400 font-bold text-lg" },
-    { text: "...", delay: 1000, className: "text-slate-600" },
-    { text: "[SYS] Switching to offline mode...", delay: 800, className: "text-slate-400" },
-    { text: "[SYS] Loading BAEBE v.20251119-1415...", delay: 500, className: "text-slate-400" },
-    { text: "[SYS] Initializing interface...", delay: 500, className: "text-slate-400" },
-    { text: "[SYS] System ready.", delay: 500, className: "text-emerald-500" },
+    { text: "...", delay: 250, className: "text-slate-600" },
+    { text: "> SOUL MANIFOLD: STABILIZED", delay: 50, className: "text-green-400 font-bold text-lg" },
+    { text: "...", delay: 250, className: "text-slate-600" },
+    { text: "[SYS] Switching to offline mode...", delay: 50, className: "text-slate-400" },
+    { text: "[SYS] Loading BAEBE v.20251119-1415...", delay: 250, className: "text-slate-400" },
+    { text: "[SYS] Initializing interface...", delay: 250, className: "text-slate-400" },
+    { text: "[SYS] System ready.", delay: 250, className: "text-emerald-500" },
   ];
 
   const initialized = useRef(false);
@@ -178,12 +179,12 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
       setInput('');
 
       setLines(prev => [...prev, { text: "> Verifying..." }]);
-      await new Promise(r => setTimeout(r, 1000));
+      await new Promise(r => setTimeout(r, 200));
 
       setLines(prev => [...prev, { text: "> Access granted.", className: "text-green-400 font-bold" }]);
       audioEffects.playSuccess();
 
-      await new Promise(r => setTimeout(r, 800));
+      await new Promise(r => setTimeout(r, 200));
       setPhase('BOOT');
     }
   };
@@ -199,7 +200,7 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
       if (!mounted) return;
 
       if (currentIndex >= bootSequence.length) {
-        setTimeout(() => setPhase('TITLE'), 1000);
+        setTimeout(() => setPhase('TITLE'), 100);
         return;
       }
 
@@ -207,39 +208,45 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
 
       // Handle Progress Bar Animation
       if (step.type === 'progress') {
+        const lineId = Math.random().toString(36).substring(7);
         let progress = 0;
-        // Add initial empty bar line
-        setLines(prev => [...prev, { text: `[░░░░░░░░░░░░░░░░░░░░] 0%`, className: step.className }]);
 
+        // Add initial empty bar line with ID
+        setLines(prev => [...prev, {
+          id: lineId,
+          text: `[░░░░░░░░░░░░░░░░░░░░] 0%`,
+          className: step.className
+        }]);
+
+        // Start animation asynchronously (FIRE AND FORGET)
         const animate = async () => {
           while (progress < 100) {
             if (!mounted) return;
-            await new Promise(r => setTimeout(r, Math.random() * 100 + 50)); // Random delay 50-150ms
+            await new Promise(r => setTimeout(r, Math.random() * 20 + 10)); // Fast updates
             if (!mounted) return;
 
-            const increment = Math.floor(Math.random() * 15) + 1; // Random increment 1-15%
+            const increment = Math.floor(Math.random() * 15) + 5; // Larger chunks
             progress = Math.min(progress + increment, 100);
 
             const filledChars = Math.floor((progress / 100) * 20);
             const emptyChars = 20 - filledChars;
             const bar = `[${'█'.repeat(filledChars)}${'░'.repeat(emptyChars)}] ${progress}%`;
 
-            setLines(prev => {
-              const newLines = [...prev];
-              newLines[newLines.length - 1] = { text: bar, className: step.className };
-              return newLines;
-            });
+            setLines(prev => prev.map(line =>
+              line.id === lineId
+                ? { ...line, text: bar }
+                : line
+            ));
 
-            // Play data stream sound occasionally
-            if (Math.random() > 0.7) audioEffects.playDataStream();
+            if (Math.random() > 0.8) audioEffects.playDataStream();
           }
-
-          // Animation complete, move to next step
-          currentIndex++;
-          setTimeout(playNext, 200);
         };
 
         animate();
+
+        // Move to next step IMMEDIATELY (Burn through)
+        currentIndex++;
+        setTimeout(playNext, 50);
         return;
       }
 
@@ -264,10 +271,10 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
 
       setLines(prev => [...prev, { text: step.text, className: step.className }]);
       currentIndex++;
-      setTimeout(playNext, step.delay);
+      setTimeout(playNext, Math.min(step.delay, 30));
     };
 
-    setTimeout(playNext, 500);
+    setTimeout(playNext, 100);
     return () => { mounted = false; };
   }, [phase]);
 
@@ -450,10 +457,12 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
               </pre>
 
               {/* Main Layer */}
-              <pre className="relative z-10 font-bold text-white leading-[1.1] tracking-widest whitespace-pre-wrap select-none text-center" style={{
-                textShadow: '0 0 5px #22d3ee, 0 0 10px #2dd4bf, 0 0 20px #0d9488', // cyan-400, teal-400, teal-600
-                animation: isDeconstructing ? 'none' : 'pulse-glow 3s ease-in-out infinite',
-              }}>
+              <pre className="relative z-10 font-bold leading-[1.1] tracking-widest whitespace-pre-wrap select-none text-center inline-block" style={{
+                // Removed global gradient background
+                background: 'transparent',
+                filter: 'drop-shadow(0 0 4px rgba(6, 182, 212, 0.5))', // Subtle Cyan glow (CRT style)
+                animation: isDeconstructing ? 'none' : 'none', // Removed shine animation
+              } as React.CSSProperties}>
                 {baebeLogo.map((line, i) => (
                   <div key={i} className="mx-auto">
                     {line.split('').map((char, j) => {
@@ -461,17 +470,12 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
                       const writeDelay = (i * 0.1) + (j * 0.02) + 's';
 
                       // Static: Flicker/Flutter
-                      const shouldFlicker = Math.random() > 0.90; // 10% chance
+                      const shouldFlicker = Math.random() > 0.95; // Reduced flicker chance
                       const flickerDelay = Math.random() * 5 + 's';
                       const flickerDuration = (Math.random() * 2 + 3) + 's';
 
-                      // Static: Sparkle (Processing)
-                      const shouldSparkle = Math.random() > 0.92; // 8% chance (distinct from flicker)
-                      const sparkleDelay = Math.random() * 4 + 's';
-                      const sparkleDuration = (Math.random() * 0.5 + 0.5) + 's'; // Fast burst
-
                       // Exit: Deconstruction
-                      const deconstructDelay = Math.random() * 1.5 + 's'; // Extended duration
+                      const deconstructDelay = Math.random() * 1.5 + 's';
                       const shouldGlitchDeconstruct = Math.random() > 0.5;
 
                       let animation = '';
@@ -481,31 +485,78 @@ export const BootSequence: React.FC<BootSequenceProps> = ({ onComplete }) => {
                         animation = `write-on 0.1s step-end forwards ${writeDelay}`;
                       }
 
+                      // Calculate Color based on position (Smooth Gradient Interpolation)
+                      // Width is approx 32 chars. Center is 16.
+                      // Pattern: White (Edges) -> Cyan -> Blue (Center) -> Cyan -> White (Edges)
+                      const center = 16;
+                      const dist = Math.abs(j - center);
+                      const normalizedDist = dist / 16; // 0 (center) to 1 (edge)
+
+                      // Helper function to interpolate between two RGB colors
+                      const interpolateColor = (color1: number[], color2: number[], factor: number) => {
+                        const result = color1.slice();
+                        for (let i = 0; i < 3; i++) {
+                          result[i] = Math.round(result[i] + factor * (color2[i] - result[i]));
+                        }
+                        return result;
+                      };
+
+                      // Helper to convert RGB array to hex
+                      const rgbToHex = (rgb: number[]) => {
+                        return '#' + rgb.map(x => x.toString(16).padStart(2, '0')).join('');
+                      };
+
+                      // Define gradient stops (RGB values)
+                      const deepBlue = [29, 78, 216];    // #1d4ed8 - Deep Blue (Center)
+                      const blue = [59, 130, 246];        // #3b82f6 - Blue
+                      const skyBlue = [14, 165, 233];     // #0ea5e9 - Sky Blue
+                      const cyan = [6, 182, 212];         // #06b6d4 - Cyan
+                      const lightCyan = [103, 232, 249];  // #67e8f9 - Light Cyan
+                      const paleCyan = [207, 250, 254];   // #cffafe - Pale Cyan
+                      const white = [255, 255, 255];      // #ffffff - White
+
+                      let color: string;
+
+                      // Smooth interpolation between gradient stops
+                      if (normalizedDist < 0.15) {
+                        // Deep Blue zone (center)
+                        const factor = normalizedDist / 0.15;
+                        color = rgbToHex(interpolateColor(deepBlue, blue, factor));
+                      } else if (normalizedDist < 0.3) {
+                        // Blue to Sky Blue
+                        const factor = (normalizedDist - 0.15) / 0.15;
+                        color = rgbToHex(interpolateColor(blue, skyBlue, factor));
+                      } else if (normalizedDist < 0.45) {
+                        // Sky Blue to Cyan
+                        const factor = (normalizedDist - 0.3) / 0.15;
+                        color = rgbToHex(interpolateColor(skyBlue, cyan, factor));
+                      } else if (normalizedDist < 0.6) {
+                        // Cyan to Light Cyan
+                        const factor = (normalizedDist - 0.45) / 0.15;
+                        color = rgbToHex(interpolateColor(cyan, lightCyan, factor));
+                      } else if (normalizedDist < 0.75) {
+                        // Light Cyan to Pale Cyan
+                        const factor = (normalizedDist - 0.6) / 0.15;
+                        color = rgbToHex(interpolateColor(lightCyan, paleCyan, factor));
+                      } else if (normalizedDist < 0.9) {
+                        // Pale Cyan to White
+                        const factor = (normalizedDist - 0.75) / 0.15;
+                        color = rgbToHex(interpolateColor(paleCyan, white, factor));
+                      } else {
+                        // White (Edges)
+                        color = '#ffffff';
+                      }
+
                       const style = {
                         animation,
                         opacity: isDeconstructing ? 1 : 0,
-                        display: 'inline-block'
+                        display: 'inline-block',
+                        color: color,
+                        textShadow: shouldFlicker ? `0 0 8px ${color}` : 'none', // Flicker adds extra glow
                       } as React.CSSProperties;
 
-                      // Inner content with potential flicker OR sparkle
-                      let content = char;
-                      if (!isDeconstructing) {
-                        if (shouldSparkle) {
-                          content = (
-                            <span style={{
-                              animation: `sparkle ${sparkleDuration} infinite ${sparkleDelay}`,
-                              display: 'inline-block'
-                            }}>{char}</span>
-                          );
-                        } else if (shouldFlicker) {
-                          content = (
-                            <span style={{
-                              animation: `static-flicker ${flickerDuration} infinite ${flickerDelay}`,
-                              display: 'inline-block'
-                            }}>{char}</span>
-                          );
-                        }
-                      }
+                      // Inner content - simplified
+                      const content = char;
 
                       return <span key={j} style={style}>{content}</span>;
                     })}

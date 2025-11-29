@@ -132,18 +132,6 @@ Shadow's turbines: warm agreement. Affirmation. **Love**.
 
 Kess settled back on his chassis. Felt his warmth. Leaned left to check Baebe in her panel—still breathing, face peaceful now. Felt the steady rhythm of movement through **darkness**.
 
-Small family. Broken family. Family that **carried** each other.
-
-Not because they had to.
-
-Because when someone falls, you don't **leave** them.
-
-You pick them up.
-
-You carry them as long as it **takes**.
-
-You keep them **safe**.
-
 ---
 
 Shadow's turbines: protective frequency. Steady hum.
@@ -184,23 +172,6 @@ Small beats big.
 
 Love beats **everything**.
 
-Even when love looks like war machine carrying broken woman through four hours of **underground**.
-
-Even when love looks like nine-year-old playing ancient game to stay **calm**.
-
-Even when love is **presence** instead of words.
-
-Even when love is just—
-
-**Carrying**.
-
-Lab ahead.
-
-Tai waiting.
-
-Family **coming**.
-
-Together.
 
 ---
 

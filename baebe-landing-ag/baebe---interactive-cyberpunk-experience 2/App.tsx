@@ -134,9 +134,7 @@ We are recovering data daily, but the encryption is heavy. We need your help to 
     await new Promise(r => setTimeout(r, 400));
 
     // Action - Warning/Amber for visibility
-    await typeLine(`> ACTION REQUIRED:
-Support the cause. Pre-order "The Book of Baebe" to fund the decryption protocol.
-BENEFIT: Immediate access to all information as it is found.`, 'warning', 5);
+    await typeLine(`> ACTION REQUIRED:\nSupport the cause. Pre-order "BAEBE: Soul Manifold" to fund the decryption protocol.\nBENEFIT: Immediate access to all information as it is found.`, 'warning', 5);
 
     await new Promise(r => setTimeout(r, 200));
 
@@ -239,9 +237,7 @@ BENEFIT: Immediate access to all information as it is found.`, 'warning', 5);
 
     // GhostNet / Presale Handling
     if (cleanCmd === 'fund decryption ops' || cleanCmd === 'fund ops' || cleanCmd === 'initialize decryption' || cleanCmd === 'access presale' || cleanCmd === 'presale' || cleanCmd.includes('pre-order')) {
-      await typeLine(`> INITIATING FUNDING PROTOCOL...
-> TARGET: "The Book of Baebe" (Presale Edition)
-> STATUS: UNLOCKING ARCHIVE ACCESS...`, 'system', 5);
+      await typeLine(`> INITIATING FUNDING PROTOCOL...\n> TARGET: "BAEBE: Soul Manifold" (Presale Edition)\n> STATUS: UNLOCKING ARCHIVE ACCESS...`, 'system', 5);
       // Placeholder for actual link logic
       window.open('https://example.com/presale', '_blank');
       return;

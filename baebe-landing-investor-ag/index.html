@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Optimal Anarchy - Investor Portal</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+  <script src="animation.js" defer></script>
+</head>
+
+<body>
+  <div class="fullscreen">
+    <!-- Global Game Background -->
+    <canvas id="gameCanvas"></canvas>
+
+    <!-- Boot Sequence Animation -->
+    <canvas id="titleCanvas" width="800" height="400"></canvas>
+
+    <!-- Boot Sequence Text -->
+    <div id="bootSequence" class="boot-sequence hidden">
+      <div class="terminal-output" id="terminalOutput"></div>
+      <div class="email-capture hidden" id="emailCapture">
+        <div class="investment-opportunity">
+          <div class="fomo-stats">
+            <p>] [47 accredited investors have reviewed this opportunity]</p>
+            <p>] [$750,000 raised, $250,000 remaining]</p>
+            <p>] [3 of 10 Founding Investor spots remaining]</p>
+          </div>
+          <div class="pitch-teaser hidden">
+            <!-- Hidden as requested -->
+          </div>
+          <form id="emailForm" class="email-form">
+            <p>] To continue, verify your identity:</p>
+            <p>] Enter your email address:</p>
+            <div class="input-group">
+              <span class="prompt">]</span>
+              <input type="email" id="emailInput" placeholder="investor@example.com" required autofocus />
+            </div>
+            <div class="button-group">
+              <button type="submit" class="btn-primary">[Continue]</button>
+              <button type="button" class="btn-secondary" onclick="showSystemInfo()">[Learn More]</button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <!-- System Info Section (Addresses "one person" concern) -->
+      <div class="system-info hidden" id="systemInfo">
+        <div class="section-header">
+          <p>] THE SYSTEM (Not Just a Person)</p>
+          <p>] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+        </div>
+        <div class="system-features">
+          <div class="feature">
+            <p>] Unified Knowledge Graph</p>
+            <p>] • Maintains consistency across all formats</p>
+            <p>] • AI-maintained world-building</p>
+          </div>
+          <div class="feature">
+            <p>] Agentic Workflows</p>
+            <p>] • Automated creation processes</p>
+            <p>] • Real-time market testing</p>
+            <p>] • Cross-format generation</p>
+          </div>
+          <div class="feature">
+            <p>] Multi-Format Generation</p>
+            <p>] • One narrative core → All formats</p>
+            <p>] • Novel, screenplay, game, graphic novel</p>
+          </div>
+          <div class="feature">
+            <p>] PROOF: The System Works</p>
+            <p>] • 90,000-word novel (complete)</p>
+            <p>] • Feature-length screenplay (complete)</p>
+            <p>] • Graphic novel concept art (complete)</p>
+            <p>] • Game prototype (in development)</p>
+            <p>] • All in 6 months using this system</p>
+          </div>
+        </div>
+        <div class="button-group">
+          <button type="button" class="btn-primary" onclick="hideSystemInfo()">[Continue to Pitch]</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pitch Deck Container -->
+    <div id="pitchDeck" class="pitch-deck hidden">
+      <!-- Game-style Header Bar -->
+      <div class="game-header">
+        <button id="prevBtn" class="btn-nav" onclick="previousSlide()">[←]</button>
+        <div class="header-content">
+          <div class="slide-title" id="slideTitle">SCREEN 1/10</div>
+          <div class="progress-indicator">
+            <div class="progress-fill" id="progressFill"></div>
+            <span id="progressText">1/10</span>
+          </div>
+        </div>
+        <button id="nextBtn" class="btn-nav" onclick="nextSlide()">[→]</button>
+      </div>
+
+      <!-- Hidden slide container for content -->
+      <div class="slide-container" id="slideContainer" style="display:none;">
+        <!-- Slides will be dynamically loaded here -->
+      </div>
+    </div>
+
+    <!-- Post-Pitch Website -->
+    <div id="postPitch" class="post-pitch hidden">
+      <!-- This will be the compelling website after pitch -->
+    </div>
+  </div>
+
+  <script src="investor-portal.js"></script>
+</body>
+
+</html>

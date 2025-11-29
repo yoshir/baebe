@@ -72,17 +72,17 @@ The light gathers. Pulses once. **UNLOCKED**.
 
 The face turns fully into the light.
 
-**Baebe.**
+The face is hers.
 
-Free.
+
 
 ---
 
-Her eyes snap open.
+Her eyes snap open from deep within this dream
 
 Calm. Frozen. Terrified.
 
-Taivalu is right there. Inches from her face. His hands on her temples. His frequencies still humming.
+Taivalu is staring at her. Inches from her face. His hands on her temples. His frequencies still humming.
 
 *Threat.*
 
@@ -90,21 +90,15 @@ Baebe moved before thinking. Combat training overriding consciousness.
 
 She jackhammered off the table—spine arching, legs swinging, body becoming weapon. Her hand found metal. A pipe. Makeshift but lethal in her grip.
 
-"STAY BACK!"
-
-She swung.
-
-Taivalu stumbled backward, hands raised. "Baebe—wait—"
+She swung as massive metal claws blocks her attack
 
 Shadow's massive form materialized from the shadows. Red eye blazing. Protective protocols engaging.
-
-*Family in danger. Contain.*
 
 His paw clamped around her arm—gentle for him, crushing for anyone else.
 
 Then Angel.
 
-The Enforcer stepped between them. Calm. Controlled. Same face as the dead woman from Baebe's visions, but alive. Present.
+The Enforcer stepped between them. Calm. Controlled. Same face as the atacker that sent her falling 80 stories.
 
 "Put it down."
 
