@@ -27,7 +27,7 @@ A woman suspended in a writhing ball of light. Waveforms coil around her like li
 
 Baebe's HUD updates:
 
-ASSET T-ALPHA — RETRIEVE ALIVE
+ASSET TAIVALU — RETRIEVE ALIVE
 THREAT LEVEL: MODERATE
 SECONDARY CONTACT DETECTED — UNIDENTIFIED
 THREAT ASSESSMENT: UNKNOWN

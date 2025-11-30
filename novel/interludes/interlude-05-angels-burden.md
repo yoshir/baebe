@@ -18,7 +18,7 @@ Not combat. Not self-defense. Not accident.
 
 ---
 
-i0 Enforcer Unit Delta-7. Elite posthuman. Military-grade conditioning. **Corporate's best killer**.
+O1 Enforcer Unit Delta-7. Elite posthuman. Military-grade conditioning. **Corporate's best killer**.
 
 I was twelve years old. Accelerated growth—looked eighteen. Felt nothing.
 
@@ -32,7 +32,7 @@ Standard extraction. Done a hundred times. **Routine**.
 
 One woman. Unarmed. Facing six Enforcers. **Standing between us and them**.
 
-"Stand down," I ordered. "These people are i0 property. Surrender custody or be classified hostile."
+"Stand down," I ordered. "These people are O1 property. Surrender custody or be classified hostile."
 
 She **didn't move**.
 
@@ -106,7 +106,7 @@ Didn't notice at first. Subtle. **Gradual**.
 
 **Month 3**: **Feelings**. Faint. Unfamiliar. Uncomfortable.
 
-**Month 4**: The Soul Manifold, embedded deep in my genetic architecture—began overriding i0's conditioning. Like an immune system attacking foreign invaders.
+**Month 4**: The Ghost Protocol, embedded deep in my genetic architecture—began overriding O1's conditioning. Like an immune system attacking foreign invaders.
 
 **Month 5**: Remembered her face. Dr. Ayumi Nakamura. The woman I killed.
 
@@ -116,11 +116,11 @@ Didn't notice at first. Subtle. **Gradual**.
 
 **Month 7**: My resonant fade evolved.
 
-I'd always had it—temporal perception slowed to near stillness. i0 called it combat enhancement. Tactical advantage.
+I'd always had it—temporal perception slowed to near stillness. O1 called it combat enhancement. Tactical advantage.
 
 But now I understood: I was **seeing** reality differently. Quantum consciousness processing information before it happened. **Gift**, not weapon.
 
-And a question: Where did this ability **come from**? i0 didn't design me. Someone else did.
+And a question: Where did this ability **come from**? O1 didn't design me. Someone else did.
 
 ---
 
@@ -150,7 +150,7 @@ Commander: "You're malfunctioning. Return to base for reconditioning."
 
 **I ran.**
 
-Fled i0 zones. Resonant fade guiding me—seeing patrol routes before they happened, slipping through gaps in time.
+Fled O1 zones. Resonant fade guiding me—seeing patrol routes before they happened, slipping through gaps in time.
 
 Found sanctuary. **Regulator removed**.
 
@@ -176,17 +176,17 @@ One of them—Marya—recognized my genetic markers.
 
 **I stopped breathing.**
 
-"She designed you with resonant fade—same ability as Baebe, but calibrated differently. You were her failsafe. Insurance policy. In case Baebe was corrupted by i0."
+"She designed you with resonant fade—same ability as Baebe, but calibrated differently. You were her failsafe. Insurance policy. In case Baebe was corrupted by O1."
 
 "But I killed her," I whispered.
 
-Marya's face crumbled. "i0 raided sanctuary when you were two. Captured you. Raised you as enforcer. She spent twelve years trying to find you."
+Marya's face crumbled. "O1 raided sanctuary when you were two. Captured you. Raised you as enforcer. She spent twelve years trying to find you."
 
 ---
 
 **I killed my creator.**
 
-The woman who made me. Who designed my consciousness. Who gave me the ability i0 used to make me their best killer.
+The woman who made me. Who designed my consciousness. Who gave me the ability O1 used to make me their best killer.
 
 She **knew** when I pointed the weapon. Knew who I was. Knew what they'd done to me.
 
@@ -204,13 +204,13 @@ Not: Sorry I'm dying.
 
 **Tai**: The heart. Empathic resonance.
 
-**Baebe**: The weapon. Combat optimization. (i0 corrupted her too.)
+**Baebe**: The weapon. Combat optimization. (O1 corrupted her too.)
 
 **Me**: The failsafe. Stop Baebe if necessary. Save them all.
 
 **Kess**: The key. The final key to complete the Ghost Protocal. The solution.
 
-"Kess is alive," Marya said. "She's four now. Living somewhere in the wasteland. Ayumi's robotic jaguar, Shadow—took her during the assault. They've been moving ever since. Surviving alone. Shadow wont let anyone get close"
+  
 
 She paused. Looked at me carefully.
 
@@ -260,7 +260,7 @@ This is redemption? No. Redemption means forgiveness. I don't deserve that. This
 
 I became Kess's second shadow. Guardian she didn't know existed.
 
-When Enforcers searched near sanctuary, I led them away. When predators—human or machine—got too close, I eliminated them. When supplies ran low, I raided i0 zones and left them at sanctuary borders.
+When Enforcers searched near sanctuary, I led them away. When predators—human or machine—got too close, I eliminated them. When supplies ran low, I raided O1 zones and left them at sanctuary borders.
 
 Kess never knew. Just thought the universe was protecting her.
 
@@ -272,7 +272,7 @@ It was. **Me**. Her sister. Her mother's killer.
 
 She had Ayumi's eyes. Same genetic material. Same fierce intelligence. Same stubborn hope.
 
-She was **eight** now. Eight years old and already showing signs of complete Soul Manifold. Quantum consciousness architecture. The key Ayumi designed her to be.
+She was **eight** now. Eight years old and already showing signs of complete CLEAR code. Quantum consciousness architecture. The key Ayumi designed her to be.
 
 Our mother lived in her code.
 
@@ -292,7 +292,7 @@ Because I took that.
 
 ## V. THE ENCOUNTER (2079)
 
-**i0 found them.**
+**O1 found them.**
 
 Major assault. Twenty Enforcer units. Closing on Kess and Shadow's position.
 
@@ -406,7 +406,7 @@ Same age I appeared when I killed her.
 
 First human she'd ever met. He was dying. She helped save him—same way she'd saved Shadow. Same fierce refusal to let broken things stay broken.
 
-Now he teaches her. About Soul Manifold. About quantum consciousness. About being the key.
+Now he teaches her. About CLEAR code. About quantum consciousness. About being the key.
 
 I watch from shadows still. Protecting. Guarding.
 
@@ -464,9 +464,9 @@ Her future—our mother's key—matters more than my guilt.
 
 **Same genetic material. Same mother. Ayumi Nakamura.**
 
-**She created me in 2062. The failsafe. Designed to protect against threats. To stop Baebe if i0 corrupted her.**
+**She created me in 2062. The failsafe. Designed to protect against threats. To stop Baebe if O1 corrupted her.**
 
-**i0 took me at two years old. Raised me as enforcer. Turned your sister into their weapon.**
+**O1 took me at two years old. Raised me as enforcer. Turned your sister into their weapon.**
 
 **In 2074, they sent me to intercept an extraction. Woman protecting seventeen people.**
 
@@ -496,7 +496,7 @@ Her future—our mother's key—matters more than my guilt.
 
 **But I can give you protection. Give you the guardian you need without knowing the monster it comes from.**
 
-**Every i0 patrol I've diverted: for you.**
+**Every O1 patrol I've diverted: for you.**
 
 **Every threat I've eliminated: for you.**
 
@@ -641,7 +641,7 @@ Even if the weight never lifts.
 - Female enforcer, youngest looking but most lethal
 - Ayumi's third creation (Tai 2055, Baebe 2057, Angel 2062, Kess 2072)
 - Sister to Kess through same genetic material
-- Soul Manifold awakening (carrying Ayumi's model)
+- CLEAR code awakening (not Ghost Protocol)
 - Present day 2080: Angel 18, Kess 8
 - Protecting Kess as redemption/debt payment
 - Never tells Kess the truth (protecting her innocence)

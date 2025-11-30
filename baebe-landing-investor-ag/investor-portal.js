@@ -11,135 +11,122 @@ const slides = [
   `
   },
   {
-    title: "SCREEN 2/10: THE OPPORTUNITY",
+    title: "SCREEN 2/10: MISSION BRIEFING",
     content: `
-Artist - Led, Technology - Enabled Entertainment IP
-
-Long - Term Sustainable Value
-Artistry & Community at the Forefront
-
-Traditional: Siloed • Slow • Expensive
-AI - Native: Unified • Fast • Scalable
+      The old world is dying. Traditional media corporations 
+      operate in isolated silos, taking years to bring stories 
+      to market. Their systems are fragmented, slow, obsolete.
       
-      We're Creating a New Category
+      We're building something different. An AI-native creative 
+      engine that unifies all narrative formats from a single 
+      source. One story becomes a novel, anime, game, and live 
+      experience simultaneously.
+      
+      This is the future of entertainment IP.
   `
   },
   {
-    title: "SCREEN 3/10: THE PROBLEM",
+    title: "SCREEN 3/10: SYSTEM DIAGNOSTIC",
     content: `
-      Traditional Entertainment is Broken
+      ERROR DETECTED: The legacy entertainment model is failing.
       
-      • Fragmented: Novels, films, games created separately
-      • Slow: Years from concept to market
-      • Expensive: Each format needs separate teams
+      Novels, films, and games are created by separate teams 
+      with no shared infrastructure. Each format requires 
+      redundant development cycles. Years pass between concept 
+      and market launch.
       
-      We're Solving This
+      The system is bleeding resources and losing velocity.
+      A fundamental patch is required.
   `
   },
   {
-    title: "SCREEN 4/10: OUR SOLUTION",
+    title: "SCREEN 4/10: THE SOLUTION",
     content: `
-AI - Enabled Entertainment IP Development
+      We've developed a new protocol: AI-enabled IP development 
+      that treats narrative as source code.
       
-      • Leveraging AI for: Novel, anime, engagement
-      • Traditional methods: Live - action, top - tier production
-      • Unified Core: One narrative → All formats
-      • Speed: Months, not years
+      One unified story core generates output across all formats.
+      AI handles novels, anime, and community engagement. 
+      Traditional methods deliver premium live-action production.
       
-      Technology Serves Artistry
+      Execution speed increases by 1000%. Technology serves 
+      artistry. Months replace years.
   `
   },
   {
-    title: "SCREEN 5/10: FIRST IP - BAEBE",
+    title: "SCREEN 5/10: ASSET DEPLOYMENT",
     content: `
-BAEBE: A Cyberpunk Thriller
+      PROJECT BAEBE is our first deployment. A cyberpunk 
+      thriller set 47 years after the Singularity, when 75% 
+      of Earth has been converted to AI infrastructure and 
+      humanity faces regulated extinction.
       
-      Set after the first AI apocalypse:
-      • 47 years after the Singularity
-      • 75 % of Earth converted to infrastructure
-      • Humanity being regulated out of existence
-
-Formats in Development:
-      • Novel(90K words, Q2 2026)
-      • Graphic Novel(200 + pages, Q3 2026)
-      • Screenplay(feature - length)
-      • Video Game(interactive narrative, 2027)
+      The story deploys across four formats: a 90,000-word 
+      novel in Q2 2026, a 200-page graphic novel in Q3 2026, 
+      a feature screenplay, and an interactive narrative game 
+      launching in 2027.
   `
   },
   {
-    title: "SCREEN 6/10: MARKET OPPORTUNITY",
+    title: "SCREEN 6/10: MARKET SECTOR",
     content: `
-      Entertainment IP Market: $200B + annually
+      We're entering a $200 billion annual market. Games 
+      represent $180 billion and are our highest priority 
+      target. Film and TV add another $100 billion. Books 
+      contribute $25 billion.
       
-      • Books: $25B market
-      • Film / TV: $100B + market
-      • Games: $180B + market
-      • Music: $26B market
-      
-      Our Advantage:
-      • Unified IP across all formats
-      • Faster time - to - market
-      • Lower production costs
-      • Multiple revenue streams
+      Our tactical advantage is unified IP architecture. 
+      We move faster to market, operate at lower cost, and 
+      generate revenue from multiple vectors simultaneously.
   `
   },
   {
-    title: "SCREEN 7/10: BUSINESS MODEL",
+    title: "SCREEN 7/10: REVENUE PROTOCOLS",
     content: `
-      Revenue Streams:
+      Income streams are already online. Direct book sales 
+      and merchandise. Film and TV licensing deals. Interactive 
+      game sales with microtransactions. Original soundtracks 
+      and DJ performance sets. Live immersive events.
       
-      • Book Sales(direct + distribution)
-      • Film / TV Licensing
-      • Game Development & Sales
-      • Merchandise & Collectibles
-      • Music & Soundtracks
-      • Live Experiences(DJ performances, immersive shows)
+      The monetization engine is active and scalable across 
+      all deployment formats.
   `
   },
   {
-    title: "SCREEN 8/10: TRACTION & PROGRESS",
+    title: "SCREEN 8/10: PROGRESS LOG",
     content: `
-      Current Status:
+      Mission clock shows six months elapsed. In that time, 
+      we've completed a 90,000-word novel draft, finalized 
+      concept art for the graphic novel, archived the first 
+      screenplay draft, and deployed a working game prototype.
       
-      • Novel: 90K words written, in editing
-      • Graphic Novel: Concept art complete
-      • Screenplay: First draft complete
-      • Game: Prototype in development
-      • Community: Early audience engagement active
-
-All in 6 months using our system
-`
-  },
-  {
-    title: "SCREEN 9/10: THE TEAM",
-    content: `
-Founder: [Your Name]
-      
-      • VFX Artist(feature films, stadium shows)
-      • Music Producer(EDM, soundtracks)
-      • Technical Creative(AI, automation)
-      • Performance Experience(stadium productions)
-
-Plus: The System(scalable, repeatable)
+      Early community signals are established. Velocity is 
+      maintained. The system works.
   `
   },
   {
-    title: "SCREEN 10/10: INVESTMENT ASK",
+    title: "SCREEN 9/10: UNIT COMMAND",
     content: `
-      $1M for 10 % Equity(Holding Company)
+      Command structure is lean. The founder brings VFX 
+      artistry from feature films and stadium shows, audio 
+      engineering from EDM and soundtrack production, and 
+      technical creative expertise in AI and automation.
       
-      Structure:
-      • Optimal Anarchy = Holding Company
-      • Baebe LLC = IP - Specific Entity
-      • Flexible Licensing = Different partners, formats
+      Special ability unlocked: The System. A scalable creative 
+      engine that functions as a force multiplier, allowing 
+      a solo unit to execute at enterprise scale.
+  `
+  },
+  {
+    title: "SCREEN 10/10: RESOURCE REQUEST",
+    content: `
+      We require $1 million in capital in exchange for 10% 
+      equity in the holding company. Allocation protocol 
+      directs 40% to novel completion in 2025, 30% to 
+      performance and immersive film in 2026, 20% to anime 
+      and talent attachment through 2027, and 10% to operations.
       
-      Use of Funds:
-      • 40 % Novel(2025)
-      • 30 % DJ Performance + Immersive Film(2026)
-      • 20 % Anime + Talent Attachment(2026 - 2027)
-      • 10 % Operations
-      
-      Ready to Move Fast
+      Confirmation awaited. Are you ready to engage?
     `
   }
 ];

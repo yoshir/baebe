@@ -194,7 +194,8 @@ class DefenderGame {
         }
 
         // Generate rest of initial view
-        this.generateTerrainChunk(startPlatformWidth + 40, this.width * 3);
+        // Massive initial generation to be safe
+        this.generateTerrainChunk(startPlatformWidth + 40, this.width * 10);
     }
 
     generateTerrainChunk(startX, endX) {
@@ -217,13 +218,28 @@ class DefenderGame {
 
     updateTerrain() {
         // Generate terrain ahead of camera
-        const cameraRight = this.camera.x + this.width * 2;
+        // AGGRESSIVE BUFFER: 5x width + 2000px extra
+        const cameraRight = this.camera.x + this.width * 5 + 2000;
+
+        // Always ensure we have terrain ahead
         if (this.lastTerrainX < cameraRight) {
             this.generateTerrainChunk(this.lastTerrainX + 40, cameraRight);
         }
 
+        // FAILSAFE: If terrain count is low, force generation from last point
+        if (this.terrain.length < 50) {
+            const lastPoint = this.terrain[this.terrain.length - 1];
+            if (lastPoint) {
+                this.generateTerrainChunk(lastPoint.x + 40, lastPoint.x + this.width * 5);
+            } else {
+                // Total failure recovery
+                this.generateTerrainChunk(this.camera.x, this.camera.x + this.width * 5);
+            }
+        }
+
         // Remove terrain far behind camera to save memory
-        const cameraLeft = this.camera.x - this.width;
+        // Keep 2 screens behind just in case
+        const cameraLeft = this.camera.x - this.width * 2;
         this.terrain = this.terrain.filter(t => t.x > cameraLeft);
     }
 
@@ -288,8 +304,8 @@ class DefenderGame {
                     this.textLines.push({
                         text: (type === 'li' && i === 0 ? '• ' : '') + wrappedLine,
                         type: type,
-                        // Position text to the right of each slide position
-                        x: slideX + this.width * 0.5, // Half screen width to the right
+                        // FIX: Position text at slide position (will be centered when camera is at slideX)
+                        x: slideX, // Text centered when camera.x = slideX
                         y: yOffset,
                         slideIndex: index
                     });
@@ -569,30 +585,8 @@ class DefenderGame {
             // Snap to 0 if very small
             if (Math.abs(this.currentScrollSpeed) < 0.01) this.currentScrollSpeed = 0;
 
-            // Check if we're approaching a slide position and should stop
-            const STOP_THRESHOLD = 50; // Stop within 50px of slide
-            for (let i = 0; i < this.slidePositions.length; i++) {
-                const slidePos = this.slidePositions[i];
-                const distToSlide = Math.abs(this.camera.x - slidePos);
-
-                // If we're very close to a slide position, snap to it and stop
-                if (distToSlide < STOP_THRESHOLD && Math.abs(this.currentScrollSpeed) > 0.1) {
-                    this.camera.x = slidePos;
-                    this.currentSlideIndex = i;
-                    this.currentScrollSpeed = 0; // Stop momentum
-
-                    // Update the UI to reflect current slide
-                    if (window.currentSlide !== i) {
-                        window.currentSlide = i;
-                        // Trigger slide title update
-                        const slideTitle = document.getElementById('slideTitle');
-                        if (slideTitle && window.slides && window.slides[i]) {
-                            slideTitle.textContent = window.slides[i].title;
-                        }
-                    }
-                    break;
-                }
-            }
+            // REMOVED: Snap logic that was causing terrain cutoff
+            // Player can now fly freely past all slides
 
             // Apply camera movement
             this.camera.x += this.currentScrollSpeed;
@@ -887,21 +881,25 @@ class DefenderGame {
             });
 
             // Draw Text
-            this.ctx.textAlign = 'left';
+            this.ctx.textAlign = 'center'; // Center text
             this.textLines.forEach(line => {
                 const screenX = line.x - this.camera.x;
-                if (screenX < -500 || screenX > this.width + 100) return;
+                if (screenX < -500 || screenX > this.width + 500) return; // Increased cull buffer
 
                 this.ctx.fillStyle = '#0ff';
                 if (line.type === 'h3') {
-                    this.ctx.font = '24px "Press Start 2P"'; // Increased from 16px
+                    this.ctx.font = '24px "Press Start 2P"';
                     this.ctx.fillStyle = '#ff0';
                 } else {
-                    this.ctx.font = '14px "Press Start 2P"'; // Increased from 10px
+                    this.ctx.font = '14px "Press Start 2P"';
                 }
 
                 if (line.type === 'li') {
-                    this.ctx.fillText('• ' + line.text, screenX + 20, line.y);
+                    // For list items, we still want them left-aligned relative to the block, 
+                    // but the block is centered. 
+                    // A simple hack is to draw them slightly offset if we want strict left alignment,
+                    // but centering everything looks better for this style.
+                    this.ctx.fillText('• ' + line.text, screenX, line.y);
                 } else {
                     this.ctx.fillText(line.text, screenX, line.y);
                 }

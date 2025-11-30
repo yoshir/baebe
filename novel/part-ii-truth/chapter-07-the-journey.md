@@ -1,257 +1,164 @@
-# CHAPTER 7: THE JOURNEY BEGINS
+Shadow's turbines hummed steady rhythm through the darkness. Four hours underground. Retracing their path. Back to the lab. Back home.
 
-**Timeline: Mission Day 2, After Waking | POV: Baebe (Third Person Limited)**
+Kess sat cross-legged on Shadow's broad chassis, her small body swaying with each mechanical stride. Not holding on. Never holding on. Shadow wouldn't drop her. **Family** didn't drop family.
 
----
+To her left and right: the carrying panels. Med-spec compartments that folded out from Shadow's flanks. Designed for gear transport, emergency evac, wounded retrieval. Like a helicopter's litter racks.
 
-## THE RESCUE
+Baebe lay in the left panel. Unconscious. Limp. Breathing but not **there**. Kess had lined it with thermal blankets, made it soft as she could. The fall had broken things. Ribs—Kess could feel the wrongness when she'd tried to lift her. Shoulder dislocated—arm hanging wrong. But worse than broken bones. Something deeper. Something **psychological**.
 
-The child saved her life.
+The weapon had **crashed**.
 
-Baebe opened her eyes to rubble and pain. Her enhanced systems cataloged damage: dislocated shoulder, internal bleeding, neural network disrupted. But underneath the tactical assessment, something else surfaced.
+In Kess's hands: the rectangle of light. Green glow illuminating her face from below. GRID RUNNER. Three years of practice. Three years of **escaping**.
 
-Fear.
+Shadow carried her gently. Each step calibrated so his movements wouldn't jostle the woman in his side panel. Careful. **Protective**. The panels swayed slightly with his gait, but his chassis compensated, kept them level.
 
-Not the controlled, regulated fear i0 had trained into her. Real fear. Raw and human and overwhelming.
-
-"Hey. Hey, can you hear me?"
-
-A small face swam into focus. Young. Dirty. Brown eyes wide with concern.
-
-"You gotta get up. They're coming."
-
-Baebe tried to speak. Coughed instead. Blood.
-
-"Please. The drones are sweeping this section. If they find you—"
-
-Above them, the mechanical whine of i0 surveillance drones. Scanning. Hunting.
-
-For her.
-
-The memories crashed back. The tower. The mission. The woman who shouldn't exist. Getting kicked through glass by someone impossibly fast.
-
-Falling.
-
-"Can you stand? I'll help."
-
-The child—couldn't be more than nine—grabbed her arm. Pulled with surprising strength.
-
-Baebe's training kicked in. Assess. Adapt. Execute.
-
-She stood. Pain screamed through her body. She ignored it.
-
-"This way. Quick."
-
-The child led her through collapsed architecture. Undercity ruins. Places i0 didn't go—too damaged, too dangerous, too chaotic.
-
-Perfect for hiding.
+Just the three of them. Kess watching. Shadow carrying. Baebe **broken**.
 
 ---
 
-## SHADOW'S CHOICE
+Level 32.
 
-They were three blocks into the maze when it appeared.
+Kess's fingers moved across the cracked screen. Green figure navigating green maze. Three pursuers hunting. The game kept her hands busy. Kept her mind **focused**. Better than thinking about how Baebe had just **stopped**. Better than being scared.
 
-Baebe's hand went to her weapon reflexively. Empty holster. Lost in the fall.
+Baebe's breathing: shallow. Steady. **There**.
 
-The panther stepped from shadows. Two meters of black metal and red eyes. i0 security unit. Designed for hunting. Designed for killing.
+Shadow's turbines: questioning frequency. Concerned purr. *Is she okay?*
 
-The child—Kess, Baebe would learn—didn't run.
+"She's breathing," Kess said quietly. Reassuring him. Reassuring herself. "Shoulder's wrong. Ribs too. We just need to get back to the lab. Tai will know what to do."
 
-"Shadow! You found us!"
+Shadow's pace didn't change. Smooth. Careful. Every step measured so the woman in his mouth stayed **safe**.
 
-The panther's red eye fixed on Baebe. Analyzing. Categorizing. Threat level: HIGH.
+Kess glanced down. Blood crusted on Baebe's temple. Cuts on her hands. Face slack. The deadly weapon-woman looking **small**.
 
-Baebe tensed. No weapon. Injured. Outmatched.
+"You scared me," Kess admitted. Voice she'd never use if Baebe could hear. "When you just... stopped. Like something broke inside."
 
-But the panther didn't attack.
+She returned to the game. Cleared level 32. Started level 33.
 
-Instead, it moved to her side. Positioning itself between her and the direction they'd come. Protective stance.
+Didn't stop **watching**.
 
-"He chose you," Kess said. "When you fell. He caught you before you hit ground. Got damaged bad doing it, but he caught you."
+---
 
-The panther's chassis bore evidence of the claim. Dents. Scorch marks. One leg slightly bent.
+Minutes passed.
 
-"Why?" Baebe's voice came out raw.
+Shadow's turbines: gentle hum. Protective frequency. His whole body adjusted around Baebe—chassis tilting slightly to keep her panel level, gait softening over rough patches, speed modulating so the compartment stayed steady.
 
-"Don't know. He just... chose." Kess touched Shadow's massive shoulder. "He made this sound after. Like... like he was trying to tell me something. I think he meant 'family.'"
+Like he was **listening** to her. Learning her rhythm. Becoming her **cradle**.
+
+Kess had seen Shadow kill. Seen him tear through combat mechs like they were paper. Seen his fangs crush reinforced steel.
+
+Now those same mechanics carried broken woman like she was made of **glass**.
+
+"You're good at this," Kess told him. "The gentle thing."
+
+Shadow's turbines: warm acknowledgment. He knew. He'd carried Kess before. When she was small. When she was **scared**.
+
+A soft moan from below.
+
+Kess paused the game. Watched Baebe's face. Eyes still closed. Still unconscious. But the sound—body processing something. Dreaming maybe. **Healing** maybe.
+
+"It's okay," Kess said softly. "Shadow's got you. We're taking you to Tai. He'll fix you."
+
+Baebe didn't respond. Just breathing. Just being **carried**.
+
+Shadow's turbines shifted—questioning hope. *Better?*
+
+"Don't know," Kess admitted. "But she's still breathing. That's something."
+
+She returned to the game. Level 34 now. Four pursuers. Harder.
+
+Her fingers moved automatically. Muscle memory. Chen had given her this game. Said it would help when she was scared. Give her something to **do** instead of just being afraid.
+
+Chen had been right.
+
+---
+
+Level 38.
+
+The game's fuel indicator glowed amber. Halfway. Enough to get to the lab. She'd been playing for hours.
+
+Talking less. Just being **there**.
+
+Shadow's movements: hypnotic. Steady. Each step a promise. *I've got her. She's safe. I won't drop her.*
+
+His creator knew what she was doing. Built him strong enough to kill. Gentle enough to **carry**.
+
+Kess watched how he navigated narrow passages. How he'd pause before tight corners, redistribute his weight, angle his body so the side panels wouldn't scrape against tunnel walls. How he'd slow near debris fields, picking routes that wouldn't **jostle** her.
+
+Like he'd done this before. Like he'd carried precious things through dangerous places his whole **life**.
+
+His turbines: steady hum. Content.
+
+Maybe killing wasn't the only thing he was **good** at.
+
+Another moan from Baebe. Longer this time.
+
+Kess leaned forward. Checked her breathing. Still steady. Face less tense. Like she was sleeping now instead of **crashed**.
+
+"Getting better maybe," Kess murmured.
+
+Shadow's turbines: hopeful agreement.
+
+---
+
+Level 42.
+
+The tunnel widened. Familiar territory. Close to Tai's lab now. Maybe an hour.
+
+Kess powered off the game. Conserving fuel. Tucking it carefully into her backpack.
+
+Darkness complete now. Only Shadow's running lights. Only turbine hum. Only breathing—hers, Baebe's, Shadow's mechanical **pulse**.
+
+"When you wake up," Kess said quietly, "you probably won't remember this. Won't remember Shadow carrying you. Won't remember me sitting here keeping **watch**."
+
+Baebe's face: peaceful now. Like she was just **sleeping**.
+
+"But that's okay," Kess continued. "Because I'll remember. Shadow will remember. And when you're awake again and being all tough and weapon-y and pretending you don't need anyone—"
+
+She paused. Took a breath.
+
+"—we'll still know. That you needed us. That we **carried** you. That you're worth carrying."
+
+Shadow's turbines: warm agreement. Affirmation. **Love**.
+
+Kess settled back on his chassis. Felt his warmth. Leaned left to check Baebe in her panel—still breathing, face peaceful now. Felt the steady rhythm of movement through **darkness**.
+
+---
+
+Shadow's turbines: protective frequency. Steady hum.
+
+Kess's breathing: slowing. Trusting. **Safe**.
+
+Baebe's breathing: steady. Deeper. **Returning**.
+
+Four hours underground.
+
+One hour from home.
+
+One broken weapon being held in medical panel.
+
+One small girl keeping watch from above.
+
+One war machine being **gentle**.
 
 Family.
 
-The word hit Baebe like a physical blow.
+Not because it made sense.
 
-i0 units didn't have concepts like "family." They didn't protect people beyond mission parameters.
+Not because it was **easy**.
 
-They certainly didn't sacrifice themselves for falling Enforcers.
+Because family meant: You fall, we **carry** you.
 
-Yet here this one stood, damaged and determined, protecting her from the organization that created him.
+Because family meant: You break, we **hold** you.
 
-Shadow's turbines shifted pitch—a low, urgent rumble that vibrated through the rubble. His head swiveled toward the sky, red eyes tracking something. A warning growl emanated from deep in his chassis.
+Because family meant: You're unconscious and can't hear and don't remember—
 
-Drones. Coming closer.
+We stay **anyway**.
 
-Kess understood immediately. "We need to move."
+We keep you **safe** anyway.
 
-"Can you walk?" Kess asked.
+We carry you through the **darkness** anyway.
 
-Baebe nodded. She could walk. Didn't have much choice.
+Small beats big.
 
-They moved.
+Love beats **everything**.
 
----
-
-## DESCENT INTO DARKNESS
-
-The Undercity was exactly what its name implied: the city beneath the city.
-
-Decades ago, when i0 consolidated control, they'd rebuilt everything above. Clean. Orderly. Controlled. The old infrastructure—messy, organic, chaotic—had been buried. Forgotten.
-
-But not empty.
-
-Kess led them through tunnels that branched and twisted. Past old subway stations converted to living spaces. Past markets where baseline humans traded salvage. Past areas where technology from before i0's rise still hummed with strange energy.
-
-"This way," Kess whispered. "Interference zone ahead."
-
-"Interference?" Baebe asked.
-
-"i0 can't track here. Something in the old tech blocks their signals."
-
-Indeed, as they moved deeper, Baebe felt her enhanced systems glitch. Her neural link to i0—severed since her fall—would have been jammed here anyway. Her regulator, normally steady, pulsed erratically.
-
-Not painful. Just... different.
-
-They passed through a curtain of hanging cables—old fiber optic lines draped like vines. Beyond: a chamber carved from the original city's infrastructure.
-
-And a figure waiting for them.
-
----
-
-## THE STRANGER
-
-Male. Late twenties. Asian features.
-
-But it was his eyes that stopped Baebe cold.
-
-Green-gold-amber. Shifting like heat shimmer. Colors that shouldn't exist in human eyes.
-
-She knew those eyes.
-
-From her mission briefing: TARGET ALPHA ZERO. RETRIEVE OR ELIMINATE.
-
-From the tower: the man conducting frequencies while she fell.
-
-From her dreams—dreams she'd had all her life without understanding them. Dreams of a face that was her face, bleeding together, becoming one.
-
-Her hand reached for a weapon she didn't have.
-
-Shadow positioned himself. Not threatening the stranger. Not threatening her. Between them. Protecting both.
-
-"Hello, sister."
-
-Two words. Two simple words.
-
-Baebe's world cracked.
-
-"DON'T—" Her voice came out harsh, breaking. "Don't call me that. Don't you DARE."
-
-She grabbed a metal rod from a nearby workbench. Makeshift weapon. Better than nothing.
-
-"Step back. Hands where I can see them."
-
-Her training taking over. Hostage negotiation protocol. Establish control. Assess threat. Stay calm.
-
-But she wasn't calm. Her hands shook. Her breath came ragged. Her voice cracked on every word.
-
-"I need you to explain. What you want. Slowly."
-
-The stranger didn't move. Didn't attack. Just watched her with those impossible eyes filled with something that looked like sadness.
-
-"I don't want anything from you. You're hurt. Let me—"
-
-"EVERYONE wants something!" Baebe exploded. "i0 wanted a weapon. That woman in the tower wanted—I don't even know what she wanted! And now you—"
-
-She couldn't finish. Too much emotion. Too much chaos in her perfectly ordered mind.
-
-"Just TELL ME. Stop acting like you care. Say what you need and I'll—"
-
-She broke off. Breathing wrong. Everything wrong.
-
-The stranger spoke softly. "You're bleeding. You're in pain. I can help with that. Nothing else."
-
-"WHY? Why would you help? You don't know me!"
-
-"I do know you. I've been waiting—"
-
-"STOP SAYING THAT!"
-
-Baebe's voice cracked completely. The weapon lowered slightly as her strength failed.
-
-"I killed her. The woman in the tower. I KILLED her and she called me—she said—"
-
-She couldn't say it. Couldn't repeat that word the woman had whispered before dying.
-
-Daughter.
-
-"I don't understand what's happening to me."
-
-Kess stepped forward. Small and brave.
-
-"Please. You're bleeding really bad. I'm scared you're gonna die."
-
-A child's fear. Genuine. Not tactical.
-
-Baebe looked at the girl. Saw tears forming. Saw real concern.
-
-Something in her broke further.
-
-"Fine. FINE. But if you—if this is a trick—"
-
-She kept the weapon raised, though her hand shook badly.
-
-"I'll kill you. I'm trained to kill. I'm GOOD at it. That's—that's all I'm good at."
-
-The stranger's voice was gentle. "That's not all you are. I promise."
-
-"You don't get to promise me anything."
-
-But slowly, shakily, she lowered the weapon.
-
-The stranger approached carefully. Every movement deliberate. Non-threatening.
-
-"I'm going to look at your shoulder. May I?"
-
-Consent. He was asking consent.
-
-i0 never asked. They commanded.
-
-Baebe nodded.
-
-His hands touched her shoulder. Warm. Gentle.
-
-And somewhere deep in her damaged neural network, something unlocked.
-
-A memory. Or maybe a vision.
-
-Green-gold-amber eyes. The same as his. But female.
-
-A voice saying: "You'll find each other. I made sure of it."
-
-Baebe gasped.
-
-The stranger—her brother, though she couldn't accept that yet—began to heal her.
-
-And she cried.
-
-She didn't know why.
-
----
-
-**Temperature**: COLD pursuit → COLD tactical assessment → WARM invitation → FRACTURED emotions
-
-**Composition**: Chase percussion → Protective chord → Confrontation dissonance → Breaking melody
-
----
-
-*End Chapter 7*
-
-**Word Count**: ~1,800 (Rescue, Shadow's choice, journey to sanctuary, first meeting with Taivalu)
