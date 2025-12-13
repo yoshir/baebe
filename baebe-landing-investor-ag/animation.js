@@ -105,6 +105,10 @@ class DefenderGame {
             this.canvas.width = this.width;
             this.canvas.height = this.height;
             this.initTerrain();
+            // Re-calculate slide text positions on resize
+            if (this.slidesData) {
+                this.loadAllSlides(this.slidesData);
+            }
         });
 
         this.entities = [];
@@ -112,62 +116,151 @@ class DefenderGame {
         this.stars = [];
         this.terrain = [];
         this.textLines = [];
+        this.slidesData = null; // Store for resize
 
         this.camera = {
             x: 0,
             targetX: 0,
             locked: false
         };
+        // ... (skipping unchanged lines) ...
+        loadAllSlides(slidesData) {
+            // Store for resize
+            this.slidesData = slidesData;
 
-        this.frame = 0;
-        this.isPlaying = false;
-        this.isLooping = false;
-        this.isMoving = false; // Track if player is moving for thruster animation
-        this.onSlideComplete = null; // Callback for when player reaches screen edge
-        this.onIntroComplete = null; // Callback for when intro sequence finishes
-        this.currentScene = null;
+            // Load all slide text content at once and position them
+            this.allSlideTexts = [];
+            this.textLines = [];
 
-        // Slide positioning system
-        this.SLIDE_SPACING = 2500;
-        // Start first slide at 1200 to allow for intro fly-in
-        this.slidePositions = Array.from({ length: 10 }, (_, i) => 1200 + i * this.SLIDE_SPACING);
-        this.currentSlideIndex = 0;
-        this.allSlideTexts = []; // Store all slide text content
+            const MAX_CHARS_PER_LINE = 60; // Adjust based on font size and screen width
 
-        this.colors = {
-            bg: '#000000',
-            ship: '#ffffff',
-            enemy: '#00ff00', // Green for aliens
-            terrain: '#cd5c5c', // Mars red/orange
-            laser: '#ff0000',
-            crystal: '#00ffff',
-            star: '#ffffff'
-        };
+            slidesData.forEach((slide, index) => {
+                const slideX = this.slidePositions[index];
+                const lines = slide.content.split('\n').filter(l => l.trim() !== '');
+                let yOffset = 150;
 
-        this.initStars();
-        this.initTerrain();
+                lines.forEach(line => {
+                    const trimmed = line.trim();
+                    let type = 'p';
+                    let text = trimmed;
 
-        // Input Handling
-        this.keys = {};
-        window.addEventListener('keydown', (e) => this.keys[e.code] = true);
-        window.addEventListener('keyup', (e) => this.keys[e.code] = false);
+                    // Determine type and clean text
+                    if (trimmed.startsWith('•')) {
+                        type = 'li';
+                        text = trimmed.substring(1).trim();
+                    } else if (trimmed.includes(':') && !trimmed.startsWith('•')) {
+                        type = 'h3';
+                    }
 
-        // Game State Machine
-        this.GAME_STATES = {
-            SPLASH: 'SPLASH',
-            BUILD_TERRAIN: 'BUILD_TERRAIN',
-            TELEPORT: 'TELEPORT',
-            PLAYING: 'PLAYING'
-        };
-        this.currentState = this.GAME_STATES.SPLASH;
-        this.stateTimer = 0;
-        this.buildProgress = 0; // 0 to 1 for terrain build
-    }
+                    // Text Wrapping Logic
+                    const words = text.split(' ');
+                    let currentLine = '';
+                    let wrappedLines = [];
+
+                    if (type === 'li') {
+                        // Indent wrapped lines for list items
+                        words.forEach((word, i) => {
+                            const testLine = currentLine + (i === 0 ? '' : ' ') + word;
+                            if (testLine.length > MAX_CHARS_PER_LINE) {
+                                wrappedLines.push(currentLine);
+                                currentLine = '  ' + word; // Indent subsequent lines
+                            } else {
+                                currentLine = testLine;
+                            }
+                        });
+                        wrappedLines.push(currentLine);
+                    } else {
+                        // Normal wrapping
+                        words.forEach((word, i) => {
+                            const testLine = currentLine + (i === 0 ? '' : ' ') + word;
+                            if (testLine.length > MAX_CHARS_PER_LINE) {
+                                wrappedLines.push(currentLine);
+                                currentLine = word;
+                            } else {
+                                currentLine = testLine;
+                            }
+                        });
+                        wrappedLines.push(currentLine);
+                    }
+
+                    // Add each wrapped line to textLines
+                    wrappedLines.forEach((wrappedLine, i) => {
+                        this.textLines.push({
+                            text: (type === 'li' && i === 0 ? '• ' : '') + wrappedLine,
+                            type: type,
+                            // FIX: Position text at slide position + half screen width
+                            // This places the text center at the center of the viewport when camera is at slideX
+                            x: slideX + this.width / 2,
+                            y: yOffset,
+                            slideIndex: index
+                        });
+
+                        // Spacing for next line
+                        yOffset += 30; // Standard line height
+                    });
+
+                    // Extra spacing after the block
+                    yOffset += type === 'h3' ? 30 : 15;
+                });
+            });
+        }
+        // ... (skipping unchanged lines) ...
+        // Draw Text
+        this.ctx.textAlign = 'center'; // Center text
+        this.textLines.forEach(line => {
+            // Revert patch: use standard world-to-screen conversion
+            const screenX = line.x - this.camera.x;
+            if (screenX < -500 || screenX > this.width + 500) return; // Increased cull buffer
+
+            this.frame = 0;
+            this.isPlaying = false;
+            this.isLooping = false;
+            this.isMoving = false; // Track if player is moving for thruster animation
+            this.onSlideComplete = null; // Callback for when player reaches screen edge
+            this.onIntroComplete = null; // Callback for when intro sequence finishes
+            this.currentScene = null;
+
+            // Slide positioning system
+            this.SLIDE_SPACING = 2500;
+            // Start first slide at 1200 to allow for intro fly-in
+            this.slidePositions = Array.from({ length: 10 }, (_, i) => 1200 + i * this.SLIDE_SPACING);
+            this.currentSlideIndex = 0;
+            this.allSlideTexts = []; // Store all slide text content
+
+            this.colors = {
+                bg: '#000000',
+                ship: '#ffffff',
+                enemy: '#00ff00', // Green for aliens
+                terrain: '#cd5c5c', // Mars red/orange
+                laser: '#ff0000',
+                crystal: '#00ffff',
+                star: '#ffffff'
+            };
+
+            this.initStars();
+            this.initTerrain();
+
+            // Input Handling
+            this.keys = {};
+            window.addEventListener('keydown', (e) => this.keys[e.code] = true);
+            window.addEventListener('keyup', (e) => this.keys[e.code] = false);
+
+            // Game State Machine
+            this.GAME_STATES = {
+                SPLASH: 'SPLASH',
+                BUILD_TERRAIN: 'BUILD_TERRAIN',
+                TELEPORT: 'TELEPORT',
+                PLAYING: 'PLAYING'
+            };
+            this.currentState = this.GAME_STATES.SPLASH;
+            this.stateTimer = 0;
+            this.buildProgress = 0; // 0 to 1 for terrain build
+        }
 
     initStars() {
-        this.stars = [];
-        // Sparse starfield
-        for (let i = 0; i < 30; i++) {
+            this.stars = [];
+            // Sparse starfield
+            for(let i = 0; i< 30; i++) {
             this.stars.push({
                 x: Math.random() * this.width,
                 y: Math.random() * this.height,
@@ -579,11 +672,44 @@ class DefenderGame {
             // Initialize currentScrollSpeed if not exists
             if (this.currentScrollSpeed === undefined) this.currentScrollSpeed = 0;
 
-            // Linear interpolation for smooth acceleration/deceleration
-            this.currentScrollSpeed += (targetScrollSpeed - this.currentScrollSpeed) * 0.1;
+            // SOFT SNAP LOGIC:
+            // Check if we are near a slide
+            let nearSlide = false;
+            let targetSlideX = 0;
+            const SNAP_DISTANCE = 300; // Start snapping when within 300px
 
-            // Snap to 0 if very small
-            if (Math.abs(this.currentScrollSpeed) < 0.01) this.currentScrollSpeed = 0;
+            for (let i = 0; i < this.slidePositions.length; i++) {
+                const slidePos = this.slidePositions[i];
+                const dist = Math.abs(this.camera.x - slidePos);
+                if (dist < SNAP_DISTANCE) {
+                    nearSlide = true;
+                    targetSlideX = slidePos;
+                    break;
+                }
+            }
+
+            // If player is NOT accelerating (targetScrollSpeed is 0) AND we are near a slide
+            if (targetScrollSpeed === 0 && nearSlide) {
+                // Drift towards the slide center
+                const diff = targetSlideX - this.camera.x;
+
+                // If very close, just snap
+                if (Math.abs(diff) < 2) {
+                    this.camera.x = targetSlideX;
+                    this.currentScrollSpeed = 0;
+                } else {
+                    // Apply a gentle pull towards the center
+                    // This acts like friction + magnet
+                    this.currentScrollSpeed = diff * 0.05;
+                }
+            } else {
+                // Normal movement logic
+                // Linear interpolation for smooth acceleration/deceleration
+                this.currentScrollSpeed += (targetScrollSpeed - this.currentScrollSpeed) * 0.1;
+            }
+
+            // Snap to 0 if very small (only if not in snap mode)
+            if (!nearSlide && Math.abs(this.currentScrollSpeed) < 0.01) this.currentScrollSpeed = 0;
 
             // REMOVED: Snap logic that was causing terrain cutoff
             // Player can now fly freely past all slides
@@ -883,7 +1009,7 @@ class DefenderGame {
             // Draw Text
             this.ctx.textAlign = 'center'; // Center text
             this.textLines.forEach(line => {
-                const screenX = line.x - this.camera.x;
+                const screenX = line.x - this.camera.x + this.width / 2;
                 if (screenX < -500 || screenX > this.width + 500) return; // Increased cull buffer
 
                 this.ctx.fillStyle = '#0ff';

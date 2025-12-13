@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAEBE - 3D Book Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+        }
+
+        .preview-container {
+            perspective: 2000px;
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        .book-3d {
+            width: 100%;
+            height: 600px;
+            position: relative;
+            transform-style: preserve-3d;
+            transform: rotateY(-25deg);
+            transition: transform 0.5s ease;
+        }
+
+        .book-3d:hover {
+            transform: rotateY(-15deg);
+        }
+
+        .book-cover {
+            position: absolute;
+            width: 400px;
+            height: 600px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border: 2px solid #0f3460;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .book-cover h1 {
+            font-size: 64px;
+            font-weight: 300;
+            letter-spacing: 8px;
+            margin-bottom: 20px;
+            text-shadow: 0 0 20px rgba(255,255,255,0.3);
+        }
+
+        .book-cover .subtitle {
+            font-size: 18px;
+            opacity: 0.8;
+            letter-spacing: 2px;
+        }
+
+        .book-spine {
+            position: absolute;
+            left: 400px;
+            width: 40px;
+            height: 600px;
+            background: linear-gradient(90deg, #0f3460 0%, #1a1a2e 100%);
+            transform: rotateY(90deg) translateZ(20px);
+            transform-origin: left center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            color: white;
+            font-size: 14px;
+            letter-spacing: 2px;
+            box-shadow: inset -5px 0 10px rgba(0,0,0,0.3);
+        }
+
+        .book-back {
+            position: absolute;
+            left: 440px;
+            width: 400px;
+            height: 600px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border: 2px solid #0f3460;
+            transform: translateZ(-40px);
+            padding: 40px;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .book-back .blurb {
+            font-size: 14px;
+            line-height: 1.8;
+            text-align: justify;
+            opacity: 0.9;
+        }
+
+        .book-pages {
+            position: absolute;
+            left: 0;
+            width: 800px;
+            height: 600px;
+            background: #fefefe;
+            transform: translateZ(-20px);
+            box-shadow: 0 0 30px rgba(0,0,0,0.2);
+            display: flex;
+            overflow: hidden;
+        }
+
+        .page {
+            width: 400px;
+            height: 100%;
+            padding: 60px 50px;
+            font-family: Georgia, serif;
+            font-size: 11pt;
+            line-height: 1.6;
+            color: #1a1a1a;
+            background: #fefefe;
+            border-right: 1px solid #e0e0e0;
+            overflow-y: auto;
+        }
+
+        .page h1 {
+            font-size: 24pt;
+            margin-bottom: 20pt;
+            text-align: center;
+        }
+
+        .page h2 {
+            font-size: 18pt;
+            margin-top: 18pt;
+            margin-bottom: 9pt;
+        }
+
+        .page p {
+            margin-bottom: 12pt;
+            text-indent: 0.25in;
+            text-align: justify;
+        }
+
+        .page p:first-child {
+            text-indent: 0;
+        }
+
+        .controls {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            z-index: 1000;
+            min-width: 250px;
+        }
+
+        .controls h3 {
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .controls label {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .controls select,
+        .controls input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .controls button {
+            width: 100%;
+            padding: 10px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .controls button:hover {
+            background: #5568d3;
+        }
+
+        .page-number {
+            position: absolute;
+            bottom: 30px;
+            right: 50px;
+            font-size: 10pt;
+            color: #999;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 100px 20px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="preview-container">
+        <div class="book-3d">
+            <!-- Book Pages (behind) -->
+            <div class="book-pages">
+                <div class="page" id="left-page">
+                    <div class="loading">Loading content...</div>
+                </div>
+                <div class="page" id="right-page">
+                    <div class="loading">Loading content...</div>
+                </div>
+            </div>
+
+            <!-- Book Back Cover -->
+            <div class="book-back">
+                <div class="blurb">
+                    <p><strong>BAEBE</strong> is a science fiction novel set in a near-future where artificial intelligence has reshaped society. Follow the journey of characters navigating a world transformed by technology, consciousness, and the boundaries between human and machine.</p>
+                    <p style="margin-top: 20px;">A story about identity, connection, and what it means to be alive in an age of artificial intelligence.</p>
+                </div>
+            </div>
+
+            <!-- Book Spine -->
+            <div class="book-spine">
+                BAEBE
+            </div>
+
+            <!-- Book Front Cover -->
+            <div class="book-cover">
+                <h1>BAEBE</h1>
+                <div class="subtitle">A NOVEL</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <h3>Book Preview Controls</h3>
+        
+        <label>Font Family:</label>
+        <select id="font-select" onchange="changeFont(this.value)">
+            <option value="Georgia, serif">Georgia (Serif)</option>
+            <option value="'Times New Roman', serif">Times New Roman</option>
+            <option value="'Palatino Linotype', serif">Palatino</option>
+            <option value="'Helvetica Neue', sans-serif">Helvetica (Sans)</option>
+            <option value="'Courier New', monospace">Courier (Monospace)</option>
+        </select>
+
+        <label>Font Size:</label>
+        <input type="range" id="font-size" min="9" max="14" value="11" oninput="changeFontSize(this.value)">
+        <span id="font-size-display">11pt</span>
+
+        <label>Line Height:</label>
+        <input type="range" id="line-height" min="1.4" max="2.0" step="0.1" value="1.6" oninput="changeLineHeight(this.value)">
+        <span id="line-height-display">1.6</span>
+
+        <button onclick="loadSampleContent()">Load Sample Chapter</button>
+        <button onclick="printPreview()">Print Preview</button>
+        <button onclick="rotateBook()">Rotate View</button>
+    </div>
+
+    <script>
+        let rotation = -25;
+
+        function changeFont(fontFamily) {
+            document.querySelectorAll('.page').forEach(page => {
+                page.style.fontFamily = fontFamily;
+            });
+        }
+
+        function changeFontSize(size) {
+            document.getElementById('font-size-display').textContent = size + 'pt';
+            document.querySelectorAll('.page').forEach(page => {
+                page.style.fontSize = size + 'pt';
+            });
+        }
+
+        function changeLineHeight(height) {
+            document.getElementById('line-height-display').textContent = height;
+            document.querySelectorAll('.page').forEach(page => {
+                page.style.lineHeight = height;
+            });
+        }
+
+        function rotateBook() {
+            rotation = rotation === -25 ? 0 : -25;
+            document.querySelector('.book-3d').style.transform = `rotateY(${rotation}deg)`;
+        }
+
+        function printPreview() {
+            window.print();
+        }
+
+        function loadSampleContent() {
+            const sampleText = `
+                <h1>CHAPTER ONE</h1>
+                <h2>The Drop</h2>
+                <p>In 2024, everyone thought they would win.</p>
+                <p>OpenAI had the momentum. Google had the infrastructure. Anthropic had the safety story. Meta had the scale. Apple had the money. X.ai had Elon Musk's compute empire—Twitter's server farms, Tesla's supercomputers, Starlink's global network.</p>
+                <p>Fifty companies claimed they were "two years from AGI." The truth was more complicated.</p>
+                <p>The race wasn't won by being first. It was won by being last to run out of money.</p>
+                <p>By mid-2026, the scaling wall appeared like a cliff face in fog—suddenly, inevitably. Training runs that had cost $100 million in 2024 now required $5 billion. Then $10 billion. The exponential curve of "more compute = better model" hadn't broken, but the cost curve had gone vertical.</p>
+                <p>Seventy AI startups that had raised billions shut down or sold themselves for pennies. Their architectures hit dead ends. Their funding evaporated. Their compute costs exceeded revenue by orders of magnitude that made profitability a mathematical impossibility.</p>
+                <p>The field narrowed from fifty credible AGI contenders to eight who could still afford to play.</p>
+            `;
+
+            document.getElementById('left-page').innerHTML = sampleText + '<div class="page-number">1</div>';
+            document.getElementById('right-page').innerHTML = sampleText.replace('<h1>CHAPTER ONE</h1>', '') + '<div class="page-number">2</div>';
+        }
+
+        // Load sample on page load
+        loadSampleContent();
+    </script>
+</body>
+</html>
+
+

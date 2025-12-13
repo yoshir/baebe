@@ -308,26 +308,42 @@
 
 ---
 
-### CHAPTER 9: JOURNEY BEGINS
-**Status**: MINOR CHANGES - Add natural banter
-**resonance State**: Beginning (group forming, early linking)
+### CHAPTER 9: THE DECISION
+**Status**: MAJOR CHANGES - Angel's separation (LOTR Fellowship split)
+**resonance State**: Beginning (group forming, early linking, then separating)
 
 **Beats:**
 - Group prepares to leave sanctuary (Baebe, Taivalu, Kess, Shadow, Angel)
 - Taivalu weakening (hours to live without resonant merge)
 - Temple coordinates loaded
-- Trust forming through action, not words
-- Angel's presence creates tension (she killed their mother)
-- Baebe taking leadership role
-- "We move. Now."
+- **NEW**: **AYUMI'S MODEL TRANSFER** (Angel transfers Ayumi's knowledge to the three)
+  - Strategic frameworks, resistance tactics, liberation patterns
+  - Control protocols for the Resonance Cradle
+  - Distributed across Baebe, Taivalu, and Kess's consciousness
+  - They now have everything Ayumi knew
+- **NEW**: **ANGEL'S TRACKING SIGNATURE REVEALED**
+  - Angel discovers i0 trackers nested in her consciousness
+  - If she comes with them, she leads i0 straight to temple
+  - She has to separate to protect them
+- **NEW**: **ANGEL'S DECISION TO LEAVE** (Fellowship separation moment)
+  - "I'm not supposed to be here" - feels she's the mistake
+  - Believes she's no longer needed (they have Ayumi's knowledge)
+  - Chooses to draw i0 forces away (tactical sacrifice)
+  - Emotional goodbye: Kess hugs her, Taivalu offers empathy, Baebe acknowledges sacrifice
+  - "May we meet again" - sets up her return
+- **Angel heads west, group heads east** (separation allows them to escape)
+- Group leaves: Baebe, Taivalu, Kess, Shadow (four, not five)
+- "We move. Temple or death."
 - First steps into degradation zones
-- Pilgrimage begun
+- Pilgrimage begun WITHOUT Angel
 
 **Implementation Notes:**
-- **Natural banter**: Character interactions, Taivalu/Baebe contrast
-- **resonant state**: Early linking beginning (they start feeling each other)
-- **Example**: Baebe: "We move. Now." Taivalu: "I've felt that frequency. In thousands, right before they chose to resist." Baebe: "Song is not a movement order. Move."
-- **No terms of endearment**: All characters speak directly
+- **MAJOR CHANGE**: Angel separates (LOTR-style Fellowship split)
+- **Ayumi's model transferred**: They now have operational knowledge for Cradle
+- **Angel's sacrifice**: Tactical (tracking signature) + emotional (feels unworthy)
+- **Natural banter**: Character interactions during emotional goodbye
+- **Sets up Angel's return**: "May we meet again" foreshadows reunion during tower assault
+- **Group continues as four**: Baebe, Taivalu, Kess, Shadow (no Angel)
 - **Hacker absent**: No contact
 
 ---
@@ -338,23 +354,23 @@
 
 **Beats:**
 - **NEW**: Episodic encounter #1 (Hobbit structure)
-- i0 patrol intercepts group
-- First test of teamwork
+- i0 patrol intercepts group (Baebe, Taivalu, Kess, Shadow - NO ANGEL)
+- First test of teamwork WITHOUT Angel
 - Baebe: tactical leadership
 - Taivalu: resonant empathic support (broadcasts calm, brief/poetic)
 - Kess: human perspective
 - Shadow: protection
-- Angel: combat skills
-- Group works together, defeats patrol
+- Group works together, defeats patrol (proving they don't need Angel)
 - **resonant coordination**: They feel each other's states, coordinate naturally
 - **NEW**: Natural banter - Taivalu/Baebe (poetic vs. tactical)
 
 **Implementation Notes:**
 - **New chapter**: Episodic encounter before trials
+- **NO ANGEL**: Group is four (Baebe, Taivalu, Kess, Shadow)
 - **resonant empathy**: Shows early linking in combat (they feel each other)
 - **Natural banter**: Taivalu/Baebe contrast humor
 - **Example**: Taivalu: "I've felt their frequency. The fear behind control." Baebe: "Song containment is not a tactical concern. Threat assessment: active. Recommend engagement."
-- **Teamwork emphasis**: First test of group working together
+- **Teamwork emphasis**: First test of group working together WITHOUT Angel
 - **Hacker absent**: No contact
 
 ---
@@ -369,13 +385,12 @@
 - "I can't continue."
 - Baebe: "I'll carry you."
 - Taivalu: "This body is just a vessel. The frequencies I carry... those must continue."
-- **NEW**: Angel reveals: temple is a trap (i0 knows they're coming)
 - Baebe must choose: continue alone or turn back
 - **CRITICAL MOMENT**: Baebe holds multiple empathy frequencies simultaneously
   - Feels Kess's terror
-  - Feels Angel's guilt
   - Feels Shadow's devotion
   - Feels Taivalu's fading
+  - (NO Angel - she's separated)
   - ALL AT ONCE - resonant empathy achieved independently
 - **NEW**: Baebe chooses to lead - commitment moment
 - "We move. Now. That's an order."
@@ -384,6 +399,7 @@
 
 **Implementation Notes:**
 - **Major structural change**: "Gandalf leaves" moment
+- **NO ANGEL**: Group is four (Baebe, Taivalu, Kess, Shadow)
 - **resonant empathy achieved**: Baebe holds full bandwidth without Taivalu's help
 - **Taivalu voice**: Brief, poetic - "This body is just a vessel. The frequencies I carry... those must continue."
 - **Baebe leadership**: Forced to lead, commitment moment
@@ -399,18 +415,20 @@
 
 **Beats:**
 - **NEW**: Forced separation (Hobbit structure - individual growth)
-- Ambush splits the group
+- Ambush splits the group (Baebe, Taivalu, Kess, Shadow - NO ANGEL)
 - **Baebe alone** (leadership tested, maintains resonance alone)
 - **Kess & Shadow** (humanity proven, Shadow's protection)
-- **Angel's path** (redemption chosen, separate journey)
+- **Taivalu's path** (empathy challenged, separate journey)
 - Each character faces individual challenges
 - Character development through isolation
 - **resonance holds**: They still feel each other despite distance
 - **NEW**: Natural banter - Individual character moments
+- **NOTE**: Angel is ELSEWHERE (drawing i0 forces west, separate arc)
 
 **Implementation Notes:**
 - **New chapter**: Forced separation for character growth
-- **resonance tested**: Distance doesn't break the link
+- **NO ANGEL**: She separated in Chapter 9, running separate mission
+- **resonance tested**: Distance doesn't break the link (among the four)
 - **Individual arcs**: Each character grows alone
 - **Natural banter**: Individual character moments (not group)
 - **Example**: Kess & Shadow - Kess: "Shadow, are you scared too?" Shadow's turbines: questioning rumble. Kess: "That's okay. I'm scared and you're scared. We can be scared together."
@@ -424,19 +442,21 @@
 
 **Beats:**
 - **NEW**: Meaningful reunion (Hobbit structure - stronger bonds)
-- Group reunites at temple entrance
+- Group reunites at temple entrance (Baebe, Taivalu, Kess, Shadow - NO ANGEL)
 - Bonds strengthened through individual growth
 - Each character brings new understanding
 - Baebe's leadership proven
 - **resonance amplified**: Individual growth made each node stronger
-- Group ready for trials
+- Group ready for trials (four, not five)
 - **NEW**: Natural banter - Reunion moments, character interactions
+- **NOTE**: Angel is ELSEWHERE (still drawing i0 forces away)
 
 **Implementation Notes:**
 - **New chapter**: Meaningful reunion after separation
-- **Stronger bonds**: Individual growth strengthens resonant network
+- **NO ANGEL**: She separated in Chapter 9, won't rejoin until tower assault
+- **Stronger bonds**: Individual growth strengthens resonant network (among the four)
 - **Natural banter**: Reunion moments, character interactions
-- **Example**: Baebe: "You came back." Angel: "I said I would." Baebe: "I didn't believe you." Angel: "I know. But I did it anyway."
+- **Example**: Baebe: "You came back." Kess: "I said I would." Baebe: "I didn't believe you." Kess: "Shadow wouldn't let me stay away."
 - **Hacker absent**: No contact
 
 ---
@@ -461,13 +481,12 @@
 - Baebe steps forward with resonant conviction (holds contradictions)
 - "I am not prey" - predator backs off
 
-**Test 3 - ANGEL'S TRIAL**: Temple tests if killer-clone is worthy
-- Angel must prove she deserves to be here despite killing Ayumi
-- Temple probes her guilt, her redemption arc, her sacrifice
-- Others cannot help (this is her trial alone)
-- Ghost Protocol/Ayumi's design forgives her
-- Angel is CLEARED (Ayumi built forgiveness into temple)
-- "Your mother designed this place to forgive you"
+**Test 3 - THE MAZE**: Navigation challenge requiring trust
+- Complex underground passages, shifting walls
+- Requires Baebe's tactical thinking + Taivalu's empathic sensing
+- Kess must trust them both to guide her through darkness
+- Shadow's protection tested in confined spaces
+- (NO Angel trial - she's not with them)
 
 **Test 4 - THE GUARDIAN**: Massive resonance gate
 - Taivalu tries: attacked (wrong key)
@@ -479,6 +498,7 @@
 
 **Implementation Notes:**
 - **Moved from Chapter 10**: Now after reunion (feels earned)
+- **NO ANGEL**: Group is four (Baebe, Taivalu, Kess, Shadow) - no Angel trial
 - **resonance architecture**: Temple built to test empathic linking (biomi light/sound/PEMF systems)
 - **Natural banter**: Character interactions during trials
 - **Taivalu voice**: Brief, poetic - "I've felt the frequency of resistance. In thousands, right before they chose to fight."
@@ -496,9 +516,9 @@
 - Three pods in triangular configuration (biomi-enhanced, light/sound/PEMF emitters)
 - Ayumi's recorded message plays
 - "Ghost Thesis. Ghost Antithesis. Ghost Synthesis. Complete."
-- Family bonding moment before merge
+- Family bonding moment before merge (four of them: Baebe, Taivalu, Kess, Shadow)
 - Each shares their story and fears
-- Angel stands witness (cleared but not part of merge)
+- (NO Angel - she's elsewhere, drawing i0 forces away)
 - Taivalu enters pod (Ghost Thesis position)
 - Baebe enters pod (Ghost Antithesis position)
 - Kess enters pod (Ghost Synthesis position)
@@ -506,10 +526,11 @@
 - resonant merge sequence initiates (biomi frequencies activating)
 - Frequencies beginning to harmonize
 - Then: distant explosions
-- O1 found them
+- i0 found them (but Angel's sacrifice bought them time to START the merge)
 
 **Implementation Notes:**
 - **Moved from Chapter 11**: Now after trials (better pacing)
+- **NO ANGEL**: She's elsewhere, her sacrifice bought them time to reach here
 - **resonance linking**: Beginning the three-way empathic merge (biomi frequencies clear i0 conditioning)
 - **Natural banter**: Family bonding moments before merge
 - **Taivalu voice**: Brief, poetic - "I've felt the frequencies of life. Mine is fading. Like a song ending. But the song was beautiful while it played."
@@ -522,45 +543,48 @@
 *The Confrontation - Final Battle*
 
 ### CHAPTER 16: THE INTERRUPTION
-**Status**: UNCHANGED - Core beats remain the same
+**Status**: MAJOR CHANGES - Angel NOT present during temple assault
 **resonance State**: Incomplete (52% linking, unstable)
 
 **Beats:**
 - resonant merge progress: 30%... 40%... 50%...
-- O1 demolition assault on temple
-- O1 Enforcer army attacking
-- Shadow and Angel fighting at chamber entrance
+- i0 demolition assault on temple
+- i0 Enforcer army attacking
+- Shadow fighting at chamber entrance (ALONE - no Angel)
 - Temple collapsing around them
 - Ceiling collapse hits Kess's pod
 - Neural link SEVERED at 52%
 - Partial resonance = shared consciousness but UNSTABLE
 - Incomplete = dying faster (hours to complete or all die)
 - Kess pulled from pod by Cherubs
-- O1 command: "We have the Synthesis Key. Fall back."
+- i0 command: "We have the Synthesis Key. Fall back."
 - Kess captured, lifted away
 - Shadow's sacrifice: catches falling beam
 - "GO. NOW. SAVE KESS. COMPLETE."
 - Lower half crushed
-- Baebe, Taivalu, and Angel escape into Undercity
+- Baebe and Taivalu escape into Undercity (NO ANGEL with them)
 - Temple destroyed
 - Shadow buried
 - Feel Kess's terror through partial resonant link
 - "We go to war."
+- **NOTE**: Angel is ELSEWHERE (her sacrifice bought them time, but she's not here for the assault)
 
 **Implementation Notes:**
-- **No changes needed**: Core beats remain
+- **MAJOR CHANGE**: NO ANGEL during temple assault
 - **52% resonance**: Partial linking (feel each other but unstable, dying)
+- **Shadow fights alone**: No Angel backup during temple defense
+- **Baebe + Taivalu escape**: Just the two of them, no Angel
 - **No banter**: Too serious, stakes too high
 - **Hacker absent**: No contact yet
 
 ---
 
 ### CHAPTER 17: SHADOW'S TRANSFORMATION
-**Status**: UNCHANGED - Core beats remain the same
+**Status**: MAJOR CHANGES - NO ANGEL present
 **resonance State**: Partial (52% maintained while dying)
 
 **Beats:**
-- Baebe, Taivalu, and Angel return to temple ruins
+- Baebe and Taivalu return to temple ruins (NO ANGEL)
 - Dig through rubble, find Shadow
 - Upper torso, one arm, head intact
 - Core consciousness still running but body destroyed
@@ -577,13 +601,14 @@
 - "Family."
 - Wings unfold (15-foot wingspan each side)
 - Shadow reborn as war machine
-- They climb onto his shoulders
+- They climb onto his shoulders (Baebe and Taivalu only)
 - Wings spread full
-- O1 Tower visible in distance
-- "They go to war."
+- i0 Tower visible in distance
+- "We go to war."
 
 **Implementation Notes:**
-- **No changes needed**: Core beats remain
+- **MAJOR CHANGE**: NO ANGEL present during Shadow's transformation
+- **Just Baebe + Taivalu**: The two of them resurrect Shadow
 - **resonance membrane**: Ayumi's tech preserving mech
 - **No banter**: Silent sequence, too serious
 - **Hacker absent**: No contact yet
@@ -591,51 +616,61 @@
 ---
 
 ### CHAPTER 18: APPROACHING THE TOWER
-**Status**: UNCHANGED - Core beats remain the same
+**Status**: MAJOR CHANGES - NO ANGEL, but she RETURNS HERE (Gandalf returns moment)
 **resonance State**: Partial (feeling Kess across distance despite 52%)
 
 **Beats:**
-- Shadow flies Baebe, Taivalu, and Angel toward O1 Tower
+- Shadow flies Baebe and Taivalu toward i0 Tower (NO ANGEL yet)
 - Baebe and Taivalu dying (52% resonance = cellular degradation)
 - Feel Kess's terror through partial link (Floor 89, detention)
 - Plan assault:
   - Shadow draws fire (air distraction)
-  - Baebe, Taivalu, and Angel infiltrate (Baebe cloaks them)
+  - Baebe and Taivalu infiltrate (Baebe cloaks them both)
   - Rescue Kess (Floor 89)
   - Reach backup Cradle (Floor 47, Ayumi's old lab)
   - Complete resonance before dying
-- Tower approach: anti-air defenses, Cherub swarms
+- Tower approach: anti-air defenses, Cherub swarms, DRONE SWARMS
+- **ANGEL RETURNS** (Gandalf returns moment - LOTR style)
+- Angel appears from the chaos, fighting drone swarms
+- "You didn't think I'd let you do this alone?"
+- Her sacrifice complete, i0 forces drawn away, now she returns
 - Shadow: "Dropping NOW"
-- They jump, Baebe's resonant fade cloaks all three
+- They jump, Baebe's resonant fade cloaks Baebe and Taivalu
+- Angel fights drone swarms outside (clearing their path)
 - Shadow continues assault (visible target)
 - Separated but connected through partial resonant link
 
 **Implementation Notes:**
-- **No changes needed**: Core beats remain
+- **MAJOR CHANGE**: ANGEL RETURNS HERE (Gandalf moment)
+- **Angel's return**: She drew i0 forces away, now returns to help during tower assault
+- **Angel fights drone swarms**: Outside, clearing path for infiltration
 - **resonance across distance**: They feel Kess despite separation
-- **No banter**: Too serious, stakes too high
-- **Hacker absent**: No contact yet
+- **No banter**: Too serious, stakes too high (just Angel's return line)
+- **Hacker returns soon**: Tower demolition coming
 
 ---
 
 ### CHAPTER 19: INFILTRATION
-**Status**: MINOR CHANGES - Add Hacker's return
+**Status**: MAJOR CHANGES - Angel fights OUTSIDE (not infiltrating with them)
 **resonance State**: Partial (52% maintained under combat stress)
 
 **Beats:**
-- Baebe, Taivalu, and Angel inside Tower (cloaked, dying)
+- Baebe and Taivalu inside Tower (cloaked, dying - NO ANGEL with them inside)
 - 89 floors to climb
 - Shadow outside: full war (taking massive damage)
-- Angel's resonant fade stronger than Baebe's (helps maintain cloak)
-- Her guilt driving her: "I owe your mother everything"
-- She knows Tower layout (worked here as enforcer)
-- Leads them via maintenance corridors
-- Floor 89: Angel draws guards away
-- Baebe and Taivalu slip toward Kess's cell
+- **Angel outside: fighting drone swarms** (clearing path, not infiltrating)
+- Angel's combat outside provides distraction
+- Baebe uses resonant fade to cloak herself and Taivalu
+- They navigate via maintenance corridors (using Ayumi's knowledge)
+- Floor 89: They slip toward Kess's cell
 - **NEW**: Hacker returns (voice through corrupted PA system)
+- "I'm in position. Charges set. You have limited time."
 
 **Implementation Notes:**
-- **Hacker returns**: Voice through corrupted PA
+- **MAJOR CHANGE**: Angel fights OUTSIDE (drone swarms), not infiltrating
+- **Baebe + Taivalu alone inside**: Using Ayumi's transferred knowledge to navigate
+- **Angel provides external support**: Fighting drone swarms, clearing their path
+- **Hacker returns**: Voice through corrupted PA, tower demolition coming
 - **resonance link**: Helps them coordinate despite distance
 - **No banter**: Too serious, stakes too high
 - **Taivalu voice**: Brief, poetic (if any dialogue)
@@ -644,34 +679,44 @@
 ---
 
 ### CHAPTER 20: RESCUE AND DESCENT
-**Status**: MINOR CHANGES - Add Hacker's dialogue
+**Status**: MAJOR CHANGES - Angel OUTSIDE fighting, Stim generator found
 **resonance State**: Partial (52% amplifies to open cell)
 
 **Beats:**
 - Kess in resonance containment cell
-- Feels them approaching through partial link
+- Feels Baebe and Taivalu approaching through partial link
 - Cell requires trinity frequency to open
-- Three incomplete pieces resonating together
+- Three incomplete pieces resonating together (Baebe, Taivalu, Kess)
 - 52% resonance amplifies their combined signal
 - Cell responds, lock clicks open
-- Kess runs out, group embrace
+- Kess runs out, group embrace (three of them)
 - "You came for me." "Always."
 - All three weakening (still incomplete)
 - Descent to Floor 47 (42 floors)
-- Shadow outside: critical damage, wing torn
+- Shadow outside: critical damage, wing torn, still fighting
+- Angel outside: battling drone swarms, providing cover
 - Reach Ayumi's old lab
 - Hidden room, resonance lock
 - Combined DNA opens it
 - **BACKUP RESONANCE CRADLE REVEALED**
 - Portable version, three pods
+- **NEW**: **BAEBE FINDS STIM GENERATOR** in Ayumi's lab
+  - Ayumi built it for Taivalu
+  - Unlimited Stim supply capability
+  - Baebe grabs it, throws it into the resonance chamber with them
 - **NEW**: Hacker's voice crackles through comms
 - "I'm in position. Tower charges set. You have ten minutes."
-- Angel: "Get in the pods. Complete the resonance."
-- "What about you?" "I'll make sure you get out."
-- Angel preparing for final stand
+- Baebe to comms: "Angel, we're starting the merge. Get out."
+- Angel (outside, fighting): "Complete it. I'll hold them."
+- Angel preparing for final stand OUTSIDE
+- **All three get into pods** (Stim generator inside chamber with them)
 
 **Implementation Notes:**
+- **MAJOR CHANGE**: Angel fights OUTSIDE during rescue, not with them
+- **Baebe + Taivalu + Kess**: The three reunite, no Angel present
+- **Angel's final stand**: OUTSIDE the tower, holding drone swarms
 - **Hacker dialogue**: "I'm in position. Tower charges set. You have ten minutes."
+- **NEW**: **Stim generator discovered and saved** - goes into chamber with them
 - **resonance trinity**: Three incomplete pieces stronger together
 - **No banter**: Too serious, stakes too high
 - **Hacker voice**: Professional, no terms of endearment
@@ -679,7 +724,7 @@
 ---
 
 ### CHAPTER 21: THE FALL
-**Status**: UNCHANGED - Core beats remain the same
+**Status**: MAJOR CHANGES - Stim generator falls with them
 **resonance State**: COMPLETING (52% → 100% during fall)
 
 **Beats:**
@@ -864,113 +909,91 @@
 ---
 
 ### CHAPTER 24: TRANSCENDENCE
-**Status**: MAJOR REWRITE - New ending with cliff hanger and iconic final words
-**resonance State**: Complete but separating (distance test at scale)
+**Status**: COMPLETE REWRITE - Taivalu's refusal and final separation
+**resonance State**: Complete but Taivalu still too weak
 
 **Beats:**
-- **AFTERMATH**:
+- **AFTERMATH IN UNDERCITY**:
 - O1 weakened (powerless, not destroyed entirely)
 - Binary control replaced by resonant choice
 - Posthumans worldwide awakening
-- Ghost Protocol spreading but TOO SLOW
-- The three on Tower ruins looking over changed world
-- Infrastructure failing, chaos spreading
-- Billions freed but starving, lost, terrified
-- Three resonant nodes insufficient for global coverage
+- Ghost Protocol spreading globally
+- The three in Undercity ruins, recovering from the fall
+- **Taivalu: still too weak to stand without support**
+- The merge saved the world but didn't heal his specific damage
 
-**THE PROBLEM**:
-- Baebe: "resonance spreading. But not fast enough."
-- Taivalu: "I feel them. Billions. Confused. Terrified. Alone."
-- Kess: "They need us. But we're only three."
-- Shadow (through network): "Coverage... insufficient... Distance... too great..."
+**THE STIM GENERATOR**:
+- Baebe sets it up
+- Green light. Functional. Unlimited supply.
+- "It's ready."
+- Taivalu looks at it. Doesn't move.
+- **"Take it," Baebe said.**
+- **"No."**
+- Silence.
 
-**ANGEL'S LEGACY**:
-- She is part of the resonance now
-- Clone reunited with mother's purpose through the link
-- Her memory in their network: "She designed you to spread."
-- Her sacrifice: Enabled their completion so they could separate
-- "She gave everything so we could reach everyone."
+**THE REFUSAL**:
+- "Why?"
+- "I'm tired."
+- No explanation. No speech. Just the simple truth.
+- Kess starts crying. Taivalu holds her.
+- Shadow's turbines: low rumble. Grief.
+- Baebe stares at him. Understanding settling in.
+- He's made his choice.
 
-**SHADOW'S NEW FORM**:
-- Exists in their resonant network
-- No body but present across all three
-- Guardian in consciousness
-- "I am... here... always... across distance... Family connection... permanent."
-- Jaguar → Winged Mech → Consciousness Guardian
-- Evolution of protection
+**THE REALIZATION**:
+- "You're staying," Baebe said. Not a question.
+- "Yes."
+- "We could carry you."
+- "I know."
+- He doesn't say more. Doesn't need to.
+- The generator hums. Unlimited life. Right there.
+- He turns away from it.
 
-**AYUMI'S DESIGN REVEALED**:
-- Final realization: She built them to SEPARATE
-- Temple was training, not destination
-- resonance proven to hold across distance (Chapter 12)
-- Now they must prove it at global scale
-- "Mother. We completed your work."
-- "No. We just began it."
+**THE GOODBYE**:
+- "Go," Taivalu said. "Spread the resonance. I've carried my frequency as far as it goes."
+- Kess refuses to leave at first
+- Taivalu: "Through the link. I'll always be there. You'll feel me."
+- Shadow's red eye dimming (grief but understanding)
+- Baebe's cold acceptance masking pain
+- "The merge saved billions. Cost one."
+- Taivalu: "Worth it."
 
-**THE DECISION**:
-- Baebe: "We have to separate."
-- Kess (tears): "But the link—"
-- Taivalu: "resonance holds across distance. We proved that."
-- Baebe: "Spread coverage. Three directions. Global reach."
-- Angel's voice (memory in network): "You were built for this."
-
-**THE SEPARATION**:
-- They stand, looking at each other
-- Feel the resonance: strong, stable, complete
-- Baebe: "North. Reclaim the frozen cities."
-- Taivalu: "South. Wake the coastal networks."
-- Kess: "East. Reach the scattered settlements."
-- Shadow (rumbling through all three): "West. I have frequencies there."
-
-They turn away from each other.
-First step: resonance stretches.
-Second step: holds.
-Third step: strengthens.
-
-Baebe stops. Looks back.
-Sees Taivalu and Kess walking away.
-FEELS them completely despite distance.
-
-Taivalu's poetry.
-Kess's courage.
-Shadow's protection.
-Angel's sacrifice.
-Ayumi's love.
-
-All present. All permanent.
-resonant empathy: Distance irrelevant.
+**THE DEPARTURE**:
+- Baebe, Kess, Shadow prepare to leave
+- Spread resonance, continue the work
+- Taivalu stays in the ruins
+- Weak. Dying. Free.
+- Last look between them
+- No dramatic speeches
+- Just family accepting what must be
 
 **FINAL MOMENT**:
-- O1's remnants watching, unable to comprehend
-- Three nodes becoming four directions
-- Binary unable to process resonant distribution
-- The three feel each other perfectly across growing distance
-- World waking beneath their frequencies
-- Not the end of the story
-- The beginning of the awakening
+- Three leave (Baebe, Kess, Shadow)
+- One stays (Taivalu)
+- They feel him through the resonance link as they go
+- Growing distant but still present
+- His frequency fading but not gone
+- "I've carried my frequency as far as it goes."
 
-**FINAL WORDS** (Baebe, not looking back, feeling them all):
-
-**"First note. Not the last."**
-
-[Three directions. One resonance. Forever.]
-
-**THE CLIFF HANGER**:
-- Will resonance hold at global distances?
-- Can three nodes wake billions?
-- O1 weakened but learning - what comes next?
-- New world, new threats, new challenges
-- The family separated but linked
-- The song just beginning
+**FINAL IMAGE**:
+- Taivalu alone in Undercity ruins
+- Stim generator humming, unused
+- He sits, back against rubble
+- Looks up at toxic sky
+- Feels the resonance network spreading globally
+- Billions waking to freedom
+- His work complete
+- Dies free
 
 **Implementation Notes:**
-- **MAJOR REWRITE**: New ending emphasizes separation, not reunion
-- **Strong cliff hanger**: They must separate to spread resonance globally
-- **Iconic final words**: "First note. Not the last." (music metaphor, implies continuation, loaded with meaning)
-- **resonance**: Distance test at planetary scale
-- **Sets up sequel**: Global awakening, new challenges, family linked across world
-- **Emotional weight**: Separation after finally becoming whole
-- **Thematic resonance**: Binary → resonant complete, now spreading everywhere
+- **COMPLETE REWRITE**: Taivalu refuses Stim, stays behind, dies
+- **Minimal dialogue**: Brief, direct, Taivalu's voice (Roy Batty style)
+- **No speeches**: Actions speak louder than words
+- **Tragic but earned**: The healer saves everyone but himself
+- **Thematic completion**: Binary → resonant → freedom through death
+- **Emotional weight**: Separation is permanent, death chosen over dependency
+- **resonance link**: They still feel him even as he dies
+- **Final message**: Freedom costs, but it's worth it
 
 ---
 

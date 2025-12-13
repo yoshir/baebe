@@ -1,0 +1,82 @@
+% BAEBE Book Template for Pandoc
+% Creates a print-ready book layout
+
+\documentclass[11pt,twoside,openright]{book}
+\usepackage[paperwidth=5.5in,paperheight=8.5in,margin=0.75in]{geometry}
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+
+% Font settings
+\setmainfont{Georgia}[
+    SizeFeatures={
+        {Size={-}, OpticalSize=0}
+    }
+]
+
+% Page headers and footers
+\fancyhf{}
+\fancyhead[LE]{\leftmark}
+\fancyhead[RO]{\rightmark}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\pagestyle{fancy}
+
+% Chapter formatting
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries\centering}
+{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+
+% Paragraph formatting
+\setlength{\parindent}{0.25in}
+\setlength{\parskip}{0pt}
+\linespread{1.6}
+
+% Prevent orphans and widows
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
+% Chapter first page - no indent
+\let\oldchapter\chapter
+\renewcommand{\chapter}{\clearpage\oldchapter}
+
+% Custom commands
+\newcommand{\newscene}{\vspace{12pt}\noindent\rule{0.3\textwidth}{0.4pt}\vspace{12pt}}
+
+% Title page
+\newcommand{\maketitlepage}{
+    \thispagestyle{empty}
+    \vspace*{\fill}
+    \begin{center}
+        {\Huge\bfseries BAEBE}
+        \vspace{24pt}
+        
+        {\Large A Novel}
+        \vspace{48pt}
+        
+        {\large Your Name}
+    \end{center}
+    \vspace*{\fill}
+    \newpage
+}
+
+% Copyright page
+\newcommand{\makecopyrightpage}{
+    \thispagestyle{empty}
+    \vspace*{\fill}
+    \begin{center}
+        \small
+        Copyright \copyright\ 2025 Your Name
+        
+        All rights reserved.
+    \end{center}
+    \vspace*{\fill}
+    \newpage
+}
+
+

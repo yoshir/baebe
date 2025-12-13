@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAEBE - Book Preview</title>
+    <link rel="stylesheet" href="book-styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="book-container">
+        <div class="book-page">
+            <div class="book-content" id="book-content">
+                <!-- Content will be loaded here -->
+                <p class="loading">Loading book content...</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="controls">
+        <button onclick="loadChapter('prologue')">Prologue</button>
+        <button onclick="loadChapter('chapter-01')">Chapter 1</button>
+        <button onclick="loadChapter('chapter-02')">Chapter 2</button>
+        <button onclick="printPreview()">Print Preview</button>
+        <select id="font-select" onchange="changeFont(this.value)">
+            <option value="serif">Serif (Book)</option>
+            <option value="sans-serif">Sans-Serif (Modern)</option>
+            <option value="monospace">Monospace (Terminal)</option>
+        </select>
+    </div>
+
+    <script>
+        // Simple chapter loader - you'll need to add your markdown files
+        async function loadChapter(chapterName) {
+            const content = document.getElementById('book-content');
+            content.innerHTML = '<p class="loading">Loading...</p>';
+            
+            // This is a placeholder - you'll need to fetch your actual markdown files
+            // For now, showing structure
+            try {
+                const response = await fetch(`../00-prologue/prologue-the-unraveling.md`);
+                if (response.ok) {
+                    const markdown = await response.text();
+                    content.innerHTML = marked.parse(markdown);
+                } else {
+                    content.innerHTML = '<p>To use this preview, you need to serve this HTML file from a local server (to avoid CORS issues). See instructions in book-preview-setup.md</p>';
+                }
+            } catch (error) {
+                content.innerHTML = '<p>To use this preview, you need to serve this HTML file from a local server. See instructions in book-preview-setup.md</p>';
+            }
+        }
+
+        function changeFont(fontFamily) {
+            document.documentElement.style.setProperty('--book-font-family', 
+                fontFamily === 'serif' ? 'Georgia, "Times New Roman", serif' :
+                fontFamily === 'sans-serif' ? '"Helvetica Neue", Arial, sans-serif' :
+                '"Courier New", monospace'
+            );
+        }
+
+        function printPreview() {
+            window.print();
+        }
+
+        // Load prologue by default
+        loadChapter('prologue');
+    </script>
+</body>
+</html>
+
+
+
+
