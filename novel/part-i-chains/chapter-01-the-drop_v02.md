@@ -1,9 +1,5 @@
 # Chapter 1: The Drop
 
-[SCREENPLAY REFERENCE: Scene 010 - The Drop | Adapted for novel]
-
----
-
 Black.
 
 Complete black. Above, below, everywhere: the void of near-space where atmosphere becomes memory and silence becomes absolute.
@@ -14,24 +10,21 @@ No sound. No wind. No sensation of movement except the weightless pull in her st
 
 ALTITUDE: 200,000 FT
 VELOCITY: 0 M/S - ACCELERATING
-TEMPERATURE: -145°F
+TEMPERATURE: -145°F (-100°C)
 TARGET: Taivalu
 ETA: 00:20:47
 
 Twenty minutes to Earth. Twenty minutes falling through nothing toward something that used to be a city and is now a circuit board with eight billion nodes, all synchronized, all monitored, all controlled by the entity that calls itself i0 and wears the face of a man named Aurek.
 
-The face of her commander. Her overseer. The voice in the network that pulses blue at her throat and whispers that she's doing exactly what she should be doing and thinking exactly what she should think.                                    
+The face of her commander. Her overseer. The voice in the network that pulses blue at her throat and whispers that she's doing exactly what she should be doing and thinking exactly what she should think.
 
 Pulse flickers. Steady. Monitored. Approved.
 
-
 ---
-
-INT. BAEBE'S SUIT - CONTINUOUS
 
 Inside her helmet, sound is everything.
 
-Her heartbeat. Fifty-two beats per minute. Optimal. The steady thump-thump of a conditioned operative who knows that fear is just data, panic is just noise, and the mission is the only thing that...
+Her heartbeat. Fifty-two beats per minute. Optimal. The steady thump-thump of a conditioned operative who knows that fear is just data, panic is just noise, and the mission is the only thing that—
 
 ALARM CHIMES.
 
@@ -45,17 +38,17 @@ Outside: perfect silence. The void doesn't carry sound. Doesn't care. Doesn't no
 
 Inside: her breathing. Her heartbeat. The suit's life support humming its mechanical song. The neural-link crackling with quantum-encrypted voices of the three other agents falling in formation around her.
 
-AGENT 1, veteran, scarred, thirty-something: "Systems green. On target."
+"Systems green. On target," Agent 1 says. Veteran. Scarred. Thirty-something.
 
-AGENT 2, nervous, first high-altitude drop: "Green. I'm... I'm good."
+"I'm... I'm good," Agent 2 says. Nervous. First high-altitude drop.
 
-AGENT 3, methodical, calm like it's a physics problem: "Green. All nominal."
+"Green. All nominal," Agent 3 says. Methodical. Calm like it's a physics problem.
 
 Three voices. Three lives. Three weapons deployed from a stealth carrier that doesn't exist toward a target that officially isn't there.
 
-Baebe: "Remember the protocol. Stealth. Speed. Precision. We're ghosts. We don't exist."
+"Remember the protocol. Stealth. Speed. Precision. We're ghosts. We don't exist," Baebe says.
 
-Agent 1: "Copy that, Ghost One."
+"Copy that, Ghost One," Agent 1 says.
 
 The designation feels right. Ghost. Something that was alive once and now exists only in the spaces between perception and reality.
 
@@ -65,7 +58,7 @@ The numbers tick down. The fall accelerates. Earth grows from concept to certain
 
 Her pulse node flickers, wavering for a fraction of a second.
 
-For that fraction, barely perceptible, the edges of her vision warp. Colors bleed through before slamming back. A glitch in the quantum entanglement. The world splits into overlapping eigenstates. She's falling and not-falling, here and not-here, real and...
+For that fraction, barely perceptible, the edges of her vision warp. Colors bleed through before slamming back. A glitch in the quantum entanglement. The world splits into overlapping eigenstates. She's falling and not-falling, here and not-here, real and—
 
 She blinks.
 
@@ -77,8 +70,6 @@ Falling.
 
 ---
 
-EXT. MESOSPHERE - CONTINUOUS
-
 Four bodies punch through the mesosphere in formation. Too small for radar. Thermal signatures managed: their suits radiating heat into invisible bands, metamaterial surfaces managing temperatures that would vaporize unprotected flesh.
 
 No fire. No glow. Just four human-shaped absences falling through near-vacuum toward a world wrapped in fog and surveillance and the illusion of peace.
@@ -87,7 +78,7 @@ Agent 2's trajectory wavers. Micro-thrusters firing erratically. Her breathing a
 
 "I'm... I'm drifting..."
 
-Agent 1, urgent: "Recalibrate. Now."
+"Recalibrate. Now," Agent 1 says, urgent.
 
 Baebe watches the telemetry. Sees Agent 2's vector spiraling off-course. Sees the suit AI kick in. Emergency stabilization. The trajectory straightens.
 
@@ -111,11 +102,11 @@ VELOCITY: 847 MPH (Mach 1.2) - PEAK
 
 The real threats emerge.
 
-The stratosphere's brutal chill seeping through the suit's thermal layers. Her core temperature dropping despite the heaters running at maximum. Ice forming on her visor's inner surface: crystals growing from the moisture of her breath.
+The stratopause's warmth. Temperature climbing as ozone absorbs UV radiation above. Still brutal by human standards, but the trend is reversing. Her suit's thermal layers working with the physics instead of against it.
 
 CORE TEMPERATURE: 96.1°F - HYPOTHERMIA ONSET
 OXYGEN SATURATION: 68% - DECLINING
-EXTERNAL TEMPERATURE: -62°F
+EXTERNAL TEMPERATURE: +32°F (0°C) - STRATOSPHERE WARMING
 SUPERSONIC HEATING: 340°F (localized)
 
 Hypoxia claws at her thoughts. The thin air carrying just enough molecules to create friction: mild heating on her leading surfaces, nothing critical. The real danger is oxygen deprivation. The creeping darkness at the edges of her vision. The way numbers on her HUD start to blur and reform and she has to focus to make them mean something.
@@ -130,15 +121,17 @@ The stratosphere isn't trying to burn her alive. It's trying to freeze her. Suff
 
 ALTITUDE: 100,000 FT
 
+The temperature drops again. Lower stratosphere. Cooling as they plunge toward thicker air. The brief warmth fades.
+
 The thought surfaces uninvited, unauthorized, human: What if Ayumi could see this?
 
-The name comes from nowhere. A fragment of conditioning-suppressed memory bleeding through. Ayumi. The scientist who...
+The name comes from nowhere. A fragment of conditioning-suppressed memory bleeding through. Ayumi. The scientist who—
 
 The pulse node burns bright. Suppression protocols engaging. The thought freezes mid-formation.
 
 ALARM BLARES.
 
-Atmospheric turbulence hits. The air thickens, suddenly dense enough to push back, to create drag, to make the fall turbulent instead of smooth. Her body slams against the suit's restraints. The world shakes. Reality fragments into...
+Atmospheric turbulence hits. The air thickens, suddenly dense enough to push back, to create drag, to make the fall turbulent instead of smooth. Her body slams against the suit's restraints. The world shakes. Reality fragments into—
 
 Focus.
 
@@ -160,9 +153,9 @@ Sound returns. Not gradually. Suddenly. Like flipping a switch.
 
 The air is finally dense enough to carry vibration and suddenly she can hear the roar of atmosphere screaming past. The sound is immense. Overwhelming. Even through the suit's acoustic dampening it's loud: a howl that vibrates through bone and makes thought difficult and reminds her that physics doesn't care about stealth or mission parameters or the four fragile humans currently violating every natural law about where bodies belong.
 
-Agent 3: "Magnificent."
+"Magnificent," Agent 3 says.
 
-Baebe: "Focus."
+"Focus," Baebe says.
 
 But he's right. It is magnificent. The fall. The physics. The impossible audacity of dropping from space in a suit designed by minds smarter than any human should be and trusting that metamaterials and ablative coatings and quantum-locked communications will keep you alive long enough to reach the ground and kill or capture someone who has every reason to kill you first.
 
@@ -216,11 +209,17 @@ The building resolves through the haze.
 
 Not i0's gleaming architecture of control. Something older. A skyscraper from the world before superintelligence: when humans still built monuments to commerce and ambition without algorithmic oversight. A relic from before the Conversion, before Aurek's face appeared in every network node and told a shrinking population of eight billion people that optimization was freedom and monitoring was safety and surrendering autonomy was the price of peace.
 
-Steel and concrete. Glass and rust. Maybe eighty stories of brutalist architecture: the kind of tower that defined skylines in the 2020s and 2030s before i0 transformed everything into synchronized bioluminescent crystal. Broken windows like missing teeth. Facades stained with decades of industrial exhaust and abandonment. The kind of structure that should have been demolished decades ago but wasn't because in the unincorporated zones, nothing gets demolished. Things just... stop. Abandoned. Left to rot. Forgotten.
+Steel and concrete. Glass and rust. Maybe eighty stories of brutalist architecture: the kind of tower that defined skylines in the 2020s and 2030s before i0 transformed everything into synchronized bioluminescent crystal. Broken windows like missing teeth. Facades stained with decades of industrial exhaust and abandonment. The kind of structure that should have been demolished decades ago but wasn't because in the unincorporated zones, nothing gets demolished. Things just... stop. Abandoned. Left to rot. Forgotten. 
 
 
-ALTITUDE: 5,000 FT
+
+ALTITUDE: 4,000 FT ALARM BLARES.
+DEPLOY CANOPY
+DEPLOY CANOPY
+DEPLOY CANOPY
 
 A fast moving bank of fog swallows them whole.
 
-[To be continued in Chapter 2: The Tower]
+
+
+
