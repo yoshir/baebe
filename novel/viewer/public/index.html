@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,notranslate" />
+    <meta name="referrer" content="no-referrer" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>BAEBE</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#0e0d0c" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="BAEBE" />
+    <meta name="format-detection" content="telephone=no,date=no,email=no,address=no" />
+  </head>
+  <body class="reader-body theme-sepia" oncontextmenu="return false">
+    <div id="app" class="reader-app" data-ui-visible="true">
+      <!-- Top bar -->
+      <header class="reader-topbar" aria-label="Reader controls">
+        <button class="iconbtn" id="btn-toc" aria-label="Table of contents">☰</button>
+        <div class="reader-title-wrap">
+          <div class="reader-part-title" id="part-title"></div>
+          <div class="reader-chapter-title" id="chapter-title">BAEBE</div>
+        </div>
+        <button class="iconbtn" id="btn-settings" aria-label="Reader settings">Aa</button>
+      </header>
+
+      <!-- Reading surface -->
+      <main class="reader-stage" aria-label="Reader">
+        <div class="reader-watermark" id="watermark" aria-hidden="true"></div>
+        <div class="reader-frame" id="frame">
+          <article class="reader-content" id="content"></article>
+        </div>
+        <!-- Tap regions for prev/next/UI toggle -->
+        <button class="tap tap-prev" id="tap-prev" aria-label="Previous page"></button>
+        <button class="tap tap-toggle" id="tap-toggle" aria-label="Toggle controls"></button>
+        <button class="tap tap-next" id="tap-next" aria-label="Next page"></button>
+      </main>
+
+      <!-- Bottom bar -->
+      <footer class="reader-bottombar" aria-label="Progress">
+        <div class="reader-progress">
+          <span id="page-info">— / —</span>
+          <span class="reader-sep">•</span>
+          <span id="chapter-progress">0%</span>
+        </div>
+        <div class="reader-copyright" id="copyright">© Ryan Yoshimoto</div>
+      </footer>
+
+      <!-- TOC drawer -->
+      <aside class="drawer drawer-left" id="toc" aria-label="Table of contents" hidden>
+        <div class="drawer-header">
+          <h2>Contents</h2>
+          <button class="iconbtn" id="btn-close-toc" aria-label="Close">✕</button>
+        </div>
+        <nav class="toc-list" id="toc-list"></nav>
+        <div class="drawer-footer">
+          <form method="post" action="/logout">
+            <button type="submit" class="ghostbtn">Sign out</button>
+          </form>
+        </div>
+      </aside>
+
+      <!-- Settings drawer -->
+      <aside class="drawer drawer-right" id="settings" aria-label="Reader settings" hidden>
+        <div class="drawer-header">
+          <h2>Display</h2>
+          <button class="iconbtn" id="btn-close-settings" aria-label="Close">✕</button>
+        </div>
+        <div class="settings-body">
+          <div class="setting-row">
+            <span class="setting-label">Theme</span>
+            <div class="seg" role="radiogroup" aria-label="Theme">
+              <button class="seg-btn" data-theme="light" role="radio">Light</button>
+              <button class="seg-btn" data-theme="sepia" role="radio">Sepia</button>
+              <button class="seg-btn" data-theme="dark" role="radio">Dark</button>
+              <button class="seg-btn" data-theme="night" role="radio">Night</button>
+            </div>
+          </div>
+
+          <div class="setting-row">
+            <span class="setting-label">Font</span>
+            <div class="seg" role="radiogroup" aria-label="Font family">
+              <button class="seg-btn" data-font="serif" role="radio">Serif</button>
+              <button class="seg-btn" data-font="sans" role="radio">Sans</button>
+              <button class="seg-btn" data-font="mono" role="radio">Mono</button>
+            </div>
+          </div>
+
+          <div class="setting-row">
+            <span class="setting-label">Size</span>
+            <div class="seg seg-stepper">
+              <button class="seg-btn" data-size="-1" aria-label="Smaller">A−</button>
+              <span class="seg-value" id="size-val">100%</span>
+              <button class="seg-btn" data-size="+1" aria-label="Larger">A+</button>
+            </div>
+          </div>
+
+          <div class="setting-row">
+            <span class="setting-label">Line height</span>
+            <div class="seg seg-stepper">
+              <button class="seg-btn" data-lh="-1" aria-label="Tighter">−</button>
+              <span class="seg-value" id="lh-val">1.6</span>
+              <button class="seg-btn" data-lh="+1" aria-label="Looser">+</button>
+            </div>
+          </div>
+
+          <div class="setting-row">
+            <span class="setting-label">Margin</span>
+            <div class="seg seg-stepper">
+              <button class="seg-btn" data-margin="-1" aria-label="Narrower">−</button>
+              <span class="seg-value" id="margin-val">M</span>
+              <button class="seg-btn" data-margin="+1" aria-label="Wider">+</button>
+            </div>
+          </div>
+
+          <div class="setting-row setting-note">
+            <p>
+              This is a private, copyrighted reading copy. Each page is watermarked with your
+              session. Sharing or redistribution is prohibited.
+            </p>
+          </div>
+        </div>
+      </aside>
+
+      <div class="scrim" id="scrim" hidden></div>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

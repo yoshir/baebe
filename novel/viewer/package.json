@@ -1,0 +1,24 @@
+{
+  "name": "baebe-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kindle-style web reader for the BAEBE novel with copyright protections",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "express-session": "^1.18.0",
+    "helmet": "^7.1.0",
+    "marked": "^13.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

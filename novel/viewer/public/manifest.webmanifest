@@ -1,0 +1,12 @@
+{
+  "name": "BAEBE",
+  "short_name": "BAEBE",
+  "description": "Private reading copy of BAEBE by Ryan Yoshimoto.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5ecd6",
+  "theme_color": "#0e0d0c",
+  "icons": []
+}
