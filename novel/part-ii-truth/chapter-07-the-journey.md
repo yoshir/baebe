@@ -22,7 +22,7 @@ Kess's fingers moved across the cracked screen. Green figure navigating green ma
 
 Baebe's breathing: shallow. Steady. There.
 
-Shadow's turbines: questioning frequency. Concerned purr. Is she okay?
+Shadow's turbines: questioning frequency. Concerned purr.
 
 "She's breathing," Kess said quietly. Reassuring him. Reassuring herself. "Shoulder's wrong. Ribs too. We just need to get back to the lab. Tai will know what to do."
 
