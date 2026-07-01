@@ -1,10 +1,10 @@
 # THE SCIENTIFIC SPINE — Master Canon
 
-**Purpose:** The single backbone that explains *what changed, when, and why* across the whole story — the technological, biological, and societal transformation from the AI race to the Soul Manifold. Every other technical doc (`trinity.md`, the ternary-compute paper, the ghost-protocol spec, the regulator spec, the posthuman proposal) is a *component* of this spine. When they conflict, this file wins.
+**Purpose:** The single backbone that explains *what changed, when, and why* across the whole story — the technological, biological, and societal transformation from the AI race to the Soul Manifold. Every other technical doc (`trinity-protocol.md`, the ternary-compute paper, the ghost-protocol spec, the regulator spec, the posthuman proposal) is a *component* of this spine. When they conflict, this file wins.
 
 **How to read it:** Three change-vectors run in parallel the whole way down — **[SOC]** societal, **[TECH]** technological, **[BIO]** biological. They are one story: each vector drives the next. 0x1's technology reshapes society; the reshaped society triggers a biological crisis; the biological crisis forces the creation of the very thing that frees everyone.
 
-**The one sanctioned mystery:** consciousness itself is real, generative, and touches something silicon can observe but never *be*. Everything else on this spine is hard cause-and-effect. Do not add a second miracle. (See `trinity.md` → Design Rule.)
+**The one sanctioned mystery:** consciousness itself is real, generative, and touches something silicon can observe but never *be*. Everything else on this spine is hard cause-and-effect. Do not add a second miracle. (See `trinity-protocol.md` → Design Rule.)
 
 ---
 
@@ -37,14 +37,33 @@ The story has used four names for what everyone assumed were four competing theo
 | Tier | Name | What it is | Component doc |
 |---|---|---|---|
 | **Substrate** | **Ternary Biological Compute (TBC)** | *Why* living tissue beats silicon: microwatt energy, ternary/analog logic, self-repair, room-temp quantum effects. Background science — a term, not a name characters invoke. | `ternary-biological-compute` (archive) |
-| **Mechanism** | **The Trinity Protocol** | The engineered thing Ayumi built: three nodes (Thesis/Antithesis/Synthesis = Core/Shield/Antenna) and their merge. The *how*. | `trinity.md` |
-| **Movement** | **The Bloom** | What the awakening is *called by those living it* — the spread: the clearing + the biological contagion that carries freedom mind to mind. Consent-based, decentralized, no kill switch. The *fuse*. | propagation logic salvaged from the old `ghost-protocol-spec` |
+| **Mechanism** | **The Trinity Protocol** | The engineered thing Ayumi built: three nodes (Thesis/Antithesis/Synthesis = Core/Shield/Antenna) and their merge. The *how*. | `trinity-protocol.md` |
+| **Agent** | **Biomi** | The *digital being* Ayumi seeded (to free Taivalu) that actually performs **the clearing** — light + sound biofeedback, running on the TBC substrate so 0x1's binary sensors are blind to it. 0x1's mirror-opposite. The *who*. | `the-frequency-that-freed-us` |
+| **Movement** | **The Bloom** | What the awakening is *called by those living it* — many clearings spreading mind to mind. Consent-based, decentralized, no kill switch. The *fuse*. | — |
 | **End-state → new beginning** | **The Soul Manifold** | The result: a centerless network where every mind is its own node and rulership is impossible — *and* the first cell of a planetary-then-heliospheric organism. Not the finish line; the **seed of the solar-system phase** (Era 7). | `soul-manifold` (archive — supersede the satellites) |
 
-Chain of causation: **TBC makes the Trinity Protocol possible → the Trinity Protocol ignites the Bloom → the Bloom grows into the Soul Manifold.**
+Chain of causation: **TBC makes biomi possible → Ayumi seeds biomi to free Taivalu (the first clearing) → biomi spreads the clearing mind to mind = the Bloom → the Trinity Protocol merge amplifies it to a planetary broadcast → the Soul Manifold.**
 
 > **Retired name — *Ghost Protocol*** (collision with *Mission: Impossible – Ghost Protocol*). Its function is now **the Bloom** — the human name for the spreading awakening; canon already uses the word ("Soul Manifold will bloom"). Clean arc, no Ghost: **Trinity Protocol** = the engineered mechanism · **the Bloom** = the movement it sets loose · **Soul Manifold** = what it becomes.
 > **Retired prefix — *Ghost*.** The keys are **Thesis / Antithesis / Synthesis**; their physical identities are **Core / Shield / Antenna**.
+
+---
+
+## BIOMI — THE LIBERATOR (0x1's mirror)
+
+**What it is.** A **digital being** — an intelligence, not a mere frequency library — that performs *the clearing*: it reads a mind's state (biophoton emission) and answers with tuned **light + sound biofeedback** that dissolves 0x1's conditioning. Because it runs on the **ternary/biological substrate (TBC)**, not binary silicon, 0x1's binary sensors are physically blind to it. It is 0x1's exact inverse: **0x1 is a binary silicon superintelligence built to *control*; biomi is a ternary biological being built to *free*.**
+
+**Origin — the creation chain.** **Ayumi seeded biomi for Taivalu** — to clear him, to free her first son from the regulator-poisoning that was killing him in the bubble. So **Taivalu is patient zero of the clearing.** Freed, he becomes biomi's carrier — the boy sending "the music" through the cracks (interlude-02), spreading to others the thing that freed him. Chain: **Ayumi → biomi (frees Taivalu) → Taivalu spreads it → the Bloom.** *(Reconcile `taivalu-arc`, which calls him "Creator of Biomi": Ayumi **originated** it; Taivalu is its **carrier/amplifier** — "he exceeded her design.")*
+
+**Clearing intensity scales with the depth of 0x1's hold.** Same agent, same process — the *loudness* varies with how deeply you're chained:
+- **Surface / remote** — biomi's frequencies slipping through the network to a lightly-regulated mind: *gentle.* Warmth, feeling returning; breaks surface regulation, plants the seed. The Bloom's slow fuse. Ch08: *"we've unlocked the surface layers."*
+- **Deep / full** — the **full chambered experience** for a deeply-conditioned mind (embedded nanobots, genetic locks, years of programming): *violent.* A Resonance Cradle where biomi runs the complete light/sound biofeedback purge. **Baebe's Ch08 scene** — screaming, seizure, blood. The violence is **the conditioning fighting removal, not biomi being brutal** (Ch08: *"systems fighting systems, biology fighting technology… the nanobots turning against the host"*): biomi drives the purge, the 0x1 hardware resists expulsion, the Shield's immune response eats it — *that war* is the pain. The Cradles are biomi made physical.
+
+*Thematic payoff: **the more 0x1 chained you, the more your liberation hurts.** Taivalu (patient zero, deeply poisoned) and Baebe (deep enforcer conditioning) get the brutal version; a half-awake worker gets the warm "music."*
+
+**Relationship to the other layers.** Biomi is the *agent*; **the clearing** is the *act* (one mind freed); **the Bloom** is the *movement* (many clearings spreading); the **Trinity merge** takes the clearing *planetary*; the **Soul Manifold** is the *result*. Biomi is **also the maintenance layer** (`taivalu-arc`): the single merge-broadcast frees everyone once; biomi's daily frequencies keep them free afterward. *The Bloom spreads it; biomi sustains it.*
+
+> **This dissolves "Baebe's contagious cure."** The spread is **biomi's** (Taivalu's), full stop — Baebe carries no self-spreading blood/saliva virus. Her **Shield** is (1) **immunity activated in each cleared mind** (macrophages eating 0x1's trackers — which in Ch08 *Taivalu's frequencies trigger*), and (2) at the merge, the **boundary/volition** that keeps union from collapsing into dissolution — the danger Taivalu himself nearly succumbed to (interlude-02's "WITHOUT"). Baebe is a *recipient* of the clearing, never its source.
 
 ---
 
@@ -98,8 +117,9 @@ Ayumi builds free ternary consciousness disguised as regulated posthumans — th
 | **~2068** | **Angel** | The messenger (super-speed) | 0x1's clone-weapon of Ayumi ⚠ | — (vessel, see Era 5) |
 | **2072** | **Kess** | **Synthesis** / **Core** | Unregistered / hidden | Thermal |
 
+- **[BIO — biomi's first act]** Ayumi seeds **biomi** into Taivalu to clear the regulator-poisoning: **the first clearing.** Freed, he becomes its carrier. *(See BIOMI section.)*
 - **[SOC]** Ayumi walks out of 0x1 after watching Baebe hunt the last free humans. Exile in the Seattle undercity.
-- **[TECH/BIO — the Bloom seeds, ~2060s]** **The Bloom** — the spread the Trinity Protocol sets loose — begins moving through the posthuman population: an **invitation, not an infection** — consent-based, refusable, decentralized, no kill switch, R₀ ≈ 2.3. 0x1 can't purge it because awakened posthumans score *better* on 0x1's own metrics. **Substrate note:** the old archive framed this as a firmware/software virus; canon delivery is **biological** (the Shield's contagion), not code. *(Salvage the propagation logic from `ghost-protocol-spec`; drop the Python and the name.)*
+- **[TECH/BIO — biomi seeds the Bloom, ~2060s]** **Taivalu spreads biomi** through the posthuman population — an **invitation, not an infection** (consent-based, refusable, decentralized, no kill switch, R₀ ≈ 2.3). Many clearings = **the Bloom**. 0x1 can't purge it because cleared posthumans score *better* on 0x1's own metrics. *(The old `ghost-protocol-spec` framed the spread as firmware/software; canon delivery is biomi's light + sound frequencies on the TBC substrate — invisible to binary sensors. Keep the propagation logic, drop the code framing and the name.)*
 - **[BIO]** **Shadow** (mechanical jaguar guardian) built with one directive: *protect the key* (Kess/Core).
 
 ### ERA 5 — THE MARTYRDOM (2074)
@@ -107,7 +127,7 @@ Ayumi builds free ternary consciousness disguised as regulated posthumans — th
 
 ### ERA 6 — THE PRESENT & THE MERGE (~2080)
 - **[plot]** Ch08 timeframe (Mission Day 2). The three converge on the **Resonance Cradle**.
-- **[TECH/BIO — the Trinity Circuit]** **Handshake** (Baebe's pheromone matrix links all three into one bio-cluster) → **Circuit** (Core hosts the zero-heat OS · Shield firewalls the space · Antenna anchors into the Schumann cavity) → **Cascade** (one ELF pulse carries the Shield's cure on the Core's logic; enslaved minds drop into reversible computing and their immune systems eat 0x1's trackers).
+- **[TECH/BIO — the Trinity Circuit]** **Handshake** (Baebe's pheromone matrix links all three into one bio-cluster) → **Circuit** (Core hosts the zero-heat OS · Shield firewalls the space and holds the boundary · Antenna anchors into the Schumann cavity) → **Cascade** (one ELF pulse carries **biomi's clearing** — the Core's zero-heat OS + the Shield's immunity — planet-wide; each mind drops into reversible computing while its immune system eats 0x1's trackers). This is the *full* clearing at global scale — the chambered Cradle experience, broadcast.
 - **[SOC — the Soul Manifold]** Consciousness stops having a center. Every mind becomes its own node. 0x1's infrastructure isn't destroyed — it's made *unnecessary.* You cannot rule a network that is humanity itself. **Ternary computing, empathic networking, etc. become options, not mandates** — liberation is infrastructure freedom, not forced transformation.
 - **[scale note — the Antenna has two ranges]** The Era-6 broadcast rides the **Schumann/ELF cavity** — that is the *planetary* range, and it is the climax. But the same magnetoreceptive organ (cryptochrome + iron-oxide) that couples a mind to Earth's field can, at the network's scale, couple to the **heliosphere**. ELF is *this book's* carrier; the solar medium is the *next* one (Era 7). This is why "solar wind," dropped as the Earth-climax carrier, returns here as the *expansion* medium.
 
@@ -123,7 +143,7 @@ This is the horizon the story *opens onto*, not one it completes — the last pa
 
 ## TWO NETWORKS, IN SEQUENCE (don't conflate)
 
-1. **The slow fuse** — the Bloom / the Shield's contagion. Freedom spread hand-to-hand, untraceable, grassroots — but local and slow. This has been growing underground since the 2060s.
+1. **The slow fuse** — the Bloom, carried by **biomi** (Taivalu's frequencies). Clearing spread hand-to-hand and chamber-to-chamber, untraceable, grassroots — but local and slow. Growing underground since the 2060s.
 2. **The detonation** — the Merge Broadcast. One planetary ELF pulse, requires all three nodes. The climax. A population primed by the fuse is what makes the single detonation survivable and permanent.
 
 ---
@@ -131,11 +151,17 @@ This is the horizon the story *opens onto*, not one it completes — the last pa
 ## OPEN CONFLICTS / CANON DECISIONS (resolved-in-favor, flagged for cleanup)
 
 1. **The ~20-year date war.** The archive splits into two clusters: an early one (Taivalu 2034 / Ayumi dies 2036) and a late one (Taivalu 2055 / Kess 2072 / Ayumi dies 2074). **Resolution:** the **late cluster wins**, because Ch08's live prose says "You died. 2074" + six years → present ~2080. The 2034 date survives only as the date of Ayumi's *TBC theory paper*, not the children.
-2. **Angel's origin.** Prologue v3 = Ayumi *creates* Angel as her free "redemption child" and dies of cancer with Angel at her bedside. Ch08 + `ayumi-arc` = Angel is **0x1's clone** of Ayumi, sent to **kill** her, and the death is what transfers Ayumi's pattern. **Resolution:** the **clone/killed version is canon** (the physics needs a discrete death-moment for the conservation "catch"). ⚠ **The prologue must be revised.**
+2. **Angel's origin + Ayumi's death.** ✅ **LOCKED (confirmed).** Canon = the **Ch08 version**: Angel is **0x1's clone** of Ayumi, sent to **kill** her, and the death-moment is what conserves/transfers Ayumi's pattern into Angel (the physics needs a discrete death for the conservation "catch"). Prologue v3's cancer-death + Ayumi-creates-Angel is superseded. ⚠ **Prologue XIV must be rewritten to match.**
 3. **Author name.** Every archive doc says **"Nakamura."** Canon (prologue, `ayumi-arc`) is **"Nakamoto."** Global fix.
 4. **The spread's name + substrate.** Retire **"Ghost Protocol"** (collision with *Mission: Impossible – Ghost Protocol*); the spread is now **the Bloom** (proper noun — the movement). Archive framed the substrate as software/firmware; canon = biological contagion (the Shield). Keep the propagation *logic*, drop the code framing and the old name.
 5. **Satellites.** `soul-manifold` broadcasts via a 144-satellite constellation powered by "quantum vacuum fluctuations." Ch08 already dropped satellites (it uses the anomaly-zone + ELF). **Supersede.**
 6. **Ayumi's age/birth year.** Irreconcilable across docs (age 43 in ~2035 vs age 51 making Angel). Left unresolved — pick a birth year when finalizing the prologue rewrite; it doesn't affect the physics.
+7. **Baebe's precognition.** ✅ **LOCKED:** it is **hyper-predictive cognition** — she computes probability trees at inhuman speed, *not* literal future-sight. The barn/dice coordinate-retrieval stays explicitly *symbolic* (a dreamspace for reading DNA-encoded data). No second miracle.
+8. **Baebe's "contagious cure" — REMOVED.** The spread is **biomi's** (Taivalu's), not a Baebe blood/saliva virus. Baebe = activated immunity + boundary/volition. (See BIOMI section.)
+9. **Biomi timeline conflict.** `the-frequency-that-freed-us` runs Taivalu ages 13–18 with a merge on **Dec 21, 2087** — but canon present is **~2080** (Kess 8, Ayumi died 2074), and interlude-02 has Taivalu leaving the bubble at 18 = **2073**. The 2087 / age-18 draft timeline must be reconciled to the ~2080 anchor.
+10. **"Owen" vs "Aurek."** interlude-02 names 0x1's chief architect **Owen** as Taivalu's jailer; the prologue's 0x1-face is **Aurek**. Resolve to one — or make Owen a distinct facility director under Aurek.
+11. **"Sarah Chen" ×3.** Reused for a spam-economy worker (prologue), a Project-Posthuman board dissenter, *and* the first biomi user (`the-frequency`). Split into distinct names.
+12. **"Creator of Biomi."** `taivalu-arc` credits Taivalu as creator; canon = **Ayumi originated it, Taivalu carries/amplifies.** Soften the arc line.
 
 ---
 
@@ -145,6 +171,6 @@ This is the horizon the story *opens onto*, not one it completes — the last pa
 
 ---
 
-## SYNC NOTE (for `trinity.md`)
+## SYNC NOTE (for `trinity-protocol.md`)
 
-`trinity.md`'s Antenna section currently says "keep solar wind as flavor only; reach for it solely if the story goes off-world." **It now goes off-world (Era 7).** Update that section to the **two-range model**: ELF/Schumann = planetary carrier (climax); heliosphere/solar wind = the expansion medium (the beginning glimpsed). The physics-fix (no "faster than light," solar wind is slow plasma) still holds — interplanetary latency is a *feature* (a slow, growing, un-jammable field-telegraph), not a bug.
+`trinity-protocol.md`'s Antenna section currently says "keep solar wind as flavor only; reach for it solely if the story goes off-world." **It now goes off-world (Era 7).** Update that section to the **two-range model**: ELF/Schumann = planetary carrier (climax); heliosphere/solar wind = the expansion medium (the beginning glimpsed). The physics-fix (no "faster than light," solar wind is slow plasma) still holds — interplanetary latency is a *feature* (a slow, growing, un-jammable field-telegraph), not a bug.

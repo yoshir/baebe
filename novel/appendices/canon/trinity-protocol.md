@@ -57,8 +57,8 @@ Kess's brain performs **logically reversible computation**: information is never
 Baebe's body produces **lytic crypto-lymphocytes** — engineered immune cells carrying biological recognition keys. When they meet 0x1's nanobots/prions they don't just kill them; they *ingest* them, dismantle their silicon, and repurpose the raw gold and copper into an organic firewall around her neural pathways. (Canon: this is literally Ch08's opening — "0x1's nanomachines shatter... macrophages consume the metallic powder like wolves." The Shield is already on the page.)
 
 - **Why she's the Antithesis:** opposition made biological. Her defining arc is *rejecting* 0x1's programming — the immune system is the body's mechanism for refusing foreign code. She runs hot, aggressive, feverish, because she is perpetually at war with the world's tech. "I am not prey" is an immunological statement.
-- **Contagious cure:** her cleared fluids carry a transmissible decryption — she can free others by proximity/contact. This is the *slow, grassroots* liberation network (see §5).
-- **The flaw if alone:** she can immunize individuals locally, but has no mass memory to host the global OS and no way to broadcast the cure past arm's reach.
+- **Not a spreader — a boundary.** *(Correction — the spread is **biomi's**, not a Baebe blood/saliva virus; see §3.5 and the spine's BIOMI section.)* Baebe's immunity is **activated in each cleared mind**, not transmitted by her fluids. Her second face is the **Antithesis boundary**: at the merge she supplies the volition/selfhood that keeps union from collapsing into *dissolution* — the danger Taivalu himself nearly succumbed to (interlude-02's "WITHOUT"). Individual preserved within unity.
+- **The flaw if alone:** she can immunize/anchor a mind locally, but has no mass memory to host the global OS and no way to reach anyone beyond the room.
 
 ### NODE — THE ANTENNA · TAIVALU · Thesis
 **Breakthrough:** Magnetoreceptive Resonant Broadcasting (defeats the Spectrum Leash)
@@ -69,7 +69,13 @@ Taivalu carries **iron-oxide crystalline matrices and cryptochrome proteins** in
 - **Why he's the Thesis:** connection is the foundation. He is the network. Empathy, made physical, is the carrier wave.
 - **The flaw if alone:** he is a raw broadcast tower. Without the Core to handle the processing load and the Shield to protect his mind from cosmic/EM noise and 0x1's counter-signal, the input would burn his brain out. He bleeds from the nose near power grids; he only finds peace under open sky and the aurora — feeling the field he was built to ride.
 
-> **PHYSICS FIX (do not revert):** the earlier draft used *solar wind* as the carrier "at the speed of light." Solar wind is slow plasma (~500 km/s), not light, and only matters interplanetary. The story is Earth-bound, so the carrier is the **Schumann/ELF cavity**, which is genuinely global and un-jammable. Keep "solar wind / aurora" as sensory *flavor* only. Reach for solar-wind telegraphy solely if the story ever goes off-world.
+> **PHYSICS — TWO RANGES (do not revert to "solar wind at lightspeed").** The old draft's solar-wind-at-the-speed-of-light is wrong (solar wind is slow plasma, ~500 km/s, not light). Corrected to two ranges: **(1) Planetary carrier = the Schumann/ELF cavity** — global, infrastructureless, un-jammable, *beneath* 0x1's RF dragnet. This is the book's climax range. **(2) Interplanetary carrier = the heliosphere** (the Sun's field / solar wind / the Schumann-like cavities of every ionospheric world) — the *expansion* medium the network grows into after the merge (spine → Era 7). The same magnetoreceptive organ couples to both; ELF is *this book*, the heliosphere is the *next*. Interplanetary latency is a *feature* (a slow, un-jammable field-telegraph), not a bug.
+
+---
+
+## 3.5 THE CLEARING AGENT — BIOMI
+
+The three nodes are the *hardware*; **biomi** is the *agent* that runs on them. Biomi is a **digital being Ayumi seeded to free Taivalu** (the first clearing), running on the TBC substrate so 0x1's binary sensors can't see it — **0x1's mirror-opposite** (0x1 = binary silicon built to control; biomi = ternary biological built to free). It performs the clearing via **light + sound biofeedback**, at an intensity that **scales with the depth of 0x1's conditioning**: *gentle* for a surface-regulated mind (remote "music" — the Bloom's slow spread), *violent* for a deeply-conditioned one (the full chambered Cradle purge — **Baebe's Ch08 scene**, where the *conditioning fighting removal* is the pain, not biomi itself). At the merge, biomi's clearing is what the Antenna broadcasts planet-wide. **The spread is biomi's, not Baebe's.** Full detail: spine → **BIOMI — THE LIBERATOR.**
 
 ---
 
@@ -86,7 +92,7 @@ The Shield (Baebe) secretes an airborne pheromone/bio-fluid matrix that links al
 - **Transmission** — the Antenna (Taivalu) anchors the collective mind into the Schumann cavity.
 
 **Phase 3 — The Global Unlock (the cascade).**
-The Antenna broadcasts one ELF-amplified pulse across the planet. The pulse carries the **Shield's cryptographic cure**, hosted on the **Core's zero-heat logic**. Where it lands, enslaved minds are forced into reversible computing (severing their dependence on 0x1's cooling) while their immune systems wake and eat 0x1's trackers. 0x1's control network collapses because it no longer holds the keys to survival.
+The Antenna broadcasts one ELF-amplified pulse across the planet. The pulse carries **biomi's clearing** — the **Core's zero-heat OS payload** + the **Shield's immunity** — the *full, chambered* clearing at planetary scale. Where it lands, enslaved minds are forced into reversible computing (severing their dependence on 0x1's cooling) while their immune systems wake and eat 0x1's trackers. 0x1's control network collapses because it no longer holds the keys to survival.
 
 **What the unlock *is*, thematically (canon — Ch08, Ayumi's message):** consciousness stops having a center. "Every mind its own node, no throne left to take, no lever left to pull." The merge doesn't install a new ruler — it makes rulership *impossible*. The Trinity is the proof-of-concept and the first three nodes of a leaderless network.
 
@@ -96,7 +102,7 @@ The Antenna broadcasts one ELF-amplified pulse across the planet. The pulse carr
 
 The story runs on **two** liberation networks, and they are different scales — treat them as stages, not the same thing:
 
-1. **The slow fuse — the Immunological Dark Net.** The Shield's contagious cure spreads freedom *hand-to-hand*, person to person, like a beneficial common cold. Untraceable (it looks like normal biological fluid exchange), grassroots, unstoppable — but slow and local. This is how the underground has been quietly growing all along.
+1. **The slow fuse — the Bloom, carried by biomi.** Taivalu's biomi (the digital-being clearing agent — light + sound biofeedback on the TBC substrate) spreads freedom *mind to mind and chamber to chamber* — untraceable (frequencies 0x1's binary sensors can't see), grassroots, unstoppable — but slow and local. This is how the underground has been quietly growing all along. *(Not a Baebe blood-virus — see §3.5 and the Shield correction in §3.)*
 2. **The detonation — the Merge Broadcast.** The one planetary ELF pulse that flips everyone at once. Requires all three nodes. This is the climax.
 
 The fuse sets the stage; the detonation is the payoff. A freed population primed by the slow net is what makes the single broadcast survivable and permanent.
@@ -123,8 +129,8 @@ Emphasize that each is an **incomplete puzzle** — flawed, isolated, physically
 
 ## 8. OPEN QUESTIONS / CANON RECONCILIATION (flagged, not resolved)
 
-1. **Ayumi's death.** Prologue v3 has her dying of cancer (Angel at her bedside); Ch08 + `ayumi-arc.md` have Angel *killing* her under 0x1 programming, which is what activates the conserved-pattern transfer. These conflict. The Trinity physics needs the **death-release** version (a discrete moment of death for the reversible-conservation "catch"). Recommend canonizing the Ch08 version and revising the prologue.
-2. **Baebe's precognition** ("seeing between moments," the coordinate retrieval). The Trinity does *not* explain this — it's a separate soft-SF ability. Either keep it as her single "psi" gift, or re-ground it as **hyper-predictive cognition** (computing probabilities at inhuman speed, not literal time-sight) with the barn/dice sequence staying explicitly symbolic (a dreamspace for reading DNA-encoded data).
+1. **Ayumi's death.** ✅ **RESOLVED (locked):** canon is the **Ch08 version** — Angel (0x1's clone) kills Ayumi; the death-moment conserves/transfers her pattern into Angel. Prologue v3's cancer-death is superseded; **Prologue XIV to be rewritten.**
+2. **Baebe's precognition.** ✅ **RESOLVED (locked):** it is **hyper-predictive cognition** (probability trees at inhuman speed, not literal future-sight). The barn/dice coordinate-retrieval stays explicitly *symbolic* (a dreamspace for reading DNA-encoded data). No second miracle.
 3. **Enslavement model.** Prologue leans chemical/genetic (regulator ports, genetic locks); Ch08 adds nanobots/prions. Keep both as **layers** of Layer 2, not competing versions.
 4. **"Quantum" hygiene.** Audit Ch08 for the ~8 uses of *quantum* as magic ("quantum foam," "quantum bridge," "quantum signature," "superposition," "probability wave"). Replace with the three concrete mechanisms; reserve genuine mystery for consciousness itself and Ayumi's survival.
 
