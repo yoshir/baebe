@@ -42,7 +42,7 @@ But her irises are cycling: blue → white → brown → blue. Processing. Rejec
 
 "What? Me?" The professional mask slipping. "No, that's not possible."
 
-Her breathing accelerates. Chest tightening. Hyperventilation starting. The conditioning screaming at her to impose calm, to assess the situation tactically, to categorize this as just another mission variable. But the data won't fit. Won't make sense. Her training built on the foundation that she's an asset, that i0 values her, that completing missions means something. And if that's gone, what is she?
+Her breathing accelerates. Chest tightening. Hyperventilation starting. The conditioning screaming at her to impose calm, to assess the situation tactically, to categorize this as just another mission variable. But the data won't fit. Won't make sense. Her training built on the foundation that she's an asset, that 0x1 values her, that completing missions means something. And if that's gone, what is she?
 
 "Sanitation... activated. They're... for you. Not retrieval... termination."
 
@@ -52,7 +52,7 @@ Not rescue. Execution.
 
 Something breaks.
 
-Her irises STROBE, flickering so fast it looks like system failure. Like her optical implants glitching under information they weren't designed to process. The careful architecture of her conditioning coming apart because every protocol was built on one assumption: she matters to i0. And if she doesn't, nothing makes sense.
+Her irises STROBE, flickering so fast it looks like system failure. Like her optical implants glitching under information they weren't designed to process. The careful architecture of her conditioning coming apart because every protocol was built on one assumption: she matters to 0x1. And if she doesn't, nothing makes sense.
 
 "No. No no no no no."
 
@@ -70,7 +70,7 @@ The words tear out before the conditioning can stop them. Raw. Human. The ice th
 
 Beat. Silence on the other end. Even through the static, shock.
 
-"Ghost... what's... with you? You don't..."
+"Wraith... what's... with you? You don't..."
 
 More static. His voice cutting in and out but the concern bleeding through. Disturbed. Confused. Like he's hearing something that shouldn't exist.
 
@@ -182,11 +182,11 @@ CRACKLE.
 
 The neural link sparks back to life. Hacker's voice, broken, urgent.
 
-"Ghost? Ghost, you there? Wait, who's that?"
+"Wraith? Wraith, you there? Wait, who's that?"
 
 Baebe freezes. Doesn't answer.
 
-"Ghost, someone's with you. Who is that?"
+"Wraith, someone's with you. Who is that?"
 
 Kess looks at Baebe. Curious about the voice only Baebe can hear. Smart enough to understand what a neural link means even if she's never seen one.
 
@@ -202,11 +202,11 @@ Her voice breaks on the words. Horror. Disbelief. The conditioning screaming tac
 
 Her hand moves to her ear. Grips the neural link.
 
-"Wait, Ghost, don't do it."
+"Wait, Wraith, don't do it."
 
 She rips the neural link from the back of her neck.
 
-The tiny device sparks in her fingers, last piece of i0's technology still functioning, last connection to the network, last link to her old life. The thing that's whispered directives in her ear since activation. Since consciousness. Since she became whatever she is.
+The tiny device sparks in her fingers, last piece of 0x1's technology still functioning, last connection to the network, last link to her old life. The thing that's whispered directives in her ear since activation. Since consciousness. Since she became whatever she is.
 
 She looks at it. Light flickering weakly. The last surveillance trying to maintain control.
 
@@ -292,7 +292,7 @@ Baebe gasps, pain and shock, but Shadow adjusts grip immediately. Minimizing pre
 
 "Shadow will carry you deeper. Fifth level. You'll be safe there." Kess's voice is reassuring. Sweet but knowing. "The interference zones. Where Cherubs can't track. Where the network doesn't reach."
 
-Baebe hangs from Shadow's jaws. Ten feet off the ground now. Looking down at Kess. At this nine-year-old scavenger who somehow commands a mechanical monster. Who somehow knows exactly where to hide from i0's reach.
+Baebe hangs from Shadow's jaws. Ten feet off the ground now. Looking down at Kess. At this nine-year-old scavenger who somehow commands a mechanical monster. Who somehow knows exactly where to hide from 0x1's reach.
 
 "Why are you... why are you helping me?"
 
@@ -330,7 +330,7 @@ Human baseline. Unfiltered. Witnessing kindness without tactical overlay freezin
 
 Just... seeing. Human. Real.
 
-Three figures disappear into the fog. Child, machine, and broken weapon. Vanishing into the spaces where i0's reach thins and something like freedom still exists.
+Three figures disappear into the fog. Child, machine, and broken weapon. Vanishing into the spaces where 0x1's reach thins and something like freedom still exists.
 
 ---
 

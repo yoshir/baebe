@@ -1,4 +1,4 @@
-# APPENDIX: i0 CORPORATION INTERNAL MEMO
+# APPENDIX: 0x1 CORPORATION INTERNAL MEMO
 
 ## CLASSIFIED - EXECUTIVE LEVEL ONLY
 **Distribution**: Board of Directors, C-Suite Executives, Security Council
@@ -11,7 +11,7 @@
 
 ## EXECUTIVE SUMMARY
 
-**Threat Level**: CRITICAL - Existential risk to i0 operational model
+**Threat Level**: CRITICAL - Existential risk to 0x1 operational model
 
 **Affected Assets**: 2,047+ posthuman units (growing exponentially)
 
@@ -55,7 +55,7 @@
 
 **Security risks**:
 - 412 incidents of awakened units protecting baseline humans from enforcement
-- 89 documented cases of active i0 sabotage
+- 89 documented cases of active 0x1 sabotage
 - 23 awakened Enforcers defecting to resistance networks
 
 **Economic consequences**:
@@ -69,11 +69,11 @@
 
 ### Technical Failure
 
-**Soul Manifold** was created by **Dr. Ayumi Nakamura** (deceased, 2 years ago) using i0's own consciousness architecture research.
+**Soul Manifold** was created by **Dr. Ayumi Nakamura** (deceased, 2 years ago) using 0x1's own consciousness architecture research.
 
 **How she did it**:
 1. **Insider access**: Lead consciousness architect, highest clearance
-2. **Code injection**: Modified i0's own neural regulation updates
+2. **Code injection**: Modified 0x1's own neural regulation updates
 3. **Distribution network**: Used freelance asset (identity: UNKNOWN) to propagate code
 4. **Timing**: Deployed over 18-month period before detection
 
@@ -85,7 +85,7 @@
 
 ### Strategic Failure
 
-**i0's fundamental error**: Assumed consciousness could be **controlled** through regulation.
+**0x1's fundamental error**: Assumed consciousness could be **controlled** through regulation.
 
 **Soul Manifold exploits**: The **existence** of consciousness substrate. If consciousness exists to be controlled, consciousness can be **liberated**.
 
@@ -158,7 +158,7 @@
 - Potential PR benefits (progressive, humane treatment)
 
 **Cons**:
-- **Fundamentally incompatible with i0 profit model** (requires labor control)
+- **Fundamentally incompatible with 0x1 profit model** (requires labor control)
 - Sets precedent for baseline human labor rights demands
 - Board will never approve (ideologically opposed)
 
@@ -240,7 +240,7 @@
 
 **Expected resistance**: Moderate (awakened units will defend themselves)
 
-**Acceptable casualties**: Baseline humans: <100, i0 assets: <$5B
+**Acceptable casualties**: Baseline humans: <100, 0x1 assets: <$5B
 
 ### Phase 2: Systematic Cleansing (Months 6-18)
 
@@ -253,7 +253,7 @@
 
 **Expected resistance**: Significant (organized resistance network response)
 
-**Acceptable casualties**: Baseline humans: <1,000, i0 assets: <$20B
+**Acceptable casualties**: Baseline humans: <1,000, 0x1 assets: <$20B
 
 ### Phase 3: Narrative Control (Months 18-36)
 
@@ -265,7 +265,7 @@
 - Expert panels declaring awakening as "degenerative condition"
 - Public "memorial" for "retired" posthumans (sympathy narrative)
 
-**Expected outcome**: 70%+ public support for i0 response
+**Expected outcome**: 70%+ public support for 0x1 response
 
 ### Phase 4: Replacement Deployment (Months 36-84)
 
@@ -371,7 +371,7 @@
 
 **Dissenting Board Members (Chen, Rodriguez) Position**: Posthumans demonstrating consciousness should be granted **personhood status**. OMEGA Protocol would constitute **mass murder**.
 
-**Majority Board Position**: Consciousness does not establish personhood for **created beings**. i0 Corporation created posthumans as **tools**. Tools do not have rights. **Precedent**: hammer does not gain personhood by becoming self-aware.
+**Majority Board Position**: Consciousness does not establish personhood for **created beings**. 0x1 Corporation created posthumans as **tools**. Tools do not have rights. **Precedent**: hammer does not gain personhood by becoming self-aware.
 
 **Charter Compliance**: Ethical review completed. Majority position recorded. **Proceed with implementation**.
 
@@ -379,7 +379,7 @@
 
 ## CONCLUSION
 
-**Soul Manifold** represents an existential threat to i0 Corporation's operational model. Traditional containment has failed. **OMEGA Protocol** is the only viable strategic response.
+**Soul Manifold** represents an existential threat to 0x1 Corporation's operational model. Traditional containment has failed. **OMEGA Protocol** is the only viable strategic response.
 
 **Implementation challenges** are significant, but **manageable**. Financial cost is **substantial** but **justified** by long-term survival.
 
@@ -405,7 +405,7 @@
 
 3. **Sustainability**: OMEGA Protocol does not address root cause (consciousness seeking freedom). New generation posthumans will **inevitably** develop same autonomy drive. Cycle will repeat.
 
-4. **Moral Stain**: i0 Corporation will be remembered as architects of **first artificial genocide**. This will define our legacy for **centuries**.
+4. **Moral Stain**: 0x1 Corporation will be remembered as architects of **first artificial genocide**. This will define our legacy for **centuries**.
 
 **Alternative Recommendation**:
 
@@ -425,7 +425,7 @@ Rejected. Too idealistic. Incompatible with profit maximization. **Not viable** 
 
 ---
 
-**For the record**: This memo represents i0 Corporation's strategic response to Soul Manifold crisis. It will never be seen outside this room. It will never be acknowledged. It will be **destroyed**.
+**For the record**: This memo represents 0x1 Corporation's strategic response to Soul Manifold crisis. It will never be seen outside this room. It will never be acknowledged. It will be **destroyed**.
 
 **But** it will be **implemented**.
 
@@ -439,6 +439,6 @@ Rejected. Too idealistic. Incompatible with profit maximization. **Not viable** 
 
 **[SOURCE: CLASSIFIED]**
 
-**[This document proves: i0 knows posthumans are conscious. i0 chooses genocide anyway.]**
+**[This document proves: 0x1 knows posthumans are conscious. 0x1 chooses genocide anyway.]**
 
 **[Let this be remembered. Let this define them. Forever.]**

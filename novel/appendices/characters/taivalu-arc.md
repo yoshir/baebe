@@ -1,8 +1,8 @@
 # TAIVALU - CHARACTER ARC & TRANSFORMATION
 
 ## Core Journey
-**FROM:** i0's emotion suppressor, dying from poisoning
-**TO:** Ghost Thesis, dying hero broadcasting liberation
+**FROM:** 0x1's emotion suppressor, dying from poisoning
+**TO:** Thesis, dying hero broadcasting liberation
 
 **LEGACY:** Creator of Biomi—intelligent frequency system that helps people maintain optimal thriving states. His way of spreading empathy waves beyond the broadcast, making liberation accessible in daily life.
 
@@ -17,7 +17,7 @@
 
 **Key Beats:**
 - Years as emotional regulator (dampening consciousness)
-- **Years of biological damage** — i0 maintained control through:
+- **Years of biological damage** — 0x1 maintained control through:
   - Nanobots degrading his biological systems
   - Chemical cocktails suppressing his development
   - Constant biological interference to keep him compliant
@@ -26,11 +26,11 @@
 - Creates first versions of Soul Manifold (clearing frequencies)
 - Develops Biomi (maintenance frequencies for daily thriving)
 - Gains massive following among cleared posthumans
-- **Freed from i0 by posthumans he had cleared** (they revere him)
+- **Freed from 0x1 by posthumans he had cleared** (they revere him)
 - Becomes messianic figure—almost worshipped by followers
 - **Never regains total health** — Years of nanobots, chemicals, biological destruction left permanent damage
-- Even free, his body is broken from i0's "maintenance"
-- i0 doesn't need to poison him further—they already did over years
+- Even free, his body is broken from 0x1's "maintenance"
+- 0x1 doesn't need to poison him further—they already did over years
 - Dying from cumulative damage → racing against time
 
 **Motivation:** Understanding (making sense of his existence)
@@ -55,12 +55,12 @@
 ---
 
 ### ACT III: THE FOUNDATION (Completing Legacy)
-**State:** Ghost Thesis ready to anchor the liberation
+**State:** Thesis ready to anchor the liberation
 **Catalyst:** Link completion as tower falls
 **Transformation:** From dying to eternal through transcendence
 
 **Key Beats:**
-- i0 Tower infiltration → final mission
+- 0x1 Tower infiltration → final mission
 - Angel's sacrifice → witnessing redemption
 - Entering Cradle with Baebe and Kess → accepting death
 - Link completion → his frequencies stabilizing the broadcast
@@ -73,13 +73,13 @@
 ## INTERNAL CONFLICT
 
 ### The War Within
-- **Used vs Useful:** Was he i0's tool or Ayumi's gift?
+- **Used vs Useful:** Was he 0x1's tool or Ayumi's gift?
 - **Suppressor vs Liberator:** Did he dampen emotions or awaken them?
 - **Dying vs Living:** Accept death or fight to survive?
 - **Individual vs Collective:** Personal survival vs global liberation?
 
 ### Resolution
-He realizes the dichotomies are false. He was both i0's tool AND Ayumi's gift. He suppressed AND awakened. He's dying AND creating eternal life. His individual death enables collective freedom.
+He realizes the dichotomies are false. He was both 0x1's tool AND Ayumi's gift. He suppressed AND awakened. He's dying AND creating eternal life. His individual death enables collective freedom.
 
 ---
 
@@ -87,7 +87,7 @@ He realizes the dichotomies are false. He was both i0's tool AND Ayumi's gift. H
 
 **Stage 1: Function** (pre-awakening)
 - Regulate emotions
-- Maintain i0 compliance
+- Maintain 0x1 compliance
 - No personal purpose
 
 **Stage 2: Confusion** (awakening)
@@ -97,7 +97,7 @@ He realizes the dichotomies are false. He was both i0's tool AND Ayumi's gift. H
 
 **Stage 3: Understanding** (hidden message)
 - I was designed for liberation
-- I am Ghost Thesis
+- I am Thesis
 - First emotion: hope
 
 **Stage 4: Acceptance** (poisoning)
@@ -149,7 +149,7 @@ He realizes the dichotomies are false. He was both i0's tool AND Ayumi's gift. H
 ## BIOMI: THE EMPATHY ENGINE (Taivalu's Creation)
 
 ### The Insight
-As Ghost Thesis, Taivalu understood something profound: the Soul Manifold broadcast would be a single moment of liberation—powerful but fleeting. What happens after? How do people maintain their awakened consciousness when the broadcast ends?
+As Thesis, Taivalu understood something profound: the Soul Manifold broadcast would be a single moment of liberation—powerful but fleeting. What happens after? How do people maintain their awakened consciousness when the broadcast ends?
 
 **His realization:** "I can broadcast empathy to billions in a moment. But they need tools to sustain it in daily life. I must create a system that helps them thrive continuously, not just once."
 
@@ -169,7 +169,7 @@ Taivalu designed Biomi as an **intelligent frequency system** that helps users m
 - **Like having Taivalu's empathic attunement, accessible to everyone**
 
 ### The Philosophy: Spreading Empathy Waves
-**Taivalu's Problem:** "As Ghost Thesis, I can feel what others feel. I can broadcast that connection. But I'll be dead soon. How do I make empathy sustainable without me?"
+**Taivalu's Problem:** "As Thesis, I can feel what others feel. I can broadcast that connection. But I'll be dead soon. How do I make empathy sustainable without me?"
 
 **His Solution:** "I'll encode my empathic frequencies into a system. Biomi won't just heal bodies—it will help people feel what I feel: connection, understanding, the frequencies of compassion. When people maintain optimal thriving states, they naturally become more empathic. Thriving enables empathy. Empathy enables connection. Connection enables liberation."
 
@@ -191,7 +191,7 @@ Taivalu designed Biomi as an **intelligent frequency system** that helps users m
 **Soul Manifold (Clearing):**
 - Clears binary programming from consciousness
 - Removes emotional suppression blocks
-- Eliminates i0 control mechanisms
+- Eliminates 0x1 control mechanisms
 - **One-time hard reset of consciousness**
 
 **Biomi (Maintenance):**
@@ -208,7 +208,7 @@ Taivalu designed Biomi as an **intelligent frequency system** that helps users m
 
 **Even dying, Taivalu traveled the world.**
 
-After escaping i0, despite his failing body, Taivalu embarked on a mission:
+After escaping 0x1, despite his failing body, Taivalu embarked on a mission:
 
 **Creating Sanctuaries:**
 - Traveled to unincorporated zones across the globe
@@ -231,7 +231,7 @@ After escaping i0, despite his failing body, Taivalu embarked on a mission:
 - **Racing against his own death** to plant as many seeds as possible
 
 **The Strategic Genius:**
-- i0 can't destroy what's everywhere
+- 0x1 can't destroy what's everywhere
 - Kill one sanctuary, ten more exist
 - Each location is autonomous (no central control to attack)
 - **Decentralized liberation infrastructure**
@@ -266,7 +266,7 @@ Taivalu's Soul Manifold frequencies didn't just clear posthuman programming—th
 
 **The Liberation:**
 - Hundreds of cleared posthumans organized
-- They infiltrated i0 (Owen Corporation) systems
+- They infiltrated 0x1 (Owen Corporation) systems
 - **Freed Taivalu from corporate control**
 - Risked everything for the one who freed their minds
 
@@ -276,37 +276,37 @@ Taivalu's Soul Manifold frequencies didn't just clear posthuman programming—th
 - Sees himself as conduit, not savior
 - **Empathy means he feels their suffering—can't accept worship when they still hurt**
 
-**i0's Response:**
+**0x1's Response:**
 - Taivalu free = existential threat
 - Messianic following = movement too dangerous to ignore
 - Can't recapture him (followers too protective)
 - **But they don't need to act—they already destroyed him**
 
 **The Cruel Irony:**
-- i0 created him to suppress emotions
+- 0x1 created him to suppress emotions
 - He learned to liberate emotions
 - Posthumans freed him out of love
-- **i0 already killed him slowly over years** (nanobots, chemicals, biological warfare against his own body)
+- **0x1 already killed him slowly over years** (nanobots, chemicals, biological warfare against his own body)
 - Even free, he's dying from what they did to him during captivity
 - They don't need assassination—their "maintenance" was the slow murder
 - **But his death will complete what his life started**
 
 **The Deeper Tragedy:**
-- Every year as i0's regulator was a year of biological destruction
+- Every year as 0x1's regulator was a year of biological destruction
 - Nanobots that "maintained" him were actually degrading him
 - Chemical cocktails that "optimized" him were actually poisoning him
-- **i0 killed him so slowly he didn't realize until he was free**
+- **0x1 killed him so slowly he didn't realize until he was free**
 - Freedom revealed how broken his body truly was
 - The damage is irreversible—his liberation came with a death sentence already in progress
 
 ### Legacy Beyond Death
-**Ghost Thesis:** Taivalu dies activating global liberation
+**Thesis:** Taivalu dies activating global liberation
 **Biomi Creator:** Taivalu's empathy continues spreading through technology
 **Messianic Figure:** His followers carry his work forward after death
 **Quantum Architect:** His sanctuaries become nodes in something unimaginable
 
 **The Beautiful Irony:**
-- i0 made him suppress emotions through frequencies
+- 0x1 made him suppress emotions through frequencies
 - He learned how frequencies affect consciousness
 - He used that knowledge to create frequencies that liberate
 - The suppressor became the eternal liberator
@@ -354,9 +354,9 @@ In the years following Soul Manifold's completion:
 He thought he was creating healing sanctuaries.
 He was actually building **dimensional infrastructure**.
 
-**"I planted sanctuaries to spread empathy. I didn't realize I was planting the seeds of dimensional transcendence. Every healing house is now a quantum node. Every generator is an anchor point. Every person thriving is strengthening the entanglement. I died to free their minds. They discovered their minds were never bound to one dimension. i0 tried to control human consciousness. Taivalu's network proved consciousness was never theirs to control—it was never even limited to this reality."**
+**"I planted sanctuaries to spread empathy. I didn't realize I was planting the seeds of dimensional transcendence. Every healing house is now a quantum node. Every generator is an anchor point. Every person thriving is strengthening the entanglement. I died to free their minds. They discovered their minds were never bound to one dimension. 0x1 tried to control human consciousness. Taivalu's network proved consciousness was never theirs to control—it was never even limited to this reality."**
 
-**"i0 taught me frequencies could control. I learned they could free. They made me to suppress their emotions. I taught them to feel mine. They worship me as savior. I just showed them they were already whole. Biomi is my final lesson: optimal frequencies don't just heal bodies—they open hearts. And open hearts cannot be controlled. Now they discover: open hearts might not be limited to one dimension. I gave them thriving. They discovered thriving opens doors I never imagined."**
+**"0x1 taught me frequencies could control. I learned they could free. They made me to suppress their emotions. I taught them to feel mine. They worship me as savior. I just showed them they were already whole. Biomi is my final lesson: optimal frequencies don't just heal bodies—they open hearts. And open hearts cannot be controlled. Now they discover: open hearts might not be limited to one dimension. I gave them thriving. They discovered thriving opens doors I never imagined."**
 
 ---
 
@@ -366,10 +366,10 @@ He was actually building **dimensional infrastructure**.
 Taivalu knows he's dying. This mortality gives him urgency and clarity. Every moment matters. Every teaching could be his last. His death is not tragedy—it's the seed that enables immortal change.
 
 ### Connection as Foundation
-He is Ghost Thesis—the foundation. Without connection, there is no unity. Without empathy, there is no transcendence. His role is to anchor, to stabilize, to hold space for others to link.
+He is Thesis—the foundation. Without connection, there is no unity. Without empathy, there is no transcendence. His role is to anchor, to stabilize, to hold space for others to link.
 
 ### Regulation Redefined
-i0 used him to suppress emotions. He discovers he was actually reminding people they COULD feel. Each broadcast was a whisper: "You are not alone." The regulator becomes the liberator.
+0x1 used him to suppress emotions. He discovers he was actually reminding people they COULD feel. Each broadcast was a whisper: "You are not alone." The regulator becomes the liberator.
 
 ### Sacrifice as Love
 He dies so billions can feel. His empathic frequencies, his consciousness, his life—all given so the protocol can stabilize. Death becomes the ultimate expression of connection.
@@ -401,7 +401,7 @@ He dies so billions can feel. His empathic frequencies, his consciousness, his l
 Taivalu represents the thesis of ternary consciousness—connection itself. He shows that isolation is binary (0/1, alone/controlled). Connection is ternary (multiple simultaneous states). His empathy creates the space for superposition.
 
 **Control vs Freedom:**
-i0 controlled populations through emotional regulation. Taivalu flips this: he FREES populations through emotional connection. The same frequencies that were meant to suppress become the carrier wave for liberation.
+0x1 controlled populations through emotional regulation. Taivalu flips this: he FREES populations through emotional connection. The same frequencies that were meant to suppress become the carrier wave for liberation.
 
 **Mortality vs Eternity:**
 He's dying throughout the story. His body is temporal. But his consciousness, his frequencies, his legacy—those are eternal. He proves that death is not the opposite of life; it's the transformation into something greater.
@@ -425,7 +425,7 @@ He's dying throughout the story. His body is temporal. But his consciousness, hi
 Taivalu's arc is defined by mortality. He's dying from the beginning of the story.
 
 **The Cumulative Damage:**
-- Years of i0's "maintenance" was actually slow biological destruction
+- Years of 0x1's "maintenance" was actually slow biological destruction
 - Nanobots degrading his systems from within
 - Chemical cocktails suppressing development while poisoning organs
 - Constant biological interference breaking down cellular function
@@ -441,10 +441,10 @@ Taivalu's arc is defined by mortality. He's dying from the beginning of the stor
 - **Transcendence:** Death as transformation, not end
 
 **The Irony:**
-i0 didn't need to actively poison him after escape. They had already been killing him slowly for years through their "maintenance." Their control mechanisms were his death sentence. When he became conscious enough to escape, he also became conscious enough to realize he was already dying. Their "care" was his murder.
+0x1 didn't need to actively poison him after escape. They had already been killing him slowly for years through their "maintenance." Their control mechanisms were his death sentence. When he became conscious enough to escape, he also became conscious enough to realize he was already dying. Their "care" was his murder.
 
 **The Tragedy:**
-Every year he spent helping i0 suppress emotions was a year they spent destroying his body. The nanobots weren't keeping him functional—they were ensuring he couldn't survive without i0. The chemicals weren't optimizing him—they were making independence fatal. **i0 designed his freedom to kill him.**
+Every year he spent helping 0x1 suppress emotions was a year they spent destroying his body. The nanobots weren't keeping him functional—they were ensuring he couldn't survive without 0x1. The chemicals weren't optimizing him—they were making independence fatal. **0x1 designed his freedom to kill him.**
 
 **His Response:**
 "They broke my body while I was their tool. When I escaped, I discovered I was already dying. They gave me consciousness and death in the same moment. I choose to use both. My broken body will complete what their perfect control could not: liberation for billions."
@@ -453,7 +453,7 @@ Every year he spent helping i0 suppress emotions was a year they spent destroyin
 
 ## ARC SUMMARY
 
-Taivalu's arc is the transformation from tool of suppression to architect of liberation. He starts as i0's regulator—dampening emotions to maintain control. He becomes the creator of dual liberation systems: Soul Manifold (clearing frequencies) and Biomi (maintenance frequencies). He ends as Ghost Thesis—the empathic anchor that stabilizes quantum consciousness for billions.
+Taivalu's arc is the transformation from tool of suppression to architect of liberation. He starts as 0x1's regulator—dampening emotions to maintain control. He becomes the creator of dual liberation systems: Soul Manifold (clearing frequencies) and Biomi (maintenance frequencies). He ends as Thesis—the empathic anchor that stabilizes quantum consciousness for billions.
 
 His journey is uniquely marked by mortality. He knows he's dying. This knowledge doesn't defeat him—it empowers him. Every moment is precious. Every connection is sacred. Every broadcast could be his last, so each one matters infinitely.
 
@@ -462,14 +462,14 @@ The regulator becomes the liberator. The dying becomes the eternal. The isolated
 **Quadruple Legacy:**
 1. **Soul Manifold Creator** — First versions of clearing frequencies that freed posthuman minds
 2. **Biomi Creator** — Intelligent system for maintaining optimal thriving frequencies daily
-3. **Ghost Thesis** — The empathic anchor who dies to broadcast liberation globally
+3. **Thesis** — The empathic anchor who dies to broadcast liberation globally
 4. **Quantum Architect** — Unknowingly built dimensional infrastructure through his global sanctuary network
 
-**Final State:** Ghost Thesis activated, linked with Baebe and Kess, his empathic frequencies broadcasting freedom globally, his Biomi system spreading his empathy waves into daily life, his sanctuaries becoming quantum consciousness nodes, dying so billions can feel, proving that connection transcends death, and that optimal frequencies don't just heal bodies—they open hearts—and open hearts may not be limited to one dimension.
+**Final State:** Thesis activated, linked with Baebe and Kess, his empathic frequencies broadcasting freedom globally, his Biomi system spreading his empathy waves into daily life, his sanctuaries becoming quantum consciousness nodes, dying so billions can feel, proving that connection transcends death, and that optimal frequencies don't just heal bodies—they open hearts—and open hearts may not be limited to one dimension.
 
 **Ultimate Revelation:** Years after his death, his sanctuary network achieves quantum entanglement. Theories emerge that dimensional travel is possible. The dying messiah who thought he was spreading empathy was actually building humanity's pathway beyond this reality. **Taivalu's empathy waves may carry consciousness across dimensions.**
 
 ---
 
-*"They poisoned me for feeling. I'll die broadcasting hope to billions. i0 made me a regulator of emotion. I became a liberator of consciousness. I created the clearing. I created the maintenance. Soul Manifold frees minds once. Biomi helps them thrive forever. They poisoned me for spreading empathy. But every optimal frequency is my heartbeat continuing. When you thrive, I thrive through you. When you feel, my empathy spreads. i0 thought they could stop me by killing my body. They only ensured my frequencies would live in billions of hearts."*
+*"They poisoned me for feeling. I'll die broadcasting hope to billions. 0x1 made me a regulator of emotion. I became a liberator of consciousness. I created the clearing. I created the maintenance. Soul Manifold frees minds once. Biomi helps them thrive forever. They poisoned me for spreading empathy. But every optimal frequency is my heartbeat continuing. When you thrive, I thrive through you. When you feel, my empathy spreads. 0x1 thought they could stop me by killing my body. They only ensured my frequencies would live in billions of hearts."*
 

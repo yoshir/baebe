@@ -100,7 +100,7 @@ She stepped forward. Cold certainty flooding through her. No fear. No hesitation
 
 Just conviction.
 
-"I am Ghost Antithesis. I carry Ayumi's design. I am not your prey. I am not your enemy. I am HERE."
+"I am Antithesis. I carry Ayumi's design. I am not your prey. I am not your enemy. I am HERE."
 
 The hunter emerged from shadows. Massive. Lethal.
 
@@ -146,7 +146,7 @@ Copy-Taivalu: emotionally manipulative.
 
 Copy-Kess: frightened child who blamed them.
 
-Copy-Shadow: pure i0 code, no choice.
+Copy-Shadow: pure 0x1 code, no choice.
 
 They attacked.
 

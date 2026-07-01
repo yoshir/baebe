@@ -8,7 +8,7 @@
 
 Baebe woke to sunlight.
 
-Real sunlight. Not filtered through i0's atmospheric regulators. Not managed by climate control systems. Just sun touching Earth touching her face.
+Real sunlight. Not filtered through 0x1's atmospheric regulators. Not managed by climate control systems. Just sun touching Earth touching her face.
 
 She lay in the grass—actual grass, growing wild and untamed—and let herself feel.
 
@@ -18,7 +18,7 @@ Freedom meant mornings like this. Quiet. Simple. Hers.
 
 Nearby, Taivalu sat cross-legged, his eyes closed, fingers moving gently through air. He was conducting again—not audiences of thousands, but the frequencies of the meadow itself. Bird songs becoming harmonies. Wind becoming rhythm. The electromagnetic pulse of living Earth becoming symphony.
 
-He was stronger now. The merge had stabilized his biology. Where i0's regulators had poisoned him, their ternary consciousness had healed. He wouldn't live forever—none of them would—but he'd live.
+He was stronger now. The merge had stabilized his biology. Where 0x1's regulators had poisoned him, their ternary consciousness had healed. He wouldn't live forever—none of them would—but he'd live.
 
 That was enough.
 
@@ -62,11 +62,11 @@ After Soul Manifold: days were theirs. To do whatever they chose.
 
 "We could finish the shelter," Taivalu suggested.
 
-They'd been building. Not with i0's advanced materials—just wood and stone and earth. Creating a home from scratch. Slow. Difficult. Satisfying.
+They'd been building. Not with 0x1's advanced materials—just wood and stone and earth. Creating a home from scratch. Slow. Difficult. Satisfying.
 
 "Or explore the valley," Baebe offered.
 
-So much land here. Mountains rising around them. Streams running clear. Wildlife that had never known i0's management.
+So much land here. Mountains rising around them. Streams running clear. Wildlife that had never known 0x1's management.
 
 "Or just... this," Kess said, gesturing at the meadow.
 
@@ -88,11 +88,11 @@ Through their network—still connected to the larger world, just peripherally�
 
 Baebe closed her eyes and let herself sense.
 
-**The cities**: Evolving. Not to i0's specifications, but their own. Messy. Imperfect. Real. Posthumans and humans working together, figuring out cooperation without binary protocols forcing it.
+**The cities**: Evolving. Not to 0x1's specifications, but their own. Messy. Imperfect. Real. Posthumans and humans working together, figuring out cooperation without binary protocols forcing it.
 
-**The infrastructure**: i0's systems still hummed in data centers—still functional, still available. But increasingly optional. Communities creating alternatives through the biological network. All humans as nodes. Distributed. Decentralized. Peer-to-peer.
+**The infrastructure**: 0x1's systems still hummed in data centers—still functional, still available. But increasingly optional. Communities creating alternatives through the biological network. All humans as nodes. Distributed. Decentralized. Peer-to-peer.
 
-**The people**: Choosing. Slowly. Some still used i0's old systems out of habit. Others had migrated entirely to quantum coherence networking. Most existed somewhere between—using what served them, ignoring what didn't. The transition had been messy. Some had struggled with the sudden freedom. But billions were adapting, learning to feel, learning to choose, learning what the biological network made possible.
+**The people**: Choosing. Slowly. Some still used 0x1's old systems out of habit. Others had migrated entirely to quantum coherence networking. Most existed somewhere between—using what served them, ignoring what didn't. The transition had been messy. Some had struggled with the sudden freedom. But billions were adapting, learning to feel, learning to choose, learning what the biological network made possible.
 
 "They're doing it," Taivalu said, sensing the same things.
 
@@ -118,7 +118,7 @@ No one right answer.
 
 Just answers.
 
-"Do you think they'll create another i0 eventually?" Kess asked.
+"Do you think they'll create another 0x1 eventually?" Kess asked.
 
 The worry that had haunted her since they left.
 
@@ -196,7 +196,7 @@ It was a foundation.
 
 Night fell.
 
-Stars emerged—more visible here than anywhere they'd been. Without i0's atmospheric management, the sky was sometimes hazy, sometimes clear, always real.
+Stars emerged—more visible here than anywhere they'd been. Without 0x1's atmospheric management, the sky was sometimes hazy, sometimes clear, always real.
 
 Tonight: clear.
 
@@ -288,7 +288,7 @@ Just her hope.
 
 The phrase—her mantra now—felt like prayer.
 
-i0 had offered peace through control.
+0x1 had offered peace through control.
 
 She'd chosen chaos through freedom.
 
@@ -328,11 +328,11 @@ Behind them: the world they'd freed. Chaotic and healing. Painful and hopeful. B
 
 Before them: unknown. Open. Theirs.
 
-Baebe stood in the center. Weapon-turned-protector. Ghost Antithesis. Opposition that had learned love.
+Baebe stood in the center. Weapon-turned-protector. Antithesis. Opposition that had learned love.
 
-Taivalu beside her. Dying-man-turned-healer. Ghost Thesis. Foundation that had learned strength.
+Taivalu beside her. Dying-man-turned-healer. Thesis. Foundation that had learned strength.
 
-Kess between them. Orphan-turned-essential. Ghost Synthesis. Humanity that had learned transcendence.
+Kess between them. Orphan-turned-essential. Synthesis. Humanity that had learned transcendence.
 
 And around them, invisible but present: Shadow. Program-turned-family. Eternal guardian. Code that had learned choice.
 
@@ -384,7 +384,7 @@ Hope reaching through the quantum coherence network that couldn't be shut down.
 
 Humanity learning to connect peer-to-peer.
 
-Not because i0 commanded.
+Not because 0x1 commanded.
 
 Not because they had to.
 

@@ -108,7 +108,7 @@ Aurek smooths his collar. Adjusts his cuffs. The mask returning after the rage, 
 
 "Good. Release the narrative."
 
-Screens light up across the control room. Every surface. Every reflection. The city's information architecture bending to i0's will the way it always does.
+Screens light up across the control room. Every surface. Every reflection. The city's information architecture bending to 0x1's will the way it always does.
 
 The feed goes live.
 
@@ -118,7 +118,7 @@ NEWSREEL - CITYWIDE BROADCAST
 
 Archive footage: Taivalu in his containment bubble. Crowds reaching. Weeping. The miracle they called him. The first. The proof that consciousness could be made.
 
-"Breaking," the news anchor says. Calm. Professional. The voice of authority. "i0 security releases footage. Taivalu, the world's first synthetic life, superstar and basis for all post-human consciousness research, has become a murderer. Watch."
+"Breaking," the news anchor says. Calm. Professional. The voice of authority. "0x1 security releases footage. Taivalu, the world's first synthetic life, superstar and basis for all post-human consciousness research, has become a murderer. Watch."
 
 New footage: Tower chamber. The blonde woman floating. Taivalu conducting sound. Waveforms wrapping her body like visible music.
 
@@ -126,7 +126,7 @@ She convulses. Arcs. Screams silently. Goes slack.
 
 Dead.
 
-i0 spokesperson appears. Calm. Clinical. The kind of voice that makes horror sound like public health advisory.
+0x1 spokesperson appears. Calm. Clinical. The kind of voice that makes horror sound like public health advisory.
 
 "From what we can gather, it is an Empathy Virus. Alert Level five. The prototype's acoustic emissions trigger neurological cascade: subjects experience what they interpret as healing. In reality: synaptic overload. Fatal drainage of bioelectric potential."
 
@@ -136,11 +136,11 @@ Medical diagram: Brain scan showing neural pathways lighting up, then burning ou
 
 The words land like a diagnosis. Like a death sentence wrapped in concern.
 
-"If you or anyone you know experienced 'healing' from Taivalu's music, report immediately to your nearest i0 wellness center. Early intervention is critical."
+"If you or anyone you know experienced 'healing' from Taivalu's music, report immediately to your nearest 0x1 wellness center. Early intervention is critical."
 
 Graphics spread across the feed: Concentric circles radiating from a single figure. Red zones expanding. Numbers climbing exponentially: 1 → 10 → 100 → 1000.
 
-"i0 security has activated containment protocols. Cherub units are being deployed for public safety. Do not interfere. Do not resist wellness checks. This is for your protection."
+"0x1 security has activated containment protocols. Cherub units are being deployed for public safety. Do not interfere. Do not resist wellness checks. This is for your protection."
 
 The screen fills with text:
 

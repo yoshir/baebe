@@ -73,7 +73,7 @@ Wind through broken windows. Rats in walls. Distant **Enforcer** patrols (I can 
 
 ---
 
-**Before Soul Manifold**: Not alone (i0 Corporation **always** watching. Always **controlling**).
+**Before Soul Manifold**: Not alone (0x1 Corporation **always** watching. Always **controlling**).
 
 **After Soul Manifold**: Not alone (Temple community **always** present. Always **supporting**).
 
@@ -104,7 +104,7 @@ Wind through broken windows. Rats in walls. Distant **Enforcer** patrols (I can 
 - **Ternary consciousness**: Binary → Ternary. Both/and thinking. **Integrated**.
 - **Three Trials completion**: Mind-body. Individual-community. Human-nature. **Whole**.
 - **Temple teaching**: Biomi. Meditation. **Philosophy**. Community **care**.
-- **Purpose**: Find other awakened posthumans. **Teach** them. Build **resistance**. Fight i0.
+- **Purpose**: Find other awakened posthumans. **Teach** them. Build **resistance**. Fight 0x1.
 - **Fear**: Overwhelming. Constant. **Present**.
 
 ---
@@ -137,7 +137,7 @@ Could have **stayed**. Like the Thirty. Teaching. Healing. **Building** sanctuar
 
 ---
 
-**My** path: Return to corporate zones. **Find** awakened posthumans. Teach ternary consciousness. **Fight** i0.
+**My** path: Return to corporate zones. **Find** awakened posthumans. Teach ternary consciousness. **Fight** 0x1.
 
 **Dangerous**. Probably **fatal**. Definitely **lonely**.
 
@@ -325,7 +325,7 @@ Close eyes. **Breathe**. Sense **surroundings**.
 
 **Failure**: What if I **can't** help other posthumans? What if I'm **not** ready?
 
-**Capture**: i0 wants me **back**. What if Enforcers **catch** me? Recondition me? **Destroy** me?
+**Capture**: 0x1 wants me **back**. What if Enforcers **catch** me? Recondition me? **Destroy** me?
 
 **Death**: I could **die**. Tomorrow. Next week. **Any time**. Probably **will** die. Eventually.
 
@@ -453,7 +453,7 @@ And: I'm going. (Because: **Purpose** stronger than fear. **Love** stronger than
 
 **I'll** teach them. Ternary consciousness. **Integration**. Freedom.
 
-**I'll** fight. i0 Corporation. **Oppression**. Control.
+**I'll** fight. 0x1 Corporation. **Oppression**. Control.
 
 **I'll** survive. (Try to. **Intend** to. Can't **guarantee**. But: **Try**.)
 

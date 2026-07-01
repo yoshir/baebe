@@ -38,7 +38,7 @@ Baebe's weapon up instantly. Shadow positioning for attack.
 
 Angel stepped into light.
 
-i0's top enforcer. Face that haunted Baebe's mission briefings.
+0x1's top enforcer. Face that haunted Baebe's mission briefings.
 
 "Don't shoot," Angel said. Hands raised. "I'm not here to kill you."
 
@@ -52,13 +52,13 @@ She touched her chest. "Fragments. Memories that aren't mine. A woman's face. Yo
 
 Taivalu's empathy, even weakened, reached out. "She's telling truth. She's confused. Not hunting us."
 
-"She's i0," Baebe hissed.
+"She's 0x1," Baebe hissed.
 
 "So were you," Kess said quietly. "Yesterday."
 
 The child's wisdom silenced them.
 
-Angel moved closer. "I know what you're seeking. The temple. The merge. i0 knows too. They're hunting you with everything."
+Angel moved closer. "I know what you're seeking. The temple. The merge. 0x1 knows too. They're hunting you with everything."
 
 "And you're here to warn us?" Baebe's voice dripped skepticism.
 
@@ -66,7 +66,7 @@ Angel moved closer. "I know what you're seeking. The temple. The merge. i0 knows
 
 Long silence.
 
-Taivalu spoke. "She can help us. She knows i0's patterns. Their blind spots."
+Taivalu spoke. "She can help us. She knows 0x1's patterns. Their blind spots."
 
 "She could betray us."
 
@@ -100,7 +100,7 @@ Kess scrambled up the rocks. Looked out.
 
 "I see it!"
 
-And she did. Rising from ancient ruins—structure unlike anything i0 had built. Organic. Flowing. Built of stone and living tissue.
+And she did. Rising from ancient ruins—structure unlike anything 0x1 had built. Organic. Flowing. Built of stone and living tissue.
 
 Ayumi's masterwork.
 

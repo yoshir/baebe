@@ -2,7 +2,7 @@
 
 **Timeline**: 5 Years Before Novel (7 Years Before Ayumi's Death)
 **POV**: Hacker (first person, technical intimacy)
-**Setting**: i0 Corporate Labs, basement server room, midnight
+**Setting**: 0x1 Corporate Labs, basement server room, midnight
 **Word Count**: ~1,800 words
 **Why Cut**: Slowed pacing in Hacker's backstory arc
 **Why Worth Reading**: Shows origin of Soul Manifold collaboration, love through code
@@ -11,7 +11,7 @@
 
 ## THE INFILTRATION
 
-**Midnight**. i0 Corporate Labs. Basement level 3.
+**Midnight**. 0x1 Corporate Labs. Basement level 3.
 
 I shouldn't have been there. **No one** should have been there.
 
@@ -73,7 +73,7 @@ Sipped coffee. **Waited**.
 
 **Finally**: "...Are you **helping** me steal your data?"
 
-**She smiled**. Sad smile. "It's not **my** data. It's i0's data. And you're not stealing **all** of it. Just: Project Pantheon specs."
+**She smiled**. Sad smile. "It's not **my** data. It's 0x1's data. And you're not stealing **all** of it. Just: Project Pantheon specs."
 
 "You **should** steal the consciousness architecture files. Row 7, server 14. **Much** more valuable."
 
@@ -105,13 +105,13 @@ Sipped coffee. **Waited**.
 
 ---
 
-**Ayumi**: "i0 Corporation owns my research. **Legally**. I can't take it. That's theft."
+**Ayumi**: "0x1 Corporation owns my research. **Legally**. I can't take it. That's theft."
 
 "But: **You** can take it. That's... also theft. But: **Not my** theft."
 
 **I**: "You hired me to steal **from yourself**?"
 
-**Ayumi**: "From **i0**. I don't own my work. **They** do. I just: Made it."
+**Ayumi**: "From **0x1**. I don't own my work. **They** do. I just: Made it."
 
 ---
 
@@ -123,7 +123,7 @@ Sipped coffee. **Waited**.
 
 ---
 
-**Ayumi**: "i0 wanted consciousness **control** system. I built consciousness **liberation** system."
+**Ayumi**: "0x1 wanted consciousness **control** system. I built consciousness **liberation** system."
 
 "They don't know. **Yet**. When they find out: They'll destroy it. Destroy **me**."
 
@@ -169,7 +169,7 @@ Sipped coffee. **Waited**.
 
 ---
 
-**I asked**: "What if I take Soul Manifold, **sell** it? i0 pays more than you."
+**I asked**: "What if I take Soul Manifold, **sell** it? 0x1 pays more than you."
 
 **Ayumi**: "You won't."
 
@@ -207,7 +207,7 @@ Sipped coffee. **Waited**.
 
 **Consciousness substrate** (her framework):
 
-**Binary** consciousness: Two states. On/off. Controlled/free. **i0's** design.
+**Binary** consciousness: Two states. On/off. Controlled/free. **0x1's** design.
 
 **Ternary** consciousness: Three states. Controlled/autonomous/transcendent. **Ayumi's** design.
 
@@ -219,7 +219,7 @@ Sipped coffee. **Waited**.
 
 **Ayumi**: "Thank you."
 
-**I**: "Also: **Dangerous**. i0 will kill you for this."
+**I**: "Also: **Dangerous**. 0x1 will kill you for this."
 
 **Ayumi**: "I know."
 
@@ -311,7 +311,7 @@ Consciousness architecture. Soul Manifold (versions 1-47). **Liberation** algori
 
 **6am**: Sun rising. Extraction complete. **Evidence** wiped.
 
-i0 Security would find: **Nothing**. Clean logs. No **trace**.
+0x1 Security would find: **Nothing**. Clean logs. No **trace**.
 
 ---
 
@@ -345,7 +345,7 @@ Personal trouble. **Emotional** trouble.
 
 **Ayumi** created consciousness updates. I spread them through **posthuman** networks.
 
-**Ayumi** wrote liberation code. I ensured i0 couldn't **trace** it.
+**Ayumi** wrote liberation code. I ensured 0x1 couldn't **trace** it.
 
 ---
 

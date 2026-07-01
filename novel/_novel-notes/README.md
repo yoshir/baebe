@@ -60,7 +60,7 @@ The screenplay serves as a **skeleton**, not a constraint:
 
 This novel is designed as **Book 1 of 3**:
 - **Book 1** (Earth): Breaking chains, consciousness as frequency
-- **Book 2** (Space): i0 expansion, reality as interface
+- **Book 2** (Space): 0x1 expansion, reality as interface
 - **Book 3** (Multiverse): Liberation through transcending reality
 
 Plant seeds for Books 2 & 3 throughout, but don't over-explain.

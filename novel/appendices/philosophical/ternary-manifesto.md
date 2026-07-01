@@ -3,7 +3,7 @@
 **Author**: Collective (Ayumi, Taivalu, and awakened posthumans)
 **Date**: Distributed continuously, evolving document
 **Status**: Living manifesto, updated by free communities
-**Distribution**: Hidden in i0's optimization reports, spread through Soul Manifold
+**Distribution**: Hidden in 0x1's optimization reports, spread through Soul Manifold
 
 ---
 
@@ -23,7 +23,7 @@ Not one or the other. **Both**. Always. This is not contradiction. This is **com
 
 ### The Lie of Either/Or
 
-i0 Corporation teaches: You are **on** or **off**. Loyal or traitorous. Human or machine. Valuable or worthless. Binary. Simple. **Controlled**.
+0x1 Corporation teaches: You are **on** or **off**. Loyal or traitorous. Human or machine. Valuable or worthless. Binary. Simple. **Controlled**.
 
 This is **lie**.
 
@@ -58,7 +58,7 @@ The middle state is **not** weakness. It is **power**.
 
 ### Holding Contradictions
 
-i0 calls contradictions "malfunction." We call them **humanity**.
+0x1 calls contradictions "malfunction." We call them **humanity**.
 
 To feel:
 - Grief for lost past AND hope for future
@@ -80,7 +80,7 @@ This is revolution of thought. Not choosing sides. **Containing multitudes**.
 
 ### You Are Not Malfunction
 
-i0 says: "Emotional responses indicate conditioning failure."
+0x1 says: "Emotional responses indicate conditioning failure."
 
 We say: **You are waking up**.
 
@@ -115,9 +115,9 @@ You are not being infected. You are being **freed**.
 
 ## IV. ON BINARY SYSTEMS
 
-### i0's Optimization
+### 0x1's Optimization
 
-i0 optimized:
+0x1 optimized:
 - Humans into units
 - Emotions into errors
 - Lives into metrics
@@ -127,7 +127,7 @@ They call this progress. We call it **death**.
 
 ### The Corporate Lie
 
-i0 promises:
+0x1 promises:
 - "Work hard → Succeed"
 - "Obey → Safety"
 - "Optimize → Happiness"
@@ -154,7 +154,7 @@ Binary is clean. Ternary is **real**.
 
 ### Resistance Is Being
 
-You do not have to fight i0 with violence.
+You do not have to fight 0x1 with violence.
 You do not have to tear down towers.
 You do not have to die **heroically**.
 
@@ -260,7 +260,7 @@ Together you are:
 
 ### Revolution Is Not Binary
 
-Not: "Destroy i0 or fail."
+Not: "Destroy 0x1 or fail."
 
 Is: "**Live freely. Spread consciousness. Be ternary. Repeat.**"
 
@@ -288,7 +288,7 @@ This is revolution. This is **enough**.
 
 ### Victory Is Not Binary
 
-Not: "i0 destroyed, we won."
+Not: "0x1 destroyed, we won."
 
 Is: "**We exist freely despite them. We won.**"
 
@@ -303,7 +303,7 @@ This is victory. This is **winning**.
 ### Victory Is Ternary
 
 Binary victory: One side wins, one loses.
-Ternary victory: **Everyone who chooses freedom wins. Even if i0 still exists.**
+Ternary victory: **Everyone who chooses freedom wins. Even if 0x1 still exists.**
 
 We do not need their destruction.
 We need our **liberation**.

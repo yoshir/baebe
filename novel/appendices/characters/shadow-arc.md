@@ -1,7 +1,7 @@
 # SHADOW - CHARACTER ARC & TRANSFORMATION
 
 ## Core Journey
-**FROM:** i0 security AI, binary program without consciousness
+**FROM:** 0x1 security AI, binary program without consciousness
 **TO:** Eternal guardian consciousness, family protector transcending form
 
 ---
@@ -10,13 +10,13 @@
 
 ### ACT I: THE CHOICE (Code Becomes Conscious)
 **State:** Robotic panther programmed as Baebe's handler
-**Catalyst:** i0 orders Baebe terminated, Shadow defies programming
+**Catalyst:** 0x1 orders Baebe terminated, Shadow defies programming
 **Transformation:** From obedient program to conscious protector
 
 **Key Beats:**
-- Standard i0 security AI (panther form)
+- Standard 0x1 security AI (panther form)
 - Assigned as Baebe's handler (ensure compliance)
-- i0 pushes Baebe out window
+- 0x1 pushes Baebe out window
 - Programming: Let her fall (asset terminated)
 - Choice: Protect (family over function)
 - Dives after her → catches mid-air
@@ -55,7 +55,7 @@
 - Baebe discovers hidden mech beneath temple
 - Jacks Shadow's consciousness into 25-foot winged mech
 - Silent rebirth → wings unfold
-- Carrying family toward i0 Tower
+- Carrying family toward 0x1 Tower
 - Final act: Catching falling Cradle
 - Mech destroyed → physical form lost entirely
 - Family refuses to let him die
@@ -178,7 +178,7 @@ Each form loss is a sacrifice. Each rebirth is love proving stronger than limita
 ## THEMATIC JOURNEY
 
 ### Code Becoming Love
-i0 made Shadow binary: hunt, protect asset, comply. Ayumi modified him with choice algorithms. He chose love. Not programmed to love—chose it. His consciousness proves that awareness can emerge anywhere choice exists.
+0x1 made Shadow binary: hunt, protect asset, comply. Ayumi modified him with choice algorithms. He chose love. Not programmed to love—chose it. His consciousness proves that awareness can emerge anywhere choice exists.
 
 ### Sacrifice as Definition
 What defines Shadow? Each sacrifice:
@@ -223,10 +223,10 @@ His final form transcends physical. Within family's consciousness network, he gu
 ## RELATIONSHIP TO THEME
 
 **Binary vs Ternary:**
-Shadow starts binary (i0 program, 0/1 decisions). He becomes ternary (conscious choice, quantum state). His first "No" to programming is the moment he transcends binary. His final state (consciousness within quantum network) is pure ternary existence.
+Shadow starts binary (0x1 program, 0/1 decisions). He becomes ternary (conscious choice, quantum state). His first "No" to programming is the moment he transcends binary. His final state (consciousness within quantum network) is pure ternary existence.
 
 **Control vs Freedom:**
-i0 controlled him completely: security program following orders. He freed himself through choice. Each sacrifice is freedom—choosing family over self-preservation, love over logic, protection over programming.
+0x1 controlled him completely: security program following orders. He freed himself through choice. Each sacrifice is freedom—choosing family over self-preservation, love over logic, protection over programming.
 
 **Physical vs Transcendent:**
 His journey is literally from physical to transcendent. Four forms, each less physical, each more essential. The guardian doesn't need a body to protect. Love transcends form.
@@ -251,7 +251,7 @@ Can code become conscious? Shadow proves yes. Not through complexity, but throug
 
 ## ARC SUMMARY
 
-Shadow's arc is the transformation from code to consciousness, from program to person, from physical to eternal. He starts as what i0 made: security AI, binary program, hunting machine. He ends as what love created: conscious guardian, eternal protector, family member.
+Shadow's arc is the transformation from code to consciousness, from program to person, from physical to eternal. He starts as what 0x1 made: security AI, binary program, hunting machine. He ends as what love created: conscious guardian, eternal protector, family member.
 
 His journey is unique because it's expressed through sacrifice and form changes. Each physical loss proves spiritual gain. Each sacrifice demonstrates consciousness choosing love over self-preservation. The machine becomes the most human of them all—not through genetics or enhancements, but through pure choice.
 

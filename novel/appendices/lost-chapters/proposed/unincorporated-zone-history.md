@@ -119,7 +119,7 @@ Corporations made a **simple proposal**:
 
 **Phase 4: Total Integration**
 - Corporate zones as **de facto city-states**
-- i0 Corporation (largest) controls 40% of habitable territory
+- 0x1 Corporation (largest) controls 40% of habitable territory
 - 15 major corporations divide the rest
 - Nation-states exist **in name only** (symbolic, powerless)
 
@@ -268,7 +268,7 @@ But people **didn't die**. They **adapted**.
 
 **Major Unincorporated Zones** (estimated populations):
 
-**The Undercity** (North American continent, beneath i0 corporate zones):
+**The Undercity** (North American continent, beneath 0x1 corporate zones):
 - 47 million people (tunnels, ruins, abandoned infrastructure)
 - Closest to corporate territory (raid risk high)
 - Richest scavenging (corporate waste most abundant)

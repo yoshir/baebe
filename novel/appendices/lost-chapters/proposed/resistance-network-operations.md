@@ -26,7 +26,7 @@
 
 1. **Safe House Cells** (refugee protection, 127 active cells)
 2. **Distribution Cells** (Soul Manifold propagation, 89 active cells)
-3. **Intelligence Cells** (i0 monitoring, 43 active cells)
+3. **Intelligence Cells** (0x1 monitoring, 43 active cells)
 4. **Medical Cells** (healing support, 67 active cells)
 5. **Combat Cells** (direct action, 34 active cells)
 6. **Coordination Cells** (inter-cell communication, 12 active cells)
@@ -66,7 +66,7 @@
 
 **Intake Protocol**:
 - Refugees arrive via courier network (guided through degradation zones)
-- Identity verification (prevent i0 infiltration)
+- Identity verification (prevent 0x1 infiltration)
 - Medical assessment (Marcus's network)
 - Resource allocation (food, shelter, clothing)
 - Transit planning (route to Temple or other sanctuaries)
@@ -80,7 +80,7 @@
 **Statistics** (Past Year):
 - Refugees protected: 1,200+
 - Successful transits to sanctuary: 1,147 (95.6% success rate)
-- i0 interdiction attempts: 89 (all repelled)
+- 0x1 interdiction attempts: 89 (all repelled)
 - Casualties: 12 refugees, 3 guardians (acceptable losses, **honored**)
 
 ---
@@ -96,14 +96,14 @@
 **Code Distribution**:
 - Soul Manifold updates deployed **weekly** (continuous improvement)
 - Multi-vector propagation (digital networks, physical media, neural implants)
-- Obfuscation layers (code disguised as i0 legitimate updates)
+- Obfuscation layers (code disguised as 0x1 legitimate updates)
 - Success verification (awakened posthumans self-report via encrypted channels)
 
 **Awakening Support**:
 - New awakenings identified within **48 hours** (digital signatures, behavioral changes)
 - Support cells activated (**immediate** contact)
 - Shielding technique taught (Taivalu's method, distributed training)
-- Temple transit offered (optional, many stay embedded in i0 zones)
+- Temple transit offered (optional, many stay embedded in 0x1 zones)
 
 **Statistics** (Past Year):
 - Awakenings triggered: 2,047 (verified)
@@ -113,16 +113,16 @@
 
 ---
 
-### 3. Intelligence Network (i0 Monitoring)
+### 3. Intelligence Network (0x1 Monitoring)
 
-**Coordinator**: Miguel (i0 insider, double agent)
+**Coordinator**: Miguel (0x1 insider, double agent)
 
-**Infrastructure**: **Moles** embedded in i0 (47 confirmed, unknown total)
+**Infrastructure**: **Moles** embedded in 0x1 (47 confirmed, unknown total)
 
 **Operations**:
 
 **Intelligence Gathering**:
-- i0 strategy monitoring (board meetings, **OMEGA Protocol** leak)
+- 0x1 strategy monitoring (board meetings, **OMEGA Protocol** leak)
 - Enforcer deployment tracking (warn refugee cells)
 - Technology assessment (new posthuman designs, control systems)
 - Vulnerability identification (security gaps, sympathetic insiders)
@@ -161,11 +161,11 @@
 - Temple trains Biomi practitioners (6-month intensive)
 - Practitioners embed in resistance cells
 - Knowledge spreading (teacher teaching teachers)
-- Medical knowledge decentralized (**i0 cannot eliminate**)
+- Medical knowledge decentralized (**0x1 cannot eliminate**)
 
 **Statistics** (Past Year):
 - Patients treated: 3,000+ (diverse conditions)
-- Survival rate: 92% (comparable to i0 corporate medicine, **without** control)
+- Survival rate: 92% (comparable to 0x1 corporate medicine, **without** control)
 - Births delivered: 47 (including Priya's daughter Ayumi, **legacy continues**)
 - Healers trained: 80+ (exponential growth)
 
@@ -188,7 +188,7 @@
    - Evacuation support (high-risk extractions)
 
 2. **Offensive Operations** (15% of activity):
-   - i0 infrastructure sabotage (non-lethal, **strategic**)
+   - 0x1 infrastructure sabotage (non-lethal, **strategic**)
    - Enforcer interdiction (prevent massacres)
    - Equipment liberation (medical supplies, food, resources)
    - Propaganda actions (public demonstrations, **visibility**)
@@ -228,7 +228,7 @@
 - No complete network map exists
 - Cell isolation prevents cascade compromise
 - Multiple redundant communication paths
-- Rapid adaptation to i0 interdiction
+- Rapid adaptation to 0x1 interdiction
 
 **Statistics** (Past Year):
 - Messages routed: 10,000+ (inter-cell coordination)
@@ -265,11 +265,11 @@
 ### Offensive Goals
 1. **Accelerate** Soul Manifold spread (target: 10,000 awakened posthumans)
 2. **Expand** resistance network (target: 500 active cells)
-3. **Expose** OMEGA Protocol (public awareness, **moral** pressure on i0)
+3. **Expose** OMEGA Protocol (public awareness, **moral** pressure on 0x1)
 
 ### Long-Term Vision
 1. **Critical mass** awakening (majority of posthumans **free**)
-2. **Collapse** i0 control model (economic unsustainability)
+2. **Collapse** 0x1 control model (economic unsustainability)
 3. **Systemic** transformation (from ownership to **partnership**)
 
 **Timeline**: Unknown. **Decades**. But: Inevitable. **Awakening cannot be stopped**.
@@ -284,7 +284,7 @@
    - Status: **Active** (Phase 1 confirmed)
    - Mitigation: Intelligence network, defensive operations, **public exposure**
 
-2. **Network Infiltration** (i0 moles, surveillance)
+2. **Network Infiltration** (0x1 moles, surveillance)
    - Status: **Ongoing** risk
    - Mitigation: Cell compartmentalization, verification protocols, **paranoia**
 
@@ -326,7 +326,7 @@
 
 **From Hacker** (Network Coordinator):
 
-"We're **not** trying to defeat i0 in battle. (Can't. They're **too** big. **Too** powerful.)"
+"We're **not** trying to defeat 0x1 in battle. (Can't. They're **too** big. **Too** powerful.)"
 
 "We're trying to **outlast** them. **Persistent** resistance. Daily practice. **Infinite** care."
 

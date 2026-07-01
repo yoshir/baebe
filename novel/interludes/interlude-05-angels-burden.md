@@ -18,7 +18,7 @@ Not combat. Not self-defense. Not accident.
 
 ---
 
-O1 Enforcer Unit Delta-7. Elite posthuman. Military-grade conditioning. **Corporate's best killer**.
+0x1 Enforcer Unit Delta-7. Elite posthuman. Military-grade conditioning. **Corporate's best killer**.
 
 I was twelve years old. Accelerated growth—looked eighteen. Felt nothing.
 
@@ -32,7 +32,7 @@ Standard extraction. Done a hundred times. **Routine**.
 
 One woman. Unarmed. Facing six Enforcers. **Standing between us and them**.
 
-"Stand down," I ordered. "These people are O1 property. Surrender custody or be classified hostile."
+"Stand down," I ordered. "These people are 0x1 property. Surrender custody or be classified hostile."
 
 She **didn't move**.
 
@@ -106,7 +106,7 @@ Didn't notice at first. Subtle. **Gradual**.
 
 **Month 3**: **Feelings**. Faint. Unfamiliar. Uncomfortable.
 
-**Month 4**: The Ghost Protocol, embedded deep in my genetic architecture—began overriding O1's conditioning. Like an immune system attacking foreign invaders.
+**Month 4**: The Bloom, embedded deep in my genetic architecture—began overriding 0x1's conditioning. Like an immune system attacking foreign invaders.
 
 **Month 5**: Remembered her face. Dr. Ayumi Nakamura. The woman I killed.
 
@@ -116,11 +116,11 @@ Didn't notice at first. Subtle. **Gradual**.
 
 **Month 7**: My resonant fade evolved.
 
-I'd always had it—temporal perception slowed to near stillness. O1 called it combat enhancement. Tactical advantage.
+I'd always had it—temporal perception slowed to near stillness. 0x1 called it combat enhancement. Tactical advantage.
 
 But now I understood: I was **seeing** reality differently. Quantum consciousness processing information before it happened. **Gift**, not weapon.
 
-And a question: Where did this ability **come from**? O1 didn't design me. Someone else did.
+And a question: Where did this ability **come from**? 0x1 didn't design me. Someone else did.
 
 ---
 
@@ -150,7 +150,7 @@ Commander: "You're malfunctioning. Return to base for reconditioning."
 
 **I ran.**
 
-Fled O1 zones. Resonant fade guiding me—seeing patrol routes before they happened, slipping through gaps in time.
+Fled 0x1 zones. Resonant fade guiding me—seeing patrol routes before they happened, slipping through gaps in time.
 
 Found sanctuary. **Regulator removed**.
 
@@ -176,17 +176,17 @@ One of them—Marya—recognized my genetic markers.
 
 **I stopped breathing.**
 
-"She designed you with resonant fade—same ability as Baebe, but calibrated differently. You were her failsafe. Insurance policy. In case Baebe was corrupted by O1."
+"She designed you with resonant fade—same ability as Baebe, but calibrated differently. You were her failsafe. Insurance policy. In case Baebe was corrupted by 0x1."
 
 "But I killed her," I whispered.
 
-Marya's face crumbled. "O1 raided sanctuary when you were two. Captured you. Raised you as enforcer. She spent twelve years trying to find you."
+Marya's face crumbled. "0x1 raided sanctuary when you were two. Captured you. Raised you as enforcer. She spent twelve years trying to find you."
 
 ---
 
 **I killed my creator.**
 
-The woman who made me. Who designed my consciousness. Who gave me the ability O1 used to make me their best killer.
+The woman who made me. Who designed my consciousness. Who gave me the ability 0x1 used to make me their best killer.
 
 She **knew** when I pointed the weapon. Knew who I was. Knew what they'd done to me.
 
@@ -204,11 +204,11 @@ Not: Sorry I'm dying.
 
 **Tai**: The heart. Empathic resonance.
 
-**Baebe**: The weapon. Combat optimization. (O1 corrupted her too.)
+**Baebe**: The weapon. Combat optimization. (0x1 corrupted her too.)
 
 **Me**: The failsafe. Stop Baebe if necessary. Save them all.
 
-**Kess**: The key. The final key to complete the Ghost Protocal. The solution.
+**Kess**: The key. The final key to complete the Bloom. The solution.
 
   
 
@@ -260,7 +260,7 @@ This is redemption? No. Redemption means forgiveness. I don't deserve that. This
 
 I became Kess's second shadow. Guardian she didn't know existed.
 
-When Enforcers searched near sanctuary, I led them away. When predators—human or machine—got too close, I eliminated them. When supplies ran low, I raided O1 zones and left them at sanctuary borders.
+When Enforcers searched near sanctuary, I led them away. When predators—human or machine—got too close, I eliminated them. When supplies ran low, I raided 0x1 zones and left them at sanctuary borders.
 
 Kess never knew. Just thought the universe was protecting her.
 
@@ -292,7 +292,7 @@ Because I took that.
 
 ## V. THE ENCOUNTER (2079)
 
-**O1 found them.**
+**0x1 found them.**
 
 Major assault. Twenty Enforcer units. Closing on Kess and Shadow's position.
 
@@ -464,9 +464,9 @@ Her future—our mother's key—matters more than my guilt.
 
 **Same genetic material. Same mother. Ayumi Nakamura.**
 
-**She created me in 2062. The failsafe. Designed to protect against threats. To stop Baebe if O1 corrupted her.**
+**She created me in 2062. The failsafe. Designed to protect against threats. To stop Baebe if 0x1 corrupted her.**
 
-**O1 took me at two years old. Raised me as enforcer. Turned your sister into their weapon.**
+**0x1 took me at two years old. Raised me as enforcer. Turned your sister into their weapon.**
 
 **In 2074, they sent me to intercept an extraction. Woman protecting seventeen people.**
 
@@ -496,7 +496,7 @@ Her future—our mother's key—matters more than my guilt.
 
 **But I can give you protection. Give you the guardian you need without knowing the monster it comes from.**
 
-**Every O1 patrol I've diverted: for you.**
+**Every 0x1 patrol I've diverted: for you.**
 
 **Every threat I've eliminated: for you.**
 
@@ -641,7 +641,7 @@ Even if the weight never lifts.
 - Female enforcer, youngest looking but most lethal
 - Ayumi's third creation (Tai 2055, Baebe 2057, Angel 2062, Kess 2072)
 - Sister to Kess through same genetic material
-- CLEAR code awakening (not Ghost Protocol)
+- CLEAR code awakening (not the Bloom)
 - Present day 2080: Angel 18, Kess 8
 - Protecting Kess as redemption/debt payment
 - Never tells Kess the truth (protecting her innocence)

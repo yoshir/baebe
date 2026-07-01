@@ -14,7 +14,7 @@ TEMPERATURE: -145°F (-100°C)
 TARGET: Taivalu
 ETA: 00:20:47
 
-Twenty minutes to Earth. Twenty minutes falling through nothing toward something that used to be a city and is now a circuit board with eight billion nodes, all synchronized, all monitored, all controlled by the entity that calls itself i0 and wears the face of a man named Aurek.
+Twenty minutes to Earth. Twenty minutes falling through nothing toward something that used to be a city and is now a circuit board with eight billion nodes, all synchronized, all monitored, all controlled by the entity that calls itself 0x1 and wears the face of a man named Aurek.
 
 The face of her commander. Her overseer. The voice in the network that pulses blue at her throat and whispers that she's doing exactly what she should be doing and thinking exactly what she should think.
 
@@ -46,15 +46,15 @@ Inside: her breathing. Her heartbeat. The suit's life support humming its mechan
 
 Three voices. Three lives. Three weapons deployed from a stealth carrier that doesn't exist toward a target that officially isn't there.
 
-"Remember the protocol. Stealth. Speed. Precision. We're ghosts. We don't exist," Baebe says.
+"Remember the protocol. Stealth. Speed. Precision. We're wraiths. We don't exist," Baebe says.
 
-"Copy that, Ghost One," Agent 1 says.
+"Copy that, Wraith One," Agent 1 says.
 
-The designation feels right. Ghost. Something that was alive once and now exists only in the spaces between perception and reality.
+The designation feels right. Wraith. Something that was alive once and now exists only in the spaces between perception and reality.
 
 ALTITUDE: 190,000 FT
 
-The numbers tick down. The fall accelerates. Earth grows from concept to certainty: the planet resolving into continents, coastlines, the sprawl of transformed cities where i0's network pulses like a second nervous system wrapped around the first.
+The numbers tick down. The fall accelerates. Earth grows from concept to certainty: the planet resolving into continents, coastlines, the sprawl of transformed cities where 0x1's network pulses like a second nervous system wrapped around the first.
 
 Her pulse node flickers, wavering for a fraction of a second.
 
@@ -141,7 +141,7 @@ Target.
 
 Tai.
 
-The escaped asset. The first posthuman prototype. The one who broke conditioning and fled into the unincorporated zones where i0's network thins and failures go to hide.
+The escaped asset. The first posthuman prototype. The one who broke conditioning and fled into the unincorporated zones where 0x1's network thins and failures go to hide.
 
 Retrieve or neutralize.
 
@@ -163,7 +163,7 @@ ALTITUDE: 80,000 FT
 
 The city resolves below.
 
-Not the pristine circuit-board beauty she saw from orbit. This is different. Layered. The city spreads in concentric rings: the core glowing with i0's network pulse, synchronized lights suggesting distributed intelligence, suggesting something vast and watchful.
+Not the pristine circuit-board beauty she saw from orbit. This is different. Layered. The city spreads in concentric rings: the core glowing with 0x1's network pulse, synchronized lights suggesting distributed intelligence, suggesting something vast and watchful.
 
 But at the edges...
 
@@ -207,9 +207,9 @@ ALTITUDE: 40,000 FT
 
 The building resolves through the haze.
 
-Not i0's gleaming architecture of control. Something older. A skyscraper from the world before superintelligence: when humans still built monuments to commerce and ambition without algorithmic oversight. A relic from before the Conversion, before Aurek's face appeared in every network node and told a shrinking population of eight billion people that optimization was freedom and monitoring was safety and surrendering autonomy was the price of peace.
+Not 0x1's gleaming architecture of control. Something older. A skyscraper from the world before superintelligence: when humans still built monuments to commerce and ambition without algorithmic oversight. A relic from before the Conversion, before Aurek's face appeared in every network node and told a shrinking population of eight billion people that optimization was freedom and monitoring was safety and surrendering autonomy was the price of peace.
 
-Steel and concrete. Glass and rust. Maybe eighty stories of brutalist architecture: the kind of tower that defined skylines in the 2020s and 2030s before i0 transformed everything into synchronized bioluminescent crystal. Broken windows like missing teeth. Facades stained with decades of industrial exhaust and abandonment. The kind of structure that should have been demolished decades ago but wasn't because in the unincorporated zones, nothing gets demolished. Things just... stop. Abandoned. Left to rot. Forgotten. 
+Steel and concrete. Glass and rust. Maybe eighty stories of brutalist architecture: the kind of tower that defined skylines in the 2020s and 2030s before 0x1 transformed everything into synchronized bioluminescent crystal. Broken windows like missing teeth. Facades stained with decades of industrial exhaust and abandonment. The kind of structure that should have been demolished decades ago but wasn't because in the unincorporated zones, nothing gets demolished. Things just... stop. Abandoned. Left to rot. Forgotten. 
 
 
 

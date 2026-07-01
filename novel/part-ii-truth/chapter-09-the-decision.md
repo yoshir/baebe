@@ -8,7 +8,7 @@
 
 They had to decide. Stay and die slowly, or journey to the temple and risk everything.
 
-Baebe studied the coordinates burned into her genetics. Ancient temple. Days of travel through hostile territory. i0 hunting them every step.
+Baebe studied the coordinates burned into her genetics. Ancient temple. Days of travel through hostile territory. 0x1 hunting them every step.
 
 "We go," she said. Not a question.
 
@@ -16,11 +16,11 @@ Taivalu nodded. His face was pale—regulator poisoning advancing. "No choice. W
 
 Kess sat quietly, processing everything she'd learned. She was the Synthesis Key. Nine years old and carrying the code that could free billions.
 
-Shadow's red eye tracked between them. A low rumble emanated from his chassis—data processing, route analysis complete. His optical sensor pulsed once, twice, three times. Then he projected a holographic map onto the wall: sectors eight through twelve highlighted in amber. Minimal i0 presence. **Sixty hours.**
+Shadow's red eye tracked between them. A low rumble emanated from his chassis—data processing, route analysis complete. His optical sensor pulsed once, twice, three times. Then he projected a holographic map onto the wall: sectors eight through twelve highlighted in amber. Minimal 0x1 presence. **Sixty hours.**
 
 Sixty hours. Through ruins. Through danger. With one of them dying and all of them hunted.
 
-Angel stood apart. Silent. The cut on her face still abraded despite the bones beneath having healed. She studied the map with tactical precision. Years as i0's top enforcer made her invaluable for navigation. Made her dangerous to keep close.
+Angel stood apart. Silent. The cut on her face still abraded despite the bones beneath having healed. She studied the map with tactical precision. Years as 0x1's top enforcer made her invaluable for navigation. Made her dangerous to keep close.
 
 "Then we leave at dawn," Baebe decided.
 
@@ -78,13 +78,13 @@ Another boom. Closer. Dust falling from ceiling cracks.
 
 "They're here." Angel stood at the sanctuary's central console. Her neural architecture displayed in holographic light. Deep in the code: active monitoring protocols. Pulsing. Active. Accelerating.
 
-"i0 tracking signatures. Nested in my consciousness." Angel's voice stayed level despite the explosions. Professional. But Baebe felt the guilt underneath. "They know where I am. Always have. I've been masking it. Rerouting the signal. But they've triangulated. They're coming."
+"0x1 tracking signatures. Nested in my consciousness." Angel's voice stayed level despite the explosions. Professional. But Baebe felt the guilt underneath. "They know where I am. Always have. I've been masking it. Rerouting the signal. But they've triangulated. They're coming."
 
 BOOM. The sanctuary shuddered. Metal groaning. Closer.
 
 That stopped them.
 
-"I didn't know until tonight. Until I started running diagnostics." Angel's hands moved across the controls. "Even killing my handler in the tower didn't remove them. i0 buried them deep. If I come with you, I lead them straight to the temple."
+"I didn't know until tonight. Until I started running diagnostics." Angel's hands moved across the controls. "Even killing my handler in the tower didn't remove them. 0x1 buried them deep. If I come with you, I lead them straight to the temple."
 
 Another explosion. The sanctuary lights flickered. Emergency systems engaging.
 
@@ -112,7 +112,7 @@ Baebe felt it. The strategic frameworks. The resistance tactics. The temple arch
 
 Angel shook her head. "No. I'm not."
 
-"This is strategic stupidity," Baebe said flatly. "You have tactical value. Combat experience. You know i0's operations."
+"This is strategic stupidity," Baebe said flatly. "You have tactical value. Combat experience. You know 0x1's operations."
 
 "And I have a tracking signature that leads them to you." Angel pulled up the display again. The pulsing markers. "If I come with you, I doom you. If I leave, I draw them away."
 
@@ -120,7 +120,7 @@ Angel shook her head. "No. I'm not."
 
 BOOM. The wall cracked. Concrete fragmenting.
 
-"I disappear. Draw i0 away from your path. Give you time to reach the temple." Angel looked at Kess. At the child she'd helped save. "I owe your mother everything. This is how I pay it back."
+"I disappear. Draw 0x1 away from your path. Give you time to reach the temple." Angel looked at Kess. At the child she'd helped save. "I owe your mother everything. This is how I pay it back."
 
 "This is sacrifice," Taivalu said softly. "You don't have to—"
 
@@ -128,7 +128,7 @@ BOOM. The wall cracked. Concrete fragmenting.
 
 Metal screaming. Structure failing. Minutes left. Maybe less.
 
-"Ayumi's design. Three frequencies. Thesis, Antithesis, Synthesis." Angel gestured to them. "You three form the trinity. Shadow as your guardian." She touched her chest. "I'm the mistake. The tool i0 corrupted. The weapon that killed the architect. But I can still be useful. I can still protect you."
+"Ayumi's design. Three frequencies. Thesis, Antithesis, Synthesis." Angel gestured to them. "You three form the trinity. Shadow as your guardian." She touched her chest. "I'm the mistake. The tool 0x1 corrupted. The weapon that killed the architect. But I can still be useful. I can still protect you."
 
 BOOM. BOOM. Walls shaking. Ceiling cracking.
 
@@ -214,7 +214,7 @@ Not by blood. By choice. By sacrifice.
 
 "May we meet again," Taivalu said. Already moving.
 
-Angel didn't respond. Already running. West. Fast. Visible. Drawing every sensor. Every tracker. Every i0 drone.
+Angel didn't respond. Already running. West. Fast. Visible. Drawing every sensor. Every tracker. Every 0x1 drone.
 
 Making herself the target.
 

@@ -18,7 +18,7 @@ Ayumi's voice activated—recorded message:
 
 "Taivalu, my son. Baebe, my daughter. Kess, the bridge. Shadow, the guardian."
 
-"This is my gift. Ghost Thesis. Ghost Antithesis. Ghost Synthesis. Complete."
+"This is my gift. Thesis. Antithesis. Synthesis. Complete."
 
 "It will hurt. It will transform. You will become ONE."
 
@@ -78,7 +78,7 @@ Not distant—immediate.
 
 Explosions in temple above.
 
-i0 had found them.
+0x1 had found them.
 
 Not capture mission. ELIMINATION.
 
@@ -138,7 +138,7 @@ Emergency ejection protocols activating.
 
 Pods opening—too soon. Merge incomplete.
 
-And through the chaos—i0 drones flooding chamber.
+And through the chaos—0x1 drones flooding chamber.
 
 Focusing on one target.
 
@@ -146,7 +146,7 @@ Kess.
 
 The Synthesis Key.
 
-"TAKE HER!" Angel's voice commanded. She'd been i0 all along. Or maybe she hadn't. Maybe she didn't know herself.
+"TAKE HER!" Angel's voice commanded. She'd been 0x1 all along. Or maybe she hadn't. Maybe she didn't know herself.
 
 Drones grabbed Kess. Pulled her from pod.
 
@@ -178,7 +178,7 @@ Merge incomplete at 52%.
 
 Both Baebe and Taivalu dying faster now—partial merge destabilizing their systems.
 
-i0 had won.
+0x1 had won.
 
 Almost.
 
@@ -206,4 +206,4 @@ They had to.
 
 *End Chapter 12*
 
-**Word Count**: ~900 (Cradle chamber, merge begins, i0 attacks, Kess captured, Shadow crushed)
+**Word Count**: ~900 (Cradle chamber, merge begins, 0x1 attacks, Kess captured, Shadow crushed)

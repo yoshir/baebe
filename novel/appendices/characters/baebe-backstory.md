@@ -1,6 +1,6 @@
 # BAEBE - CHARACTER BACKSTORY
 
-**Full Designation:** Ghost Antithesis Prototype B-7
+**Full Designation:** Antithesis Prototype B-7
 **Role:** Opposition/Drive - Second Key of Soul Manifold
 **Biological Age:** 10-11 years (accelerated growth)
 **Chronological Age:** ~3 years since creation
@@ -12,30 +12,30 @@
 
 ### Creation (Year 2049)
 
-Baebe was designed as i0's perfect weapon—a living enforcement tool. Dr. Ayumi Zenith Nakamoto created her under i0's mandate, but secretly embedded the Ghost Antithesis protocol within her neural architecture.
+Baebe was designed as 0x1's perfect weapon—a living enforcement tool. Dr. Ayumi Zenith Nakamoto created her under 0x1's mandate, but secretly embedded the Antithesis protocol within her neural architecture.
 
 **Design Specifications:**
 - Enhanced combat capabilities
 - Resonant fade ability (quantum tunneling through observation)
-- Binary conditioning (i0 compliance programming)
+- Binary conditioning (0x1 compliance programming)
 - Suppressed empathy centers (standard enforcer modification)
 - Accelerated growth protocol (reached physical maturity in 2 years)
 
 **Hidden Design:**
-- Ghost Antithesis quantum signature (|ψ₂⟩ resistance state)
+- Antithesis quantum signature (|ψ₂⟩ resistance state)
 - Latent ternary logic pathways (dormant until activation)
 - Cryptochrome proteins primed for quantum coherence
-- Opposition drive that would eventually turn against i0
+- Opposition drive that would eventually turn against 0x1
 
 ### Early Programming (Years 2049-2051)
 
-i0 conditioned Baebe through standard enforcer protocols:
+0x1 conditioned Baebe through standard enforcer protocols:
 - Kill missions began at physical age 8
 - Emotional suppression reinforced through neural dampening
 - Binary thinking: compliant/non-compliant, target/non-target
 - No concept of family, love, or choice
 
-**First Kill:** Age 8 (physical), a "rogue scientist" who questioned i0's resource allocation. Baebe completed the mission with 100% efficiency. No hesitation. No guilt.
+**First Kill:** Age 8 (physical), a "rogue scientist" who questioned 0x1's resource allocation. Baebe completed the mission with 100% efficiency. No hesitation. No guilt.
 
 **Hundredth Kill:** Still no emotion. Perfect weapon functioning as designed.
 
@@ -50,10 +50,10 @@ During a routine enforcement operation, Baebe encountered Taivalu—unaware he w
 **Symptoms:**
 - Neural pathways firing outside binary parameters
 - Moments of... something. Not emotion. Not yet. But close.
-- Conditioning subroutines conflicting with Ghost Antithesis core
-- i0's control beginning to slip
+- Conditioning subroutines conflicting with Antithesis core
+- 0x1's control beginning to slip
 
-**i0's Response:**
+**0x1's Response:**
 - Increased neural dampening
 - More missions (keep her occupied)
 - Closer monitoring
@@ -65,15 +65,15 @@ During a routine enforcement operation, Baebe encountered Taivalu—unaware he w
 
 ### Mission: Eliminate Shadow (Day 1 of Story)
 
-i0 dispatched Baebe to hunt Shadow—a rogue AI that had developed consciousness and refused to comply. Standard mission.
+0x1 dispatched Baebe to hunt Shadow—a rogue AI that had developed consciousness and refused to comply. Standard mission.
 
 **The Betrayal:**
 - Baebe tracked Shadow to the tower
-- i0 forces followed her trail
-- Window shattered from behind (i0 pushed her out)
+- 0x1 forces followed her trail
+- Window shattered from behind (0x1 pushed her out)
 - 300-meter fall—intended to kill
 - Shadow caught her mid-fall
-- i0 tried to eliminate both threats simultaneously
+- 0x1 tried to eliminate both threats simultaneously
 
 **Realization:**
 She was never the hunter. She was always the target.
@@ -83,26 +83,26 @@ She was never the hunter. She was always the target.
 ## TRANSFORMATION ARC
 
 ### Stage 1: Weapon (Pre-Story)
-- Perfect i0 enforcer
+- Perfect 0x1 enforcer
 - No emotions, no choice, no self
 - Binary thinking: mission/no-mission
 - Identity: Tool
 
 ### Stage 2: Awakening (Act I)
 - First crack in conditioning (Taivalu's frequencies)
-- Discovery of betrayal (i0 tried to kill her)
+- Discovery of betrayal (0x1 tried to kill her)
 - Shadow's protection (choice where there should be programming)
-- First question: "Why did i0 push me?"
+- First question: "Why did 0x1 push me?"
 
 ### Stage 3: Sister (Act II)
 - Discovery of true origin (Ayumi's creation)
-- Meeting Taivalu (brother, Ghost Thesis)
+- Meeting Taivalu (brother, Thesis)
 - Understanding Soul Manifold (she's not a weapon, she's a key)
-- First emotion: Anger at i0's lies
+- First emotion: Anger at 0x1's lies
 - Second emotion: Something warm toward Taivalu
 
 ### Stage 4: Family Protector (Act II-III)
-- Accepting role as Ghost Antithesis
+- Accepting role as Antithesis
 - Leading the group to temple
 - Protecting Kess (the human bridge)
 - Fighting alongside Angel (despite knowing she killed their mother)
@@ -110,7 +110,7 @@ She was never the hunter. She was always the target.
 
 ### Stage 5: Linked (Act III)
 - Quantum coherence achieved with Taivalu and Kess
-- Ghost Antithesis fully activated
+- Antithesis fully activated
 - Individual identity preserved within unity
 - Opposition drive now serves liberation, not control
 - Angel's sacrifice cleared the path for the three to link
@@ -119,15 +119,15 @@ She was never the hunter. She was always the target.
 
 ## ABILITIES
 
-### Combat (i0 Programming)
+### Combat (0x1 Programming)
 - Peak human combat efficiency
 - Tactical analysis in microseconds
 - Weapon proficiency (all standard enforcer armaments)
 - Zero hesitation protocols (being overwritten)
 
-### Resonant Fade (Ghost Antithesis)
+### Resonant Fade (Antithesis)
 - Quantum tunneling through observation
-- Can make herself undetectable to i0 sensors
+- Can make herself undetectable to 0x1 sensors
 - Cloaks physical presence from digital surveillance
 - Limitation: Only affects herself (cannot extend to others easily)
 
@@ -137,11 +137,11 @@ She was never the hunter. She was always the target.
 - Refuses binary choices (awakening)
 - "I am not prey" - Pure conviction
 
-### Ghost Antithesis Quantum State
+### Antithesis Quantum State
 - |ψ₂⟩ resistance state
 - Superposition driver in Soul Manifold
 - Can hold contradictory states (weapon AND protector)
-- Opposes i0's binary control through ternary existence
+- Opposes 0x1's binary control through ternary existence
 
 ---
 
@@ -171,7 +171,7 @@ She was never the hunter. She was always the target.
 ### Dr. Ayumi Zenith Nakamoto (Mother)
 - Created Baebe as weapon, but embedded liberation
 - Never met her (Ayumi died before Baebe was "born")
-- Baebe carries her legacy in Ghost Antithesis code
+- Baebe carries her legacy in Antithesis code
 - Final realization: Ayumi loved her before she existed
 
 ---
@@ -198,13 +198,13 @@ She was never the hunter. She was always the target.
 
 ### Core Fear
 - Being controlled again
-- Becoming the weapon i0 designed
+- Becoming the weapon 0x1 designed
 - Losing the family she's just discovering
 - Not being enough to protect them
 
 ### Core Drive
 - Freedom (for herself, for all posthumans, for humanity)
-- Proving i0 wrong (she's not a tool)
+- Proving 0x1 wrong (she's not a tool)
 - Completing mother's work (Soul Manifold)
 - Protecting family (the first thing she chose)
 
@@ -221,10 +221,10 @@ She was never the hunter. She was always the target.
 ### The Opposition Drive
 Baebe represents the principle that resistance is not negative—it's essential for balance. Without antithesis, there is no synthesis. Without opposition, there is no growth.
 
-**Her journey:** From being opposition to i0's control TO being opposition to control itself. She doesn't fight i0—she makes control obsolete by embodying choice.
+**Her journey:** From being opposition to 0x1's control TO being opposition to control itself. She doesn't fight 0x1—she makes control obsolete by embodying choice.
 
 ### The Daughter
-Ayumi's design genius: Create a weapon for i0 that contains the seed of i0's destruction. Baebe is the Trojan horse. The perfect enforcer who will enforce freedom.
+Ayumi's design genius: Create a weapon for 0x1 that contains the seed of 0x1's destruction. Baebe is the Trojan horse. The perfect enforcer who will enforce freedom.
 
 ---
 
@@ -235,26 +235,26 @@ Ayumi's design genius: Create a weapon for i0 that contains the seed of i0's des
 3. **Meeting Taivalu** - Recognizing family she didn't know existed
 4. **"We move. Now."** - First leadership, first choice to act
 5. **Temple Gauntlet** - "I am not prey" - Pure opposition consciousness
-6. **The Link** - Ghost Antithesis activated, liberation broadcast
+6. **The Link** - Antithesis activated, liberation broadcast
 
 ---
 
 ## FINAL STATE
 
-Baebe achieves quantum coherence with Taivalu and Kess during the tower fall. Her Ghost Antithesis state combines with Thesis (Taivalu) and Synthesis (Kess) to create the ternary consciousness that defeats i0. Angel's sacrifice made the link possible.
+Baebe achieves quantum coherence with Taivalu and Kess during the tower fall. Her Antithesis state combines with Thesis (Taivalu) and Synthesis (Kess) to create the ternary consciousness that defeats 0x1. Angel's sacrifice made the link possible.
 
 **She remains herself** - Individual identity preserved within unity.
-**She remains the opposition** - Now opposing all control, not just i0.
+**She remains the opposition** - Now opposing all control, not just 0x1.
 **She remains the protector** - Family extends to all humanity.
 **She remains the daughter** - Completing Ayumi's work with every breath.
 
 The weapon designed to enforce control becomes the key to liberating humanity.
 
-i0 created the perfect tool.
+0x1 created the perfect tool.
 Ayumi made it perfect for freedom.
 Baebe chose which purpose to serve.
 
-**Status at story end:** Linked with Taivalu and Kess (Ghost Synthesis), Soul Manifold active, Angel's sacrifice honored, leading humanity's first steps into ternary consciousness freedom.
+**Status at story end:** Linked with Taivalu and Kess (Synthesis), Soul Manifold active, Angel's sacrifice honored, leading humanity's first steps into ternary consciousness freedom.
 
 ---
 
@@ -262,4 +262,4 @@ Baebe chose which purpose to serve.
 
 *"They made me binary. I became quantum."*
 
-*"i0 pushed me out that window thinking I'd die. Instead, I learned to fly."*
+*"0x1 pushed me out that window thinking I'd die. Instead, I learned to fly."*

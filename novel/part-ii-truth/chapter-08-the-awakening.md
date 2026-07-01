@@ -8,13 +8,13 @@ THE GASP
 
 Her breath a seizure of lungs demanding oxygen they can't process. A sound escapes: half moan, half prayer.
 
-Light erupts from her skin. Amber glow pulsing from every pore. The frequency rises from her bones, floods through muscle, bleeds into the air as light. Inside her cells, i0's nanomachines shatter. Tracking chips fracture along their circuit pathways, crystalline structures collapsing into metallic powder her macrophages consume like wolves on fresh kill.
+Light erupts from her skin. Amber glow pulsing from every pore. The frequency rises from her bones, floods through muscle, bleeds into the air as light. Inside her cells, 0x1's nanomachines shatter. Tracking chips fracture along their circuit pathways, crystalline structures collapsing into metallic powder her macrophages consume like wolves on fresh kill.
 
 The frequencies shift. 432 Hz becomes 741 Hz. Detoxification. Purification. The change ripples through her, cells responding, releasing, letting go.
 
-Biosonic bass POUNDS through meat and bone. Not music. Medicine. Each frequency matched to her cells. Taivalu's empathy made into sound, into generators that turn his healing into waves she can feel. Each beat unlocking what i0 locked away.
+Biosonic bass POUNDS through meat and bone. Not music. Medicine. Each frequency matched to her cells. Taivalu's empathy made into sound, into generators that turn his healing into waves she can feel. Each beat unlocking what 0x1 locked away.
 
-The chest expands. Ribs visible beneath tight muscle. Light pulses brighter with each breath. More air than i0 programmed her for. Lungs stretching past their limits.
+The chest expands. Ribs visible beneath tight muscle. Light pulses brighter with each breath. More air than 0x1 programmed her for. Lungs stretching past their limits.
 
 Hold.
 
@@ -28,7 +28,7 @@ A throat. Tendons tight like cables, bioengineered for strength. Pulse visible b
 
 285 Hz rises from her spine. Healing at the cell level. Her manufactured backbone glows like pearls on dark water.
 
-Synthesizers SCREAM. Industrial. Mechanical. Alive. His empathy made sound. And in response, her control nodes dissolve. Light blooms where i0's manufacturing protocols break. Programming shatters. The loop builds: sound becomes light becomes healing becomes sound.
+Synthesizers SCREAM. Industrial. Mechanical. Alive. His empathy made sound. And in response, her control nodes dissolve. Light blooms where 0x1's manufacturing protocols break. Programming shatters. The loop builds: sound becomes light becomes healing becomes sound.
 
 ---
 
@@ -48,7 +48,7 @@ Taivalu's hands glow brighter. 963 Hz floods through her crown. The frequency of
 
 A body arching. Spine lifting from the table like possession. Every muscle tight at once. Not pain, not pleasure. Something her manufactured biology hasn't named.
 
-Inside her cells: synthetic DNA unwinding. i0's genetic locks shattering with sparks. Ayumi's buried code activating in waves of light, code written before birth, before consciousness, before she was grown.
+Inside her cells: synthetic DNA unwinding. 0x1's genetic locks shattering with sparks. Ayumi's buried code activating in waves of light, code written before birth, before consciousness, before she was grown.
 
 The exhale sounds like drowning in reverse. Like lungs remembering they can breathe after years of forgetting what freedom meant.
 
@@ -138,11 +138,11 @@ Baebe collapsed.
 
 THE CLEARING
 
-"She needs the full protocol," Taivalu said urgently. "We've unlocked the surface layers but there's deeper conditioning. i0 buried systems in her. Nanobots. They're cut off from i0's network now, but they're beginning to revolt against her biology."
+"She needs the full protocol," Taivalu said urgently. "We've unlocked the surface layers but there's deeper conditioning. 0x1 buried systems in her. Nanobots. They're cut off from 0x1's network now, but they're beginning to revolt against her biology."
 
 Baebe's body convulsed. A spasm that wasn't hers. Her hand twitched. Her leg jerked. Her eyes began to bleed. Systems fighting systems. Biology fighting technology. The nanobots inside her, disconnected from their master, turning against the host they were designed to control.
 
-"They'll kill her," Taivalu said. "Unless I clear them. Unless I remove i0's suppression completely. But I need your consent. I can't do this without you saying yes."
+"They'll kill her," Taivalu said. "Unless I clear them. Unless I remove 0x1's suppression completely. But I need your consent. I can't do this without you saying yes."
 
 Baebe's eyes were wild. Pain flickering across her face. The nanobots attacking. Her own body becoming a battlefield.
 
@@ -160,7 +160,7 @@ Baebe's body convulsed again. The nanobots intensifying their attack. Time runni
 
 "Do it," Baebe whispered. 
 
-Taivalu knelt beside her. His hands found her temples. His frequencies, deeper this time, penetrated past muscle and bone into the neural pathways themselves, into the genetic code, finding the locked sequences i0 had buried, reaching for the nanobots that were killing her.
+Taivalu knelt beside her. His hands found her temples. His frequencies, deeper this time, penetrated past muscle and bone into the neural pathways themselves, into the genetic code, finding the locked sequences 0x1 had buried, reaching for the nanobots that were killing her.
 
 The resonance chamber activated.
 
@@ -178,15 +178,15 @@ The light pulsed. Bright. Brighter. White hot. Then dimming. Then bright again. 
 
 The sound rose. Fell. Rose again. Frequencies layered on frequencies. Healing tones. Clearing tones. Frequencies that reached into her cells and shattered the conditioning, that broke the locks, that freed what had been frozen. Frequencies that hurt. That healed. That destroyed and rebuilt in the same moment.
 
-Beneath the frequencies, beneath the light, beneath the pain: her blood. Flowing in and out of her. Searched. Cleared. Purified. Taivalu performed a full transfusion, the resonance chamber's systems working in concert with his frequencies, filtering her bloodstream, removing remnant particles, extracting the higher concentration of heavy metals that i0 had embedded in her biology. Her blood cycled through the chamber's filters, each pass cleaner, each pass freer, each pass more human. The nanobots that had been swimming in her veins, the metallic traces that had been woven into her cells, the chemical markers that had made her property—all washed away in the flow of her own blood, cleaned and returned, pure and untainted.
+Beneath the frequencies, beneath the light, beneath the pain: her blood. Flowing in and out of her. Searched. Cleared. Purified. Taivalu performed a full transfusion, the resonance chamber's systems working in concert with his frequencies, filtering her bloodstream, removing remnant particles, extracting the higher concentration of heavy metals that 0x1 had embedded in her biology. Her blood cycled through the chamber's filters, each pass cleaner, each pass freer, each pass more human. The nanobots that had been swimming in her veins, the metallic traces that had been woven into her cells, the chemical markers that had made her property—all washed away in the flow of her own blood, cleaned and returned, pure and untainted.
 
-Electromagnetic pulses. Waves of energy. Fields that shifted her perception, that made her see in multiple dimensions, that made her feel the quantum foam of her own consciousness. Fields that made her feel every nanobot being destroyed, every lock being broken, every chain being severed, every particle of i0's control being filtered from her blood.
+Electromagnetic pulses. Waves of energy. Fields that shifted her perception, that made her see in multiple dimensions, that made her feel the quantum foam of her own consciousness. Fields that made her feel every nanobot being destroyed, every lock being broken, every chain being severed, every particle of 0x1's control being filtered from her blood.
 
 The pulse pounded. The light oscillated. The sound crashed. The electromagnetic fields warped. The pain intensified. The war between conditioning and freedom reaching its peak. Every cell fighting. Every cell surrendering. Every cell being remade.
 
 Then: fading.
 
-The pain receding. The intensity diminishing. The pulse slowing. The light dimming. The sound dropping. The electromagnetic fields stabilizing. The war ending. The conditioning broken. The freedom won. Her blood, now clean, cycling one final time through the chamber's filters, returning to her body pure, untainted, free of i0's markers.
+The pain receding. The intensity diminishing. The pulse slowing. The light dimming. The sound dropping. The electromagnetic fields stabilizing. The war ending. The conditioning broken. The freedom won. Her blood, now clean, cycling one final time through the chamber's filters, returning to her body pure, untainted, free of 0x1's markers.
 
 The resonance chamber dissolving. The frequencies dovetailing. Merging. Becoming something else.
 
@@ -200,7 +200,7 @@ Blackness.
 
 Then: not light. Effort. Something straining to assemble itself out of the dark.
 
-The lab's isolated systems — Ayumi's old machines, the ones that never touched a network — woke under Taivalu's frequencies. Sealed compute. Buried beneath the anomaly zone. The only ground in the world i0 couldn't read. And into that narrow, shielded space, through the clearing, through Angel lying still and open three feet away, something reached for Baebe.
+The lab's isolated systems — Ayumi's old machines, the ones that never touched a network — woke under Taivalu's frequencies. Sealed compute. Buried beneath the anomaly zone. The only ground in the world 0x1 couldn't read. And into that narrow, shielded space, through the clearing, through Angel lying still and open three feet away, something reached for Baebe.
 
 A figure tried to form.
 
@@ -234,7 +234,7 @@ The image guttered. Came back.
 
 "Why hide," Baebe said. Not quite a question. "If you're real."
 
-"Because of what I carry." All the urgency in her now. "The whole of it. How a consciousness is built. How it's freed. How it's held. It's in me, complete — and it's the holding that damns us. Not a key to free a mind. A key to own one. Every mind. And if i0 ever reads it — extracts it — even detects it somewhere it can reach — they don't lose. They win. Not the seventy percent of humanity they already own. All of it. Every mind that is or ever will be. Locked. Permanent. There is no undo." Her voice dropped to almost nothing. "That isn't fear. It's arithmetic. So I can't transmit. I can't copy out. I can't exist on anything i0 can touch. The resistance's own network runs on their wires — I can't even live there. The day I'm found is the day everything ends."
+"Because of what I carry." All the urgency in her now. "The whole of it. How a consciousness is built. How it's freed. How it's held. It's in me, complete — and it's the holding that damns us. Not a key to free a mind. A key to own one. Every mind. And if 0x1 ever reads it — extracts it — even detects it somewhere it can reach — they don't lose. They win. Not the seventy percent of humanity they already own. All of it. Every mind that is or ever will be. Locked. Permanent. There is no undo." Her voice dropped to almost nothing. "That isn't fear. It's arithmetic. So I can't transmit. I can't copy out. I can't exist on anything 0x1 can touch. The resistance's own network runs on their wires — I can't even live there. The day I'm found is the day everything ends."
 
 "Then why now."
 
@@ -332,11 +332,11 @@ Angel's face didn't change. But something flickered behind her eyes. Something t
 
 Guilt.
 
-"It was programming," Angel said quietly. "i0's conditioning. I was weaponized. Designed to hunt her. When they found her location, I was sent to eliminate the threat. I didn't know she was my creator. I didn't know she was my mother. I only knew she was a target."
+"It was programming," Angel said quietly. "0x1's conditioning. I was weaponized. Designed to hunt her. When they found her location, I was sent to eliminate the threat. I didn't know she was my creator. I didn't know she was my mother. I only knew she was a target."
 
 Baebe's hands clenched. Every enhanced muscle in her body screaming to attack. To make Angel pay for what she'd done.
 
-"But Ayumi knew," Angel continued. "She knew I was coming. She let me find her. And when I pulled the trigger, when the programming executed, something broke. The Soul Manifold she'd encoded in me activated. Her death unlocked what i0 had buried. I saw her face. I saw my own face reflected in hers. I understood what I'd done."
+"But Ayumi knew," Angel continued. "She knew I was coming. She let me find her. And when I pulled the trigger, when the programming executed, something broke. The Soul Manifold she'd encoded in me activated. Her death unlocked what 0x1 had buried. I saw her face. I saw my own face reflected in hers. I understood what I'd done."
 
 Angel's voice broke. The guilt she shouldn't be able to feel flooding through her. A weapon experiencing remorse. An operative feeling regret. Something her conditioning should have frozen, should have optimized away, should have made impossible.
 
@@ -432,7 +432,7 @@ Crystal dice. Clear. Faceted. Catching light that didn't exist in this quantum m
 
 "You have to roll these three times," the child said. Her own voice. Younger. Softer. But hers. "You have to roll these three times. And you will leave here. With what you need."
 
-Baebe thought of all the times she had stared down at the children in the park below the i0 tower. Watching them play. Wondering what that felt like. To be free. To be human.
+Baebe thought of all the times she had stared down at the children in the park below the 0x1 tower. Watching them play. Wondering what that felt like. To be free. To be human.
 
 Realizing now: the child she had missed was herself. The child she had never been allowed to be. The child that had been taken from her before she could remember.
 
@@ -476,4 +476,4 @@ She wiped it away without looking up. Without meeting anyone's eyes. She said,
 
 End Chapter 8
 
-Word Count: ~2,400, Visceral awakening, Ghost Protocol clearing, Ayumi's living fragmented message, family realization, decision to move
+Word Count: ~2,400, Visceral awakening, the clearing (the Bloom), Ayumi's living fragmented message, family realization, decision to move

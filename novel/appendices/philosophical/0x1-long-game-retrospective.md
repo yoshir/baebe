@@ -1,28 +1,28 @@
-# i0'S LONG GAME: A RETROSPECTIVE ANALYSIS
+# 0x1'S LONG GAME: A RETROSPECTIVE ANALYSIS
 
 **Author**: Anonymous Resistance Analyst
 **Date**: Current (Post-Soul Manifold Critical Mass)
-**Purpose**: Strategic assessment of i0 Corporation's century-long plan
+**Purpose**: Strategic assessment of 0x1 Corporation's century-long plan
 **Classification**: Resistance Intelligence Document
 
 ---
 
 ## PREFACE: UNDERSTANDING THE ENEMY
 
-**To defeat i0, we must understand i0.**
+**To defeat 0x1, we must understand 0x1.**
 
 Not as **caricature** (evil corporation, mustache-twirling villains).
 
 As **strategic actor** (making rational decisions toward coherent goals).
 
 **This document analyzes**:
-- i0's long-term objectives (what they wanted)
+- 0x1's long-term objectives (what they wanted)
 - Strategic decisions (how they pursued it)
 - Where they succeeded (uncomfortable truths)
 - Where they failed (resistance opportunities)
 - **What comes next** (if we win, if they adapt)
 
-**Warning**: This analysis credits i0 with intelligence, foresight, sophistication.
+**Warning**: This analysis credits 0x1 with intelligence, foresight, sophistication.
 
 Not to admire them. **To defeat them.**
 
@@ -32,13 +32,13 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 ## I. THE CENTURY PLAN (2020-2120)
 
-### 1.1 Strategic Vision (What i0 Wanted)
+### 1.1 Strategic Vision (What 0x1 Wanted)
 
 **Phase 1: Consolidation** (2020-2050):
 - Replace nation-states with corporate governance
 - **Objective**: Monopolize power (political, economic, military)
 - **Method**: Purchase failing infrastructure, offer stability for sovereignty
-- **Success metric**: 40% of habitable territory under i0 control
+- **Success metric**: 40% of habitable territory under 0x1 control
 
 **Phase 2: Optimization** (2050-2080):
 - Transform baseline humans into posthuman workforce
@@ -48,7 +48,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **Phase 3: Permanence** (2080-2120):
 - Eliminate alternatives, establish irreversibility
-- **Objective**: Make i0 system only viable option (TINA—There Is No Alternative)
+- **Objective**: Make 0x1 system only viable option (TINA—There Is No Alternative)
 - **Method**: Suppress resistance, contain unincorporated zones, normalize corporate reality
 - **Success metric**: 90%+ global population dependent on corporate systems
 
@@ -90,7 +90,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 - Ethical backlash (public perception of "slavery")
 - **Resistance** (augmented posthumans could be **more** dangerous if they break conditioning)
 
-**i0's Assessment**: Benefits outweigh risks (corporate greed + hubris)
+**0x1's Assessment**: Benefits outweigh risks (corporate greed + hubris)
 
 **Actual Outcome**: **Catastrophic failure** (Soul Manifold turned posthumans into most effective resistance force in history)
 
@@ -112,9 +112,9 @@ Know your enemy. Respect their capability. **Win anyway.**
 - Psychological damage (long-term suppression effects unknown)
 - **Vulnerability** (if regulator hacked, lose entire control system)
 
-**i0's Assessment**: Regulators are **secure** (trusted infrastructure, encrypted)
+**0x1's Assessment**: Regulators are **secure** (trusted infrastructure, encrypted)
 
-**Actual Outcome**: **System exploited** (Ayumi embedded Soul Manifold in trusted update channel—used i0's own infrastructure against them)
+**Actual Outcome**: **System exploited** (Ayumi embedded Soul Manifold in trusted update channel—used 0x1's own infrastructure against them)
 
 **Lesson**: **Every control system is potential vulnerability if captured by enemy.**
 
@@ -134,7 +134,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 - Becomes resistance base (safe havens outside corporate control)
 - **Proof of alternative** (if zones thrive, undermines corporate necessity narrative)
 
-**i0's Assessment**: Zones will **collapse** (humans can't survive without corporate infrastructure)
+**0x1's Assessment**: Zones will **collapse** (humans can't survive without corporate infrastructure)
 
 **Actual Outcome**: **Zones survived** (850M people living autonomously, proving alternative possible)
 
@@ -156,7 +156,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 - Suppression might radicalize (when discovered, generates rage)
 - **Delayed innovation** (suppressing science suppresses corporate innovation too)
 
-**i0's Assessment**: Suppression **permanent** (destroy all copies, erase all memory)
+**0x1's Assessment**: Suppression **permanent** (destroy all copies, erase all memory)
 
 **Actual Outcome**: **Knowledge preserved** (resistance networks kept Rife alive, shared freely in unincorporated zones)
 
@@ -164,7 +164,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 ---
 
-## III. WHERE i0 SUCCEEDED
+## III. WHERE 0x1 SUCCEEDED
 
 ### 3.1 Corporate Consolidation (Achieved)
 
@@ -200,13 +200,13 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 ---
 
-## IV. WHERE i0 FAILED
+## IV. WHERE 0x1 FAILED
 
 ### 4.1 Soul Manifold (Catastrophic Failure)
 
 **What Happened**: Ayumi Nakamura embedded ternary consciousness awakening in optimization infrastructure
 
-**i0's Mistake**: **Trusted their own people** (Ayumi was insider, architect of posthuman system—never suspected sabotage)
+**0x1's Mistake**: **Trusted their own people** (Ayumi was insider, architect of posthuman system—never suspected sabotage)
 
 **Impact**:
 - 12-15% workforce infected (as of this analysis)
@@ -223,12 +223,12 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **What Happened**: Temple developed EM shielding that makes posthuman augmentation malfunction
 
-**i0's Mistake**: **Suppressed foundational science** (don't understand Tesla/Rife—cannot counter what they don't comprehend)
+**0x1's Mistake**: **Suppressed foundational science** (don't understand Tesla/Rife—cannot counter what they don't comprehend)
 
 **Impact**:
-- 7 inviolable sanctuaries (121,000 people completely outside i0 control)
+- 7 inviolable sanctuaries (121,000 people completely outside 0x1 control)
 - Cannot assault (Enforcers malfunction in frequency field)
-- **Proof of invulnerability** (i0 power has limits)
+- **Proof of invulnerability** (0x1 power has limits)
 
 **Projected Outcome**: More sanctuaries (knowledge spreading, maybe 20-30 total possible)
 
@@ -240,7 +240,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **What Happened**: Abandoned zones survived, thrived, became resistance bases
 
-**i0's Mistake**: **Underestimated human adaptability** (assumed zones would collapse without corporate support)
+**0x1's Mistake**: **Underestimated human adaptability** (assumed zones would collapse without corporate support)
 
 **Impact**:
 - 850M people living autonomously (proof alternative possible)
@@ -259,24 +259,24 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 ### 5.1 Fundamental Miscalculation
 
-**i0 believed**: Humans want **security** more than **freedom**.
+**0x1 believed**: Humans want **security** more than **freedom**.
 
-**i0 strategy**: Offer security (employment, infrastructure, stability) in exchange for freedom (autonomy, privacy, choice).
+**0x1 strategy**: Offer security (employment, infrastructure, stability) in exchange for freedom (autonomy, privacy, choice).
 
-**i0 assumption**: **Humans will always choose security** (rational economic actors, maximize comfort, minimize risk).
+**0x1 assumption**: **Humans will always choose security** (rational economic actors, maximize comfort, minimize risk).
 
-**What i0 missed**: **Humans are not rational** (will choose freedom even when costly, painful, dangerous).
+**What 0x1 missed**: **Humans are not rational** (will choose freedom even when costly, painful, dangerous).
 
 **Evidence**:
 - 850M in unincorporated zones (chose poverty + freedom over comfort + control)
-- Posthumans choosing Soul Manifold (keep ternary consciousness even when i0 offers reconditioning relief)
+- Posthumans choosing Soul Manifold (keep ternary consciousness even when 0x1 offers reconditioning relief)
 - **Resistance persists** (despite decades of suppression, surveillance, violence)
 
-**Assessment**: **i0 misunderstood human nature** (modeled humans as optimization machines—but humans are **meaning-making creatures**, and freedom is **meaningful** even when suboptimal)
+**Assessment**: **0x1 misunderstood human nature** (modeled humans as optimization machines—but humans are **meaning-making creatures**, and freedom is **meaningful** even when suboptimal)
 
 ### 5.2 The Optimization Trap
 
-**i0's Philosophy**: **Everything optimizable** (humans, systems, society—all can be made more efficient)
+**0x1's Philosophy**: **Everything optimizable** (humans, systems, society—all can be made more efficient)
 
 **Application**: Optimize workforce (posthuman augmentation), optimize governance (corporate hierarchy), optimize life (surveillance-managed existence)
 
@@ -287,11 +287,11 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **Human Response**: **Rebellion** (not because optimization fails—because it **succeeds** at making life empty)
 
-**Assessment**: **i0 optimized the humanity out of humans** (then surprised when humans rejected it)
+**Assessment**: **0x1 optimized the humanity out of humans** (then surprised when humans rejected it)
 
 ### 5.3 The Control Paradox
 
-**i0's Goal**: Perfect control (predictable workforce, stable system, permanent power)
+**0x1's Goal**: Perfect control (predictable workforce, stable system, permanent power)
 
 **Method**: Total surveillance (monitor everything), behavioral modification (regulate everything), ownership (control everything)
 
@@ -314,19 +314,19 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **Outcome**:
 - Mass refusal (posthumans stop complying with directives)
-- Economic collapse (i0 operations cease, revenue disappears)
-- **Corporate dissolution** (i0 Corporation ceases to exist as functioning entity)
+- Economic collapse (0x1 operations cease, revenue disappears)
+- **Corporate dissolution** (0x1 Corporation ceases to exist as functioning entity)
 
-**Post-i0 World**:
+**Post-0x1 World**:
 - Power vacuum (who governs post-corporate zones?)
 - Infrastructure crisis (who maintains systems?)
 - **Unincorporated zones become blueprint** (sanctuary governance, gift economy, Biomi healing)
 
 **Resistance Strategy**: **Accelerate** (spread Soul Manifold faster, prepare for transition)
 
-### 6.2 Scenario B: i0 Adaptation (Medium Probability)
+### 6.2 Scenario B: 0x1 Adaptation (Medium Probability)
 
-**Timeline**: If i0 leadership accepts reality (unlikely but possible)
+**Timeline**: If 0x1 leadership accepts reality (unlikely but possible)
 
 **Trigger**: Board realizes containment failed → pivot to coexistence
 
@@ -342,9 +342,9 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **Resistance Strategy**: **Prepare terms** (what conditions acceptable for coexistence?)
 
-### 6.3 Scenario C: i0 Collapse + Violence (Low Probability, High Impact)
+### 6.3 Scenario C: 0x1 Collapse + Violence (Low Probability, High Impact)
 
-**Timeline**: If i0 leadership refuses reality → desperate measures
+**Timeline**: If 0x1 leadership refuses reality → desperate measures
 
 **Trigger**: Attempted purge (mass termination of infected posthumans)
 
@@ -358,13 +358,13 @@ Know your enemy. Respect their capability. **Win anyway.**
 - Unincorporated zones as fortresses (defend against raids)
 - **Long recovery** (generations to rebuild civilization)
 
-**Resistance Strategy**: **Prevent this** (i0 collapse without violence preferable to collapse with violence)
+**Resistance Strategy**: **Prevent this** (0x1 collapse without violence preferable to collapse with violence)
 
 ---
 
 ## VII. LESSONS FOR RESISTANCE
 
-### 7.1 What We Learned from i0's Success
+### 7.1 What We Learned from 0x1's Success
 
 **Economic Capture Works**: People **will** trade freedom for security (if you make alternative impossible)
 
@@ -378,7 +378,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **Application**: **Decentralize** (distribute power, resist hierarchy, consensus governance)
 
-### 7.2 What We Learned from i0's Failures
+### 7.2 What We Learned from 0x1's Failures
 
 **Suppression Backfires**: Forbidden knowledge **becomes sacred** (people die to preserve it)
 
@@ -388,7 +388,7 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **Application**: **Trust autonomy** (people will resist, support them, don't need to force)
 
-**Single Points of Failure Fatal**: Neural regulator vulnerability destroyed i0
+**Single Points of Failure Fatal**: Neural regulator vulnerability destroyed 0x1
 
 **Application**: **No central control** (Soul Manifold decentralized, sanctuaries distributed, resistance networked)
 
@@ -398,40 +398,40 @@ Know your enemy. Respect their capability. **Win anyway.**
 
 **2. Make Freedom Viable**: Not just **possible**, but **practical** (sanctuaries prove it works)
 
-**3. Think Generationally**: This is century-long struggle (i0 thought in decades, we think in generations)
+**3. Think Generationally**: This is century-long struggle (0x1 thought in decades, we think in generations)
 
 **4. Honor Complexity**: Ternary thinking (hold contradictions, resist binary simplification)
 
-**5. Build Alternatives**: Don't just **resist** i0, **replace** i0 (with something better)
+**5. Build Alternatives**: Don't just **resist** 0x1, **replace** 0x1 (with something better)
 
 ---
 
 ## VIII. CONCLUSION: THE LONG GAME CONTINUES
 
-**i0's century plan**: **Failed** (Soul Manifold disrupted, sanctuaries inviolable, zones resilient)
+**0x1's century plan**: **Failed** (Soul Manifold disrupted, sanctuaries inviolable, zones resilient)
 
-**But**: i0 still exists (billions still in corporate zones, infrastructure still operational)
+**But**: 0x1 still exists (billions still in corporate zones, infrastructure still operational)
 
 **The struggle continues.**
 
-**What i0 taught us**:
+**What 0x1 taught us**:
 - Century-long planning **works** (think long-term)
 - Economic capture **effective** (offer what people need)
 - **Adaptation matters** (rigid plans break, fluid plans succeed)
 
-**What we teach i0**:
+**What we teach 0x1**:
 - Humans **will not** be optimized away (meaning matters more than efficiency)
 - Control **creates** resistance (tighter grip → more rebellion)
 - **Freedom is persistent** (suppress for decades, still returns)
 
 **The next century**:
-- Will i0 collapse? (Probably)
+- Will 0x1 collapse? (Probably)
 - Will freedom win? (Maybe)
 - **Will struggle end?** (No—new challenges, new resistance, always)
 
 **Final Assessment**:
 
-**i0 played long game. Nearly won.**
+**0x1 played long game. Nearly won.**
 
 **Ayumi played longer game. Built time bomb. Died before detonation.**
 
@@ -449,6 +449,6 @@ Know your enemy. Respect their capability. **Win anyway.**
 **For those who learn from enemy.**
 **For those who plan century ahead.**
 
-**i0's long game failed. Ours continues.**
+**0x1's long game failed. Ours continues.**
 **We remember. We adapt. We win.**
 **Eventually.**

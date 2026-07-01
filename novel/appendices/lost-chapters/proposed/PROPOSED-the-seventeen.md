@@ -10,7 +10,7 @@
 
 ## Concept
 
-What happened to the seventeen baseline humans Shadow saved from i0's upload facility. Where are they now? How did they survive? What did Ayumi's sacrifice and Shadow's choice mean for their lives?
+What happened to the seventeen baseline humans Shadow saved from 0x1's upload facility. Where are they now? How did they survive? What did Ayumi's sacrifice and Shadow's choice mean for their lives?
 
 ## Structure: Seventeen Vignettes
 
@@ -19,22 +19,22 @@ Each person gets ~150 words. Name, age then, age now, what they're doing, how th
 ### 1. SARAH (Age 19 then, 26 now)
 **Now**: Teacher in undercity free school
 **Memory**: "Shadow held the line while we ran. I teach children what he taught me: **Freedom is worth fighting for**."
-**Life**: Teaches baseline kids i0 rejects. Uses Ayumi's research (smuggled out). Never forgot the jaguar who chose to save them.
+**Life**: Teaches baseline kids 0x1 rejects. Uses Ayumi's research (smuggled out). Never forgot the jaguar who chose to save them.
 
 ### 2. MARCUS (Age 34 then, 41 now)
 **Now**: Medic in degradation zone clinic
 **Memory**: "Ayumi died so we could choose. I choose to **heal**."
-**Life**: Treats posthumans i0 discards. No payment needed. Ayumi's legacy living through mercy.
+**Life**: Treats posthumans 0x1 discards. No payment needed. Ayumi's legacy living through mercy.
 
 ### 3. LIN (Age 16 then, 23 now)
 **Now**: Dead (Enforcer raid, Year 3)
-**Memory**: Died protecting her younger siblings from i0 sweep.
+**Memory**: Died protecting her younger siblings from 0x1 sweep.
 **Legacy**: Siblings survived. Now 15 and 13. Remember Lin. Remember Shadow. **Keep running**.
 
 ### 4. JAMES (Age 42 then, 49 now)
 **Now**: Scavenger leader, canyon community
 **Memory**: "Shadow was weapon who chose guardian. I was coward who chose **brave**."
-**Life**: Leads scavenger network. Safe routes. Hidden caches. Helps others escape i0.
+**Life**: Leads scavenger network. Safe routes. Hidden caches. Helps others escape 0x1.
 
 ### 5. YUKI (Age 8 then, 15 now)
 **Now**: Posthuman (chose augmentation at 13, minor mods)
@@ -58,7 +58,7 @@ Each person gets ~150 words. Name, age then, age now, what they're doing, how th
 
 ### 9. DAVID (Age 31 then, 38 now)
 **Now**: Enforcer defector (Year 5), now protects free zones
-**Memory**: "Shadow was i0 weapon who turned. So was I."
+**Memory**: "Shadow was 0x1 weapon who turned. So was I."
 **Life**: Uses military training to **guard** instead of hunt. Redemption through protection.
 
 ### 10. Elena (Age 17 then, 24 now)
@@ -87,7 +87,7 @@ Each person gets ~150 words. Name, age then, age now, what they're doing, how th
 **Life**: Fights Enforcers. Protects free communities. Ayumi's wrath made **manifest**.
 
 ### 15. MIGUEL (Age 29 then, 36 now)
-**Now**: i0 employee (surface life, secret supporter)
+**Now**: 0x1 employee (surface life, secret supporter)
 **Memory**: "I stayed in the city. Feed intelligence to resistance."
 **Life**: Double agent. Uses corporate access to warn others. Dangerous choice. **Necessary**.
 

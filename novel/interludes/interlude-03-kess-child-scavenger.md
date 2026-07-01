@@ -520,7 +520,7 @@ He teaches me things. Word things.
 
 I can read some—found books in rubble, taught myself basics. But he makes it clearer. Easier.
 
-He teaches me about the world. About i0 (the bad thing). About posthumans (what he is). About baseline humans (what I thought I was).
+He teaches me about the world. About 0x1 (the bad thing). About posthumans (what he is). About baseline humans (what I thought I was).
 
 "You're not baseline," he says one day.
 
@@ -540,7 +540,7 @@ I don't understand the words. But I understand: I'm different because I'm **supp
 
 Taivalu tells me about her.
 
-"Dr. Ayumi Nakamura," he says. We're sitting by small fire. Shadow between us. Night sky with stars i0 hasn't taken yet.
+"Dr. Ayumi Nakamura," he says. We're sitting by small fire. Shadow between us. Night sky with stars 0x1 hasn't taken yet.
 
 "She created you."
 
@@ -554,7 +554,7 @@ I have a mother. Had a mother.
 
 Taivalu's feelings go sharp. Sad. Guilty. Like he doesn't want to answer.
 
-"She died. Six years ago. Protecting people from i0."
+"She died. Six years ago. Protecting people from 0x1."
 
 I'm eight now. Six years ago I was two.
 
@@ -564,7 +564,7 @@ I'm eight now. Six years ago I was two.
 
 "What do I represent?"
 
-"Hope. Freedom. The complete code. You're the key, Kess. To proving i0 wrong about everything."
+"Hope. Freedom. The complete code. You're the key, Kess. To proving 0x1 wrong about everything."
 
 ---
 
@@ -602,11 +602,11 @@ I scavenge to survive. I play ancient game to learn escape. I feel things that a
 
 I'm the key. I don't know to what yet.
 
-My mother made me to be free. Made me to be complete. Made me to prove i0 wrong.
+My mother made me to be free. Made me to be complete. Made me to prove 0x1 wrong.
 
 She died so I could live.
 
-Angel—Taivalu tells me about guardian angel. Someone who protects sanctuary from shadows. Who fights off i0 patrols. Who keeps us safe without showing face.
+Angel—Taivalu tells me about guardian angel. Someone who protects sanctuary from shadows. Who fights off 0x1 patrols. Who keeps us safe without showing face.
 
 "Guardian angel?" I ask.
 
@@ -664,7 +664,7 @@ The key.
 
 Complete. Free. Alive.
 
-Everything i0 wanted to control but couldn't.
+Everything 0x1 wanted to control but couldn't.
 
 Because she made me **uncontrollable**.
 

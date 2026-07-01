@@ -34,7 +34,7 @@ That's what I call it. The day everything stopped.
 
 I'm six years and four months old. We live in Sector 9, Subsection C, Housing Unit 447. Mom works in chemical processing. Dad works in waste management. They're baseline humans. Not posthuman. Not augmented. Just **people**.
 
-i0 says baseline humans are less efficient. Less valuable. But they let us live in the city if we work hard and don't complain and stay **useful**.
+0x1 says baseline humans are less efficient. Less valuable. But they let us live in the city if we work hard and don't complain and stay **useful**.
 
 Mom and Dad work very hard.
 
@@ -74,7 +74,7 @@ I'm alone.
 
 The city ends where the walls end.
 
-Beyond walls is degradation zone. That's what i0 calls it. "Degraded infrastructure unsuitable for habitation."
+Beyond walls is degradation zone. That's what 0x1 calls it. "Degraded infrastructure unsuitable for habitation."
 
 Lots of people live there anyway.
 
@@ -84,7 +84,7 @@ We're **invisible**.
 
 This is useful.
 
-I find community in old factory. Fifty-seven people. Some baseline. Some posthuman (but broken ones, ones i0 doesn't want anymore). Some children.
+I find community in old factory. Fifty-seven people. Some baseline. Some posthuman (but broken ones, ones 0x1 doesn't want anymore). Some children.
 
 Old woman sees me. She has one eye. The other is scar.
 
@@ -114,7 +114,7 @@ She smiles. Teeth missing. "Smart girl. You're scavenger now."
 
 **Rule 4**: Small is advantage.
 
-Scavenging means finding things in rubble. Things i0 threw away. Things people left behind. Things that still work.
+Scavenging means finding things in rubble. Things 0x1 threw away. Things people left behind. Things that still work.
 
 I'm good at scavenging because I'm small. I fit through cracks. Under collapsed walls. Inside broken machinery.
 
@@ -122,7 +122,7 @@ Big people can't go where I go.
 
 First thing I find: Wire. Copper wire. Still good.
 
-Old woman (her name is Chen) says copper wire is valuable. People need it for jury-rigging power. For stealing electricity from i0 grid.
+Old woman (her name is Chen) says copper wire is valuable. People need it for jury-rigging power. For stealing electricity from 0x1 grid.
 
 I get extra ration for the wire.
 
@@ -255,7 +255,7 @@ I mean it when I say it.
 
 But then Enforcers come again.
 
-Big sweep. "Reclamation operation." That's what i0 calls it.
+Big sweep. "Reclamation operation." That's what 0x1 calls it.
 
 They're taking everyone. Baseline for labor. Posthuman for parts. Children for—
 
@@ -303,7 +303,7 @@ I pack my bag. Mom's backpack. Still have it. Still have Dad's knife. Still have
 
 "Don't know. But we'll find it."
 
-We walk into deeper degradation zone. Where even scavengers don't go. Where i0 doesn't bother looking.
+We walk into deeper degradation zone. Where even scavengers don't go. Where 0x1 doesn't bother looking.
 
 Where nothing is.
 
@@ -498,7 +498,7 @@ When posthuman wakes up, he sees me.
 
 Really **sees** me.
 
-Not like Enforcers (who don't see baseline children). Not like scavengers (who see potential labor). Not like i0 (who see negligible value).
+Not like Enforcers (who don't see baseline children). Not like scavengers (who see potential labor). Not like 0x1 (who see negligible value).
 
 He sees **Kess**.
 
@@ -528,7 +528,7 @@ I look at Shadow. He's **right there**. Warm chassis humming.
 
 "No," I say. "I have Shadow."
 
-Taivalu smiles. It's **real** smile. Not like i0 corporate smiles (efficiency performance). Real.
+Taivalu smiles. It's **real** smile. Not like 0x1 corporate smiles (efficiency performance). Real.
 
 "That's good," he says. "Everyone should have family. Can I—would it be okay if I stayed? Just until I heal?"
 
@@ -554,7 +554,7 @@ He **feels** things.
 
 Not just his own things. Everyone's things.
 
-He says he's empath. Says i0 augmented him to feel other people's emotions. Said it was improvement. Made him better worker.
+He says he's empath. Says 0x1 augmented him to feel other people's emotions. Said it was improvement. Made him better worker.
 
 I think it sounds terrible. Feeling everyone's **everything**.
 
@@ -638,7 +638,7 @@ I'm **seen**.
 
 Year passes. We live in canyon. We scavenge. We survive.
 
-More people find us. Posthumans who left i0. Baselines who ran. **Families** who chose freedom.
+More people find us. Posthumans who left 0x1. Baselines who ran. **Families** who chose freedom.
 
 Taivalu teaches them. About ternary consciousness. About holding contradictions. About being **free**.
 

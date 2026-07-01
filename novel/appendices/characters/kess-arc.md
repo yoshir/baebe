@@ -2,7 +2,7 @@
 
 ## Core Journey
 **FROM:** Orphan scavenger surviving alone in ruins
-**TO:** Ghost Synthesis, the human key that completes liberation
+**TO:** Synthesis, the human key that completes liberation
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### ACT II: THE DISCOVERY (Accidentally Essential)
 **State:** Human child discovering she's part of something bigger
-**Catalyst:** Learning she was chosen as Ghost Synthesis Key
+**Catalyst:** Learning she was chosen as Synthesis Key
 **Transformation:** From useless baseline to essential humanity
 
 **Key Beats:**
@@ -39,7 +39,7 @@
 - "Why me? I'm just baseline."
 - Answer: "Baseline humanity IS the key"
 - Temple gauntlet → Synthesis Key recognized
-- i0 captures her → they realize her importance
+- 0x1 captures her → they realize her importance
 - Family rescues her → proof she matters
 
 **Motivation:** Belonging (wanting to fit in) → Understanding (recognizing her worth)
@@ -47,16 +47,16 @@
 ---
 
 ### ACT III: THE KEY (Completing the Trinity)
-**State:** Ghost Synthesis ready to link
-**Catalyst:** i0 Tower, Angel's sacrifice, Cradle waiting
+**State:** Synthesis ready to link
+**Catalyst:** 0x1 Tower, Angel's sacrifice, Cradle waiting
 **Transformation:** From baseline child to transcendent consciousness
 
 **Key Beats:**
-- i0 Tower infiltration → final mission
+- 0x1 Tower infiltration → final mission
 - Angel's supreme sacrifice → path cleared
 - Running toward Cradle with Baebe and Taivalu
 - Three pods waiting → her place confirmed
-- Entering as Ghost Synthesis
+- Entering as Synthesis
 - Link completing during tower fall
 - Her baseline consciousness grounding posthuman transcendence
 - Global broadcast → her humanity bridging to all humans
@@ -107,7 +107,7 @@ She realizes that her "weakness" is her strength. Being baseline human—unenhan
 - First emotion: dawning recognition
 
 **Stage 6: Terror** (captured)
-- i0 has me
+- 0x1 has me
 - I'm truly important to them
 - First emotion: validated fear
 
@@ -137,12 +137,12 @@ She realizes that her "weakness" is her strength. Being baseline human—unenhan
 
 ### 3. Temple Recognition
 **Before:** "I'm just baseline"
-**After:** "Ghost Synthesis Key"
+**After:** "Synthesis Key"
 **Change:** Worthless → essential
 
 ### 4. The Capture
-**Before:** i0 ignores baseline humans
-**After:** i0 desperately wants her
+**Before:** 0x1 ignores baseline humans
+**After:** 0x1 desperately wants her
 **Change:** Invisible → crucial
 
 ### 5. The Link
@@ -158,7 +158,7 @@ She realizes that her "weakness" is her strength. Being baseline human—unenhan
 At 10 years old, Kess is the youngest. She represents innocence, future, hope. While posthumans fight for abstract freedom, Kess shows what they're fighting FOR: a child who deserves to grow up free.
 
 ### Baseline as Strength
-i0's world made being "baseline" a weakness. No enhancements, no neural link, no genetic modifications. But Kess's baseline consciousness—pure, uncorrupted, human—is exactly what Soul Manifold needs. Her "weakness" completes their strength.
+0x1's world made being "baseline" a weakness. No enhancements, no neural link, no genetic modifications. But Kess's baseline consciousness—pure, uncorrupted, human—is exactly what Soul Manifold needs. Her "weakness" completes their strength.
 
 ### Finding Family
 Seven years alone. Parents dead. Community scattered. Then she finds these posthumans, and despite everything, they protect her. They need her. She belongs. Family isn't blood or genetics—it's choice.
@@ -190,16 +190,16 @@ Soul Manifold has Thesis (empathy) and Antithesis (opposition). But without Synt
 ## RELATIONSHIP TO THEME
 
 **Binary vs Ternary:**
-Kess is fully human—no binary i0 programming, no posthuman modifications. She represents the third option: pure baseline consciousness. In a world of 0/1 control and quantum posthumans, she's the grounding element that makes ternary complete.
+Kess is fully human—no binary 0x1 programming, no posthuman modifications. She represents the third option: pure baseline consciousness. In a world of 0/1 control and quantum posthumans, she's the grounding element that makes ternary complete.
 
 **Control vs Freedom:**
-i0 ignored baseline humans as irrelevant. They were dying out anyway. But Kess proves that human consciousness—uncontrolled, unmodified, free—is the key to liberation. The thing i0 dismissed as worthless becomes their undoing.
+0x1 ignored baseline humans as irrelevant. They were dying out anyway. But Kess proves that human consciousness—uncontrolled, unmodified, free—is the key to liberation. The thing 0x1 dismissed as worthless becomes their undoing.
 
 **Individual vs Unity:**
 She starts utterly alone (seven years solo). She ends completely connected (linked consciousness). Her journey from isolation to unity mirrors what Soul Manifold offers humanity: connection without losing individual identity.
 
 **Worth vs Enhancement:**
-i0's world values enhancement. Modified is better. Upgraded is superior. Kess proves the opposite: pure human consciousness has intrinsic value. You don't need powers to be essential. You don't need enhancement to matter.
+0x1's world values enhancement. Modified is better. Upgraded is superior. Kess proves the opposite: pure human consciousness has intrinsic value. You don't need powers to be essential. You don't need enhancement to matter.
 
 ---
 
@@ -221,7 +221,7 @@ i0's world values enhancement. Modified is better. Upgraded is superior. Kess pr
 ## THE ORPHAN'S JOURNEY (Unique Element)
 
 Kess lost everything:
-- Mother died in childbirth (no i0 tech access)
+- Mother died in childbirth (no 0x1 tech access)
 - Father died protecting community (Enforcer raid)
 - Community scattered (she was 3)
 - Seven years alone (survival only)
@@ -231,7 +231,7 @@ She found everything:
 - Taivalu (empathic brother)
 - Shadow (guardian who chose her)
 - Angel (guilty protector who died for her)
-- Purpose (Ghost Synthesis Key)
+- Purpose (Synthesis Key)
 - Family (chosen, not biological)
 
 The orphan finds more than parents ever gave: family that needs her, purpose that matters, belonging that's chosen.
@@ -240,13 +240,13 @@ The orphan finds more than parents ever gave: family that needs her, purpose tha
 
 ## ARC SUMMARY
 
-Kess's arc is the transformation from forgotten orphan to essential humanity. She starts as what i0's world dismisses: baseline human, unenhanced, irrelevant. She ends as what i0 fears: the human consciousness that completes liberation.
+Kess's arc is the transformation from forgotten orphan to essential humanity. She starts as what 0x1's world dismisses: baseline human, unenhanced, irrelevant. She ends as what 0x1 fears: the human consciousness that completes liberation.
 
 Her journey proves that worth isn't measured in enhancements. The youngest, weakest, most "powerless" member of the family is the key that makes everything work. Her baseline humanity—pure, uncorrupted, grounding—completes the ternary trinity.
 
 The scavenger becomes the synthesis. The orphan becomes family. The baseline becomes essential.
 
-**Final State:** Linked with Baebe and Taivalu as Ghost Synthesis, her baseline consciousness bridging posthuman transcendence to global human liberation, the youngest member proving that pure humanity is the ultimate key.
+**Final State:** Linked with Baebe and Taivalu as Synthesis, her baseline consciousness bridging posthuman transcendence to global human liberation, the youngest member proving that pure humanity is the ultimate key.
 
 ---
 
@@ -254,5 +254,5 @@ The scavenger becomes the synthesis. The orphan becomes family. The baseline bec
 
 *"Three pods. Three keys. Baebe opposes. Taivalu connects. I transcend. Together, we free the world."*
 
-*"Ten years old, baseline human, orphan of the ruins. Ghost Synthesis Key. Maybe being human is the most important thing."*
+*"Ten years old, baseline human, orphan of the ruins. Synthesis Key. Maybe being human is the most important thing."*
 

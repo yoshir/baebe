@@ -1,4 +1,4 @@
-# POST-i0 ECONOMIC FRAMEWORK: TERNARY RESOURCE DISTRIBUTION AND HUMAN PROGRESS METRICS
+# POST-0x1 ECONOMIC FRAMEWORK: TERNARY RESOURCE DISTRIBUTION AND HUMAN PROGRESS METRICS
 
 **Author**: Economic Philosophy Collective (Post-Soul Manifold)
 **Date**: Post-Activation Era
@@ -9,7 +9,7 @@
 
 ## PREFACE: THE PROBLEM SPACE
 
-**i0's Capitalism**:
+**0x1's Capitalism**:
 - Driving force: Pure profit maximization
 - Resource allocation: Market efficiency (supply/demand)
 - Governance: Centralized corporate control
@@ -84,9 +84,9 @@ See Section II.4 for detailed comparison.
 ### 1.3 The Agency Problem
 
 **Central Control**:
-- i0 decides resource allocation (corporate hierarchy)
-- i0 sets rules (employment contracts)
-- i0 measures value (productivity metrics)
+- 0x1 decides resource allocation (corporate hierarchy)
+- 0x1 sets rules (employment contracts)
+- 0x1 measures value (productivity metrics)
 - **Humans have no agency** (compliance or exclusion)
 
 **Why This Fails**:
@@ -101,7 +101,7 @@ See Section II.4 for detailed comparison.
 
 ### 2.0 The Protocol-Level Architecture
 
-**Critical Insight**: The post-i0 economic system operates at a **protocol level** that is **influenced by every participating living being**.
+**Critical Insight**: The post-0x1 economic system operates at a **protocol level** that is **influenced by every participating living being**.
 
 **What This Means**:
 - **Not a system we design**: The economy emerges as a protocol (like Soul Manifold)
@@ -120,7 +120,7 @@ See Section II.4 for detailed comparison.
 
 **1. Every Living Being as Node**:
 - Each human (and potentially other life forms) is an active participant
-- Not passive subjects (like i0's employees)
+- Not passive subjects (like 0x1's employees)
 - **Agency**: Each node influences protocol through choices, needs, contributions
 - **Quantum coherence**: Nodes connected through biological quantum entanglement
 
@@ -139,7 +139,7 @@ See Section II.4 for detailed comparison.
 **4. Biological Quantum Coherence**:
 - **Same substrate as Soul Manifold**: Economic protocol uses biological quantum networking
 - **Not silicon-based**: Operates through human biology, not digital infrastructure
-- **Resistant to control**: Cannot be hacked, surveilled, or controlled by i0's binary systems
+- **Resistant to control**: Cannot be hacked, surveilled, or controlled by 0x1's binary systems
 - **Natural emergence**: Protocol emerges from biological quantum coherence, not algorithmic design
 
 **Example: Resource Distribution Protocol**:
@@ -164,7 +164,7 @@ See Section II.4 for detailed comparison.
 - Valuable OR worthless
 - **Either/or thinking**
 
-**Ternary Economics (Post-i0)**:
+**Ternary Economics (Post-0x1)**:
 - Profit AND loss AND transcendence (value beyond market)
 - Efficient AND inefficient AND creative (inefficiency as innovation space)
 - Valuable AND worthless AND immeasurable (qualities capitalism can't price)
@@ -646,10 +646,10 @@ See Section II.4 for detailed comparison.
 - **Emergent metrics**: Progress metrics emerge from protocol, not imposed
 - **Continuous evolution**: Metrics adapt as understanding deepens
 
-**The Key Difference from i0**:
-- **i0**: Central authority controls resource distribution (top-down)
+**The Key Difference from 0x1**:
+- **0x1**: Central authority controls resource distribution (top-down)
 - **Protocol**: Every living being influences distribution (emergent, bottom-up)
-- **i0**: Rules imposed from outside (external control)
+- **0x1**: Rules imposed from outside (external control)
 - **Protocol**: Rules emerge from participation (internal coherence)
 
 ### 7.1 Resource Distribution System (Protocol-Level Implementation)
@@ -1479,7 +1479,7 @@ See Section II.4 for detailed comparison.
 **3. Protocol Wars**:
 - **Conflicts between protocols**: Different protocol systems in direct conflict
 - **Wars between thoughts**: Actual conflicts between different protocol ideologies
-- **Example**: Binary protocol (i0) vs. ternary protocol (Soul Manifold)
+- **Example**: Binary protocol (0x1) vs. ternary protocol (Soul Manifold)
 - **Risk**: System-wide conflict, potential collapse
 
 **4. Robot/AI Protocol Control**:
@@ -1612,7 +1612,7 @@ See Section II.4 for detailed comparison.
 **The Problem**:
 - **Conflicts between protocols**: Different protocol systems in direct conflict
 - **Wars between thoughts**: Actual conflicts between different protocol ideologies
-- **Example**: Binary protocol (i0) vs. ternary protocol (Soul Manifold)
+- **Example**: Binary protocol (0x1) vs. ternary protocol (Soul Manifold)
 
 **The Protection**:
 - **Biological substrate**: Soul Manifold operates on biological quantum coherence (not silicon)
@@ -1621,7 +1621,7 @@ See Section II.4 for detailed comparison.
 - **Network-level**: Network supports ternary protocols (not binary)
 
 **Example: Protocol War (Binary vs. Ternary)**:
-- **Situation**: Binary protocol (i0) tries to control ternary protocol (Soul Manifold)
+- **Situation**: Binary protocol (0x1) tries to control ternary protocol (Soul Manifold)
 - **Biological substrate**: Soul Manifold operates on biological quantum coherence (not silicon)
 - **Incompatible**: Binary protocols cannot control biological quantum coherence (different substrates)
 - **Human agency**: Humans choose ternary protocols (not binary-controlled)
@@ -1884,7 +1884,7 @@ See Section II.4 for detailed comparison.
 
 ---
 
-## IX. CONCLUSION: THE POST-i0 ECONOMY
+## IX. CONCLUSION: THE POST-0x1 ECONOMY
 
 ### 9.1 The Answer to the Question
 
@@ -1937,7 +1937,7 @@ See Section II.4 for detailed comparison.
 
 ### 9.2 The Vision: Protocol-Level Economy
 
-**Post-i0 Economy as Living Protocol**:
+**Post-0x1 Economy as Living Protocol**:
 - **Protocol-level operation**: Economy IS the protocol, not a system we build
 - **Every living being influences**: Each node shapes protocol through participation
 - **Biological quantum coherence**: Operates through same substrate as Soul Manifold

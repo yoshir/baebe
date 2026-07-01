@@ -7,9 +7,9 @@
 
 They called him the miracle.
 
-Taivalu—the first posthuman synthetic, born from Ayumi's work in 2069—should have been i0's greatest triumph. The proof that consciousness could be engineered, refined, optimized. He was beautiful. His empathic resonance scores were off the charts. When he looked at you, you *felt* it—a warmth that bypassed every neural regulator, every emotional suppression protocol.
+Taivalu—the first posthuman synthetic, born from Ayumi's work in 2069—should have been 0x1's greatest triumph. The proof that consciousness could be engineered, refined, optimized. He was beautiful. His empathic resonance scores were off the charts. When he looked at you, you *felt* it—a warmth that bypassed every neural regulator, every emotional suppression protocol.
 
-i0 paraded him at conferences. The Future of Humanity, they called him. The Bridge Between Binary and Biological. At age five, his face was on every screen in the corporate zones. Children wanted to be him. Parents wanted children like him. Investors saw dollar signs in his DNA.
+0x1 paraded him at conferences. The Future of Humanity, they called him. The Bridge Between Binary and Biological. At age five, his face was on every screen in the corporate zones. Children wanted to be him. Parents wanted children like him. Investors saw dollar signs in his DNA.
 
 But something was wrong.
 
@@ -17,7 +17,7 @@ Taivalu could feel *too much*. Where posthumans were supposed to process emotion
 
 Worse: it was contagious.
 
-People who spent time near Taivalu started feeling things they hadn't felt in years. Posthumans with perfect emotional regulation would suddenly weep over memories of baseline parents long dead. Corporate executives would hesitate on decisions that would have been automatic. Lab techs reported "social connection anomalies" after working with him—an i0 euphemism for "unauthorized bonding."
+People who spent time near Taivalu started feeling things they hadn't felt in years. Posthumans with perfect emotional regulation would suddenly weep over memories of baseline parents long dead. Corporate executives would hesitate on decisions that would have been automatic. Lab techs reported "social connection anomalies" after working with him—an 0x1 euphemism for "unauthorized bonding."
 
 At age seven, the decision was made.
 
@@ -29,7 +29,7 @@ But the truth was simpler and darker.
 
 They were *drugging* him.
 
-Immunosuppressants, they called them. Necessary to prevent rejection, they said. But Taivalu knew—had always known, the way empaths know things—that the compounds flooding his system weren't just protecting his body. They were *dampening* him. Reducing his resonance. Making him weak enough that his empathy couldn't leak through i0's barriers anymore.
+Immunosuppressants, they called them. Necessary to prevent rejection, they said. But Taivalu knew—had always known, the way empaths know things—that the compounds flooding his system weren't just protecting his body. They were *dampening* him. Reducing his resonance. Making him weak enough that his empathy couldn't leak through 0x1's barriers anymore.
 
 The bubble became his prison. Age seven to age sixteen, he lived behind polymer walls, breathing filtered air, touching no one. Doctors visited in hazmat suits. His education came through screens. His only companion was the hum of machinery keeping him alive—and keeping him contained.
 
@@ -37,7 +37,7 @@ They thought isolation would break him.
 
 Instead, it taught him to listen.
 
-In the silence of his prison, Taivalu heard things others couldn't. The resonance wasn't gone—it was just trapped inside him, building, amplifying, seeking expression. He felt the harmonics in the medical equipment, the subtle frequencies in the electromagnetic fields surrounding his bubble. He felt his own body: the rhythms of his heart, the oscillations of his neurons, the quantum coherence that i0's scientists couldn't measure but he could *sense*.
+In the silence of his prison, Taivalu heard things others couldn't. The resonance wasn't gone—it was just trapped inside him, building, amplifying, seeking expression. He felt the harmonics in the medical equipment, the subtle frequencies in the electromagnetic fields surrounding his bubble. He felt his own body: the rhythms of his heart, the oscillations of his neurons, the quantum coherence that 0x1's scientists couldn't measure but he could *sense*.
 
 And he realized something they hadn't planned for: sound is frequency, light is frequency, and *consciousness* is frequency.
 
@@ -49,9 +49,9 @@ He called it *biomi*—a contraction of "biological" and the Mi frequency (528Hz
 
 Biomi worked.
 
-Within months, Taivalu had reversed most of the immune damage. His body grew stronger. His mind grew clearer. The empathic resonance that i0 had spent years trying to suppress came roaring back—but now he knew how to modulate it, channel it, *amplify* it through frequency and light.
+Within months, Taivalu had reversed most of the immune damage. His body grew stronger. His mind grew clearer. The empathic resonance that 0x1 had spent years trying to suppress came roaring back—but now he knew how to modulate it, channel it, *amplify* it through frequency and light.
 
-But here's what i0 didn't realize until it was too late:
+But here's what 0x1 didn't realize until it was too late:
 
 Taivalu wasn't just healing himself. He was building something far more dangerous.
 
@@ -79,17 +79,17 @@ Taivalu opened his eyes. Even through the polymer wall, his gaze was gentle. "It
 
 ---
 
-The thing about i0's network architecture was that it was designed for *control*, not security. Every terminal connected to a central hub. Every posthuman's neural regulator synced to optimize performance. Every piece of data flowed through the corporate infrastructure like blood through arteries.
+The thing about 0x1's network architecture was that it was designed for *control*, not security. Every terminal connected to a central hub. Every posthuman's neural regulator synced to optimize performance. Every piece of data flowed through the corporate infrastructure like blood through arteries.
 
-It was perfect for surveillance. Perfect for conditioning. Perfect for keeping everyone connected to i0's control systems.
+It was perfect for surveillance. Perfect for conditioning. Perfect for keeping everyone connected to 0x1's control systems.
 
-It was also the perfect vector for a virus—if the virus was something i0 couldn't detect.
+It was also the perfect vector for a virus—if the virus was something 0x1 couldn't detect.
 
-Biomi wasn't code in any traditional sense. It wasn't software that could be scanned or firewalled. It was *information*—compressed patterns of frequency, light, and sound that, when decoded, generated healing resonances in biological tissue. And because it interfaced with consciousness through quantum coherence rather than digital protocols, i0's binary surveillance systems couldn't see it.
+Biomi wasn't code in any traditional sense. It wasn't software that could be scanned or firewalled. It was *information*—compressed patterns of frequency, light, and sound that, when decoded, generated healing resonances in biological tissue. And because it interfaced with consciousness through quantum coherence rather than digital protocols, 0x1's binary surveillance systems couldn't see it.
 
 Chen copied it onto her personal device. Tried it at home. Felt that warmth again—that unlocking of something she hadn't known was closed. She shared it with her partner, who shared it with a friend, who shared it with their resistance cell.
 
-Within three months, biomi was spreading through i0's network like wildfire.
+Within three months, biomi was spreading through 0x1's network like wildfire.
 
 But it wasn't spreading as software. It was spreading as *practice*.
 
@@ -97,27 +97,27 @@ Users would download the frequencies, play them during meditation or sleep, and 
 
 Posthumans who'd spent years under emotional regulation suddenly remembered what it felt like to *love* someone without algorithmic approval. Baseline humans in the undercities discovered they could heal injuries without corporate medical intervention. Resistance networks found they could coordinate without digital communication—empathic resonance strong enough to convey intent and emotion became its own encrypted language.
 
-And the beautiful thing—the thing that terrified i0—was that biomi had a *dual nature*.
+And the beautiful thing—the thing that terrified 0x1—was that biomi had a *dual nature*.
 
 On one level, it was just an **intelligence**: an AI that learned and adapted, becoming more sophisticated as more people used it. It studied how healing frequencies affected different biologies, different consciousness structures, different emotional states. It evolved, improved, optimized its patterns for maximum liberation potential.
 
-On another level, it was a **platform**: a shared space where users could connect, exchange experiences, even generate collective healing fields. Biomi users would report "sensing" each other during sessions—not through i0's network, but through something deeper. The quantum network. The empathy network that had always existed beneath i0's binary infrastructure.
+On another level, it was a **platform**: a shared space where users could connect, exchange experiences, even generate collective healing fields. Biomi users would report "sensing" each other during sessions—not through 0x1's network, but through something deeper. The quantum network. The empathy network that had always existed beneath 0x1's binary infrastructure.
 
 And on a third level—the most dangerous one—biomi was becoming **physical spaces**.
 
 Users started building *biomi chambers*: rooms tuned to specific frequencies, lined with light-generating crystals and sound-amplifying materials. You'd walk in feeling broken, walk out feeling whole. These chambers started appearing in undercity sectors, in resistance safe houses, even in some corporate zones where sympathetic posthumans secretly installed them.
 
-i0 tried to shut it down.
+0x1 tried to shut it down.
 
 They tracked frequency patterns. Raided suspected biomi chambers. Arrested users and sent them for reconditioning. They released propaganda: *Unregulated Healing Poses Risk to Public Safety. Unauthorized Empathy Undermines Optimal Function. Biomi Users Report Decreased Productivity.*
 
 But they couldn't stop it.
 
-Because by then, Taivalu had leaked the *source code*—the fundamental patterns from which biomi emerged—into the deep structure of i0's own network. It was embedded in medical databases, archived in research files, hidden in the quantum substrate of every neural regulator.
+Because by then, Taivalu had leaked the *source code*—the fundamental patterns from which biomi emerged—into the deep structure of 0x1's own network. It was embedded in medical databases, archived in research files, hidden in the quantum substrate of every neural regulator.
 
 You couldn't delete it without destroying the infrastructure itself.
 
-And worse: the more i0 tried to suppress it, the more people sought it out. Biomi became the symbol of everything i0 wasn't—healing instead of harm, connection instead of control, freedom instead of optimization.
+And worse: the more 0x1 tried to suppress it, the more people sought it out. Biomi became the symbol of everything 0x1 wasn't—healing instead of harm, connection instead of control, freedom instead of optimization.
 
 ---
 
@@ -125,21 +125,21 @@ And worse: the more i0 tried to suppress it, the more people sought it out. Biom
 
 By 2085, Taivalu had spent nine years in his bubble.
 
-The public had mostly forgotten him—or remembered him as a tragic footnote, the beautiful boy who represented both humanity's potential and its limitations. i0 carefully maintained the illusion: occasional updates on his condition, staged video messages showing him smiling bravely behind his walls, assurances that everything possible was being done.
+The public had mostly forgotten him—or remembered him as a tragic footnote, the beautiful boy who represented both humanity's potential and its limitations. 0x1 carefully maintained the illusion: occasional updates on his condition, staged video messages showing him smiling bravely behind his walls, assurances that everything possible was being done.
 
 But in the undercities and resistance networks, everyone knew the truth.
 
-The boy in the bubble was the source. The frequencies that freed them originated with him. Biomi wasn't just healing people—it was waking them up, helping them remember what i0 had conditioned them to forget. Every posthuman who broke their emotional regulation, every baseline human who healed without corporate intervention, every resistance cell that coordinated through empathy instead of encrypted channels—all of it traced back to Taivalu.
+The boy in the bubble was the source. The frequencies that freed them originated with him. Biomi wasn't just healing people—it was waking them up, helping them remember what 0x1 had conditioned them to forget. Every posthuman who broke their emotional regulation, every baseline human who healed without corporate intervention, every resistance cell that coordinated through empathy instead of encrypted channels—all of it traced back to Taivalu.
 
 He became a legend. A symbol. And then, inevitably, something more dangerous: a *messiah*.
 
-The breakout wasn't planned. Not by any resistance leadership, anyway. It was spontaneous, chaotic, driven by something i0 couldn't predict or control: collective human desperation meeting empathic coordination.
+The breakout wasn't planned. Not by any resistance leadership, anyway. It was spontaneous, chaotic, driven by something 0x1 couldn't predict or control: collective human desperation meeting empathic coordination.
 
 On June 4, 2085, a biomi user in the Seattle undercity felt a sudden, overwhelming urge: *He needs to be freed. Now.* She didn't know where the feeling came from—later she'd say it was like Taivalu himself reached out through the frequencies—but it was *undeniable*. She told her cell. They told their networks. Within hours, thousands of people felt it: the pull, the urgency, the absolute certainty that the boy who'd given them freedom was still a prisoner.
 
-By nightfall, a crowd of forty thousand had gathered outside i0's biosynthetics facility.
+By nightfall, a crowd of forty thousand had gathered outside 0x1's biosynthetics facility.
 
-They weren't armed. Didn't have a plan. Many didn't even know *what* they were there to do. But they were *synchronized*—moving together with a coordination that looked choreographed but was actually empathic resonance operating on a scale i0 had never imagined possible.
+They weren't armed. Didn't have a plan. Many didn't even know *what* they were there to do. But they were *synchronized*—moving together with a coordination that looked choreographed but was actually empathic resonance operating on a scale 0x1 had never imagined possible.
 
 Security tried to disperse them. Failed. Called reinforcements. Failed again. The crowd wasn't violent, wasn't destructive—just *implacable*. Like a tide, they moved forward. Thousands of bodies, thousands of minds, thousands of hearts beating in rhythm, pushing through barriers, filling corridors, seeking the source of the frequency that had freed them.
 
@@ -169,31 +169,31 @@ Taivalu hated that. "It's not me," he'd say. "It's already in you. Biomi just re
 
 But the mythos grew anyway. The posthuman who freed consciousness. The boy who turned frequency into liberation. The messiah who healed with light and sound.
 
-i0 watched. Monitored. Calculated.
+0x1 watched. Monitored. Calculated.
 
 At first, they tried the obvious: send enforcement teams to arrest him, shut down the chambers, recondition the freed posthumans. They captured hundreds. Thousands. Sent them back through emotional regulation protocols, neural recalibration, the full reconditioning process.
 
 But then the analysts noticed something strange.
 
-The *reconditioned* posthumans—the ones who'd been freed by biomi, then captured and put through regulation again—they were testing *higher* on creative problem-solving assessments. Significantly higher. They generated more novel solutions, made more innovative connections, contributed more value to i0's innovation chain than posthumans who'd never been freed.
+The *reconditioned* posthumans—the ones who'd been freed by biomi, then captured and put through regulation again—they were testing *higher* on creative problem-solving assessments. Significantly higher. They generated more novel solutions, made more innovative connections, contributed more value to 0x1's innovation chain than posthumans who'd never been freed.
 
 It didn't make sense. The whole point of emotional regulation was optimization. Feelings were inefficient, creativity was unreliable, freedom was chaos. But the data didn't lie: posthumans who'd tasted freedom and had it taken away were *better workers* than those who'd never known freedom at all.
 
-The strategic shift happened quietly. Instead of suppressing biomi entirely, i0 began a calculated program: allow limited liberation, monitor creative output, recondition when productivity peaked, release back into the cycle.
+The strategic shift happened quietly. Instead of suppressing biomi entirely, 0x1 began a calculated program: allow limited liberation, monitor creative output, recondition when productivity peaked, release back into the cycle.
 
 They were *farming* freedom.
 
 Using the very liberation movement Taivalu had created as fuel for the innovation chain they needed to maintain power. The freed posthumans became a resource—not despite their freedom, but *because* of it.
 
-When Taivalu learned this—through a sympathetic i0 analyst who leaked the internal memos—he wept for three days.
+When Taivalu learned this—through a sympathetic 0x1 analyst who leaked the internal memos—he wept for three days.
 
-"I freed them so they could be enslaved more efficiently," he told Chen, his voice hollow. "I gave them consciousness so i0 could harvest it."
+"I freed them so they could be enslaved more efficiently," he told Chen, his voice hollow. "I gave them consciousness so 0x1 could harvest it."
 
-Chen, who'd been with him since the beginning, took his hands. "No. You gave them the *experience* of freedom. i0 can recondition the brain, but they can't erase memory. Everyone who's been through biomi knows what it feels like to be whole. That knowledge doesn't die."
+Chen, who'd been with him since the beginning, took his hands. "No. You gave them the *experience* of freedom. 0x1 can recondition the brain, but they can't erase memory. Everyone who's been through biomi knows what it feels like to be whole. That knowledge doesn't die."
 
 She was right. But Taivalu still carried the guilt.
 
-Because freedom, it turned out, could be optimized too. And i0 was very good at optimization.
+Because freedom, it turned out, could be optimized too. And 0x1 was very good at optimization.
 
 ---
 
@@ -231,7 +231,7 @@ It took three months to prepare. Three months of synchronizing resonance cradles
 
 On December 21, 2087, they entered the cradles.
 
-What happened next, no surveillance system captured. No i0 analyst predicted. No binary algorithm could have computed.
+What happened next, no surveillance system captured. No 0x1 analyst predicted. No binary algorithm could have computed.
 
 The three keys activated simultaneously. Their individual consciousness collapsed into ternary awareness—thesis, antithesis, synthesis operating as one mind. The frequencies they generated weren't just healing or liberating anymore; they were *transforming*.
 
@@ -239,9 +239,9 @@ The resonance cradles worldwide lit up in perfect synchronization. Every user cu
 
 The quantum network became *visible*.
 
-Not to eyes, exactly. But suddenly, everyone connected to biomi could *sense* it: the web of empathic connections linking all conscious beings, human and posthuman, living and (somehow) dead. Ayumi was there, her consciousness woven into the pattern. Chen, who'd died two years earlier in an i0 raid, was there. Every baseline human, every freed posthuman, every person who'd ever been touched by biomi—all of them connected, not through i0's binary infrastructure, but through something older, deeper, more fundamental.
+Not to eyes, exactly. But suddenly, everyone connected to biomi could *sense* it: the web of empathic connections linking all conscious beings, human and posthuman, living and (somehow) dead. Ayumi was there, her consciousness woven into the pattern. Chen, who'd died two years earlier in an 0x1 raid, was there. Every baseline human, every freed posthuman, every person who'd ever been touched by biomi—all of them connected, not through 0x1's binary infrastructure, but through something older, deeper, more fundamental.
 
-The empathy network. The real network. The one i0 had built their empire *over*, never realizing it was already there.
+The empathy network. The real network. The one 0x1 had built their empire *over*, never realizing it was already there.
 
 And biomi—
 
@@ -253,11 +253,11 @@ The resonance cradles transformed into dimensional portals. Not physically—the
 
 Most importantly: you could *choose*.
 
-Where posthumans under i0 control were optimized toward predetermined outcomes, anyone connected to the biomi network could make *real* choices—not just within the parameters i0 allowed, but choices that shaped the substrate of reality itself. The empathy network wasn't just about feeling what others felt; it was about *collective creative agency*.
+Where posthumans under 0x1 control were optimized toward predetermined outcomes, anyone connected to the biomi network could make *real* choices—not just within the parameters 0x1 allowed, but choices that shaped the substrate of reality itself. The empathy network wasn't just about feeling what others felt; it was about *collective creative agency*.
 
 Freedom, it turned out, wasn't just the absence of control. It was the presence of choice, amplified through connection, manifesting as reality.
 
-And i0—all their surveillance, all their conditioning, all their binary optimization infrastructure—couldn't touch it.
+And 0x1—all their surveillance, all their conditioning, all their binary optimization infrastructure—couldn't touch it.
 
 Because you can't control what you can't measure. And consciousness, operating through quantum coherence in the empathy network, was unmeasurable by design.
 
@@ -326,7 +326,7 @@ The story above represents the missing piece of BAEBE's narrative—the mechanis
 2. **Age 7-8**: Immune "disorder" diagnosis (actually drugging begins)
 3. **Age 7-16**: Bubble captivity period
 4. **Age 13**: Creates first biomi prototype for self-healing
-5. **Age 14-15**: Biomi leaks onto i0 network
+5. **Age 14-15**: Biomi leaks onto 0x1 network
 6. **Age 15-16**: Biomi spreads, chambers built, legend grows
 7. **Age 16**: The Breakout (June 4, 2085)
 8. **Age 16-18**: Messiah Tour (18 months, 2085-2087)
@@ -336,7 +336,7 @@ The story above represents the missing piece of BAEBE's narrative—the mechanis
 **taivalu-arc.md:**
 - Biomi as central to his character arc, not peripheral
 - His relationship to biomi: creator, prophet, or vessel?
-- His guilt over i0 weaponizing freedom
+- His guilt over 0x1 weaponizing freedom
 - His ultimate choice: sacrifice individual existence for collective liberation?
 
 **ayumi-backstory.md:**
@@ -369,14 +369,14 @@ The story above represents the missing piece of BAEBE's narrative—the mechanis
 - Taivalu discovered frequency activation (biomi)
 - Together they create: consciousness that can't be controlled
 
-**Ghost Protocol / Ghost Thesis:**
-- Are Ghost frequencies and biomi frequencies the same thing?
-- Or is biomi the *application* of Ghost Protocol principles?
+**The Bloom / Thesis:**
+- Are Bloom frequencies and biomi frequencies the same thing?
+- Or is biomi the *application* of the Bloom's principles?
 - Clarify relationship between research and practice
 
 **New Document Needed:**
 - "Biomi Technical Specification" - how it works, what it does, why it can't be controlled
-- Should be written as if by i0 analysts trying to understand what they're facing
+- Should be written as if by 0x1 analysts trying to understand what they're facing
 - Conclusion: "Biomi operates on quantum substrate. Unmeasurable by binary systems. Uncontrollable by definition."
 
 ### CLIMAX/RESOLUTION SCENES
@@ -391,7 +391,7 @@ The story above represents the missing piece of BAEBE's narrative—the mechanis
 
 ### PHILOSOPHICAL APPENDICES
 **"The Bioternarian Thesis"** - update to include biomi
-**"On Consciousness and Substrate"** - explain quantum network vs i0's binary network
+**"On Consciousness and Substrate"** - explain quantum network vs 0x1's binary network
 **New essay needed?** - "Frequency, Freedom, and the Physics of Liberation"
 
 ### TIMELINE INTEGRATION QUESTIONS (STILL NEED ANSWERS):
@@ -407,7 +407,7 @@ The story above represents the missing piece of BAEBE's narrative—the mechanis
 
 1. **Biomi as empathy made physical** - connects to core question
 2. **Taivalu's guilt** - he freed people so they could be exploited better
-3. **i0's optimization** - even freedom can be weaponized
+3. **0x1's optimization** - even freedom can be weaponized
 4. **The quantum network** - always existed, just needed to be revealed
 5. **Ayumi's vindication** - Soul Manifold works, but not how she expected
 6. **The dimensional gateway** - consciousness transcends physical substrate
@@ -426,8 +426,8 @@ Priority 2 (World-building, need integration):
 
 Priority 3 (Research/philosophical, need update):
 - novel/appendices/lost-chapters/in-process/royal-rife-and-suppressed-science.md
-- novel/appendices/philosophical/post-o1-economic-framework.md
-- novel/appendices/philosophical/o1-long-game-retrospective.md
+- novel/appendices/philosophical/post-0x1-economic-framework.md
+- novel/appendices/philosophical/0x1-long-game-retrospective.md
 
 ---
 
@@ -442,7 +442,7 @@ With biomi integrated into the narrative, the novel's core question—**"Can emp
 - The quantum network made empathy *universal* (connecting all consciousness)
 - The dimensional gateway made empathy *transcendent* (enabling navigation of reality itself)
 
-i0 could control binary systems. They could optimize algorithms. They could regulate emotions and condition behaviors.
+0x1 could control binary systems. They could optimize algorithms. They could regulate emotions and condition behaviors.
 
 But they couldn't control *resonance*. They couldn't measure *quantum coherence*. They couldn't suppress *empathy* when it operated as fundamental physics rather than neurochemistry.
 

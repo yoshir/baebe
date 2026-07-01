@@ -1,7 +1,7 @@
 # KESS - CHARACTER BACKSTORY
 
 **Full Name:** Kess (last name unknown/never given)
-**Role:** Ghost Synthesis - The Human Key
+**Role:** Synthesis - The Human Key
 **Age:** 9 years old (born 2072, story present ~2080)
 **Origin:** Created by Dr. Ayumi Zenith Nakamoto
 **Status:** Pure baseline human, third Soul Manifold key, grounding that allows transcendence
@@ -51,11 +51,11 @@ Kess doesn't have special powers. **That's her special power.**
 
 **The Secret Child:**
 
-Ayumi kept Kess completely hidden from i0. Taivalu was public. Baebe was captured. But Kess? i0 never knew she existed.
+Ayumi kept Kess completely hidden from 0x1. Taivalu was public. Baebe was captured. But Kess? 0x1 never knew she existed.
 
 **Strategy:**
 - Birth hidden (underground, no records)
-- Placed with foster parents (deep cover, no i0 connections)
+- Placed with foster parents (deep cover, no 0x1 connections)
 - Shadow created as her guardian (2072, from birth)
 - No documentation, no trail, no evidence
 - Ayumi's most protected secret
@@ -74,11 +74,11 @@ They kept their promise. Until they couldn't.
 
 **What Happened:**
 
-i0 found Ayumi. Used Angel to kill her. But they were thorough—they'd traced connections. Found the foster parents.
+0x1 found Ayumi. Used Angel to kill her. But they were thorough—they'd traced connections. Found the foster parents.
 
 **2074, Same Night:**
 - **Temple Location:** Angel kills Ayumi
-- **Safe House Location:** i0 operatives raid foster parents
+- **Safe House Location:** 0x1 operatives raid foster parents
 
 **The Safe House:**
 
@@ -92,7 +92,7 @@ Protocol activated.
 
 ### Foster Parents Killed
 
-i0 operatives broke in. Found Kess (age 2). Found her foster parents.
+0x1 operatives broke in. Found Kess (age 2). Found her foster parents.
 
 They killed the foster parents. Efficient. Professional. Eliminating witnesses. Covering tracks.
 
@@ -107,16 +107,16 @@ The operatives died. Shadow stood over Kess—covered in blood that wasn't his�
 ### The Escape to Outlands
 
 Shadow calculated instantly:
-- i0 knows this location
+- 0x1 knows this location
 - More operatives coming
-- Need to hide where i0 can't follow
+- Need to hide where 0x1 can't follow
 - **Solution: Anomaly zones**
 
-His bio-compute + analog design meant he could function where i0's network failed. The anomaly zones—unexplained dead zones where electronics died—were perfect hiding places.
+His bio-compute + analog design meant he could function where 0x1's network failed. The anomaly zones—unexplained dead zones where electronics died—were perfect hiding places.
 
 Shadow wrapped Kess (age 2, terrified, alone) in protective grip and ran.
 
-Into the outlands. Into the places i0 couldn't reach.
+Into the outlands. Into the places 0x1 couldn't reach.
 
 ---
 
@@ -126,15 +126,15 @@ Into the outlands. Into the places i0 couldn't reach.
 
 **The Anomaly Zones:**
 
-Unexplained areas where i0's network failed completely. Electronics died. Drones crashed. Surveillance blinded.
+Unexplained areas where 0x1's network failed completely. Electronics died. Drones crashed. Surveillance blinded.
 
-Shadow functioned perfectly. i0 couldn't follow.
+Shadow functioned perfectly. 0x1 couldn't follow.
 
 **Life in Hiding:**
 
 For six years, Kess lived in the dead zones with Shadow:
 - Scavenging food from abandoned structures
-- Hiding in ruins where i0 patrols couldn't reach
+- Hiding in ruins where 0x1 patrols couldn't reach
 - Moving between anomaly zones for safety
 - Learning to survive in a hostile world
 - Growing up with a 10-foot saber-toothed tiger mech as her only family
@@ -147,7 +147,7 @@ For six years, Kess lived in the dead zones with Shadow:
 
 Shadow protected her. Fed her. Taught her. But he couldn't give her what she'd lost: **normalcy. Safety. Family.**
 
-For six years, she grew up alone in the ruins. The youngest Soul Manifold key, hidden in plain sight where i0 couldn't see.
+For six years, she grew up alone in the ruins. The youngest Soul Manifold key, hidden in plain sight where 0x1 couldn't see.
 
 ### What She Gained
 
@@ -297,7 +297,7 @@ For the first time, Kess wasn't alone. Wasn't just surviving. She had:
 - Identity: Reluctant helper
 
 ### Stage 4: Sister (Chapters 7-8)
-- Learns she's Ghost Synthesis
+- Learns she's Synthesis
 - Meets Taivalu
 - Understands her importance
 - Identity: Third key, youngest sister
@@ -305,7 +305,7 @@ For the first time, Kess wasn't alone. Wasn't just surviving. She had:
 ### Stage 5: The Human Bridge (Chapter 18)
 - Enters Resonance Cradle
 - Merges with Baebe and Taivalu
-- Ghost Synthesis completes ternary
+- Synthesis completes ternary
 - Identity: **The human element that frees everyone**
 
 ---
@@ -322,7 +322,7 @@ For the first time, Kess wasn't alone. Wasn't just surviving. She had:
 **Technical Function:**
 
 Kess's pure baseline human consciousness:
-- Carries natural quantum coherence (suppressed in all humans by i0)
+- Carries natural quantum coherence (suppressed in all humans by 0x1)
 - Grounds posthuman transcendence in human reality
 - Bridges enhanced consciousness to baseline humanity
 - Enables Soul Manifold broadcast to reach ALL humans
@@ -360,7 +360,7 @@ Her unmodified biology provides the grounding frequency. The stable third point.
 ### Human Perspective (Innate)
 
 **Unenhanced Clarity:**
-- No i0 conditioning (sees clearly)
+- No 0x1 conditioning (sees clearly)
 - No posthuman filters (understands baseline needs)
 - Pure human consciousness (what everyone lost)
 - Common sense (uncluttered by programming)
@@ -440,7 +440,7 @@ He raised her. She named him. He protected her from everything. She gave him pur
 
 **Kess's Understanding:**
 
-"My mom gave everything so I could live free. She died before I could know her. But she knew me. She made Shadow for me. She hid me from i0. She created a plan where I'm essential. That's love. Even if I never got to feel it in person."
+"My mom gave everything so I could live free. She died before I could know her. But she knew me. She made Shadow for me. She hid me from 0x1. She created a plan where I'm essential. That's love. Even if I never got to feel it in person."
 
 ---
 
@@ -458,7 +458,7 @@ He raised her. She named him. He protected her from everything. She gave him pur
 
 **Belonging:** Six years alone taught her the price of isolation
 **Safety:** Six years hunted (passively) taught her the cost of vulnerability
-**Purpose:** Learning she's Ghost Synthesis gave meaning to the suffering
+**Purpose:** Learning she's Synthesis gave meaning to the suffering
 **Family:** Finding Baebe, Taivalu, Shadow, Angel made survival worth it
 
 ### Core Strength
@@ -488,7 +488,7 @@ He raised her. She named him. He protected her from everything. She gave him pur
 
 ### Pure Humanity
 
-Kess represents what i0 tried to destroy: **unenhanced, uncorrupted, free human consciousness.**
+Kess represents what 0x1 tried to destroy: **unenhanced, uncorrupted, free human consciousness.**
 
 In a world of posthuman enhancements, neural regulators, and controlled emotions, Kess is purely, authentically **human**.
 
@@ -504,7 +504,7 @@ Kess bridges enhanced consciousness back to baseline humanity. **She's the remin
 
 ### The Youngest
 
-At 9, Kess is the youngest. She represents the future—what comes after i0.
+At 9, Kess is the youngest. She represents the future—what comes after 0x1.
 
 The posthumans fight for freedom. **Kess shows them what freedom is for: children who get to be children. Humans who get to be human.**
 
@@ -535,7 +535,7 @@ Not despite being baseline human. **Because** of it.
 ## FINAL STATE
 
 **Form:** Merged consciousness within Baebe-Taivalu-Kess ternary network
-**Status:** Ghost Synthesis, human bridge, third key
+**Status:** Synthesis, human bridge, third key
 **Mission:** Ground posthuman transcendence in human reality
 **Identity:** The youngest key who makes universal liberation possible
 
@@ -544,7 +544,7 @@ Hidden Child → Outlands Survivor → Reluctant Helper → Sister → **Human B
 
 The orphan who lost everything. The child who survived six years alone. The baseline human in a posthuman world.
 
-**Ghost Synthesis. The human key. The bridge that frees everyone.**
+**Synthesis. The human key. The bridge that frees everyone.**
 
 ---
 
@@ -570,4 +570,4 @@ The orphan who lost everything. The child who survived six years alone. The base
 
 *"Ayumi made me human on purpose. Not enhanced. Not special. Just human. Because humanity is what completes their transcendence. I'm the bridge. The grounding. The reason it matters. Nine years old, scared, small, and absolutely essential."*
 
-*"Shadow protected me. Baebe fought for me. Taivalu healed me. Angel died for me. Ayumi created me. And I... I complete them. Ghost Synthesis. The human element. The third key. I make it all mean something."*
+*"Shadow protected me. Baebe fought for me. Taivalu healed me. Angel died for me. Ayumi created me. And I... I complete them. Synthesis. The human element. The third key. I make it all mean something."*

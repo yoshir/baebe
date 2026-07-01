@@ -111,7 +111,7 @@ Never left. Never **considered** leaving.
 
 **Why**:
 
-"I built thousand buildings for i0. Every one **controlled** people."
+"I built thousand buildings for 0x1. Every one **controlled** people."
 
 "Temple is my **penance**. My apology. My **atonement**."
 
@@ -163,7 +163,7 @@ Completed Trials: Third Trial (Human-Nature Integration) **transformed** her.
 
 **Master Chen**: Buddhist monk. Age 67 (when arrived). **Wisdom tradition**.
 
-Arrived Temple: Refugee. Monastery destroyed by i0 land seizure. **Lost everything**.
+Arrived Temple: Refugee. Monastery destroyed by 0x1 land seizure. **Lost everything**.
 
 Never took Trials. (Too old. Didn't need them. **Already integrated**.)
 
@@ -269,7 +269,7 @@ Resistance is:
 
 "Sanctuaries don't build themselves. Gardens don't tend themselves. **Healing doesn't happen** without healers."
 
-"You fight i0 **out there**. We fight i0 **in here**—by proving alternative works."
+"You fight 0x1 **out there**. We fight 0x1 **in here**—by proving alternative works."
 
 "You destroy corporate control. We **build** what comes after."
 
@@ -335,7 +335,7 @@ They're **creating**:
 
 **They're building**: Template for **post-corporate civilization**.
 
-When i0 falls (if Soul Manifold succeeds), **what comes after**?
+When 0x1 falls (if Soul Manifold succeeds), **what comes after**?
 
 **Temple shows**: This. Consensus governance. Gift economy. Ternary consciousness. **Integrated living**.
 

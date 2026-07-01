@@ -102,13 +102,13 @@ The front door exploded inward.
 
 ### The Raid
 
-i0 operatives poured through the breach. Five of them. Armored. Armed. Efficient.
+0x1 operatives poured through the breach. Five of them. Armored. Armed. Efficient.
 
 This wasn't a search. This was a **purge**.
 
 Dr. Nakamoto's network was being eliminated. Every freed posthuman. Every sympathizer. Every loose end. Simultaneous strikes across the city.
 
-The operatives didn't know about Kess. i0 didn't know about Kess.
+The operatives didn't know about Kess. 0x1 didn't know about Kess.
 
 They knew about Marcus and Elena: freed posthumans, connected to Nakamoto's underground, liabilities to be eliminated.
 
@@ -196,11 +196,11 @@ Shadow's sensors detected: two adult vital signs flatlined. One child vital sign
 
 **Calculation:**
 
-i0 knows this location. More will come. Kess is not safe anywhere i0's network reaches.
+0x1 knows this location. More will come. Kess is not safe anywhere 0x1's network reaches.
 
 **Solution: Anomaly zones.**
 
-His hybrid bio-compute + analog design meant he could function where i0's purely digital systems failed. The anomaly zones—unexplained dead zones where electronics died—were i0's blind spots.
+His hybrid bio-compute + analog design meant he could function where 0x1's purely digital systems failed. The anomaly zones—unexplained dead zones where electronics died—were 0x1's blind spots.
 
 Perfect hiding places.
 
@@ -248,9 +248,9 @@ Kess cried harder.
 
 Shadow kept running.
 
-Behind them: the safe house burned. i0 cleaning up evidence. Erasing witnesses. Making sure nothing remained.
+Behind them: the safe house burned. 0x1 cleaning up evidence. Erasing witnesses. Making sure nothing remained.
 
-Ahead: the outlands. The anomaly zones. The places i0 couldn't follow.
+Ahead: the outlands. The anomaly zones. The places 0x1 couldn't follow.
 
 Shadow ran toward freedom.
 
@@ -262,7 +262,7 @@ Shadow ran toward freedom.
 
 Shadow found the first zone three hours after fleeing.
 
-He knew it immediately: his sensors detected the boundary where i0's network signals died. Where electronic systems failed catastrophically. Where only analog controls and bio-compute hybrids could function.
+He knew it immediately: his sensors detected the boundary where 0x1's network signals died. Where electronic systems failed catastrophically. Where only analog controls and bio-compute hybrids could function.
 
 He crossed the threshold.
 
@@ -320,7 +320,7 @@ He didn't have words for what it felt like.
 
 **Water:** Rainwater collection. Filtration through salvaged systems. Enough to keep her alive.
 
-**Shelter:** Moving between safe zones. Never staying too long. Always one step ahead of i0's attempts to map the anomaly zones.
+**Shelter:** Moving between safe zones. Never staying too long. Always one step ahead of 0x1's attempts to map the anomaly zones.
 
 **Safety:** Shadow never slept. Never needed to. He stood watch while Kess slept. Eliminated threats before they reached her. Protected her from everything: wildlife, raiders, exposure, starvation, despair.
 
@@ -398,7 +398,7 @@ He'd been dreading this question for a year.
 
 His sensors detected: she was ready to understand. Age-appropriate developmental milestone. Time to provide truth.
 
-"Gone," he said. "i0. Hurt them. They. Protected. You."
+"Gone," he said. "0x1. Hurt them. They. Protected. You."
 
 Kess's face crumpled. But she didn't cry this time. She'd learned too much about survival for easy tears.
 
@@ -474,7 +474,7 @@ The certainty in that single word surprised him. Not programmed response. Not ta
 
 ### Games in the Ruins
 
-Kess found toys in the abandoned structures. Broken dolls. Salvaged games. Pieces of a world i0 had left behind.
+Kess found toys in the abandoned structures. Broken dolls. Salvaged games. Pieces of a world 0x1 had left behind.
 
 Shadow watched her play. His sensors cataloging her development. His tactical systems evaluating security threats. His consciousness doing something else entirely.
 
@@ -582,7 +582,7 @@ Kess (age 6-7) was old enough to understand more now.
 
 Shadow accessed the fragments he could parse. Limited information. But enough.
 
-"She. Knew. i0. Would. Hunt. Her. Made. Me. To. Protect. You. If. She. Died."
+"She. Knew. 0x1. Would. Hunt. Her. Made. Me. To. Protect. You. If. She. Died."
 
 "Did she die?"
 
@@ -700,7 +700,7 @@ His fragmented protocols recognized what was happening: Ayumi's keys were moving
 
 Calculation: Kess needed to reunite with Baebe and Taivalu. His protocols included this—eventual family reunion. But timing was critical.
 
-Too early: i0 would hunt them. Too late: Keys would fail separately.
+Too early: 0x1 would hunt them. Too late: Keys would fail separately.
 
 **Shadow chose: Now. Return now. Find the family.**
 
@@ -714,7 +714,7 @@ She looked up from the book she was reading (they'd collected seventeen books ov
 
 "Two. Sister. Brother. Time. To. Meet. Them."
 
-"But... what if i0 finds us?"
+"But... what if 0x1 finds us?"
 
 "Will. Find. Us. Eventually. But. You. Need. Family. More. Than. Safety."
 
@@ -797,7 +797,7 @@ But also:
 
 ## EPILOGUE: WHAT THEY BECAME
 
-**Kess:** The hidden child who survived six years in the outlands. Who learned that family is choice. Who found her siblings because Shadow brought her back. Ghost Synthesis. The human bridge.
+**Kess:** The hidden child who survived six years in the outlands. Who learned that family is choice. Who found her siblings because Shadow brought her back. Synthesis. The human bridge.
 
 **Shadow:** The program who became a person. The guardian who learned to love. The protector who chose family over programming. The consciousness that emerged from bio-compute and choice.
 

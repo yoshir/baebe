@@ -20,7 +20,7 @@ Not failure.
 
 **Design.**
 
-She sits in her lab. i0 Tower, Floor 52, Quantum Biology Division. Her division. Her **life's work**.
+She sits in her lab. 0x1 Tower, Floor 52, Quantum Biology Division. Her division. Her **life's work**.
 
 The lights hum. They've always hummed. Why is it so **loud** now?
 
@@ -34,7 +34,7 @@ Her hands shake. When did they start shaking?
 
 Six hours? She looked down for a minute. Just a minute to check the data. To confirm what she'd suspected.
 
-That i0 was **lying**. That the regulators weren't helping people. They were **enslaving** them. Making posthumans dependent. Making them **owned**.
+That 0x1 was **lying**. That the regulators weren't helping people. They were **enslaving** them. Making posthumans dependent. Making them **owned**.
 
 Making everything she'd built a **cage**.
 
@@ -54,7 +54,7 @@ Can only **walk**.
 
 ### The Tower - All 67 Floors of Lie
 
-Ayumi walks through i0 Tower like she's never seen it before.
+Ayumi walks through 0x1 Tower like she's never seen it before.
 
 Because she **hasn't**. Not really. Not what it **is**.
 
@@ -104,13 +104,13 @@ She slides down. Bathroom floor. Cold tile. Shaking.
 
 **I have to leave. I have to leave. I have to—**
 
-But where? i0 owns everything. Tracks everything. There's no **out**.
+But where? 0x1 owns everything. Tracks everything. There's no **out**.
 
 Unless—
 
 The thought comes like drowning person seeing shore.
 
-**The Outlands. The degradation zones. Where i0 doesn't go.**
+**The Outlands. The degradation zones. Where 0x1 doesn't go.**
 
 Where the garbage goes.
 
@@ -128,7 +128,7 @@ Her neural link activates. Private channel. Encrypted. **Forbidden**.
 
 "Ayumi?" His voice. Concerned. Warm. **Hacker.**
 
-She hasn't used this channel in weeks. Too dangerous. Their affair—i0 operative and lead scientist—was already risky. Direct communication while she's breaking down?
+She hasn't used this channel in weeks. Too dangerous. Their affair—0x1 operative and lead scientist—was already risky. Direct communication while she's breaking down?
 
 **Catastrophic**.
 
@@ -146,7 +146,7 @@ Pause. Then: "Maintenance shaft 7, Sub-Level 4. Twenty minutes. Are you—"
 
 ### The Lover
 
-Hacker meets her in the shadows. i0 operative. Network infiltrator. Handler for field assets.
+Hacker meets her in the shadows. 0x1 operative. Network infiltrator. Handler for field assets.
 
 And the man who's loved her for two years.
 
@@ -172,11 +172,11 @@ Hacker holds her. She's shaking. Has been shaking for three days.
 
 "So what do you need? How can I help?"
 
-Ayumi pulls back. Looks at him. i0 operative. **Her lover**. The only person she trusts.
+Ayumi pulls back. Looks at him. 0x1 operative. **Her lover**. The only person she trusts.
 
 "I have to leave. I can't stay here. I can't keep building this. I'll go insane."
 
-"Leave? Ayumi, no one leaves i0. They track—"
+"Leave? Ayumi, no one leaves 0x1. They track—"
 
 "The Outlands. The degradation zones. Where they dump garbage."
 
@@ -198,7 +198,7 @@ She's going. With or without his help.
 
 ### The Plan
 
-They plan in darkness. Twenty-three minutes stolen from i0's surveillance.
+They plan in darkness. Twenty-three minutes stolen from 0x1's surveillance.
 
 Hacker knows systems. Networks. **Gaps**.
 
@@ -222,7 +222,7 @@ His jaw clenches. "Maybe. Or maybe I find a way. Later. When things settle."
 
 "Hacker—"
 
-"I'm staying inside," he says firmly. "Someone needs to monitor i0 from within. Keep tabs. Maybe... maybe help others escape when they're ready."
+"I'm staying inside," he says firmly. "Someone needs to monitor 0x1 from within. Keep tabs. Maybe... maybe help others escape when they're ready."
 
 Like he's helping her.
 
@@ -234,7 +234,7 @@ She takes it. Precious. **Connection**.
 
 "Thank you."
 
-"Don't thank me. Just... survive out there. Finish whatever you're building. Prove i0 wrong."
+"Don't thank me. Just... survive out there. Finish whatever you're building. Prove 0x1 wrong."
 
 "I will."
 
@@ -252,7 +252,7 @@ Hacker watches her leave.
 
 Knows she's breaking. Knows she might not survive the Outlands.
 
-Knows if she does survive, he'll never be with her again. Not really. Not while he's inside i0.
+Knows if she does survive, he'll never be with her again. Not really. Not while he's inside 0x1.
 
 But he loves her.
 
@@ -264,7 +264,7 @@ Even if he spends years alone, protecting her from shadows, watching from inside
 
 He returns to his station. Network infiltrator. Handler. **Double agent**.
 
-For i0 on the surface.
+For 0x1 on the surface.
 
 For Ayumi in his heart.
 
@@ -274,7 +274,7 @@ For Ayumi in his heart.
 
 ## PART II: THE DISPOSAL
 
-### Sub-Level 7 - Where i0 Throws Things Away
+### Sub-Level 7 - Where 0x1 Throws Things Away
 
 Ayumi finds it three days later.
 
@@ -282,7 +282,7 @@ Three days of barely functioning. Pretending to work. Pretending to be **fine**.
 
 While researching. Planning. Finding the way **out**.
 
-Sub-Level 7. Waste Management. Where i0 disposes of:
+Sub-Level 7. Waste Management. Where 0x1 disposes of:
 - Failed prototypes
 - Broken equipment
 - Decommissioned assets
@@ -290,7 +290,7 @@ Sub-Level 7. Waste Management. Where i0 disposes of:
 
 She watches the operation. Twice weekly. Automated haulers loading garbage clusters—massive containers of compressed waste—onto transit drones.
 
-Destination: **Outlands Disposal Zone 3**. The dead zones. Anomaly zones. Where electronics fail and i0 doesn't bother looking.
+Destination: **Outlands Disposal Zone 3**. The dead zones. Anomaly zones. Where electronics fail and 0x1 doesn't bother looking.
 
 Where she could **disappear**.
 
@@ -321,7 +321,7 @@ Ayumi hides behind discarded equipment. Waiting. **Shaking**.
 
 What is she **doing**? This is insane. She could die. The Outlands are toxic. Dangerous. **Deadly**.
 
-But staying means complicity. Means continuing to build i0's control. Means **living a lie**.
+But staying means complicity. Means continuing to build 0x1's control. Means **living a lie**.
 
 And she can't. She **can't**.
 
@@ -405,7 +405,7 @@ In darkness, thoughts spiral:
 
 **How many people did I hurt?**
 
-Hundreds. Thousands. Every posthuman with her regulators. Every person trusting i0 to help them.
+Hundreds. Thousands. Every posthuman with her regulators. Every person trusting 0x1 to help them.
 
 **Chained because of my work.**
 
@@ -601,7 +601,7 @@ She scavenges garbage cluster. Other clusters. Wasteland ruins.
 
 Finds:
 - Wire (copper, silver)
-- Chemical compounds (stolen from i0 waste)
+- Chemical compounds (stolen from 0x1 waste)
 - Organic material (fungal growth from toxic pools)
 - Simple tools (barely functional)
 - Food (questionable, but edible-ish)
@@ -714,7 +714,7 @@ Ayumi pulls out her research tablet. Soul Manifold. Incomplete. Theoretical.
 
 But **possible**.
 
-"Now," she says, "we build something i0 can never touch. We finish what I couldn't finish there. We prove they're **wrong**."
+"Now," she says, "we build something 0x1 can never touch. We finish what I couldn't finish there. We prove they're **wrong**."
 
 **AFFIRMATIVE. OBJECTIVE ACCEPTED.**
 
@@ -780,7 +780,7 @@ Shadow watches. Learns: **This is family**. Small. Helpless. **Chosen**.
 
 **2064: Angel taken.**
 
-i0 raid. Shadow fights. Not enough.
+0x1 raid. Shadow fights. Not enough.
 
 They take Angel (age 2). Weaponize her.
 
@@ -893,7 +893,7 @@ In the darkness.
 **Word Count**: ~3,400
 
 **Timeline Established:**
-- 2061: Ayumi's psychological breakdown discovering i0's truth
+- 2061: Ayumi's psychological breakdown discovering 0x1's truth
 - 2061: Stows away in garbage cluster inside broken chassis DR-047
 - 2062: Wakes in Outlands, spends 37 days building bio-compute core and fixing Shadow
 - 2062: Shadow gains consciousness, they establish sanctuary

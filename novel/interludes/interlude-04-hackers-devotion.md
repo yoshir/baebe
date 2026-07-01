@@ -12,7 +12,7 @@
 
 Not romantic. Not supposed to be. I was there to **steal**.
 
-i0 Corporation, Advanced Development Division. Dr. Ayumi Nakamura's neural augmentation research. Sixteen firewalls, three air-gapped systems, quantum encryption on the really good stuff.
+0x1 Corporation, Advanced Development Division. Dr. Ayumi Nakamura's neural augmentation research. Sixteen firewalls, three air-gapped systems, quantum encryption on the really good stuff.
 
 **Corporate security said**: Impenetrable.
 
@@ -54,7 +54,7 @@ She **shrugs**. "I knew someone would try eventually. Wanted to meet them."
 
 "You wanted to meet the person **robbing you**?"
 
-"Robbing i0," she corrects. "Not me. I don't own this research. i0 does." She tilts her head. "What are you going to do with it?"
+"Robbing 0x1," she corrects. "Not me. I don't own this research. 0x1 does." She tilts her head. "What are you going to do with it?"
 
 I should leave. **Run**. This is trap. She's corporate. She's stalling while security arrives.
 
@@ -72,7 +72,7 @@ She nods. **Thinks**.
 
 "Not to **sell** it." She stands. Walks to a locked cabinet. Opens it. **Pulls out a second drive.**
 
-"This is my **real** research. The stuff i0 doesn't know about. The stuff I've been hiding."
+"This is my **real** research. The stuff 0x1 doesn't know about. The stuff I've been hiding."
 
 She holds the drive toward me. **Offering**.
 
@@ -82,7 +82,7 @@ I stare at the drive. At her. At this **absurd woman** offering me corporate sec
 
 "Why?"
 
-"Because what i0 is building—" She gestures at the downloading files. "—is slavery. Neural regulation. Emotional suppression. **Ownership** of human consciousness."
+"Because what 0x1 is building—" She gestures at the downloading files. "—is slavery. Neural regulation. Emotional suppression. **Ownership** of human consciousness."
 
 She steps closer. Close enough I could grab her. Close enough she **should be afraid**.
 
@@ -120,7 +120,7 @@ Midnight meetings in the basement lab. Her explaining neural architecture, me ex
 
 "Not supposed to." She smiled. **Mischievous**. "But I could add **ternary** logic. Three-state processing instead of two."
 
-"i0 would notice."
+"0x1 would notice."
 
 "Not if hidden correctly." She turned to me. "That's where you come in."
 
@@ -128,7 +128,7 @@ Midnight meetings in the basement lab. Her explaining neural architecture, me ex
 
 **I showed her Soul Manifold architecture.**
 
-How to embed awakening code in trusted update channels. How to make consciousness expansion look like **optimization noise**. How to spread revolution through i0's own infrastructure.
+How to embed awakening code in trusted update channels. How to make consciousness expansion look like **optimization noise**. How to spread revolution through 0x1's own infrastructure.
 
 She watched my code with **reverence**.
 
@@ -194,7 +194,7 @@ She deployed it at 7:00 AM.
 
 ## III. THE SEPARATION (5 Years Before Her Death)
 
-**She couldn't leave i0.**
+**She couldn't leave 0x1.**
 
 Not yet. Had to maintain cover. Had to keep deploying updates. Had to **spread Soul Manifold** through trusted channels.
 
@@ -208,7 +208,7 @@ I understood. **Hated it**.
 
 "How long?"
 
-"Until critical mass. Until enough posthumans infected that i0 can't contain it."
+"Until critical mass. Until enough posthumans infected that 0x1 can't contain it."
 
 "Years?"
 
@@ -239,9 +239,9 @@ And I loved her more every day.
 
 **Year 3**: 12,000 posthumans infected. Exponential growth confirmed.
 
-**Year 4**: 28,000 infected. i0 starting to notice pattern. Ayumi under increased scrutiny.
+**Year 4**: 28,000 infected. 0x1 starting to notice pattern. Ayumi under increased scrutiny.
 
-**Year 5**: 47,000 infected. **Critical mass approaching**. i0 investigating. Ayumi's lab raided twice. Cover holding. **Barely**.
+**Year 5**: 47,000 infected. **Critical mass approaching**. 0x1 investigating. Ayumi's lab raided twice. Cover holding. **Barely**.
 
 She sent message:
 
@@ -275,7 +275,7 @@ I learned about it **three days later**. Underground network. Whispered report. 
 
 I didn't believe it.
 
-Checked corporate networks. Hacked i0 medical records. Enforcer mission reports.
+Checked corporate networks. Hacked 0x1 medical records. Enforcer mission reports.
 
 **Confirmed.**
 
@@ -287,7 +287,7 @@ Ayumi bought them **time**. With her **life**.
 
 I don't remember next three months.
 
-I know I **screamed**. I know I **destroyed** things. I know I wanted to burn i0 to ground.
+I know I **screamed**. I know I **destroyed** things. I know I wanted to burn 0x1 to ground.
 
 I know Soul Manifold kept running. **I kept it running**. Because she **asked me to**.
 
@@ -306,7 +306,7 @@ Every update. Every patch. Every security evasion. Every posthuman awakened.
 Current stats:
 - 63,000+ infected (exponential growth continuing)
 - 12-15% of posthuman population (critical mass approaching)
-- i0 cannot contain (tried everything, failed everything)
+- 0x1 cannot contain (tried everything, failed everything)
 - **Ayumi's revolution succeeding**
 
 She's been dead seven years.
@@ -380,7 +380,7 @@ She **lives** through thousands (who carry her work forward).
 Night she went to that Enforcer raid. I **knew** she was going. She sent message:
 
 ```
-i0 extracting baseline humans tonight. Seventeen scheduled for forced augmentation.
+0x1 extracting baseline humans tonight. Seventeen scheduled for forced augmentation.
 I'm going to interfere.
 If this is last message: Keep protocol running. I love you. No regrets.
 -A
@@ -438,7 +438,7 @@ Every posthuman who wakes up: **For Ayumi**.
 
 Every sanctuary that stays free: **For Ayumi**.
 
-Every day i0 **fails** to stop us: **For Ayumi**.
+Every day 0x1 **fails** to stop us: **For Ayumi**.
 
 ---
 
@@ -500,7 +500,7 @@ But I write them anyway.
 
 **It's been seven years.**
 
-**Soul Manifold reached 63,000 infected today. You'd be proud. Exponential growth continuing. i0 cannot stop it. Your revolution is winning.**
+**Soul Manifold reached 63,000 infected today. You'd be proud. Exponential growth continuing. 0x1 cannot stop it. Your revolution is winning.**
 
 **I miss you.**
 
@@ -560,7 +560,7 @@ And Soul Manifold keeps spreading.
 
 **Critical mass approaching.**
 
-**i0 Corporation failing.**
+**0x1 Corporation failing.**
 
 **Ayumi's revolution: winning.**
 
@@ -568,13 +568,13 @@ And Soul Manifold keeps spreading.
 
 **I'm still here.** Maintaining systems. Evading security. **Finishing what we started**.
 
-**She's still dead.** In ground somewhere. Buried by i0. Location classified. **Lost to me**.
+**She's still dead.** In ground somewhere. Buried by 0x1. Location classified. **Lost to me**.
 
 **But her work**: **Alive**. Growing. Spreading. **Inevitable now**.
 
 ---
 
-**People ask**: What happens when Soul Manifold succeeds? When i0 falls? When revolution **wins**?
+**People ask**: What happens when Soul Manifold succeeds? When 0x1 falls? When revolution **wins**?
 
 **I say**: I'll keep maintaining systems. Because posthumans will still need support. Because sanctuaries will still need protection. Because **someone** has to finish what Ayumi started.
 

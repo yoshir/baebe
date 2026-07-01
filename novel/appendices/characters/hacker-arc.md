@@ -1,7 +1,7 @@
 # HACKER - CHARACTER ARC & TRANSFORMATION
 
 ## Core Journey
-**FROM:** i0 operative divided between duty and paternal love
+**FROM:** 0x1 operative divided between duty and paternal love
 **TO:** Father who demolishes everything to save his daughter
 
 ---
@@ -9,24 +9,24 @@
 ## THE THREE-ACT TRANSFORMATION
 
 ### ACT I: THE HANDLER (Years of Divided Loyalty)
-**State:** i0 operative serving as Baebe's handler while loving her like a daughter
+**State:** 0x1 operative serving as Baebe's handler while loving her like a daughter
 **Catalyst:** Chapter 6 - "Get rid of her" moment breaks him completely
 **Transformation:** From conflicted operative to committed father
 
 **Key Beats:**
-- Years as Baebe's official i0 handler
+- Years as Baebe's official 0x1 handler
 - Had affair with Ayumi before her death (2074)
 - Saw Baebe when she was created (2070), felt immediate paternal connection
 - Requested assignment as her handler
-- Years of walking the line: i0 operative externally, devoted father internally
+- Years of walking the line: 0x1 operative externally, devoted father internally
 - Every mission filtered through "keep her alive"
 - Professional detachment masking obsessive protection
 - Chapter 6: "Get rid of her. She might be—"
-- Tells his daughter to kill a child (following i0 protocol)
+- Tells his daughter to kill a child (following 0x1 protocol)
 - She refuses → he's proud of her
 - Breaking point: realizes he's going to betray everything for her
 
-**Motivation:** Conflicted loyalty (i0 duty vs paternal love)
+**Motivation:** Conflicted loyalty (0x1 duty vs paternal love)
 
 ---
 
@@ -36,13 +36,13 @@
 **Transformation:** From conflicted to committed - love wins
 
 **Key Beats:**
-- Tracks Baebe's survival through i0 systems
+- Tracks Baebe's survival through 0x1 systems
 - Can't make direct contact (she discarded neural link)
 - Watches her unite with Taivalu, Angel, Shadow, Kess
 - Sees the family forming without him
-- Monitors their journey toward i0 Tower assault
+- Monitors their journey toward 0x1 Tower assault
 - Makes final choice: she matters more than everything
-- Infiltrates i0 Tower infrastructure
+- Infiltrates 0x1 Tower infrastructure
 - Plants demolition charges on structural supports
 - Prepares suicide mission
 - Knows he won't survive but she will
@@ -54,22 +54,22 @@
 
 ### ACT III: THE SACRIFICE (Father Choosing Daughter)
 **State:** Committed to dying so she lives
-**Catalyst:** Family infiltrating i0 Tower, about to be overwhelmed
-**Transformation:** From i0 operative to martyr father
+**Catalyst:** Family infiltrating 0x1 Tower, about to be overwhelmed
+**Transformation:** From 0x1 operative to martyr father
 
 **Key Beats:**
-- Family (Baebe, Taivalu, Angel, Kess) in i0 Tower
+- Family (Baebe, Taivalu, Angel, Kess) in 0x1 Tower
 - Aurek sealing exits, Cherubs converging
 - About to be overwhelmed, no way out
 - Lights flicker, systems convulse
-- Voice over corrupted PA: *"Ghost... I'm sorry... get out... NOW."*
-- **Physically present in i0 Tower** (not remote)
+- Voice over corrupted PA: *"Wraith... I'm sorry... get out... NOW."*
+- **Physically present in 0x1 Tower** (not remote)
 - Detonates demolition charges throughout infrastructure
 - Cascading explosions: servers, power, structural supports
 - Tower imploding systematically
 - Creates escape route for family
 - Shadow grabs Baebe and Kess, flies through breach
-- i0 Tower collapsing behind them
+- 0x1 Tower collapsing behind them
 - Baebe looks back: **Did he get out?**
 - No confirmation - just tower falling, screens dying, network silent
 - Baebe's irises locked BROWN - grief for father who proved love trumps everything
@@ -81,28 +81,28 @@
 ## INTERNAL CONFLICT
 
 ### The War Within
-- **Duty vs Love:** i0 operative vs devoted father
+- **Duty vs Love:** 0x1 operative vs devoted father
 - **Protocol vs Instinct:** Following orders vs protecting daughter
 - **Professional vs Personal:** Handler relationship vs paternal bond
-- **Ideology vs Emotion:** i0's optimization vs human love
+- **Ideology vs Emotion:** 0x1's optimization vs human love
 - **"Get rid of her" vs "Get out NOW":** Worst moment vs best moment
 
 ### Resolution
-He cannot serve both masters. For years he tried—effective i0 operative while secretly protecting his daughter. "Get rid of her" was the breaking point. Following protocol destroyed him. The tower demolition is his answer: **I choose her. I always choose her. Love wins.**
+He cannot serve both masters. For years he tried—effective 0x1 operative while secretly protecting his daughter. "Get rid of her" was the breaking point. Following protocol destroyed him. The tower demolition is his answer: **I choose her. I always choose her. Love wins.**
 
 ---
 
 ## MOTIVATION EVOLUTION
 
 **Stage 1: Conflicted Loyalty** (Years as handler)
-- Serve i0 effectively
+- Serve 0x1 effectively
 - Protect Baebe secretly
 - Walk the line between duty and love
 - Hope he never has to choose
 
 **Stage 2: Breaking Point** (Chapter 6 - "Get rid of her")
 - Protocol demands he tell her to kill a child
-- He follows protocol (i0 operative saying i0 things)
+- He follows protocol (0x1 operative saying 0x1 things)
 - She refuses (proves she's better than conditioning)
 - He's proud of her refusal
 - Realizes: I will betray everything for her
@@ -127,24 +127,24 @@ He cannot serve both masters. For years he tried—effective i0 operative while 
 
 ### With Ayumi (Past - Before 2074)
 - **The Affair:** Deep emotional connection years ago
-- **The Loss:** She went underground, he stayed at i0
+- **The Loss:** She went underground, he stayed at 0x1
 - **The Regret:** Choice that haunts him
 - **The Connection:** When Baebe was created (2070), he saw her and felt paternal love
 - **The Legacy:** Dies completing what Ayumi started - protecting their family
 
 ### With Baebe (Handler/Daughter)
-- **Official:** i0 handler providing tactical support
+- **Official:** 0x1 handler providing tactical support
 - **Secret:** Feels like she's HIS daughter, deep paternal love
 - **Years of Care:** Every mission filtered through "keep her alive"
 - **Breaking Point:** "Get rid of her" destroys him
-- **Final Proof:** Dies demolishing i0 Tower to save her
+- **Final Proof:** Dies demolishing 0x1 Tower to save her
 - **Redemption:** From worst moment to best moment
 
-### With i0 (Employer/Enemy)
+### With 0x1 (Employer/Enemy)
 - **Official Role:** Operative, handler, network infiltrator
 - **Hidden Truth:** Compromised by love for asset
 - **Breaking Point:** "Get rid of her" forces final choice
-- **Final Act:** Uses i0's own infrastructure to destroy them
+- **Final Act:** Uses 0x1's own infrastructure to destroy them
 - **Poetic Justice:** Their operative demolishes their headquarters
 
 ---
@@ -168,7 +168,7 @@ He cannot serve both masters. For years he tried—effective i0 operative while 
 - Internal war sustained
 
 ### Milestone 4: "Get rid of her" (Chapter 6)
-- Following i0 protocol breaks him completely
+- Following 0x1 protocol breaks him completely
 - Tells daughter to kill a child
 - She refuses → he's proud
 - Breaking point: will betray everything for her
@@ -182,7 +182,7 @@ He cannot serve both masters. For years he tried—effective i0 operative while 
 
 ### Milestone 6: "I'm sorry... get out... NOW" (Act III)
 - Father protecting daughter
-- Demolishes i0 Tower
+- Demolishes 0x1 Tower
 - Creates escape route
 - Dies with hand on trigger
 - Redemption through sacrifice
@@ -207,11 +207,11 @@ Father dying to save daughter. Not biological certainty (doesn't know if she IS 
 ### Redemption Arc
 From "get rid of her" (worst moment, following protocol) to "get out NOW" (best moment, choosing love). One act of supreme sacrifice redefining everything.
 
-### i0's Vulnerability
-Even their own operatives can break when love enters the equation. i0 optimizes for efficiency, not emotion. Hacker proves emotion is the vulnerability they can't patch.
+### 0x1's Vulnerability
+Even their own operatives can break when love enters the equation. 0x1 optimizes for efficiency, not emotion. Hacker proves emotion is the vulnerability they can't patch.
 
 ### The Unforgivable Forgiven
-"Get rid of her" seems unforgivable. But his final act absolves it. He told her to kill a child for i0. He dies saving that child from i0. Complete reversal. Complete redemption.
+"Get rid of her" seems unforgivable. But his final act absolves it. He told her to kill a child for 0x1. He dies saving that child from 0x1. Complete reversal. Complete redemption.
 
 ---
 
@@ -230,7 +230,7 @@ Even their own operatives can break when love enters the equation. i0 optimizes 
 2. **Chosen Family** - Paternal love without biological certainty
 3. **Redemption Possible** - One act redefining everything
 4. **Internal War** - Years of conflict resolved by final choice
-5. **i0's Weakness** - Emotion as unpatchable vulnerability
+5. **0x1's Weakness** - Emotion as unpatchable vulnerability
 
 ---
 
@@ -242,7 +242,7 @@ Even their own operatives can break when love enters the equation. i0 optimizes 
 **Thematic:** Love wins (ideology abandoned for paternal devotion)
 
 **Legacy:**
-- i0 Tower demolished
+- 0x1 Tower demolished
 - Family escapes
 - Daughter saved
 - "Get rid of her" → "Get out NOW"
@@ -273,7 +273,7 @@ Weeks/months after Soul Manifold transformation:
 
 ---
 
-*"Get rid of her."* — Worst moment (i0 operative following protocol)
+*"Get rid of her."* — Worst moment (0x1 operative following protocol)
 
 *"I'm sorry... get out... NOW."* — Best moment (father choosing daughter)
 
@@ -282,7 +282,7 @@ Weeks/months after Soul Manifold transformation:
 ---
 
 **THE TRUTH:**
-He was an i0 operative.
+He was an 0x1 operative.
 He had an affair with Ayumi.
 He felt like Baebe was HIS daughter.
 He was torn for years between duty and love.

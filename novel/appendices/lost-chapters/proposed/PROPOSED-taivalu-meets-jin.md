@@ -3,7 +3,7 @@
 
 **Timeline**: 6 Years Before Novel
 **POV**: Taivalu (first person, empathic)
-**Setting**: i0 Medical Facility, then outside city walls
+**Setting**: 0x1 Medical Facility, then outside city walls
 **Word Count Target**: 1,800 words
 
 ---
@@ -19,7 +19,7 @@ Based on Interlude 2 (Taivalu's First Year) - this is the **detailed** version o
 ## Key Moments
 
 **Day 89** (one day before deadline):
-- Taivalu has decided: Will let i0 terminate him tomorrow
+- Taivalu has decided: Will let 0x1 terminate him tomorrow
 - Can't take one more day of feeling everyone's **everything**
 - Sitting in facility garden, waiting for end
 - "I'm ready. Just want it to stop."
@@ -40,7 +40,7 @@ Based on Interlude 2 (Taivalu's First Year) - this is the **detailed** version o
 - Seven years empathy augmented
 - Nearly died (suicide attempt, Year 2)
 - Woman named Sera taught him (his teacher)
-- Sera's augmentation failed (Year 5), i0 terminated her
+- Sera's augmentation failed (Year 5), 0x1 terminated her
 - Jin promised: "I'll teach others. **For you**."
 
 **Taivalu's Gratitude**:

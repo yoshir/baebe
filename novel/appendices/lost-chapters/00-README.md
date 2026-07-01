@@ -29,7 +29,7 @@ Love through code. Cynical hacker meets idealistic researcher. Revolution begins
 
 ### **Shadow's Naming Day** [PROPOSED]
 **Timeline**: 6 years before novel | **Word Count**: 1,200
-How Project Pantheon P-007 became Shadow. Mechanical consciousness choosing identity. First self-determined act. "I am not what i0 made. I am what I choose."
+How Project Pantheon P-007 became Shadow. Mechanical consciousness choosing identity. First self-determined act. "I am not what 0x1 made. I am what I choose."
 
 ### **The Seventeen** [PROPOSED]
 **Timeline**: 7 years before to present | **Word Count**: 2,500

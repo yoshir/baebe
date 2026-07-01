@@ -54,7 +54,7 @@ But he was dying too. Consciousness fading. Core systems failing without chassis
 
 ## ESCAPE FROM RUINS
 
-i0 drones still circling above. Hunting for survivors.
+0x1 drones still circling above. Hunting for survivors.
 
 Baebe assessed: She was damaged. Taivalu was dying. Shadow was destroyed. Kess was captured.
 
@@ -68,7 +68,7 @@ Through her incomplete merge with Taivalu, she felt something. Connection. Despi
 
 Kess was alive.
 
-i0 had taken her somewhere. Tower, probably. For study. For extraction. To find out what made her the Synthesis Key.
+0x1 had taken her somewhere. Tower, probably. For study. For extraction. To find out what made her the Synthesis Key.
 
 They wouldn't kill her immediately.
 
@@ -96,7 +96,7 @@ Kess.
 
 They found tunnel entrance in the rubble. Led deeper underground.
 
-Away from drones. Away from i0's immediate reach.
+Away from drones. Away from 0x1's immediate reach.
 
 Into darkness.
 

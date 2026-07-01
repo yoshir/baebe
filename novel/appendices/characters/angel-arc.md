@@ -1,7 +1,7 @@
 # ANGEL - CHARACTER ARC & TRANSFORMATION
 
 ## Core Journey
-**FROM:** i0's perfect clone-enforcer, killer of her mother
+**FROM:** 0x1's perfect clone-enforcer, killer of her mother
 **TO:** Redeemed martyr, dying through supreme action so the three can link
 
 ---
@@ -9,7 +9,7 @@
 ## THE THREE-ACT TRANSFORMATION
 
 ### ACT I: THE KILLER (Before Story)
-**State:** i0's top enforcer, unaware of her origin
+**State:** 0x1's top enforcer, unaware of her origin
 **Catalyst:** Killing Dr. Ayumi Zenith Nakamoto—seeing her own face
 **Transformation:** From obedient weapon to guilt-ridden awakened killer
 
@@ -32,7 +32,7 @@
 **Transformation:** From hidden shame to exposed seeker of redemption
 
 **Key Beats:**
-- Years serving i0 while knowing truth
+- Years serving 0x1 while knowing truth
 - Each kill adding to guilt
 - Discovering and secretly protecting Kess
 - Finding Baebe and the family
@@ -47,11 +47,11 @@
 
 ### ACT III: THE SACRIFICE (Redemption Through Action)
 **State:** Cleared but seeking final proof of redemption
-**Catalyst:** Family surrounded in i0 Tower, no escape
+**Catalyst:** Family surrounded in 0x1 Tower, no escape
 **Transformation:** From guilty killer to supreme martyr
 
 **Key Beats:**
-- i0 Tower infiltration → final confrontation
+- 0x1 Tower infiltration → final confrontation
 - Drones, hunter programs, mechs surrounding family
 - Looks at Baebe, Taivalu, Kess → says nothing
 - Moves → advanced resonant fade FULLY UNLEASHED
@@ -160,7 +160,7 @@ She cannot be Ayumi—she lacks the intelligence, the vision, the education. She
 ## THEMATIC JOURNEY
 
 ### Clone Without Vision
-Angel has Ayumi's genetics but not her genius. i0 gave her the body, trained her as killer. She feels fragments of Ayumi's memories but can't comprehend the science. This is crucial: she cannot think her way to redemption. She must ACT her way there.
+Angel has Ayumi's genetics but not her genius. 0x1 gave her the body, trained her as killer. She feels fragments of Ayumi's memories but can't comprehend the science. This is crucial: she cannot think her way to redemption. She must ACT her way there.
 
 ### Words Are Meaningless
 Throughout her arc, Angel seeks verbal forgiveness. "I'm sorry." She reveals her crime, seeking absolution through confession. But redemption doesn't come from words. The temple clears her without her speaking. Her final act has NO DIALOGUE. Supreme action transcends language.
@@ -169,7 +169,7 @@ Throughout her arc, Angel seeks verbal forgiveness. "I'm sorry." She reveals her
 Ayumi's greatest betrayal (killed by clone) becomes her greatest triumph (clone dies enabling liberation). Angel's death completes the circle. She destroyed the creator; now she dies so creation can succeed.
 
 ### Genetics vs Destiny
-i0 cloned Ayumi thinking genetics = capability. Wrong. Angel has the body, none of the brilliance. But she has CHOICE. Her choice to sacrifice proves that genetics don't determine destiny. She chooses redemption over programming.
+0x1 cloned Ayumi thinking genetics = capability. Wrong. Angel has the body, none of the brilliance. But she has CHOICE. Her choice to sacrifice proves that genetics don't determine destiny. She chooses redemption over programming.
 
 ---
 
@@ -213,10 +213,10 @@ The silence is her loudest moment.
 ## RELATIONSHIP TO THEME
 
 **Binary vs Ternary:**
-Angel starts binary (i0 clone following orders). She ends ternary (guilty AND redeemed AND sacrificed). Her arc shows that even clones—literal copies—can transcend their programming through choice.
+Angel starts binary (0x1 clone following orders). She ends ternary (guilty AND redeemed AND sacrificed). Her arc shows that even clones—literal copies—can transcend their programming through choice.
 
 **Control vs Freedom:**
-i0 cloned Ayumi to have a controllable version. Instead, they created someone who chooses death over obedience. Her sacrifice is the ultimate freedom: choosing to die so others can live free.
+0x1 cloned Ayumi to have a controllable version. Instead, they created someone who chooses death over obedience. Her sacrifice is the ultimate freedom: choosing to die so others can live free.
 
 **Identity vs Destiny:**
 She is Ayumi's genetic copy but not Ayumi's intellectual heir. She lacks the brilliance. But she has the CHOICE. Her identity is not genetics—it's decision. She decides to sacrifice. That makes her more than a clone.
@@ -241,7 +241,7 @@ Can you atone for killing your mother? Not through words. Not through guilt. Onl
 
 ## ARC SUMMARY
 
-Angel's arc is the transformation from perfect clone to redeemed martyr. She starts as what i0 wanted: controllable copy of their greatest scientist. She ends as what Ayumi designed for: the sacrifice that enables liberation.
+Angel's arc is the transformation from perfect clone to redeemed martyr. She starts as what 0x1 wanted: controllable copy of their greatest scientist. She ends as what Ayumi designed for: the sacrifice that enables liberation.
 
 Her journey is unique because she lacks Ayumi's intelligence. She can't think her way out. She can't contribute scientifically. She can only ACT. And her final act—supreme sacrifice with no words—proves that redemption comes through choice, not genetics.
 

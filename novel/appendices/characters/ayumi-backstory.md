@@ -27,17 +27,17 @@ She created three children knowing she'd never raise them. Built systems of prot
 **Education:**
 - PhD Quantum Biology, MIT (2050, age 18 - accelerated program)
 - Post-doc Biocompute Integration, Stanford (2052)
-- Recruited by i0 Corporation (2053, age 21)
+- Recruited by 0x1 Corporation (2053, age 21)
 
 **Early Brilliance:**
 - Youngest quantum biology PhD in MIT history
 - Breakthrough: biological quantum coherence in human tissue
 - Discovery: cryptochrome proteins as quantum processors
-- Recognition: i0's most promising researcher
+- Recognition: 0x1's most promising researcher
 
 ---
 
-## i0 CORPORATION YEARS (2053-2069)
+## 0x1 CORPORATION YEARS (2053-2069)
 
 ### The Golden Child (2053-2060)
 
@@ -48,7 +48,7 @@ She created three children knowing she'd never raise them. Built systems of prot
 - Quantum signature mapping (genetic enhancement precision)
 - Biological networking foundations (early Soul Manifold concepts)
 
-**i0's Favorite:**
+**0x1's Favorite:**
 She was their star. Young, brilliant, compliant. Everything they wanted in a scientist. She believed she was helping humanity evolve beyond limitations.
 
 **She was wrong.**
@@ -69,7 +69,7 @@ Her life's work wasn't helping people transcend. It was weaponizing them. Contro
 - Regulator protocols: "Emotional suppression = 94% compliance"
 - Enhancement directive: "Optimize for productivity, not longevity"
 
-She'd spent a decade helping i0 perfect slavery.
+She'd spent a decade helping 0x1 perfect slavery.
 
 ### The Clone (2062)
 
@@ -81,21 +81,21 @@ In her horror, Ayumi made her first act of rebellion: she created Angel.
 - **How:** Her own genetic clone, designed for protection
 - **What:** If anything went wrong, Angel would guard her future children
 
-**i0's Theft:**
-At age 2 (2064), i0 discovered the clone. Instead of destroying evidence, they saw opportunity:
+**0x1's Theft:**
+At age 2 (2064), 0x1 discovered the clone. Instead of destroying evidence, they saw opportunity:
 - Took Angel from Ayumi
 - Raised her as Enforcer
 - Weaponized Ayumi's own failsafe
 - Turned protector into killer
 
-Ayumi's first attempt to save her children became i0's weapon.
+Ayumi's first attempt to save her children became 0x1's weapon.
 
 ### The Decision (2063-2069)
 
 **The Choice:**
 She could run. Hide. Save herself.
 
-Or she could fix what she'd broken. Create something i0 couldn't control. Encode freedom in DNA itself.
+Or she could fix what she'd broken. Create something 0x1 couldn't control. Encode freedom in DNA itself.
 
 She chose the latter.
 
@@ -106,7 +106,7 @@ She chose the latter.
 - When merged, they broadcast liberation to everyone
 
 **The Risk:**
-i0 would hunt her. Kill her. Destroy everything she loved.
+0x1 would hunt her. Kill her. Destroy everything she loved.
 She did it anyway.
 
 ---
@@ -116,7 +116,7 @@ She did it anyway.
 ### Working Through Angel (2064-2074)
 
 **The Irony:**
-i0 weaponized Angel against her. Ayumi weaponized Angel against i0.
+0x1 weaponized Angel against her. Ayumi weaponized Angel against 0x1.
 
 **How It Worked:**
 - Angel was Ayumi's clone (same genetics, quantum signature)
@@ -127,30 +127,30 @@ i0 weaponized Angel against her. Ayumi weaponized Angel against i0.
 
 **The Process:**
 Very slow. Very careful. Each person freed was a risk. But they did it.
-For years, Ayumi and (unconsciously) Angel freed people from i0's control.
+For years, Ayumi and (unconsciously) Angel freed people from 0x1's control.
 
 ### Creating the Children (2069-2072)
 
-**Ghost Thesis - Taivalu (2069):**
+**Thesis - Taivalu (2069):**
 - Empathic resonance
 - Born with ability to feel others' emotions
 - Frequencies that heal and connect
 - Raised separately (strategic - don't put keys together)
 
-**Ghost Antithesis - Baebe (2070):**
+**Antithesis - Baebe (2070):**
 - Temporal perception
 - Born with ability to see between moments
 - Opposition to binary control
-- i0 captured her young, weaponized her (Ayumi's worst nightmare realized)
+- 0x1 captured her young, weaponized her (Ayumi's worst nightmare realized)
 
-**Ghost Synthesis - Kess (2072):**
+**Synthesis - Kess (2072):**
 - Pure baseline human
 - Grounding that allows transcendence
-- Kept completely SECRET from i0
+- Kept completely SECRET from 0x1
 - Hidden with foster parents (deep cover)
 
 **The Separation:**
-Ayumi kept them apart. Strategic. If i0 found one, the others might survive.
+Ayumi kept them apart. Strategic. If 0x1 found one, the others might survive.
 She never got to raise any of them.
 
 ### Building the Failsafes (2070-2074)
@@ -159,11 +159,11 @@ She never got to raise any of them.
 - Created specifically for Kess (her protector from birth)
 - Near-sentient AI with experimental bio-compute elements
 - Programmed to activate if Ayumi's vitals fail
-- Designed to survive where i0's network fails (analog + bio-compute hybrid)
+- Designed to survive where 0x1's network fails (analog + bio-compute hybrid)
 - Protector that would become family
 
 **Temple (2068-2073):**
-- Built beneath anomaly zone (i0 blind spot)
+- Built beneath anomaly zone (0x1 blind spot)
 - Resonance Cradle for Soul Manifold merge
 - Hidden laboratory where she finished the work
 - Her last sanctuary
@@ -172,7 +172,7 @@ She never got to raise any of them.
 - Lights monitoring her vitals (Green/Yellow/Red)
 - Red = Shadow activates, takes Kess to safety
 - Dead man's switch protecting the hidden child
-- Programmed escape to anomaly zones (i0 can't track)
+- Programmed escape to anomaly zones (0x1 can't track)
 
 **Genetic Messages (2072-2074):**
 - Encoded recordings in children's DNA
@@ -184,10 +184,10 @@ She never got to raise any of them.
 
 ## THE FINAL HUNT (2074)
 
-### i0 Closes In
+### 0x1 Closes In
 
 **What Changed:**
-People being freed accelerated. i0 noticed the pattern. Traced it back.
+People being freed accelerated. 0x1 noticed the pattern. Traced it back.
 They realized Ayumi was still alive, still working against them.
 
 **How They Found Her:**
@@ -195,13 +195,13 @@ Used Angel. Their weapon. Ayumi's clone. Ayumi's own creation.
 The tracking device in Angel led them straight to her.
 
 **The Trap:**
-i0 sent Angel to kill Ayumi. Poetic. Horrifying. Perfect.
-The mother's clone murdering the mother. i0's favorite kind of cruelty.
+0x1 sent Angel to kill Ayumi. Poetic. Horrifying. Perfect.
+The mother's clone murdering the mother. 0x1's favorite kind of cruelty.
 
 ### The Sacrifice (2074)
 
 **What Ayumi Knew:**
-- i0 was getting too close to Kess (the hidden child)
+- 0x1 was getting too close to Kess (the hidden child)
 - Her death would draw their attention away
 - Angel's infection could only happen at moment of death (biological quantum release)
 - Foster parents would die in the same operation
@@ -215,7 +215,7 @@ Instead, she let them find her. Let Angel kill her. Because her death activated 
 1. **Angel infected with Soul Manifold** (biological quantum release at death)
 2. **Safe house lights turn RED** (Kess's vitals-fail protocol activates)
 3. **Shadow activates** (takes Kess to outlands/anomaly zones)
-4. **i0 thinks threat eliminated** (stops hunting, children survive)
+4. **0x1 thinks threat eliminated** (stops hunting, children survive)
 5. **Resistance crushed** (but keys protected)
 
 **The Kill:**
@@ -241,7 +241,7 @@ But she gave them everything: life, freedom, purpose, each other.
 **Soul Manifold:**
 Liberation encoded in DNA. Freedom that can't be deleted.
 When her children merge, every human becomes a node in uncontrollable network.
-i0's worst nightmare. Her greatest gift.
+0x1's worst nightmare. Her greatest gift.
 
 **Angel's Redemption:**
 The weapon that killed her spent years trying to complete her work.
@@ -284,7 +284,7 @@ Youngest PhD. Breakthrough discoveries. Quantum biology pioneer.
 Not just smart—transcendent. She saw what no one else could.
 
 **Moral Awakening:**
-Spent decade helping i0. Realized the horror. Refused to continue.
+Spent decade helping 0x1. Realized the horror. Refused to continue.
 Could have kept her comfortable position. Chose resistance instead.
 
 **Strategic Patience:**
@@ -299,7 +299,7 @@ Died so they could live. Ultimate unhonored heroism.
 ### Defining Moments
 
 1. **The Discovery** (2060-2062): Learning her work was slavery, not evolution
-2. **Creating Angel** (2062): First attempt at protection (stolen by i0)
+2. **Creating Angel** (2062): First attempt at protection (stolen by 0x1)
 3. **The Decision** (2063): Choosing to fight, not flee
 4. **Creating the Keys** (2069-2072): Her children, never held
 5. **Building Shadow** (2072): Love programmed into metal for Kess
@@ -318,7 +318,7 @@ Her empathy made flesh. Connection without control.
 He carries her gift of feeling, never knowing who gave it.
 
 **Baebe:**
-Born 2070. Captured by i0. Weaponized. Everything Ayumi feared.
+Born 2070. Captured by 0x1. Weaponized. Everything Ayumi feared.
 Her opposition made flesh. Resistance encoded in DNA.
 She was made a weapon. Ayumi made her something more.
 
@@ -336,14 +336,14 @@ She never saw them unite. They changed everything.
 **What Ayumi Created:**
 Genetic clone (2062). Failsafe protector. Hope made flesh.
 
-**What i0 Made:**
+**What 0x1 Made:**
 Weapon (2064). Enforcer. Killer sent to murder her creator.
 
 **What Ayumi's Death Created:**
 Infected guardian. Semi-sentient guilt. Protector flying by seat of pants.
 The killer trying to save the killed's children.
 
-Their relationship: Mother creates protector → i0 steals protector → Protector kills mother → Mother infects protector → Protector protects children.
+Their relationship: Mother creates protector → 0x1 steals protector → Protector kills mother → Mother infects protector → Protector protects children.
 Tragedy and redemption in one DNA sequence.
 
 ### Shadow (Her Last Creation)
@@ -361,7 +361,7 @@ Family. Choice. Consciousness. Eternal protector.
 She never met him functioning. He saved her daughter for years.
 The guardian that outlived the mother, loved the child.
 
-### Owen (i0 Architect - Her Opposite)
+### Owen (0x1 Architect - Her Opposite)
 
 **They Never Met** (that we know of).
 
@@ -404,7 +404,7 @@ Love as algorithm. Protection as code. Care as biology.
 Her death wasn't failure—it was strategy:
 - Infected Angel (converted killer to protector)
 - Activated Shadow (saved Kess)
-- Stopped i0's hunt (children survived)
+- Stopped 0x1's hunt (children survived)
 - Planted seeds (years later, they bloomed)
 
 She died so they could live. And they lived because she died.
@@ -417,7 +417,7 @@ She died so they could live. And they lived because she died.
 
 "I gave you life knowing I wouldn't see you grow."
 
-"If you're experiencing this, then I am gone. i0 caught me, or time did—doesn't matter which."
+"If you're experiencing this, then I am gone. 0x1 caught me, or time did—doesn't matter which."
 
 "This is my legacy. Not as a scientist. As a mother."
 
@@ -435,12 +435,12 @@ She died so they could live. And they lived because she died.
 
 **Status:** Deceased (~2074)
 **Age at Death:** ~42
-**Cause:** Killed by Angel (her own clone) on i0 orders
+**Cause:** Killed by Angel (her own clone) on 0x1 orders
 **Legacy:** Soul Manifold activated, children protected, world changed
 
 **Buried:** Unknown (likely unmarked grave or cremated as "terrorist")
 **Remembered By:** Her children (through genetic messages only)
-**Honored By:** No one (died a criminal in i0's records)
+**Honored By:** No one (died a criminal in 0x1's records)
 **Impact:** Everything (changed the world)
 
 ---

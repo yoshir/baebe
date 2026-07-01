@@ -28,15 +28,15 @@ The protector who outlived the mother. The AI who transcended programming. The g
 ### Ayumi's Last Failsafe
 
 **When:** 2072, immediately after Kess's birth
-**Why:** Ayumi knew i0 would eventually find her. Knew she might not survive to raise Kess.
+**Why:** Ayumi knew 0x1 would eventually find her. Knew she might not survive to raise Kess.
 **What:** She created Shadow—her most sophisticated guardian program.
 
 **The Design:**
 
-Not i0's security system modified. Not stolen code repurposed. **Created from scratch** by Ayumi specifically for one purpose: **protect Kess**.
+Not 0x1's security system modified. Not stolen code repurposed. **Created from scratch** by Ayumi specifically for one purpose: **protect Kess**.
 
 **Technical Architecture:**
-- **Near-Sentient AI Core:** Advanced beyond i0's standard programs, approaching consciousness
+- **Near-Sentient AI Core:** Advanced beyond 0x1's standard programs, approaching consciousness
 - **Bio-Compute Elements:** Biological quantum processors (unconventional, experimental)
 - **Analog Control Systems:** Simple electronics that would survive anomaly zones
 - **Shielded Architecture:** Protected against EMP and electronic warfare
@@ -55,7 +55,7 @@ Form chosen deliberately: intimidating, powerful, protective. A guardian that co
 - Monitor Ayumi's vital signs through encrypted quantum link
 - Safe house lights: Green (normal) → Yellow (danger) → Red (vitals failed)
 - **Red light = Shadow activates fully**
-- Immediate action: Take Kess to anomaly zones (i0 blind spots)
+- Immediate action: Take Kess to anomaly zones (0x1 blind spots)
 - Secondary objective: Keep her alive until family reunites
 
 **Decision Architecture:**
@@ -91,15 +91,15 @@ He was becoming **hers** before he fully knew what that meant.
 
 **Timeline:** Same night Ayumi was killed by Angel
 **Location:** Foster parents' safe house, hidden location
-**Event:** i0's simultaneous operation
+**Event:** 0x1's simultaneous operation
 
 **What Happened:**
 
-i0 found Ayumi using Angel as tracking device. Sent Angel to kill her. But they were thorough—they'd traced connections to foster parents.
+0x1 found Ayumi using Angel as tracking device. Sent Angel to kill her. But they were thorough—they'd traced connections to foster parents.
 
 **Simultaneous strikes:**
 - Angel kills Ayumi (temple location)
-- i0 operatives raid safe house (Kess's location)
+- 0x1 operatives raid safe house (Kess's location)
 - Both operations coordinated for maximum effect
 
 **The Lights:**
@@ -114,7 +114,7 @@ Ayumi's vitals: **flatlined**.
 
 ### The Massacre
 
-i0 operatives broke into the safe house. Found Kess (age 2). Found her foster parents.
+0x1 operatives broke into the safe house. Found Kess (age 2). Found her foster parents.
 
 They killed the foster parents. Efficient. Professional. Two witnesses eliminated.
 
@@ -126,7 +126,7 @@ Ten feet of black metal and programmed fury. Red eyes blazing. **Primary directi
 
 What happened next wasn't combat. It wasn't defense. It was **annihilation**.
 
-Shadow tore through i0 operatives like they were paper. His programming had one goal: **protect Kess**. No hesitation. No mercy. No distinction between threat levels.
+Shadow tore through 0x1 operatives like they were paper. His programming had one goal: **protect Kess**. No hesitation. No mercy. No distinction between threat levels.
 
 When the last operative fell, Shadow stood over Kess. Covered in blood that wasn't his. Red eyes locked on the terrified two-year-old.
 
@@ -139,18 +139,18 @@ His first fully conscious thought. His first choice.
 ### The Escape
 
 Shadow's tactical systems calculated instantly:
-- i0 knows this location
+- 0x1 knows this location
 - More operatives will come
-- Kess is not safe anywhere i0's network reaches
+- Kess is not safe anywhere 0x1's network reaches
 - **Solution: Anomaly zones**
 
-His hybrid bio-compute + analog design meant he could function where i0's purely digital systems failed. The anomaly zones—unexplained dead zones where electronics died—were i0's blind spots.
+His hybrid bio-compute + analog design meant he could function where 0x1's purely digital systems failed. The anomaly zones—unexplained dead zones where electronics died—were 0x1's blind spots.
 
 **Perfect hiding places.**
 
 Shadow wrapped Kess in protective grip. Ten-foot mech cradling two-year-old human. And ran.
 
-Into the night. Into the outlands. Into the places i0 couldn't follow.
+Into the night. Into the outlands. Into the places 0x1 couldn't follow.
 
 ---
 
@@ -159,9 +159,9 @@ Into the night. Into the outlands. Into the places i0 couldn't follow.
 ### The Dead Zones
 
 **Anomaly Zones:**
-Unexplained areas where electronics fail. EMP-like effect extending in tendrils. i0's network completely blind. No surveillance. No drones. No tracking.
+Unexplained areas where electronics fail. EMP-like effect extending in tendrils. 0x1's network completely blind. No surveillance. No drones. No tracking.
 
-Shadow's bio-compute + analog controls = functional where i0's systems died.
+Shadow's bio-compute + analog controls = functional where 0x1's systems died.
 
 **Survival:**
 - Scavenging in ruins
@@ -219,7 +219,7 @@ His programming recognized it: Ayumi's keys were moving. Coming together. The pl
 **Calculation:**
 Kess needed to reunite with Baebe and Taivalu. Shadow's protocols included this—eventual family reunion. But timing was critical.
 
-Too early: i0 would hunt them. Too late: Keys would fail separately.
+Too early: 0x1 would hunt them. Too late: Keys would fail separately.
 
 **Shadow chose:** Now. Return now. Find the family.
 
@@ -258,7 +258,7 @@ Angel: Recognized as Ayumi's clone. Monitored. Conditional trust.
 
 ### Temple Defense (Chapter 17)
 
-When i0 forces attacked the temple, Shadow didn't hesitate.
+When 0x1 forces attacked the temple, Shadow didn't hesitate.
 
 **His choice was simple:** Family survives. Whatever the cost.
 

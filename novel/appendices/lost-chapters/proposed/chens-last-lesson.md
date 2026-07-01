@@ -125,7 +125,7 @@ Runner reaches exit. **Level complete**.
 
 **Chen says**: "Because: You'll need it."
 
-"i0 Corporation is **hunters**. You're **runner**."
+"0x1 Corporation is **hunters**. You're **runner**."
 
 "They're big. Strong. **Powerful**. You're small. Weak. **Nothing**."
 
@@ -177,7 +177,7 @@ Runner reaches exit. **Level complete**.
 
 **Chen says**: "Smart girl. **Stay** smart. Never stop **learning**. Never stop **questioning**."
 
-"i0 says: This is how world must be. You say: **Prove it.**"
+"0x1 says: This is how world must be. You say: **Prove it.**"
 
 "That's what smart means. Not **obeying**. **Thinking**."
 
