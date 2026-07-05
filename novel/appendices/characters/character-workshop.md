@@ -39,6 +39,8 @@ Rough map of who needs to lean on whom. Fill in / argue with this as we go.
 
 ## TAIVALU
 
+**A clean, current-state portrait now lives in `taivalu-arc.md`** — read that first if you just want the character, not the archaeology of how we got here. Everything below is the working history: what was tried, rejected, and settled, in order, with the reasoning kept intact.
+
 **Status: substantially reworked 2026-07-03. What follows below the SETTLED markers supersedes the original "Proposed frame" where they conflict; original kept for the record.**
 
 **Old version (archived):** Emotion-suppressor who discovers his true purpose, dies broadcasting hope while already dying from cumulative poisoning. No selfish want, no shadow, no line. His "sacrifice" is cheap because he's scheduled to die anyway.
