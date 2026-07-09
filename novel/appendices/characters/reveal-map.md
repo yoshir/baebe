@@ -61,7 +61,8 @@ Full truth-portrait: `taivalu-arc.md`.
 | 1. Perfect weapon | Ch1 | Cold, conditioned, unquestioning | Cracks already present, suppressed | Unauthorized flashes of Ayumi's face |
 | 2. Breaking | Ch2–4 | Something's wrong with her conditioning | 0x1 has already discarded her | The fall, network severed |
 | 3. Discovery of family | Ch6–9 | She's Ayumi's daughter, "Antithesis" | Confirmed | Kess, Taivalu, ghost-Ayumi's message |
-| 4. Her own unwashed guilt | [OPEN, unplaced] | She's fully "good" now that she's free | She did something specific, conditioned, that doesn't wash off | No incident named yet — needed so she carries bodies, not just redemption |
+| 4. Her own unwashed guilt | [OPEN, unplaced — best fit Ch10–14, where her interior arc currently flattens] | She's fully "good" now that she's free | She did something specific, conditioned, that doesn't wash off | No incident named yet — needed so she lives with her kills, not just redemption |
+| 5. The choice at the pod | [NEW, climax — replaces her current passenger role] | The merge is a procedure done to her | Knowing what Taivalu has done, she chooses to merge anyway — and holding the boundary (consent made physical) is the hardest thing she does in the book | The confrontation with Taivalu ("Nobody asked me either") landing *before* the pods, so entering one is a decision, not a destination |
 
 ### KESS
 
