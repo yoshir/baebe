@@ -38,6 +38,47 @@
 
 ---
 
+## THE WEAVE DISCIPLINES (PROPOSED 2026-07-09, from the Minority Report comp)
+
+*Minority Report is the closest structural comp: an SF thriller whose weave and theme are the same object — a story about foreknowledge built entirely from planted knowledge paying off. Four disciplines borrowed from it, adapted to this book's open-weave family-epic loom (do NOT import its closed-weave scale — the sinner being loved and the oracle having agency are things MR can't do and this book is built for).*
+
+### 1. The mystery spine — "the Anne Lively thread"
+
+MR braids every reveal onto one investigable question (who is Anne Lively?) that the protagonist must *work for* across the whole film. This book's equivalent — **the truth of Ayumi's death** — is currently *delivered*, not discovered: ghost-Ayumi explains herself in one Ch8 monologue. Restructure as investigation:
+
+| Beat | Placement | Content |
+|---|---|---|
+| **The artifact (plant)** | Early — Ch8 or before | A detail in the death record that doesn't fit. **Canonize the existing draft inconsistency as the clue itself:** Angel's account/0x1's record says "three shots, center mass" (a ranged kill), but the transfer physics require close contact — "at the moment of her hand." The records disagree with the body. Baebe, the hyper-predictive tactician, is exactly the character who reads a scene and knows *the ripples are wrong*: Ayumi — who evaded 0x1 for years — died with her defenses down, in a place she chose, with Shadow and Kess already provisioned and moving. Too prepared to be prey. |
+| **The evasion (pull)** | Ch8, trimmed | Ghost-Ayumi's monologue stops confessing everything. She evades the *how* and the *why the timing worked so well*. Loaded lines stay ("I'd do it again. All of it.") — they reread differently later. This also de-loads Ch8, which the master timeline already flags as the most overloaded chapter in the book. |
+| **The pull (investigation)** | Mid-book, Ch10–15 stretch | Baebe works the thread between plot beats — questions Angel about the memory that doesn't match, notices what ghost-Ayumi wouldn't answer. Runs through exactly the chapters where her interior arc currently flattens. |
+| **The assembly (payoff)** | Late — near or at the climax | The full engineered-death truth lands — ideally *on Angel*, at the worst possible moment, fusing with her stage-4 reveal ("Ayumi knew what the guilt would cost me, and chose it"). One thread, two detonations. |
+
+### 2. The plant/payoff ledger
+
+MR's rule: every plant is a promise, every payoff was planted. Current state of the ledger:
+
+| Plant | Where planted | Payoff | Status |
+|---|---|---|---|
+| "Dead rat-line" / old fiber | Ch6 dialogue [PAGE] | Hacker's bat-fiber survival channel | Payoff [OPEN] |
+| Kess's survival craft (bandaging, safe zones, water discipline) | Ch6 [PAGE] | She keeps Taivalu's fragile converts alive — her active role | Payoff [OPEN] |
+| "The choice is the gift" | Ch8 [PAGE] | Baebe's choice at the pod; Ayumi's own engineered choice | Payoff [NEW, unplaced] |
+| "I'd do it again. All of it." | Ch8 [PAGE] | Rereads as confession once the engineered death assembles | Payoff [NEW, unplaced] |
+| "Are you broken?" / "People who say no are worth saving" | Ch6 [PAGE] | Candidate echo at the climax or ending — Baebe's *no* is what Kess saw first; the boundary was always her worth | Payoff [OPEN] |
+| Deep-clearing death risk | **Missing — must be planted pre-Ch3** | Ch3's flatline ambiguity becomes real suspense; mid-book discovery; the confrontation | Plant [NEW, unplaced] |
+| The shots/hand record discrepancy | **Missing — needs planting** (Ch8 or earlier) | The Anne Lively thread above | Plant [NEW, unplaced] |
+| Baebe's enforcer ops against the Bloom | **Missing — needs planting early** | Her "Sean" discovery + the mutual-accusation confrontation (see workshop doc, Baebe) | Plant [NEW, unplaced] |
+| Aurek's dependence on the harvest | Ch5 hints at obsession [PAGE, thin] | The sprung trap (below) | Needs strengthening |
+
+### 3. The sprung trap — Aurek's Burgess bind
+
+MR's climax works because Burgess is caught in a designed either-way-you-lose fork (kill Anderton → validated but caught; spare him → system proven fallible), and the protagonist *built* it. Current draft has the right *outcome* for Aurek — irrelevance, weeping over a perfectly functional empire nobody uses — but it **happens to him** rather than being sprung on him. The fix: give the fork teeth and make the family design it. Candidate bind: **to stop the merge, 0x1 must destroy the Bloom-primed population — burning the only creative substrate it cannot regenerate (self-starvation); to preserve the substrate, it must let the merge happen — losing control forever.** Either move ends the farm. The Salieri-wound scene ([OPEN] in Aurek's arc below) could be the moment he *understands* the bind — what Aurek does inside it (submit, burn, or a third thing) is [OPEN].
+
+### 4. Loaded lines (the reread test)
+
+Lines written to read one way on first pass, differently on reread — track them deliberately: "I'd do it again. All of it." (Ch8) · "Are you broken?" (Ch6) · "People who say no are worth saving" (Ch6) · "The choice is the gift" (Ch8) · "She made a little monster... well, so did I" (Ch5 — rereads once Aurek's wound and possible harvest-complicity surface) · "May we meet again" (Ch9).
+
+---
+
 ## PER-CHARACTER PERCEPTION ARCS
 
 ### TAIVALU
@@ -110,7 +151,7 @@ Full truth-portrait: `taivalu-arc.md`.
 |---|---|---|---|---|
 | 1. Martyred architect | Prologue | Noble scientist, died accepting an inevitable assassination | [NEW] her death was deliberately engineered | — |
 | 2. Active presence | Ch8 | She survived, fragmented, inside Angel — has been "steering" the family | Confirmed, and already hints at intentionality ("I'd do it again, all of it") | Ghost-message scene |
-| 3. The engineered death, confirmed | [NEW/OPEN, unplaced] | Currently ambiguous whether stage 1 was an accident of physics or a deliberate plan | Deliberate — decoy, transfer mechanism, and the origin of the ghost, all at once | No scene has explicitly confirmed this yet — could stay implicit, or get a dedicated moment |
+| 3. The engineered death, confirmed | [PROPOSED restructure — see "The Weave Disciplines" §1] | Currently ambiguous whether stage 1 was an accident of physics or a deliberate plan | Deliberate — decoy, transfer mechanism, and the origin of the ghost, all at once | **Investigated, not confessed:** artifact planted early (the shots/hand discrepancy), ghost-Ayumi's Ch8 monologue trimmed to evasion, Baebe pulls the thread mid-book, full assembly lands near the climax — ideally on Angel |
 | 4. Her one real strategic failure | [OPEN, unplaced] | Currently near-infallible | Something specific she got wrong that the living cast has to work around — likely tied to Kess | Not yet chosen |
 
 ### 0x1 / AUREK
@@ -128,10 +169,11 @@ Full truth-portrait: `taivalu-arc.md`.
 
 1. Where does the real coma/death risk from Taivalu's hands-on clearings get seeded — needs to land before Ch3.
 2. Where does the flock-and-harvest cost get discovered, and by whom first?
-3. Is Ayumi's engineered death ever explicitly confirmed on the page, or does it stay a thing the attentive reader assembles from Ch8's hints?
-4. Does Angel ever learn her mother knew what unwitting guilt would cost her? If so, when — and does this replace her death in Ch17?
-5. Does 0x1/Aurek's possible complicity in the harvest ever surface — via a rare POV break, or a late discovery by the family?
-6. Where does Kess demonstrate her survival expertise as an active contribution?
-7. What specific incident supplies Baebe's unwashable guilt?
+3. ~~Is Ayumi's engineered death ever explicitly confirmed?~~ **Superseded by the Weave Disciplines §1 proposal:** it becomes an investigation (artifact → evasion → pull → assembly). Remaining decision: approve the restructure, then pick the chapters that carry each beat.
+4. Does Angel ever learn her mother knew what unwitting guilt would cost her? If so, when — and does this replace her death in Ch17? (Weave §1 proposes fusing this with the assembly beat — one thread, two detonations.)
+5. Does 0x1/Aurek's possible complicity in the harvest ever surface — via a rare POV break, or a late discovery by the family? (Feeds the Burgess bind, Weave §3.)
+6. Where does Kess demonstrate her survival expertise as an active contribution? (Plant already exists in Ch6 — see the ledger.)
+7. What specific incident supplies Baebe's unwashable guilt? **Candidate proposed 2026-07-09 — see workshop doc, Baebe: one of Taivalu's own converts, hunted during her enforcer years.**
 8. Does Hacker's survival tease stay in the book at all — and if kept, does it get the bat-fiber grounding instead of the current quantum-ghost language?
 9. Does Shadow's ending get revised so a real, unwalked-back loss lands?
+10. **NEW (Weave §3):** does the family deliberately *design* Aurek's bind — making the trinity's endgame a sprung trap rather than a fortunate outcome — and what does Aurek do inside it?
