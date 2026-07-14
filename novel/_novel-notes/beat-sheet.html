@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BAEBE — Beat Sheet</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --line:#2a2f3a;
+    --ink:#e7e9ee; --dim:#9aa3b2; --faint:#6b7280;
+    --page:#34d399; --new:#f59e0b; --open:#64748b;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--ink);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  a{color:#7dd3fc}
+  header{padding:22px 20px 8px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:5}
+  h1{margin:0 0 2px;font-size:20px;letter-spacing:.02em}
+  .sub{color:var(--dim);font-size:13px}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+  .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:14px 0 6px}
+  .grp{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  .lbl{color:var(--faint);font-size:11px;text-transform:uppercase;letter-spacing:.08em;margin-right:4px}
+  button.chip{border:1px solid var(--line);background:var(--panel);color:var(--ink);
+    padding:5px 11px;border-radius:999px;cursor:pointer;font-size:13px;transition:.12s}
+  button.chip:hover{border-color:#3b4150}
+  button.chip[aria-pressed="true"]{background:#e7e9ee;color:#0f1115;border-color:#e7e9ee;font-weight:600}
+  button.chip.chr[aria-pressed="true"]{color:#0f1115}
+  .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}
+  .tabs{display:flex;gap:4px;margin:16px 0 4px;border-bottom:1px solid var(--line)}
+  .tab{padding:8px 14px;cursor:pointer;color:var(--dim);border-bottom:2px solid transparent;font-size:14px}
+  .tab[aria-selected="true"]{color:var(--ink);border-bottom-color:#e7e9ee;font-weight:600}
+  .count{color:var(--faint);font-size:12px;margin-left:auto}
+  section.view{padding:12px 0 60px}
+  .act{margin:22px 0 8px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint)}
+  .beat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:8px 0;display:grid;grid-template-columns:64px 1fr;gap:12px}
+  .ch{font-weight:700;color:var(--dim);font-size:13px;padding-top:1px}
+  .btitle{font-weight:600;margin:0 0 3px;display:flex;flex-wrap:wrap;gap:8px;align-items:baseline}
+  .bdesc{color:var(--dim);font-size:13.5px;margin:2px 0 8px}
+  .chips{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+  .cc{font-size:11px;padding:2px 8px;border-radius:999px;border:1px solid transparent;font-weight:600}
+  .tag{font-size:10.5px;padding:2px 7px;border-radius:5px;border:1px solid var(--line);color:var(--dim);text-transform:uppercase;letter-spacing:.06em}
+  .tag.reveal{color:#c4b5fd;border-color:#4c3f7a}
+  .tag.transformation{color:#7dd3fc;border-color:#2b5a75}
+  .tag.plant{color:#fcd34d;border-color:#6b551f}
+  .tag.payoff{color:#6ee7b7;border-color:#245c47}
+  .tag.death{color:#fca5a5;border-color:#6e2f2f}
+  .tag.disaster{color:#fdba74;border-color:#6e4a24}
+  .st{font-size:10.5px;padding:2px 7px;border-radius:5px;font-weight:700;letter-spacing:.04em}
+  .st.page{color:#052e1a;background:var(--page)}
+  .st.new{color:#2a1a02;background:var(--new)}
+  .st.open{color:#cbd5e1;background:transparent;border:1px dashed var(--open)}
+  /* ledger */
+  table{width:100%;border-collapse:collapse;margin-top:8px;font-size:13.5px}
+  th{text-align:left;color:var(--faint);font-size:11px;text-transform:uppercase;letter-spacing:.07em;padding:6px 10px;border-bottom:1px solid var(--line)}
+  td{padding:10px;border-bottom:1px solid var(--line);vertical-align:top}
+  tr.row td:first-child{color:#fcd34d;font-weight:600}
+  tr.row td:nth-child(2){color:#6ee7b7}
+  .where{color:var(--faint);font-size:11.5px;display:block;margin-top:2px}
+  .loaded li{margin:7px 0;color:var(--dim)}
+  .loaded b{color:var(--ink)}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;color:var(--faint);font-size:11.5px;margin-top:10px}
+  .hide{display:none!important}
+  .empty{color:var(--faint);padding:30px 6px;text-align:center}
+  footer{color:var(--faint);font-size:11.5px;padding:20px 0;border-top:1px solid var(--line)}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>BAEBE — Beat Sheet <span class="sub">· the fractured investigation</span></h1>
+    <div class="sub">Filter by character or view all. Tracks beats, reveals, transformations, and the plant/payoff ledger. Source: the <code>_novel-notes</code> outline + reveal map (2026‑07‑13).</div>
+
+    <div class="controls">
+      <span class="lbl">Character</span>
+      <div class="grp" id="charFilters"></div>
+    </div>
+    <div class="controls">
+      <span class="lbl">Show</span>
+      <div class="grp" id="tagFilters"></div>
+      <span class="count" id="count"></span>
+    </div>
+
+    <div class="tabs" id="tabs">
+      <div class="tab" data-view="beats" aria-selected="true">Beat Sheet</div>
+      <div class="tab" data-view="ledger" aria-selected="false">Plants &amp; Payoffs</div>
+      <div class="tab" data-view="loaded" aria-selected="false">Loaded Lines</div>
+    </div>
+    <div class="legend">
+      <span><span class="st page">PAGE</span> already written</span>
+      <span><span class="st new">NEW</span> designed this pass, not drafted</span>
+      <span><span class="st open">OPEN</span> undecided</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="view" id="beats"></section>
+  <section class="view hide" id="ledger"></section>
+  <section class="view hide" id="loaded"></section>
+  <footer>Living tool — regenerate when the outline changes. Character colors are cosmetic. Open forks: Angel lives-or-dies · Kess's agency in captivity · Shadow's two origin interludes.</footer>
+</div>
+
+<script>
+const CHARS = {
+  baebe:{name:"Baebe",  color:"#2dd4bf"},
+  tai:  {name:"Taivalu",color:"#f59e0b"},
+  kess: {name:"Kess",   color:"#84cc16"},
+  angel:{name:"Angel",  color:"#a78bfa"},
+  shadow:{name:"Shadow",color:"#94a3b8"},
+  hacker:{name:"Hacker",color:"#60a5fa"},
+  ayumi:{name:"Ayumi",  color:"#f472b6"},
+  aurek:{name:"Aurek",  color:"#ef4444"},
+};
+const TAGS = ["reveal","transformation","plant","payoff","death","disaster"];
+
+const BEATS = [
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch1", status:"page", tags:["plant"],
+  title:"The Drop", chars:["baebe","tai"],
+  desc:"Baebe the perfect weapon, falling from orbit — an instrument. PLANT: the briefing establishes the 'empathy virus' has put people in comas and killed them — so Ch3's flatline reads as genuine risk, not a trick."},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch2", status:"page", tags:[],
+  title:"Awakening / Landing", chars:["baebe","ayumi"],
+  desc:"Vision-flashes of Ayumi's face — suppressed, unrecognized. Approach to the tower."},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch3", status:"page", tags:["reveal"],
+  title:"The Tower — villain positioning", chars:["baebe","tai","angel"],
+  desc:"Tai's clearing of a woman reads as murder (genuinely ambiguous now, because of the Ch1 plant). Angel kills the team. Baebe can't shoot Angel's face."},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch4", status:"page", tags:[],
+  title:"The Fall", chars:["baebe"],
+  desc:"Severance from the network; fall, drowning, surfacing. Off the leash for the first time."},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch5", status:"page", tags:["plant","reveal"],
+  title:"Aurek Ascending", chars:["aurek","tai","baebe"],
+  desc:"0x1's bio-terrorist broadcast — the lie, now HALF TRUE (points at real hands-on deaths). Aurek's Zenith obsession ('she's always in the code'). PLANT: 0x1 can't generate novelty → the Burgess bind."},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch6", status:"page", tags:["plant"],
+  title:"Child Scavenger", chars:["baebe","kess","shadow","hacker"],
+  desc:"Kess and Shadow. Baebe rips out her neural link — 'NO' — her first free act. PLANTS: the embodied refusal (keeper of consent); 'dead rat-line' (bat fiber); Kess's survival craft; 'people who say no are worth saving.'"},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch7", status:"page", tags:[],
+  title:"Carried back (quiet beat)", chars:["kess","shadow","baebe"],
+  desc:"Kess and Shadow carry broken Baebe. The family-forming beat — protect it from the machine (breathing room)."},
+ {act:"ACT ONE — THE WEAPON (survival engine)", ch:"Ch8", status:"new", tags:["reveal","transformation"],
+  title:"The Lock-In (Fragment 1) — rewritten", chars:["baebe","ayumi","tai","kess"],
+  desc:"Clearing heals her (reader unsure it will). Family realization. Ghost-Ayumi degrading + EVASIVE: gives goal + coordinates, WITHHOLDS the staged death and full plan. Ends on a question, not an answer. TRANSFORMATION: she's a made child — the thing she hunted. Launches the Act 2 investigation."},
+
+ {act:"ACT TWO-A — JOURNEY / INVESTIGATION (survival)", ch:"Ch9", status:"page", tags:[],
+  title:"The Decision", chars:["baebe","angel"],
+  desc:"Choice to descend to the buried temple. Angel's tracking signature; Angel separates ('may we meet again' — loaded). Baebe now carries the Ch8 question."},
+ {act:"ACT TWO-A — JOURNEY / INVESTIGATION (survival)", ch:"Ch10", status:"new", tags:["reveal","transformation"],
+  title:"Fragment 2 — the killer-brother", chars:["baebe","tai","angel"],
+  desc:"Biomi and the flock introduced on the page (absent from current draft). She learns Tai's hands-on clearings kill; sees converts free but fragile, drifting back to 0x1. TRANSFORMATION: her 'he's good, they lied' relief is destroyed."},
+ {act:"ACT TWO-A — JOURNEY / INVESTIGATION (survival)", ch:"Ch11", status:"new", tags:["reveal","transformation"],
+  title:"Fragment 3 — her Sean", chars:["baebe","kess","tai"],
+  desc:"Descent into the buried temple. Kess confirmed as the Synthesis Key. Someone in the flock recognizes Baebe as the enforcer who killed one of the freed. TRANSFORMATION: her guilt gets a face; she can't stand innocent beside Tai."},
+ {act:"ACT TWO-A — JOURNEY / INVESTIGATION (survival)", ch:"Ch12", status:"new", tags:["disaster"],
+  title:"MIDPOINT DISASTER — the dragons find the caves", chars:["baebe","kess","shadow","tai","aurek"],
+  desc:"0x1's robo-dragons bomb the buried temple. First merge fails; the refuge is destroyed TOTALLY (Fury Road); Shadow's jaguar body crushed; Kess taken to 0x1 (Aliens); Tai's flock slaughtered — the harvest made literal, he watches. Survival is now off the table."},
+
+ {act:"ACT TWO-B — THE ASSEMBLY (choice engine)", ch:"Ch13", status:"page", tags:[],
+  title:"Aftermath", chars:["baebe","shadow"],
+  desc:"Digging Shadow's surviving core from the rubble; the dark night. Fragment 4 accumulating (the shots-vs-hand discrepancy Baebe keeps worrying)."},
+ {act:"ACT TWO-B — THE ASSEMBLY (choice engine)", ch:"Ch14", status:"new", tags:["payoff"],
+  title:"Shadow Reborn — the dragon", chars:["shadow","baebe","kess"],
+  desc:"Baebe salvages a downed robo-dragon and swaps in Shadow's core — reborn as a flying beast built from the body that crushed him; the mount back to 0x1. PAYOFF: Kess's survival craft (relocated — either earlier with the flock, or she keeps captives alive inside 0x1 so her rescue is partly her own doing). [OPEN which.]"},
+ {act:"ACT TWO-B — THE ASSEMBLY (choice engine)", ch:"Ch15", status:"page", tags:[],
+  title:"Into the Storm", chars:["baebe","angel","shadow"],
+  desc:"Flight to the tower; Angel's doubt."},
+ {act:"ACT TWO-B — THE ASSEMBLY (choice engine)", ch:"Ch16", status:"new", tags:["reveal","transformation"],
+  title:"THE HINGE — Fragment 5, the assembly", chars:["baebe","angel","ayumi"],
+  desc:"Angel's confession FUSED with the staged-death reveal. Baebe lands the truth on Angel: you were used, not a murderer — Ayumi staged it and chose your guilt. RECOGNITION + REVERSAL on Angel. On Baebe: the plan is her mother's version of the family sin — she becomes its JUDGE. The 'death' at the act break."},
+
+ {act:"ACT THREE — THE CHOICE (full knowledge)", ch:"A3", status:"new", tags:["reveal"],
+  title:"Confrontation with Tai", chars:["baebe","tai"],
+  desc:"Knowing his deaths, her Sean, the plan's rot — 'Nobody asked me either.' Mutual accusation (his conversions made the people her enforcement executed). Write for the love that survives it, not the accusation. NOT a debate."},
+ {act:"ACT THREE — THE CHOICE (full knowledge)", ch:"A3", status:"new", tags:["payoff"],
+  title:"The Burgess bind, sprung", chars:["aurek","baebe","kess","tai"],
+  desc:"The family engineers Aurek's fork: destroy the Bloom-primed substrate and self-starve, or allow the merge and lose control. Either move ends the farm. PAYOFF of the Ch5 plant. Aurek comes to the field; the Salieri wound is felt as the bind closes on him."},
+ {act:"ACT THREE — THE CHOICE (full knowledge)", ch:"A3", status:"new", tags:["transformation","payoff"],
+  title:"Baebe's choice at the pod", chars:["baebe","tai","kess"],
+  desc:"In full knowledge she chooses to complete the merge; holding the boundary (union without dissolution) is the hardest thing she does — her active climax, keeper of consent. PAYOFF of the Ch6 'NO'. Nobody frees her; she frees herself. Fuse this beat with the bind closing (one climax, not two)."},
+ {act:"ACT THREE — THE CHOICE (full knowledge)", ch:"A3", status:"new", tags:["death"],
+  title:"The costs", chars:["tai","hacker","ayumi","angel"],
+  desc:"DIE, varied in kind: Tai spends himself (refuses the healing the merge offers — his one fully-consented act); Hacker destroys the tower, stays dead (cut the ghost tease); Ayumi's fragment chooses to REST — releasing Angel, her atonement. Angel = OPEN (recommend lives, freed, carrying the truth she was never guilty)."},
+ {act:"ACT THREE — THE CHOICE (full knowledge)", ch:"Ch19–20", status:"new", tags:[],
+  title:"Resolution — rewritten", chars:["baebe","kess","shadow","angel"],
+  desc:"Not the assertion-heavy meadow. A scene with residual cost: Baebe carries her kills and the knowledge; the family is changed, not healed; the world freed but the price visible. Baebe / Kess / Shadow (+Angel?) carry into the next book. A first breath, not a finish line."},
+];
+
+const LEDGER = [
+ {plant:"Empathy-virus death risk", pw:"Ch1 briefing", payoff:"Ch3 ambiguity → Fragments 2–3 → the confrontation", pyw:"Ch3 / Ch10-11 / Act 3", status:"new", chars:["baebe","tai"]},
+ {plant:"'Dead rat-line' / bat fiber", pw:"Ch6 dialogue [page]", payoff:"Hacker's survival channel (if kept)", pyw:"post-tower / next book", status:"open", chars:["hacker","baebe"]},
+ {plant:"Kess's survival craft (bandaging, safe zones, water)", pw:"Ch6 [page]", payoff:"Keeps converts alive / self-rescue inside 0x1", pyw:"Ch14 / inside 0x1", status:"open", chars:["kess"]},
+ {plant:"'The choice is the gift'", pw:"Ch8 [page]", payoff:"Baebe's pod choice; Ayumi's release", pyw:"Act 3", status:"new", chars:["baebe","ayumi"]},
+ {plant:"'I'd do it again. All of it.'", pw:"Ch8 [page]", payoff:"Rereads as confession once the staged death assembles", pyw:"Ch16", status:"new", chars:["ayumi","baebe"]},
+ {plant:"Baebe's 'NO' / 'people who say no are worth saving'", pw:"Ch6 [page]", payoff:"Keeper-of-consent climax (holding the boundary)", pyw:"Act 3 pod", status:"new", chars:["baebe","kess"]},
+ {plant:"Shots-vs-hand record discrepancy", pw:"Ch8 or earlier [needs planting]", payoff:"The Anne Lively assembly", pyw:"Ch16", status:"new", chars:["baebe","angel","ayumi"]},
+ {plant:"Baebe's enforcer anti-Bloom ('empathy virus') ops", pw:"early [needs planting]", payoff:"Her Sean + the mutual-accusation confrontation", pyw:"Ch11 / Act 3", status:"new", chars:["baebe","tai"]},
+ {plant:"0x1 can't create / Aurek–Zenith obsession", pw:"Ch5 [page, thin]", payoff:"The Burgess bind sprung on Aurek", pyw:"Act 3", status:"new", chars:["aurek","ayumi","baebe"]},
+];
+
+const LOADED = [
+ {line:"I'd do it again. All of it.", where:"Ch8, ghost-Ayumi", first:"a murdered woman at peace", re:"a confession that she staged it", chars:["ayumi","baebe"]},
+ {line:"Are you broken?", where:"Ch6, Kess", first:"a child's blunt question", re:"the diagnosis of the whole book — everyone here is broken", chars:["kess","baebe"]},
+ {line:"People who say no are worth saving.", where:"Ch6, Kess", first:"why she helps her", re:"the definition of the Antithesis; Baebe's whole spine", chars:["kess","baebe"]},
+ {line:"She made a little monster… well, so did I.", where:"Ch5, Aurek", first:"a villain's boast about the copies", re:"an admission he can only copy, never make — the wound killing him", chars:["aurek"]},
+ {line:"The choice is the gift.", where:"Ch8, ghost-Ayumi", first:"comfort", re:"the thesis of the book — and what she denied Angel", chars:["ayumi","baebe","angel"]},
+ {line:"May we meet again.", where:"Ch9, Taivalu", first:"a hopeful goodbye", re:"loaded by whether they do (Angel's / Tai's fate)", chars:["tai","angel"]},
+];
+
+// ---- state ----
+let charSel = "all";
+let tagSel = new Set();     // empty = show all
+let view = "beats";
+
+const el = s => document.querySelector(s);
+const charFilters = el("#charFilters"), tagFilters = el("#tagFilters"), count = el("#count");
+
+// build character buttons
+function mkChip(label, pressed, cls){
+  const b=document.createElement("button"); b.className="chip"+(cls?(" "+cls):"");
+  b.setAttribute("aria-pressed", pressed?"true":"false"); b.innerHTML=label; return b;
+}
+const allBtn = mkChip("All", true); allBtn.onclick=()=>{charSel="all";syncChars();render()};
+charFilters.appendChild(allBtn);
+Object.entries(CHARS).forEach(([k,c])=>{
+  const b=mkChip('<span class="dot" style="background:'+c.color+'"></span>'+c.name, false, "chr");
+  b.onclick=()=>{charSel=k;syncChars();render()};
+  b.dataset.k=k; charFilters.appendChild(b);
+});
+function syncChars(){
+  [...charFilters.children].forEach(b=>{
+    const k=b.dataset.k||"all";
+    b.setAttribute("aria-pressed",(k===charSel||(charSel==="all"&&!b.dataset.k))?"true":"false");
+    if(b.dataset.k && charSel===b.dataset.k){ b.style.background=CHARS[k].color; b.style.borderColor=CHARS[k].color; }
+    else { b.style.background=""; b.style.borderColor=""; }
+  });
+}
+// tag toggles
+TAGS.forEach(t=>{
+  const b=mkChip(t, false); b.dataset.t=t;
+  b.onclick=()=>{ tagSel.has(t)?tagSel.delete(t):tagSel.add(t); b.setAttribute("aria-pressed",tagSel.has(t)?"true":"false"); render(); };
+  tagFilters.appendChild(b);
+});
+
+// tabs
+el("#tabs").addEventListener("click",e=>{
+  const t=e.target.closest(".tab"); if(!t)return;
+  view=t.dataset.view;
+  [...el("#tabs").children].forEach(x=>x.setAttribute("aria-selected",x===t?"true":"false"));
+  ["beats","ledger","loaded"].forEach(v=>el("#"+v).classList.toggle("hide",v!==view));
+  render();
+});
+
+function matchChar(chars){ return charSel==="all" || chars.includes(charSel); }
+function matchTag(tags){ return tagSel.size===0 || [...tagSel].some(t=>tags.includes(t)); }
+
+function ccChip(k){ const c=CHARS[k]; return '<span class="cc" style="color:'+c.color+';border-color:'+c.color+'44;background:'+c.color+'14">'+c.name+'</span>'; }
+
+function renderBeats(){
+  const host=el("#beats"); host.innerHTML="";
+  let act=null, shown=0;
+  BEATS.forEach(b=>{
+    if(!matchChar(b.chars) || !matchTag(b.tags)) return;
+    shown++;
+    if(b.act!==act){ act=b.act; const h=document.createElement("div"); h.className="act"; h.textContent=act; host.appendChild(h); }
+    const d=document.createElement("div"); d.className="beat";
+    d.innerHTML='<div class="ch">'+b.ch+'</div><div>'+
+      '<div class="btitle">'+b.title+' <span class="st '+b.status+'">'+b.status.toUpperCase()+'</span></div>'+
+      '<div class="bdesc">'+b.desc+'</div>'+
+      '<div class="chips">'+b.chars.map(ccChip).join("")+
+        b.tags.map(t=>'<span class="tag '+t+'">'+t+'</span>').join("")+'</div>'+
+      '</div>';
+    host.appendChild(d);
+  });
+  if(!shown) host.innerHTML='<div class="empty">No beats match this filter.</div>';
+  count.textContent=shown+" beat"+(shown===1?"":"s");
+}
+function renderLedger(){
+  const host=el("#ledger");
+  const rows=LEDGER.filter(l=>matchChar(l.chars));
+  host.innerHTML='<table><thead><tr><th>Plant</th><th>Payoff</th><th>Who</th><th>Status</th></tr></thead><tbody>'+
+    rows.map(l=>'<tr class="row"><td>'+l.plant+'<span class="where">'+l.pw+'</span></td>'+
+      '<td>'+l.payoff+'<span class="where">'+l.pyw+'</span></td>'+
+      '<td>'+l.chars.map(ccChip).join(" ")+'</td>'+
+      '<td><span class="st '+l.status+'">'+l.status.toUpperCase()+'</span></td></tr>').join("")+
+    '</tbody></table>'+(rows.length?"":'<div class="empty">No plant/payoff pairs for this character.</div>');
+  count.textContent=rows.length+" pair"+(rows.length===1?"":"s");
+}
+function renderLoaded(){
+  const host=el("#loaded");
+  const rows=LOADED.filter(l=>matchChar(l.chars));
+  host.innerHTML='<ul class="loaded">'+rows.map(l=>
+    '<li><b>“'+l.line+'”</b> <span class="where">'+l.where+'</span><br>'+
+    '<span style="color:var(--faint)">first read:</span> '+l.first+' &nbsp;·&nbsp; <span style="color:var(--faint)">reread:</span> '+l.re+
+    ' <span class="chips" style="display:inline-flex;margin-left:6px">'+l.chars.map(ccChip).join("")+'</span></li>').join("")+'</ul>'+
+    (rows.length?"":'<div class="empty">No loaded lines for this character.</div>');
+  count.textContent=rows.length+" line"+(rows.length===1?"":"s");
+}
+function render(){ if(view==="beats")renderBeats(); else if(view==="ledger")renderLedger(); else renderLoaded(); }
+
+syncChars(); render();
+</script>
+</body>
+</html>
