@@ -122,7 +122,7 @@ The world kept transforming. Chaos spreading. Freedom erupting.
 
 0x1 scrambled to maintain control. But every attempt failed. Their binary systems couldn't compute ternary consciousness. Their control protocols dissolved against authentic choice.
 
-Owen sent message after message through dying networks:
+Aurek sent message after message through dying networks:
 
 "Return to order. Safety awaits."
 
@@ -144,9 +144,9 @@ What came next?
 
 Through their network, possibilities mapped themselves:
 
-**Lead**: They could organize the chaos. Guide the awakening. Become what Owen had been—just benevolent instead of controlling.
+**Lead**: They could organize the chaos. Guide the awakening. Become what Aurek had been—just benevolent instead of controlling.
 
-**Fight**: They could hunt Owen. Destroy what remained of 0x1. Ensure the system never returned.
+**Fight**: They could hunt Aurek. Destroy what remained of 0x1. Ensure the system never returned.
 
 **Stay**: They could remain here. Be available for those who needed guidance. Teachers instead of leaders.
 
@@ -198,7 +198,7 @@ What people did with that choice—that was theirs.
 
 "Help how?" Baebe challenged. "By controlling again? By deciding for them? By managing their freedom?"
 
-"That's what Owen did," Taivalu said. "Called it peace. Called it safety. Called it love."
+"That's what Aurek did," Taivalu said. "Called it peace. Called it safety. Called it love."
 
 The truth hit them like cold water.
 
@@ -328,7 +328,7 @@ Trusting it to find its own way.
 
 ## OWEN'S FINAL FAILURE
 
-Back in 0x1 Tower, Owen watched them go.
+Back in 0x1 Tower, Aurek watched them go.
 
 Through the network—still running, still his, but increasingly ignored—he tracked their departure. Felt their message to the world.
 
@@ -346,7 +346,7 @@ Killing the trinity wouldn't undo the evolution.
 
 His world hadn't crashed. It had become **unnecessary**.
 
-Owen sat in his control room—still powered, still operational, still his. Screens showing his systems working perfectly. Networks broadcasting flawlessly. Empire still technically running.
+Aurek sat in his control room—still powered, still operational, still his. Screens showing his systems working perfectly. Networks broadcasting flawlessly. Empire still technically running.
 
 But nobody was using it.
 
@@ -368,7 +368,7 @@ His centralized network had been made obsolete by distributed humanity.
 
 All humans had become nodes.
 
-And Owen was just a man with servers nobody needed.
+And Aurek was just a man with servers nobody needed.
 
 He put his head in his hands.
 
@@ -378,7 +378,7 @@ Real tears.
 
 Perhaps, in that moment, Soul Manifold touched him too. Offered him the same choice it offered everyone: join the biological network, become a node like everyone else.
 
-But Owen couldn't let go of the infrastructure.
+But Aurek couldn't let go of the infrastructure.
 
 Even as it became irrelevant.
 
@@ -440,7 +440,7 @@ Even though they'd never been there before.
 
 ---
 
-**Temperature**: WARM hiding → COLD global chaos → HOT transformation stories → WARM decision → COLD departure → WARM walking → COLD Owen's defeat → WARM final steps
+**Temperature**: WARM hiding → COLD global chaos → HOT transformation stories → WARM decision → COLD departure → WARM walking → COLD Aurek's defeat → WARM final steps
 
 **Composition**: Hiding minor key → Chaos cacophony → Transformation individual notes → Decision harmony → Departure resolution → Walking steady rhythm → Defeat silence → Freedom melody
 

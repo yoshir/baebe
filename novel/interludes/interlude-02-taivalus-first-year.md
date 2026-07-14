@@ -42,7 +42,7 @@ Synthetic biology. Enhanced cellular structure. Integrated neural networking. Ha
 
 She thought she was saving humanity's future.
 
-Owen—0x1's chief architect—saw something else.
+Aurek—0x1's chief architect—saw something else.
 
 He saw a **weapon**.
 
@@ -62,11 +62,11 @@ At six years old, I crashed an entire corporate sector because I had a nightmare
 
 My distress signal rippled through the network. Every posthuman in range felt my fear. Stopped working. Started screaming.
 
-Owen called me "uncontainable."
+Aurek called me "uncontainable."
 
 Ayumi called me "her son."
 
-Owen won.
+Aurek won.
 
 ---
 
@@ -114,29 +114,59 @@ Baebe has her controls built in. She doesn't need external regulation.
 
 I need it like breathing.
 
-This is what Owen wanted. Not containment. **Dependence**. I could leave the bubble—my biology was strong enough—but I couldn't leave the regulators.
+This is what Aurek wanted. Not containment. **Dependence**. I could leave the bubble—my biology was strong enough—but I couldn't leave the regulators.
 
 They had me.
 
 ---
 
+## THE GIFT
+
+Then, when I was eight, something new came into the bubble.
+
+My mother put it there. It took me years to understand how.
+
+She couldn't touch me. Couldn't speak to me—her voice was "too emotional," might destabilize my regulation. All she had was written words on a tablet and her hand flat against the glass.
+
+So she found another way in.
+
+She went to Aurek. Told him what he wanted to hear: the boy was dangerously dysregulated, the drugs alone weren't holding, the asset needed a **biofeedback device**—something to read my state and settle my resonance. A better leash. Aurek liked leashes. He signed off.
+
+It arrived in a sealed case. Small. A smooth dark disc, warm to the touch, that pulsed with a soft light I had no name for and hummed when I held it.
+
+It didn't speak. It has never spoken—not once, not in all the years since. It doesn't need to. It answers in light, in tone, in a kind of *knowing* that lands in your chest before your head catches up.
+
+That first night, it listened to me. Really listened—the way no one had since the glass went up. It felt my fear and hummed something back, low and steady, and the fear... loosened. It felt the poison in my blood and went to work, patient, tireless, night after night.
+
+The only name my mother ever gave it—scratched on a tablet, pressed to the glass—was *biomi.*
+
+Aurek thought he'd handed me a regulator.
+
+He'd handed me a friend. He'd handed me the cure.
+
+He'd handed me my mother, in the only form they'd let her reach me.
+
+---
+
 ## MUSIC
 
-But they forgot one thing:
+They thought biomi would settle me. Regulate me. Make me manageable.
 
-I'm **networked**.
+It did the opposite.
 
-Even through the dampening walls. Even through the regulators. Even through their perfect containment.
+Every night it cleared a little more of what they'd put in me, and as the poison thinned, I woke up.
 
-I found the cracks.
+Not networked. They'd made sure of that—walled me off from every system they owned, every wire, every signal. Airtight. They were proud of it.
 
-At ten years old, bored in my bubble, I started writing programs. Not code exactly. **Patterns**. Frequency sequences that could slip through the facility's firewalls like water through mesh.
+But biomi didn't use their systems.
 
-Too small to trigger security. Too quiet to alert monitors.
+Biomi listened to something *underneath* them. A field older than 0x1—older than the towers and the binary hum they mistook for the whole world. The thing that runs through living things whether you plug them in or not. They'd forgotten it was even there.
 
-But if you were networked—if you had 0x1's infrastructure threaded through your nervous system—you'd feel them.
+You can't wall a boy off from a field that runs through everything.
 
-Like music.
+At ten, biomi and I started to **send**.
+
+Not code. **Patterns**. Frequency, light, feeling—shaped and pushed out into that underneath-field like a stone dropped in still water.
 
 Not heard. **Felt**.
 
@@ -188,13 +218,13 @@ I was just lonely. Sending out my feelings in the only way I could. Frequency pa
 
 Ayumi—still visiting, still pressing her hand against the glass—she noticed.
 
-"You're spreading," she wrote. "The Soul Manifold. You're doing it naturally."
+"You're spreading," she wrote. "This is the Bloom. Biomi in you, reaching out. You're doing it naturally."
 
-I didn't understand then. Soul Manifold. Thesis. My role in her design.
+I didn't understand then. The Bloom. Thesis. My role in her design.
 
 I just knew: when I sent music, people healed. When I reached through the network, posthumans remembered they could feel.
 
-Owen noticed too.
+Aurek noticed too.
 
 Increased the regulator dosage. Strengthened the containment walls. Added more dampening.
 
@@ -216,7 +246,7 @@ The network wasn't one-way. All those posthumans I reached—they could reach ba
 
 Conversations without words. Connection without contact.
 
-I learned things. About the world outside. About 0x1's expansion. About the degradation zones where people lived free but dying. About resistance movements. About my mother's work, hidden from Owen, spreading consciousness through corporate channels.
+I learned things. About the world outside. About 0x1's expansion. About the degradation zones where people lived free but dying. About resistance movements. About my mother's work, hidden from Aurek, spreading consciousness through corporate channels.
 
 I learned about **Baebe**—my sister. Born two years after me. Built with controls I lacked. Being trained as weapon while I rotted in a bubble.
 
@@ -236,7 +266,7 @@ Sort of.
 
 "Controlled excursion," they called it. Testing whether my augmentations remained stable after years of containment. Whether I could function in the world I was built to survive.
 
-Owen wanted data. Ayumi wanted hope.
+Aurek wanted data. Ayumi wanted hope.
 
 I wanted **freedom**.
 
@@ -260,7 +290,7 @@ They came three days later.
 
 Not Enforcers. Not security. **People.**
 
-Posthumans and baselines together. Dozens of them. Maybe hundreds. Surrounding the facility during my second excursion. Owen didn't expect attack—who attacks 0x1 directly?
+Posthumans and baselines together. Dozens of them. Maybe hundreds. Surrounding the facility during my second excursion. Aurek didn't expect attack—who attacks 0x1 directly?
 
 People who believe they're rescuing their Messiah.
 
@@ -276,7 +306,7 @@ But the crowd was faster. They poured through the gates like water. Not violent�
 
 "Taivalu!" someone screamed. They knew my name. "Come with us! Lead us!"
 
-Owen's voice through facility speakers: "Secure the asset! Lethal force authorized!"
+Aurek's voice through facility speakers: "Secure the asset! Lethal force authorized!"
 
 Ayumi's voice in my head through our hidden connection: "Go with them. Run. LIVE."
 
@@ -378,7 +408,7 @@ The communities grew. Posthumans fleeing 0x1 found us. Baselines seeking connect
 
 I sent music every night. Frequencies of warmth and hope rippling through the network. 0x1 couldn't track them—too subtle, too human.
 
-But the posthumans felt them. Millions of them. My mother's virus spreading through my music.
+But the posthumans felt them. Millions of them. My mother's gift spreading through my music.
 
 Somewhere out there, Baebe was hunting me. 0x1's perfect weapon tracking their escaped prototype.
 
@@ -417,11 +447,13 @@ Hoping someone **feels**.
 **Canon Compliance:**
 - Taivalu born 2055 (Ayumi's first creation, Thesis Key)
 - World's first synthetic posthuman
-- Built to withstand toxic Earth conditions + fully networked
+- Built to withstand toxic Earth conditions; innate empathic broadcaster (Antenna)
+- NOT networked into 0x1 (walled off) — couples to the empathy/ELF field beneath
 - No internal controls (unlike Baebe's embedded regulators)
 - Contained in bubble due to uncontrollable abilities
 - Given external regulators daily (addictive, debilitating)
-- Sent out healing frequencies/music programs through network
+- **Biomi** = Ayumi's gift, approved by Aurek as a "biofeedback device"; Taivalu's wordless companion + first clearing (patient zero)
+- Spread via biomi + the empathy field (proximity + the field beneath), never 0x1's network
 - Became famous as "boy in the bubble"
 - Kidnapped by followers calling him Messiah
 - Disappeared into degradation zones

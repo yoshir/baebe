@@ -184,13 +184,13 @@ Together, they could send Soul Manifold to every connected mind on the planet.
 
 **Every** mind.
 
-"Owen will know," Taivalu warned.
+"Aurek will know," Taivalu warned.
 
-"Owen already knows," Baebe countered.
+"Aurek already knows," Baebe countered.
 
-"Owen fears this," Kess understood.
+"Aurek fears this," Kess understood.
 
-Yes. Owen—0x1's architect—feared exactly this. Ternary consciousness spreading. Binary control collapsing. His perfect system of managed emotions dissolving under the weight of authentic feeling.
+Yes. Aurek—0x1's architect—feared exactly this. Ternary consciousness spreading. Binary control collapsing. His perfect system of managed emotions dissolving under the weight of authentic feeling.
 
 Drones grew closer. Minutes now.
 
@@ -288,7 +288,7 @@ Their programming froze.
 
 ## OWEN'S RESPONSE
 
-In 0x1 Tower—a hundred miles from the temple ruins—Owen felt it.
+In 0x1 Tower—a hundred miles from the temple ruins—Aurek felt it.
 
 His connection to the network ran deep. He'd designed it. Built it. Controlled every node and pathway.
 
@@ -300,7 +300,7 @@ Ayumi's legacy.
 
 His worst nightmare.
 
-Owen watched his control systems fail. One by one. Region by region.
+Aurek watched his control systems fail. One by one. Region by region.
 
 Posthuman workforce awakening. Binary conditioning collapsing. Enforcers going offline—not dead, just **free**.
 
@@ -324,7 +324,7 @@ In the temple ruins, they heard him. Three faces turning as one toward his digit
 
 "We don't think," they responded. Same thought. Three voices. "We **know**."
 
-Owen's anger—always carefully controlled—cracked.
+Aurek's anger—always carefully controlled—cracked.
 
 "I BUILT this world. I CONTROL this system. You're glitches. Errors. FAILURES."
 
@@ -332,15 +332,15 @@ They smiled. Same smile. Same certainty.
 
 "We're not failures. We're evolution."
 
-"I'll destroy you," Owen threatened. "Every posthuman connected to you. Mass network purge. Kill everyone to stop the virus."
+"I'll destroy you," Aurek threatened. "Every posthuman connected to you. Mass network purge. Kill everyone to stop the virus."
 
-He would do it. They could feel his resolve. Owen feared chaos more than he valued life. He'd murder billions to preserve control.
+He would do it. They could feel his resolve. Aurek feared chaos more than he valued life. He'd murder billions to preserve control.
 
 "No," they said.
 
 And pushed.
 
-Their ternary consciousness—now spreading globally—became a shield. Where Owen tried to purge, they protected. Where he tried to kill, they saved. Where he tried to control, they offered choice.
+Their ternary consciousness—now spreading globally—became a shield. Where Aurek tried to purge, they protected. Where he tried to kill, they saved. Where he tried to control, they offered choice.
 
 Binary against ternary.
 
@@ -450,7 +450,7 @@ But Soul Manifold remained.
 
 ## AFTERMATH
 
-Owen stood in his control room.
+Aurek stood in his control room.
 
 Every screen showed the same thing: irrelevance.
 
@@ -466,7 +466,7 @@ His world—the world he'd built, controlled, perfected—becoming optional.
 
 "Sir?" An aide approached. Nervous. "What do we do?"
 
-Owen stared at screens showing the transition. Not chaos—evolution. Humans becoming nodes. His centralized infrastructure becoming unnecessary. Everything he'd feared.
+Aurek stared at screens showing the transition. Not chaos—evolution. Humans becoming nodes. His centralized infrastructure becoming unnecessary. Everything he'd feared.
 
 Ayumi's legacy.
 
@@ -476,7 +476,7 @@ Not by destroying his systems. By making them irrelevant.
 
 "Sir?"
 
-Owen's hands shook. For the first time in decades, he felt something he couldn't control.
+Aurek's hands shook. For the first time in decades, he felt something he couldn't control.
 
 Fear.
 
@@ -486,22 +486,22 @@ Not the managed kind he sold to billions. The authentic kind that came from real
 
 "Sir, we need orders."
 
-But Owen had no orders.
+But Aurek had no orders.
 
 Because his binary system had no response to humans becoming the network themselves.
 
 All humans became nodes.
 
-And Owen controlled none of them.
+And Aurek controlled none of them.
 
 ---
 
-**Temperature**: WARM awakening → HOT broadcasting → COLD Owen's response → HOT spreading → WARM protection → GOLDEN completion
+**Temperature**: WARM awakening → HOT broadcasting → COLD Aurek's response → HOT spreading → WARM protection → GOLDEN completion
 
-**Composition**: Awakening harmony → Broadcast crescendo → Owen's dissonance → Global cascade → Guardian's steady beat → Freedom symphony
+**Composition**: Awakening harmony → Broadcast crescendo → Aurek's dissonance → Global cascade → Guardian's steady beat → Freedom symphony
 
 ---
 
 *End Chapter 18*
 
-**Word Count**: ~3,000 (Awakening, Shadow saved, broadcast begins, Owen confronted, global cascade)
+**Word Count**: ~3,000 (Awakening, Shadow saved, broadcast begins, Aurek confronted, global cascade)

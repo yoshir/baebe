@@ -244,9 +244,9 @@ She lowered her weapon. Slightly.
 
 "Where's Kess?"
 
-"Floor 89. High-value containment. Owen himself is overseeing her study."
+"Floor 89. High-value containment. Aurek himself is overseeing her study."
 
-Owen. The name made Baebe's blood run cold. 0x1's puppet master. The architect of their slavery.
+Aurek. The name made Baebe's blood run cold. 0x1's puppet master. The architect of their slavery.
 
 "And the backup Cradle?" Taivalu asked. "Floor 47?"
 
@@ -304,7 +304,7 @@ The nine-year-old was strapped to a chair. Wires connected to her temples, her w
 
 Around Kess: three technicians in white coats. And standing apart, hands clasped behind his back, observing...
 
-Owen.
+Aurek.
 
 Baebe had never seen him in person. Only his image on screens, his voice in communications. But she recognized him instantly.
 
@@ -316,13 +316,13 @@ He looked like peace itself.
 
 And Baebe wanted to kill him more than she'd ever wanted anything.
 
-"The Synthesis Key is fascinating," Owen said. His voice carried through the vent. Calm. Measured. "Pure baseline human consciousness, yet carrying Ayumi's complete algorithm. How did she embed it? How did she choose this particular child?"
+"The Synthesis Key is fascinating," Aurek said. His voice carried through the vent. Calm. Measured. "Pure baseline human consciousness, yet carrying Ayumi's complete algorithm. How did she embed it? How did she choose this particular child?"
 
 Kess whimpered.
 
 Baebe's fists clenched.
 
-"We need a distraction," Angel said. "Something big enough to pull Owen and his team away."
+"We need a distraction," Angel said. "Something big enough to pull Aurek and his team away."
 
 "I'll give you one," Baebe started.
 
@@ -408,9 +408,9 @@ Thirty seconds later, alarms shrieked.
 
 The containment room exploded into chaos.
 
-Owen's face lost its peaceful mask. Commands snapped from his lips. Technicians scrambled. Security feeds showed Angel—cutting through Enforcers on Floor 90. Fast. Brutal. Drawing every available unit toward her position.
+Aurek's face lost its peaceful mask. Commands snapped from his lips. Technicians scrambled. Security feeds showed Angel—cutting through Enforcers on Floor 90. Fast. Brutal. Drawing every available unit toward her position.
 
-"She's compromised," Owen hissed. "Send everything."
+"She's compromised," Aurek hissed. "Send everything."
 
 He swept from the room, leaving only two technicians behind.
 
