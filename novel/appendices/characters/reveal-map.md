@@ -166,12 +166,15 @@ Full truth-portrait: `taivalu-arc.md`.
 
 ### 0x1 / AUREK
 
+*Consolidated 2026-07-13: "Owen" retired, folded into Aurek — the single active villain. He jailed Tai, is obsessed with Ayumi (Zenith), and personally holds Kess. Must be established as the driving mind before Angel turns (~Ch9), or the opposition goes slack.*
+
 | Stage | Where | Audience believes | Ground truth | Trigger |
 |---|---|---|---|---|
-| 1. Pure system | Prologue, early chapters | Cold, omnipotent, dehumanized | Same, mostly | — |
-| 2. A crack in the mask | Ch5 | Something almost human/wounded under the control ("she made a little monster... so did I") | Confirmed but unexplored | Aurek's outburst |
-| 3. The Salieri wound, dramatized | [OPEN, unplaced] | Currently understood only structurally (a god that can't create) | A scene that makes it *felt*, not just understood | No scene chosen |
-| 4. Complicity in the harvest | [OPEN, unplaced] | Currently: propaganda machine, nothing more | Possibly knows about and permits Taivalu's harvest dynamic on purpose | Would require a POV break from the Baebe-lock, or a late family discovery |
+| 1. Pure system | Prologue, early chapters | Cold, omnipotent, dehumanized | A man (the Salieri remnant) is still legible inside the mask | — |
+| 2. A crack in the mask | Ch5 | Something almost human/wounded under the control ("she made a little monster... so did I"; "Zenith… she's always in the code") | The Ayumi obsession — his active drive | Aurek's outburst |
+| 3. The active hunter | Ch9–16 | He is personally driving the hunt (the dragon raid, taking Kess) — not a distant system | Confirmed; he can't delegate the purge of Ayumi's children because it's personal | His decisions visibly shaping the middle; fills the hole Angel's defection leaves |
+| 4. The Salieri wound, felt | [climax — leaning] | A god that can't create, understood *and felt* | He is in the room when Mozart's children beat him | The Burgess bind closing on him |
+| 5. Complicity in the harvest | [OPEN] | Propaganda machine | Possibly profits personally from Taivalu's harvest — a single villain's cold hypocrisy, not a system's | A late family discovery, or a POV break |
 
 ---
 
