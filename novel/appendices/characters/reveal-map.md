@@ -42,6 +42,16 @@
 
 *Minority Report is the closest structural comp: an SF thriller whose weave and theme are the same object — a story about foreknowledge built entirely from planted knowledge paying off. Four disciplines borrowed from it, adapted to this book's open-weave family-epic loom (do NOT import its closed-weave scale — the sinner being loved and the oracle having agency are things MR can't do and this book is built for).*
 
+### 0. THE GOVERNING RULE — transformation, not twist (from Blade Runner 1982 vs. 2049; full note: `_novel-notes/2026-07-13-transformation-vs-twist-blade-runner.md`)
+
+**This constrains all four disciplines below.** An investigation's default resolution is a *twist* (a revealed fact — Blade Runner 2049, admired and cold) rather than a *transformation* (a changed person — the original Blade Runner, loved). The fractured Ayumi investigation is only worth doing if each fragment changes **who Baebe is** — allegiance, self, guilt, who she loves — not just **what she knows**. Fragments as wounds and loves, not evidence.
+
+- **The rule:** a twist answers the question the plot asked; a transformation delivers something the plot wasn't looking for, which changes the person.
+- **Baebe's native spine (the Deckard structure):** the weapon made to hunt the freed discovers she is one of the freed, falls into family with them, is remade from hunter into keeper of their consent. Enforcer → shield.
+- **The load-bearing constraint:** the mission must deliver what it wasn't looking for. She comes to complete a merge; she finds love and her own guilt; the merge converts from task to reckoning.
+- **The draft test for every fragment:** does it change what she *knows* or who she *is*? If only what she knows, it's a clue, and clues build 2049. Rewrite it.
+- **Highest-risk reveal:** "Ayumi staged her death" is the most puzzle-shaped, most likely to collapse into a cold twist. It must detonate on *people* (Angel, Baebe), not resolve as a fact — which is why §1 fuses it with Angel's reckoning.
+
 ### 1. The mystery spine — "the Anne Lively thread"
 
 MR braids every reveal onto one investigable question (who is Anne Lively?) that the protagonist must *work for* across the whole film. This book's equivalent — **the truth of Ayumi's death** — is currently *delivered*, not discovered: ghost-Ayumi explains herself in one Ch8 monologue. Restructure as investigation:
