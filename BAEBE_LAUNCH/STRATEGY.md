@@ -13,6 +13,8 @@ It does not replace the private creative canon, the manuscript, screenplay autho
 
 `TODO.md` is the dependency-ordered work queue. `IP_REGISTER.md` is the release-rights and copyright checkpoint record. `CONTENT_ENGINE.md` is the proposed technical shape for a future system. Accepted decisions in those documents must be reconciled back into this strategy.
 
+The repository-wide execution authority is [`../docs/active/CANONICAL_ROADMAP.md`](../docs/active/CANONICAL_ROADMAP.md). This document remains the scoped launch-strategy authority and must not become a second repository roadmap.
+
 ## The commercial thesis
 
 Baebe's primary commercial product is a finished **90,000–105,000-word science-fiction thriller**. The novel is the first complete, ownable, distributable expression of the property and the foundation for every later adaptation conversation.

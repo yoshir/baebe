@@ -5,6 +5,8 @@
 
 `BAEBE_LAUNCH` is the source of truth for how Baebe moves from a protected manuscript to a wide-release novel and a durable cross-media audience. It is intentionally separate from the creative canon and from legal advice: the story files remain the source material, while this folder governs launch decisions and the boundary between private canon and public promotion.
 
+Repository execution, slice sequencing, and readiness are governed by [`../docs/active/CANONICAL_ROADMAP.md`](../docs/active/CANONICAL_ROADMAP.md). Within its narrower scope, this folder remains authoritative for publishing, copyright/IP checkpoints, audience growth, distribution, content operations, and bestseller strategy.
+
 ## Start here
 
 1. [`STRATEGY.md`](./STRATEGY.md) — canonical launch strategy, decisions, gates, and current repository findings.
