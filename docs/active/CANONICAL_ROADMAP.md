@@ -1,6 +1,6 @@
 # Baebe Canonical Roadmap
 
-**Status:** Draft active repository authority — local tracking process prepared; remote issue/project configuration awaits explicit authorization
+**Status:** Active repository authority — tracking process established; next execution slice is `BAEBE-CANON-002`
 **Owner:** Ryan
 **Scope:** Repository-wide product, architecture, documentation, execution slices, gates, evidence, and readiness
 **Superseded documents:** None; older plans and handoffs remain reference material until archived with provenance
@@ -21,9 +21,9 @@ Scoped authorities retain non-overlapping ownership:
 
 | Slice | Owner | Status | Dependency | Gate / exit condition |
 |---|---|---|---|---|
-| `BAEBE-TRACK-001` — establish active documentation and project-tracking process | Ryan + Codex | Prepared locally | None | Active authority set, PR template, branch/worktree evidence, and remote-action proposal agree; no remote issue mutation without approval |
+| `BAEBE-TRACK-001` — establish active documentation and project-tracking process | Ryan + Codex | Done | None | Active authority set, PR template, branch/worktree evidence, GitHub labels/fields, and eight issue mappings validated |
 
-The current slice is documentation/process work only. It does not modify product code, move historical creative files, create remote issues, add project fields, add labels, or claim release readiness.
+The completed slice was documentation/process work only. It did not modify product code, move historical creative files, or claim release readiness. It created the approved tracking issues, labels, fields, and project mappings.
 
 ## Dependency-ordered roadmap
 
@@ -78,7 +78,7 @@ Use verified audience and product evidence to support screenplay, anime, live-ac
 
 ## Proposed initial bounded slices
 
-These are proposed issue-sized slices; they are not remote issues yet.
+These are mapped issue-sized slices. Each has a corresponding GitHub issue and Project #2 item; the roadmap remains authoritative.
 
 | Slice ID | Objective | Depends on | Gate |
 |---|---|---|---|
@@ -95,7 +95,7 @@ Each issue must contain the slice ID, objective, authority links, scope, non-goa
 
 ## GitHub Project mapping
 
-The private user-owned project **Baebe Launch #2** is linked to `yoshir/baebe` and currently contains zero items. It is execution visibility only; this roadmap remains authoritative.
+The private user-owned project **Baebe Launch #2** is linked to `yoshir/baebe` and contains eight issue items. It is execution visibility only; this roadmap remains authoritative.
 
 ### Proposed fields
 
@@ -107,15 +107,15 @@ The private user-owned project **Baebe Launch #2** is linked to `yoshir/baebe` a
 - **Gate:** the exact roadmap gate or exit evidence.
 - **Risk:** `Low`, `Medium`, `High`, `Blocker`.
 
-The project currently has only GitHub defaults for `Status` (`Todo`, `In Progress`, `Done`). Adding fields or options requires explicit remote-change approval.
+The project now has the approved `Status` options (`Todo`, `In Progress`, `Review`, `Blocked`, `Done`) plus `Horizon`, `Phase / Workstream`, `Owner`, `Dependency`, `Gate`, and `Risk` fields.
 
 ### Proposed label mapping
 
-Reuse existing labels where they fit: `bug`, `documentation`, and `enhancement`. Add only the missing bounded taxonomy after approval: `slice`, `architecture`, `build`, `device`, `release`, `blocked`, `security`, `visual`, `audio`, and `backend`.
+Reuse existing labels where they fit: `bug`, `documentation`, and `enhancement`. The approved bounded taxonomy is now available: `slice`, `architecture`, `build`, `device`, `release`, `blocked`, `security`, `visual`, `audio`, and `backend`.
 
 Existing generic labels such as `accessibility`, `duplicate`, `good first issue`, `help wanted`, `invalid`, `question`, and `wontfix` remain available but should not replace slice, gate, or risk metadata.
 
-No milestones, issues, PRs, or project items currently exist. Milestone design is deferred until the slice list and launch timing are approved.
+Eight bounded issues and eight project items now exist. No PRs or milestones exist. Milestone design remains deferred until launch timing and release horizons are approved.
 
 ## Branch and worktree findings
 
@@ -163,12 +163,11 @@ No milestones, issues, PRs, or project items currently exist. Milestone design i
 
 ## Current implementation evidence
 
-This documentation slice is local and prepared, not committed or pushed. The existing `BAEBE_LAUNCH` planning folder is already committed and pushed in `1a21ed4`. No product code, historical creative file, secret, remote issue, project field, project item, label, milestone, branch, worktree, PR, or permission was changed by this tracking-process slice.
+The active tracking documents are committed and pushed on `main`. The remote evidence includes private Project #2 linked to `yoshir/baebe`, eight bounded issues (`#1`–`#8`), eight project items, the approved status options, six custom fields, and ten added labels. No product code, historical creative file, secret, branch, worktree, PR, or permission was changed by this tracking-process slice.
 
 ## Remaining risks and next actions
 
-1. Ryan must review and approve the active authority hierarchy and initial slices.
-2. Ryan must explicitly authorize any remote project-field, label, issue, milestone, or project-item changes.
-3. Canon and manuscript sources remain unresolved until the `BAEBE-CANON-002` slice is approved.
-4. Copyright/IP status remains unverified until the `BAEBE-IP-003` checkpoint has evidence.
-5. The Vite-to-Next.js architecture decision remains open.
+1. `BAEBE-CANON-002` is the next execution slice; the manuscript/source authority remains unresolved.
+2. Copyright/IP status remains unverified until the `BAEBE-IP-003` checkpoint has evidence.
+3. The Vite-to-Next.js architecture decision remains open.
+4. Milestones and additional project views remain optional until launch timing and reporting needs justify them.
